@@ -1,0 +1,55 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2018255601172955320/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2018255601172955320/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2018255601172955320/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2018255601172955320",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2018255601172955320",
+    "title": "trader-c on X: \"整理了一下接下来一年做交易的主要市场。\n\n我想像基金经理一样，每个季度写一份投资报告，各位关注我的朋友就是我的客户😂\n\n以推文和视频记录。\n\n短中期：\n\n在utc+8时区，白天关注日经225和看看自选股的股票。\n\n主力：交易美股指数纳斯达克和大宗商品黄金。\n\nBTC，ETH，SOL全部转为短线。\n\n中长：\n\n大宗商品和优质公司股票。\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-02T09:30:07.000Z",
+    "summary": "整理了一下接下来一年做交易的主要市场。\n\n我想像基金经理一样，每个季度写一份投资报告，各位关注我的朋友就是我的客户😂\n\n以推文和视频记录。\n\n短中期：\n\n在utc+8时区，白天关注日经225和看看自选股的股票。\n\n主力：交易美股指数纳斯达克和大宗商品黄金。\n\nBTC，ETH，SOL全部转为短线。\n\n中长：\n\n大宗商品和优质公司股票。",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:55:35.134Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n整理了一下接下来一年做交易的主要市场。 我想像基金经理一样，每个季度写一份投资报告，各位关注我的朋友就是我的客户😂 以推文和视频记录。 短中期： 在utc+8时区，白天关注日经225和看看自选股的股票。 主力：交易美股指数纳斯达克和大宗商品黄金。 BTC，ETH，SOL全部转为短线。 中长： 大宗商品和优质公司股票。\n\n[17:30 · 2026年2月2日](https://x.com/TradercBTC/status/2018255601172955320) [3403Views](https://x.com/TradercBTC/status/2018255601172955320)\n\n[3](https://x.com/i/status/2018255601172955320)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2018255601172955320"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"整理了一下接下来一年做交易的主要市场。\n  \n  我想像基金经理一样，每个季度写一份投资报告，各位关注我的朋友就是我的客户😂\n  \n  以推文和视频记录。\n  \n  短中期：\n  \n  在utc+8时区，白天关注日经225和看看自选股的股票。\n  \n  主力：交易美股指数纳斯达克和大宗商品黄金。\n  \n  BTC，ETH，SOL全部转为短线。\n  \n  中长：\n  \n  大宗商品和优质公司股票。\" / X\nurl: \"https://x.com/TradercBTC/status/2018255601172955320\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2018255601172955320\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2018255601172955320/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-02T09:30:07.000Z\"\nsummary: |-\n  整理了一下接下来一年做交易的主要市场。\n  \n  我想像基金经理一样，每个季度写一份投资报告，各位关注我的朋友就是我的客户😂\n  \n  以推文和视频记录。\n  \n  短中期：\n  \n  在utc+8时区，白天关注日经225和看看自选股的股票。\n  \n  主力：交易美股指数纳斯达克和大宗商品黄金。\n  \n  BTC，ETH，SOL全部转为短线。\n  \n  中长：\n  \n  大宗商品和优质公司股票。\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:55:35.134Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"整理了一下接下来一年做交易的主要市场。\n\n我想像基金经理一样，每个季度写一份投资报告，各位关注我的朋友就是我的客户😂\n\n以推文和视频记录。\n\n短中期：\n\n在utc+8时区，白天关注日经225和看看自选股的股票。\n\n主力：交易美股指数纳斯达克和大宗商品黄金。\n\nBTC，ETH，SOL全部转为短线。\n\n中长：\n\n大宗商品和优质公司股票。\" / X\n\n[![@TradercBTC](2018255601172955320/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n整理了一下接下来一年做交易的主要市场。 我想像基金经理一样，每个季度写一份投资报告，各位关注我的朋友就是我的客户😂 以推文和视频记录。 短中期： 在utc+8时区，白天关注日经225和看看自选股的股票。 主力：交易美股指数纳斯达克和大宗商品黄金。 BTC，ETH，SOL全部转为短线。 中长： 大宗商品和优质公司股票。\n\n[17:30 · 2026年2月2日](https://x.com/TradercBTC/status/2018255601172955320) [3403Views](https://x.com/TradercBTC/status/2018255601172955320)\n\n[3](https://x.com/i/status/2018255601172955320)"
+}

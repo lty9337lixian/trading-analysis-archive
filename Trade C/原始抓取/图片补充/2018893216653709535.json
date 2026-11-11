@@ -1,0 +1,352 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 7,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-02-04T03:43:46.000Z",
+  "display_text_range": [
+    0,
+    120
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/UnSz86bJpk",
+        "expanded_url": "https://x.com/TradercBTC/status/2018893216653709535/photo/1",
+        "indices": [
+          121,
+          144
+        ],
+        "url": "https://t.co/UnSz86bJpk"
+      }
+    ],
+    "symbols": [
+      {
+        "indices": [
+          0,
+          5
+        ],
+        "text": "GOLD"
+      }
+    ]
+  },
+  "id_str": "2018893216653709535",
+  "text": "$GOLD 确实没有跌破，这里的支撑还是非常强的，毕竟是之前真金白银磨出来的顶部\n\n继续突破新高的可能性非常低，至少不是这种W突破，非常扯淡\n\n如果在受阻之后回归底下这个区间盘整，测试真实买盘，真实买盘的力度足够的话继续向上才有可能继续up https://t.co/UnSz86bJpk",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2018893216653709535"
+    ],
+    "editable_until_msecs": "1770180226000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/UnSz86bJpk",
+      "expanded_url": "https://x.com/TradercBTC/status/2018893216653709535/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        121,
+        144
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HASLz1IaUAEoSbM.png",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1711,
+            "w": 3056,
+            "x": 0,
+            "y": 135
+          },
+          {
+            "h": 1846,
+            "w": 1846,
+            "x": 70,
+            "y": 0
+          },
+          {
+            "h": 1846,
+            "w": 1619,
+            "x": 184,
+            "y": 0
+          },
+          {
+            "h": 1846,
+            "w": 923,
+            "x": 532,
+            "y": 0
+          },
+          {
+            "h": 1846,
+            "w": 3056,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1846,
+        "width": 3056
+      },
+      "sizes": {
+        "large": {
+          "h": 1237,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 725,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 411,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/UnSz86bJpk"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1711,
+          "w": 3056,
+          "x": 0,
+          "y": 135
+        },
+        {
+          "h": 1846,
+          "w": 1846,
+          "x": 70,
+          "y": 0
+        },
+        {
+          "h": 1846,
+          "w": 1619,
+          "x": 184,
+          "y": 0
+        },
+        {
+          "h": 1846,
+          "w": 923,
+          "x": 532,
+          "y": 0
+        },
+        {
+          "h": 1846,
+          "w": 3056,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2018893216653709535/photo/1",
+      "url": "https://pbs.twimg.com/media/HASLz1IaUAEoSbM.png",
+      "width": 3056,
+      "height": 1846
+    }
+  ],
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "favorite_count": 12,
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "reply_count": 1,
+    "retweet_count": 1,
+    "created_at": "2026-02-02T16:07:24.000Z",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "entities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/lB2w7ecSSm",
+          "expanded_url": "https://x.com/TradercBTC/status/2018355579639808319/photo/1",
+          "indices": [
+            95,
+            118
+          ],
+          "url": "https://t.co/lB2w7ecSSm"
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [
+            0,
+            5
+          ],
+          "text": "GOLD"
+        }
+      ]
+    },
+    "id_str": "2018355579639808319",
+    "text": "$GOLD 黄金的短线结构走了一波回调\n\n但是15min短暂回调的上升结构被打破了\n\n但是这地下这个位置是上一波上涨的顶点，支撑还是蛮强的\n\n一次性跌破的可能性不大，大概率在这上下震荡一次 https://t.co/lB2w7ecSSm",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2018355579639808319"
+      ],
+      "editable_until_msecs": "1770052044000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "mediaDetails": [
+      {
+        "display_url": "pic.x.com/lB2w7ecSSm",
+        "expanded_url": "https://x.com/TradercBTC/status/2018355579639808319/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "indices": [
+          95,
+          118
+        ],
+        "media_url_https": "https://pbs.twimg.com/media/HAKjGxzakAAQjth.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1832,
+              "w": 3271,
+              "x": 69,
+              "y": 0
+            },
+            {
+              "h": 1832,
+              "w": 1832,
+              "x": 788,
+              "y": 0
+            },
+            {
+              "h": 1832,
+              "w": 1607,
+              "x": 901,
+              "y": 0
+            },
+            {
+              "h": 1832,
+              "w": 916,
+              "x": 1246,
+              "y": 0
+            },
+            {
+              "h": 1832,
+              "w": 3588,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1832,
+          "width": 3588
+        },
+        "sizes": {
+          "large": {
+            "h": 1046,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 613,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 347,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/lB2w7ecSSm"
+      }
+    ],
+    "photos": [
+      {
+        "backgroundColor": {
+          "red": 204,
+          "green": 214,
+          "blue": 221
+        },
+        "cropCandidates": [
+          {
+            "h": 1832,
+            "w": 3271,
+            "x": 69,
+            "y": 0
+          },
+          {
+            "h": 1832,
+            "w": 1832,
+            "x": 788,
+            "y": 0
+          },
+          {
+            "h": 1832,
+            "w": 1607,
+            "x": 901,
+            "y": 0
+          },
+          {
+            "h": 1832,
+            "w": 916,
+            "x": 1246,
+            "y": 0
+          },
+          {
+            "h": 1832,
+            "w": 3588,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "expandedUrl": "https://x.com/TradercBTC/status/2018355579639808319/photo/1",
+        "url": "https://pbs.twimg.com/media/HAKjGxzakAAQjth.jpg",
+        "width": 3588,
+        "height": 1832
+      }
+    ],
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDE4ODkzMjE2NTczOTgwNjcy"
+  }
+}

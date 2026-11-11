@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2028039811626582183 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2028039811626582183.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HCUKo0TaoAAvbeu.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2028039811626582183/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2028039811626582183/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HCUKo0TaoAAvbeu.jpg:large",
+        "localPath": "2028039811626582183/imgs/img-002-HCUKo0TaoAAvbeu-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2028039811626582183/imgs/img-002-HCUKo0TaoAAvbeu-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2028039811626582183/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2028039811626582183",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2028039811626582183",
+    "title": "trader-c on X: \"哥，我这个是我自己筛选关注的板块，不是所有的板块排名\n\n电网设备和油气开采这都是我先加入到自选里，然后再扩充的\n\n也就是说，这个排名只是限于我关注的行业板块，而非全部\n\n我的想法是采取了代表性的行业来代表某一类资产\n\n如果要达到你说的效果，是需要把全行业板块加进去的\n\n而且我发现这是有问题的，A股不能像美股一样，简单的通过ETF来追踪市场资金流向\n\n因为A股的基金和美股基金属性是不同的\n\nA股基金在某些方面有限制，所以最好把A股ETF换为行业指数才能达到对个人有用的效果\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-03-01T09:29:04.000Z",
+    "summary": "哥，我这个是我自己筛选关注的板块，不是所有的板块排名\n\n电网设备和油气开采这都是我先加入到自选里，然后再扩充的\n\n也就是说，这个排名只是限于我关注的行业板块，而非全部\n\n我的想法是采取了代表性的行业来代表某一类资产\n\n如果要达到你说的效果，是需要把全行业板块加进去的\n\n而且我发现这是有问题的，A股不能像美股一样，简单的通过ETF来追踪市场资金流向\n\n因为A股的基金和美股基金属性是不同的\n\nA股基金在某些方面有限制，所以最好把A股ETF换为行业指数才能达到对个人有用的效果",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HCUKo0TaoAAvbeu.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:59:18.718Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t哥，我这个是我自己筛选关注的板块，不是所有的板块排名 电网设备和油气开采这都是我先加入到自选里，然后再扩充的 也就是说，这个排名只是限于我关注的行业板块，而非全部 我的想法是采取了代表性的行业来代表某一类资产 如果要达到你说的效果，是需要把全行业板块加进去的 而且我发现这是有问题的，A股不能像美股一样，简单的通过ETF来追踪市场资金流向 因为A股的基金和美股基金属性是不同的 A股基金在某些方面有限制，所以最好把A股ETF换为行业指数才能达到对个人有用的效果\n\t[17:29 · 2026年3月1日](https://x.com/TradercBTC/status/2028039811626582183) [2536Views](https://x.com/TradercBTC/status/2028039811626582183)\n\t[2](https://x.com/i/status/2028039811626582183)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2028039811626582183"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"哥，我这个是我自己筛选关注的板块，不是所有的板块排名\n  \n  电网设备和油气开采这都是我先加入到自选里，然后再扩充的\n  \n  也就是说，这个排名只是限于我关注的行业板块，而非全部\n  \n  我的想法是采取了代表性的行业来代表某一类资产\n  \n  如果要达到你说的效果，是需要把全行业板块加进去的\n  \n  而且我发现这是有问题的，A股不能像美股一样，简单的通过ETF来追踪市场资金流向\n  \n  因为A股的基金和美股基金属性是不同的\n  \n  A股基金在某些方面有限制，所以最好把A股ETF换为行业指数才能达到对个人有用的效果\" / X\nurl: \"https://x.com/TradercBTC/status/2028039811626582183\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2028039811626582183\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2028039811626582183/imgs/img-002-HCUKo0TaoAAvbeu-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-03-01T09:29:04.000Z\"\nsummary: |-\n  哥，我这个是我自己筛选关注的板块，不是所有的板块排名\n  \n  电网设备和油气开采这都是我先加入到自选里，然后再扩充的\n  \n  也就是说，这个排名只是限于我关注的行业板块，而非全部\n  \n  我的想法是采取了代表性的行业来代表某一类资产\n  \n  如果要达到你说的效果，是需要把全行业板块加进去的\n  \n  而且我发现这是有问题的，A股不能像美股一样，简单的通过ETF来追踪市场资金流向\n  \n  因为A股的基金和美股基金属性是不同的\n  \n  A股基金在某些方面有限制，所以最好把A股ETF换为行业指数才能达到对个人有用的效果\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:59:18.718Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"哥，我这个是我自己筛选关注的板块，不是所有的板块排名\n\n电网设备和油气开采这都是我先加入到自选里，然后再扩充的\n\n也就是说，这个排名只是限于我关注的行业板块，而非全部\n\n我的想法是采取了代表性的行业来代表某一类资产\n\n如果要达到你说的效果，是需要把全行业板块加进去的\n\n而且我发现这是有问题的，A股不能像美股一样，简单的通过ETF来追踪市场资金流向\n\n因为A股的基金和美股基金属性是不同的\n\nA股基金在某些方面有限制，所以最好把A股ETF换为行业指数才能达到对个人有用的效果\" / X\n\n- [![@TradercBTC](2028039811626582183/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t哥，我这个是我自己筛选关注的板块，不是所有的板块排名 电网设备和油气开采这都是我先加入到自选里，然后再扩充的 也就是说，这个排名只是限于我关注的行业板块，而非全部 我的想法是采取了代表性的行业来代表某一类资产 如果要达到你说的效果，是需要把全行业板块加进去的 而且我发现这是有问题的，A股不能像美股一样，简单的通过ETF来追踪市场资金流向 因为A股的基金和美股基金属性是不同的 A股基金在某些方面有限制，所以最好把A股ETF换为行业指数才能达到对个人有用的效果\n\t[17:29 · 2026年3月1日](https://x.com/TradercBTC/status/2028039811626582183) [2536Views](https://x.com/TradercBTC/status/2028039811626582183)\n\t[2](https://x.com/i/status/2028039811626582183)"
+}

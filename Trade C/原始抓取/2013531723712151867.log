@@ -1,0 +1,77 @@
+[info] Reusing Chrome debugger at http://127.0.0.1:57588 for profile /Users/lu/Library/Application Support/baoyu-skills/chrome-profile
+[info] Loading https://x.com/TradercBTC/status/2013531723712151867 with generic adapter
+[info] Downloaded 3 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2013531723712151867.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/G_F_qDqWQAAFS2v.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/G_AWaLZXsAE9WZw?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/G_F_qDqWQAAFS2v.jpg:large",
+        "localPath": "2013531723712151867/imgs/img-001-G_F_qDqWQAAFS2v-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2013531723712151867/imgs/img-001-G_F_qDqWQAAFS2v-jpg-large.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2013531723712151867/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2013531723712151867/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/G_AWaLZXsAE9WZw?format=webp&name=medium",
+        "localPath": "2013531723712151867/imgs/img-003-G_AWaLZXsAE9WZw.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2013531723712151867/imgs/img-003-G_AWaLZXsAE9WZw.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 3,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2013531723712151867/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2013531723712151867",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2013531723712151867",
+    "title": "trader-c on X: \"$BTC 基本按照我们的预期走出了二段下跌 在一个下降趋势中，在蓝色回调时入场总是一个好的选择 新手用 stop order会更舒服，尤其在coin这种高波动性资产上。 如果按照大周期三推来算的话，走完这个抛物线下跌，大概率走个震荡去捕猎流动性\"",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-01-20T08:39:07.000Z",
+    "summary": "$BTC 基本按照我们的预期走出了二段下跌\n\n在一个下降趋势中，在蓝色回调时入场总是一个好的选择\n\n新手用 stop order会更舒服，尤其在coin这种高波动性资产上。\n\n如果按照大周期三推来算的话，走完这个抛物线下跌，大概率走个震荡去捕猎流动性",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/G_F_qDqWQAAFS2v.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:42:51.846Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[$BTC](https://x.com/search?q=$BTC) 基本按照我们的预期走出了二段下跌 在一个下降趋势中，在蓝色回调时入场总是一个好的选择 新手用 stop order会更舒服，尤其在coin这种高波动性资产上。 如果按照大周期三推来算的话，走完这个抛物线下跌，大概率走个震荡去捕猎流动性\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[1月19日](https://x.com/TradercBTC/status/2013134744326996048)\n\n[$BTC](https://x.com/search?q=$BTC) 等待等待 如果打开4h会发现刚好落在ema200的地方 希望看到回测这一段下跌的50% （这种非常巨大的k线不具备持续性，加上还在ema200上方，可能会有人去做剥头皮的交易，这回推动价格上涨）\n\n[![](https://pbs.twimg.com/media/G_AWaLZXsAE9WZw?format=webp&name=medium)](https://x.com/TradercBTC/status/2013134744326996048/photo/1)\n\n[16:39 · 2026年1月20日](https://x.com/TradercBTC/status/2013531723712151867)[5125Views](https://x.com/TradercBTC/status/2013531723712151867)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2013531723712151867"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"$BTC 基本按照我们的预期走出了二段下跌 在一个下降趋势中，在蓝色回调时入场总是一个好的选择 新手用 stop order会更舒服，尤其在coin这种高波动性资产上。 如果按照大周期三推来算的话，走完这个抛物线下跌，大概率走个震荡去捕猎流动性\\\"\"\nurl: \"https://x.com/TradercBTC/status/2013531723712151867\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2013531723712151867\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2013531723712151867/imgs/img-001-G_F_qDqWQAAFS2v-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-01-20T08:39:07.000Z\"\nsummary: |-\n  $BTC 基本按照我们的预期走出了二段下跌\n  \n  在一个下降趋势中，在蓝色回调时入场总是一个好的选择\n  \n  新手用 stop order会更舒服，尤其在coin这种高波动性资产上。\n  \n  如果按照大周期三推来算的话，走完这个抛物线下跌，大概率走个震荡去捕猎流动性\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:42:51.846Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"$BTC 基本按照我们的预期走出了二段下跌 在一个下降趋势中，在蓝色回调时入场总是一个好的选择 新手用 stop order会更舒服，尤其在coin这种高波动性资产上。 如果按照大周期三推来算的话，走完这个抛物线下跌，大概率走个震荡去捕猎流动性\"\n\n[![@TradercBTC](2013531723712151867/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[$BTC](https://x.com/search?q=$BTC) 基本按照我们的预期走出了二段下跌 在一个下降趋势中，在蓝色回调时入场总是一个好的选择 新手用 stop order会更舒服，尤其在coin这种高波动性资产上。 如果按照大周期三推来算的话，走完这个抛物线下跌，大概率走个震荡去捕猎流动性\n\n[![@TradercBTC](2013531723712151867/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[1月19日](https://x.com/TradercBTC/status/2013134744326996048)\n\n[$BTC](https://x.com/search?q=$BTC) 等待等待 如果打开4h会发现刚好落在ema200的地方 希望看到回测这一段下跌的50% （这种非常巨大的k线不具备持续性，加上还在ema200上方，可能会有人去做剥头皮的交易，这回推动价格上涨）\n\n[![](2013531723712151867/imgs/img-003-G_AWaLZXsAE9WZw.webp)](https://x.com/TradercBTC/status/2013134744326996048/photo/1)\n\n[16:39 · 2026年1月20日](https://x.com/TradercBTC/status/2013531723712151867)[5125Views](https://x.com/TradercBTC/status/2013531723712151867)"
+}

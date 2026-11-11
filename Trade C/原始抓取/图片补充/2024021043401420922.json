@@ -1,0 +1,82 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 79,
+  "lang": "zh",
+  "created_at": "2026-02-18T07:19:55.000Z",
+  "display_text_range": [
+    0,
+    159
+  ],
+  "entities": {},
+  "id_str": "2024021043401420922",
+  "text": "蒙特卡洛模拟是个很有意思的东西，我要研究一段时间\n\n第一步：找历史数据\n\"过去3年，我的信号出现了100次\"\n→ 记录每一次的实际结果\n→ 不是假设有6% edge，而是算出来：平均5.8%\n\n第二步：看分布\n\"但这100次结果差异很大\"\n→ 最好的时候赚20%\n→ 最差的时候亏15%\n→ 标准差很大 → 不确定性高",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2024021043401420922"
+    ],
+    "editable_until_msecs": "1771402795000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 1,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "favorite_count": 151,
+    "lang": "zh",
+    "reply_count": 2,
+    "retweet_count": 29,
+    "created_at": "2026-02-18T07:14:45.000Z",
+    "display_text_range": [
+      0,
+      154
+    ],
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1970191005510180866",
+          "indices": [
+            3,
+            14
+          ],
+          "name": "Roan",
+          "screen_name": "RohOnChain"
+        }
+      ]
+    },
+    "id_str": "2024019740709236898",
+    "text": "刚读了@RohOnChain 的这篇内容，关于对冲基金如何使用预测市场数据的完整拆解，400万+交易数据。\n\n我读完理解的核心是：机构的edge不在于预测，而是他们的结构韧性。\n\n他的文章核心我认为讲了三个部分\n\n1. 《实证Kelly 和 教科书Kelly》\n\n散户一般算出6% edge 会运用20%仓位",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2024019740709236898"
+      ],
+      "editable_until_msecs": "1771402485000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDI0MDIxMDQzMzM4NTA2MjQy"
+  }
+}

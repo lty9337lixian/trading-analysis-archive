@@ -1,0 +1,208 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 4,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-08-24T05:31:49.000Z",
+  "display_text_range": [
+    0,
+    105
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/tL4HtPcvSL",
+        "expanded_url": "https://x.com/TradercBTC/status/2091760369639535047/photo/1",
+        "indices": [
+          106,
+          129
+        ],
+        "url": "https://t.co/tL4HtPcvSL"
+      }
+    ]
+  },
+  "id_str": "2091760369639535047",
+  "text": "看了一下，很多的币种现在的情况都是在调整\n\n以ADA举例，短期面临着回调，但是在4小时级别上，它底下有一个明确的一个支撑位，大多数品种都是这样，短期它应该是要向下测试的，也就是它极有可能去向下产生一个跌破的事件 https://t.co/tL4HtPcvSL",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2091760369639535047"
+    ],
+    "editable_until_msecs": "1787553109000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/tL4HtPcvSL",
+      "expanded_url": "https://x.com/TradercBTC/status/2091760369639535047/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        106,
+        129
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HQdsxFmbgAEv8_E.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1147,
+            "w": 2048,
+            "x": 0,
+            "y": 92
+          },
+          {
+            "h": 1283,
+            "w": 1283,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1283,
+            "w": 1125,
+            "x": 1,
+            "y": 0
+          },
+          {
+            "h": 1283,
+            "w": 642,
+            "x": 242,
+            "y": 0
+          },
+          {
+            "h": 1283,
+            "w": 2048,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1283,
+        "width": 2048
+      },
+      "sizes": {
+        "large": {
+          "h": 1283,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 752,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 426,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/tL4HtPcvSL"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1147,
+          "w": 2048,
+          "x": 0,
+          "y": 92
+        },
+        {
+          "h": 1283,
+          "w": 1283,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1283,
+          "w": 1125,
+          "x": 1,
+          "y": 0
+        },
+        {
+          "h": 1283,
+          "w": 642,
+          "x": 242,
+          "y": 0
+        },
+        {
+          "h": 1283,
+          "w": 2048,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2091760369639535047/photo/1",
+      "url": "https://pbs.twimg.com/media/HQdsxFmbgAEv8_E.jpg",
+      "width": 2048,
+      "height": 1283
+    }
+  ],
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "conversation_control": {
+      "policy": "Verified"
+    },
+    "favorite_count": 13,
+    "lang": "zh",
+    "reply_count": 0,
+    "retweet_count": 1,
+    "created_at": "2026-08-24T04:06:55.000Z",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "entities": {},
+    "id_str": "2091739002064044286",
+    "text": "实际上对我们现在来说，回调其实就是买入的机会\n\n目前在大级别的情况没有走坏的情况下，\n\n回调就是给我们机会，我们可以去寻找相对抗跌并且结构比较好的一些币种，在回调的时候，可以在我们满意的位置去买入",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2091739002064044286"
+      ],
+      "editable_until_msecs": "1787548015000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDkxNzYwMzY5NTY4MzA1MTUy"
+  }
+}

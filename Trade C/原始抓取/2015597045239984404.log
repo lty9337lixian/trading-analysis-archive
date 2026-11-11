@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2015597045239984404 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2015597045239984404.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/G_jWi1_aQAABHAn.png:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2015597045239984404/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2015597045239984404/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/G_jWi1_aQAABHAn.png:large",
+        "localPath": "2015597045239984404/imgs/img-002-G_jWi1_aQAABHAn-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2015597045239984404/imgs/img-002-G_jWi1_aQAABHAn-png-large.png",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2015597045239984404/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2015597045239984404",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2015597045239984404",
+    "title": "trader-c on X: \"$BTC 空单防守离场，已做多，莫辜负\n\n假突破的概率高达90%，做好防守，期待回报\n\n（罕见的起这么早，哇咔咔咔咔咔）\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-01-26T01:25:58.000Z",
+    "summary": "$BTC 空单防守离场，已做多，莫辜负\n\n假突破的概率高达90%，做好防守，期待回报\n\n（罕见的起这么早，哇咔咔咔咔咔）",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/G_jWi1_aQAABHAn.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:55:03.247Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[$BTC](https://x.com/search?q=$BTC) 空单防守离场，已做多，莫辜负 假突破的概率高达90%，做好防守，期待回报 （罕见的起这么早，哇咔咔咔咔咔）\n\n[9:25 · 2026年1月26日](https://x.com/TradercBTC/status/2015597045239984404) [9849Views](https://x.com/TradercBTC/status/2015597045239984404)\n\n[4](https://x.com/i/status/2015597045239984404)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2015597045239984404"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"$BTC 空单防守离场，已做多，莫辜负\n  \n  假突破的概率高达90%，做好防守，期待回报\n  \n  （罕见的起这么早，哇咔咔咔咔咔）\" / X\nurl: \"https://x.com/TradercBTC/status/2015597045239984404\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2015597045239984404\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2015597045239984404/imgs/img-002-G_jWi1_aQAABHAn-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-01-26T01:25:58.000Z\"\nsummary: |-\n  $BTC 空单防守离场，已做多，莫辜负\n  \n  假突破的概率高达90%，做好防守，期待回报\n  \n  （罕见的起这么早，哇咔咔咔咔咔）\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:55:03.247Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"$BTC 空单防守离场，已做多，莫辜负\n\n假突破的概率高达90%，做好防守，期待回报\n\n（罕见的起这么早，哇咔咔咔咔咔）\" / X\n\n[![@TradercBTC](2015597045239984404/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[$BTC](https://x.com/search?q=$BTC) 空单防守离场，已做多，莫辜负 假突破的概率高达90%，做好防守，期待回报 （罕见的起这么早，哇咔咔咔咔咔）\n\n[9:25 · 2026年1月26日](https://x.com/TradercBTC/status/2015597045239984404) [9849Views](https://x.com/TradercBTC/status/2015597045239984404)\n\n[4](https://x.com/i/status/2015597045239984404)"
+}

@@ -1,0 +1,97 @@
+[info] Loading https://x.com/TradercBTC/status/2017199221339017354 with generic adapter
+[info] Downloaded 5 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2017199221339017354.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/2086485990143852544/kNW1fa8D_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1857705666015801345/QV9_5wAU_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/2054098649857294336/Hu2JvfLU_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/G_6HfamasAAJz8Q.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2017199221339017354/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2017199221339017354/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/2086485990143852544/kNW1fa8D_400x400.jpg",
+        "localPath": "2017199221339017354/imgs/img-002-kNW1fa8D_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2017199221339017354/imgs/img-002-kNW1fa8D_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1857705666015801345/QV9_5wAU_400x400.jpg",
+        "localPath": "2017199221339017354/imgs/img-003-QV9_5wAU_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2017199221339017354/imgs/img-003-QV9_5wAU_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/2054098649857294336/Hu2JvfLU_400x400.jpg",
+        "localPath": "2017199221339017354/imgs/img-004-Hu2JvfLU_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2017199221339017354/imgs/img-004-Hu2JvfLU_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/G_6HfamasAAJz8Q.jpg:large",
+        "localPath": "2017199221339017354/imgs/img-005-G_6HfamasAAJz8Q-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2017199221339017354/imgs/img-005-G_6HfamasAAJz8Q-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 5,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2017199221339017354/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2017199221339017354",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2017199221339017354",
+    "title": "trader-c on X: \"这种从D到4H到1H级别多重共振的S级别机会\n\n你都不做，不如卸载了你那些自动扣钱的软件\n\n此时不上仓位，等着1100上仓位吗？\n\n$ETH\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-01-30T11:32:26.000Z",
+    "summary": "这种从D到4H到1H级别多重共振的S级别机会\n\n你都不做，不如卸载了你那些自动扣钱的软件\n\n此时不上仓位，等着1100上仓位吗？\n\n$ETH",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/G_6HfamasAAJz8Q.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:55:27.695Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "## trader-c on X: \"这种从D到4H到1H级别多重共振的S级别机会 你都不做，不如卸载了你那些自动扣钱的软件 此时不上仓位，等着1100上仓位吗？ $ETH\"\n\n- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t[@TradercBTC](https://x.com/TradercBTC)\n\t这种从D到4H到1H级别多重共振的S级别机会 你都不做，不如卸载了你那些自动扣钱的软件 此时不上仓位，等着1100上仓位吗？ [$ETH](https://x.com/search?q=$ETH)\n\t[19:32 · 2026年1月30日](https://x.com/TradercBTC/status/2017199221339017354) [4.7万Views](https://x.com/TradercBTC/status/2017199221339017354)\n\t[7](https://x.com/i/status/2017199221339017354)\n- [![@xiaofeng01](https://pbs.twimg.com/profile_images/2086485990143852544/kNW1fa8D_400x400.jpg)](https://x.com/xiaofeng01)\n\t[枫哥说AI](https://x.com/xiaofeng01)\n\t[@xiaofeng01](https://x.com/xiaofeng01)\n\t[1月30日](https://x.com/xiaofeng01/status/2017210152236294603)\n\t啥意思，多还是空0.0 止跌了，看不懂，这俩线是什么指标\n\t[1](https://x.com/i/status/2017210152236294603)\n- [![@habao12288](https://pbs.twimg.com/profile_images/1857705666015801345/QV9_5wAU_400x400.jpg)](https://x.com/habao12288)\n\t[妹猪](https://x.com/habao12288)\n\t[@habao12288](https://x.com/habao12288)\n\t[1月30日](https://x.com/habao12288/status/2017205792471236800)\n\t什么共振？能说明白些吗？谢谢你哦\n- [![@OLD865328453221](https://pbs.twimg.com/profile_images/2054098649857294336/Hu2JvfLU_400x400.jpg)](https://x.com/OLD865328453221)\n\t[托马头Reflex](https://x.com/OLD865328453221)\n\t[@OLD865328453221](https://x.com/OLD865328453221)\n\t[1月31日](https://x.com/OLD865328453221/status/2017717128863023382)\n\t哥，你均线是看什么数值的呀，ema25和50吗\n\t[1](https://x.com/i/status/2017717128863023382)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2017199221339017354"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"这种从D到4H到1H级别多重共振的S级别机会\n  \n  你都不做，不如卸载了你那些自动扣钱的软件\n  \n  此时不上仓位，等着1100上仓位吗？\n  \n  $ETH\" / X\nurl: \"https://x.com/TradercBTC/status/2017199221339017354\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2017199221339017354\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2017199221339017354/imgs/img-005-G_6HfamasAAJz8Q-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-01-30T11:32:26.000Z\"\nsummary: |-\n  这种从D到4H到1H级别多重共振的S级别机会\n  \n  你都不做，不如卸载了你那些自动扣钱的软件\n  \n  此时不上仓位，等着1100上仓位吗？\n  \n  $ETH\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:55:27.695Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"这种从D到4H到1H级别多重共振的S级别机会\n\n你都不做，不如卸载了你那些自动扣钱的软件\n\n此时不上仓位，等着1100上仓位吗？\n\n$ETH\" / X\n\n## trader-c on X: \"这种从D到4H到1H级别多重共振的S级别机会 你都不做，不如卸载了你那些自动扣钱的软件 此时不上仓位，等着1100上仓位吗？ $ETH\"\n\n- [![@TradercBTC](2017199221339017354/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t[@TradercBTC](https://x.com/TradercBTC)\n\t这种从D到4H到1H级别多重共振的S级别机会 你都不做，不如卸载了你那些自动扣钱的软件 此时不上仓位，等着1100上仓位吗？ [$ETH](https://x.com/search?q=$ETH)\n\t[19:32 · 2026年1月30日](https://x.com/TradercBTC/status/2017199221339017354) [4.7万Views](https://x.com/TradercBTC/status/2017199221339017354)\n\t[7](https://x.com/i/status/2017199221339017354)\n- [![@xiaofeng01](2017199221339017354/imgs/img-002-kNW1fa8D_400x400.jpg)](https://x.com/xiaofeng01)\n\t[枫哥说AI](https://x.com/xiaofeng01)\n\t[@xiaofeng01](https://x.com/xiaofeng01)\n\t[1月30日](https://x.com/xiaofeng01/status/2017210152236294603)\n\t啥意思，多还是空0.0 止跌了，看不懂，这俩线是什么指标\n\t[1](https://x.com/i/status/2017210152236294603)\n- [![@habao12288](2017199221339017354/imgs/img-003-QV9_5wAU_400x400.jpg)](https://x.com/habao12288)\n\t[妹猪](https://x.com/habao12288)\n\t[@habao12288](https://x.com/habao12288)\n\t[1月30日](https://x.com/habao12288/status/2017205792471236800)\n\t什么共振？能说明白些吗？谢谢你哦\n- [![@OLD865328453221](2017199221339017354/imgs/img-004-Hu2JvfLU_400x400.jpg)](https://x.com/OLD865328453221)\n\t[托马头Reflex](https://x.com/OLD865328453221)\n\t[@OLD865328453221](https://x.com/OLD865328453221)\n\t[1月31日](https://x.com/OLD865328453221/status/2017717128863023382)\n\t哥，你均线是看什么数值的呀，ema25和50吗\n\t[1](https://x.com/i/status/2017717128863023382)"
+}

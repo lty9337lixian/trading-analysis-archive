@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2043335272180641830 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2043335272180641830.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HFth5MaasAAW-8X.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2043335272180641830/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2043335272180641830/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HFth5MaasAAW-8X.jpg:large",
+        "localPath": "2043335272180641830/imgs/img-002-HFth5MaasAAW-8X-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2043335272180641830/imgs/img-002-HFth5MaasAAW-8X-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2043335272180641830/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2043335272180641830",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2043335272180641830",
+    "title": "trader-c on X: \"比起第一版总结，现在的版本明显好很多\n\n记录订阅频道每天和每周的思考\n\n在按照时间线复盘的时候，每个标的最后都有一个这段时间的主线\n\n非常清晰明了，也方便对照，看自己出了什么问题\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-04-12T14:27:46.000Z",
+    "summary": "比起第一版总结，现在的版本明显好很多\n\n记录订阅频道每天和每周的思考\n\n在按照时间线复盘的时候，每个标的最后都有一个这段时间的主线\n\n非常清晰明了，也方便对照，看自己出了什么问题",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HFth5MaasAAW-8X.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:52:40.740Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n比起第一版总结，现在的版本明显好很多 记录订阅频道每天和每周的思考 在按照时间线复盘的时候，每个标的最后都有一个这段时间的主线 非常清晰明了，也方便对照，看自己出了什么问题\n\n[22:27 · 2026年4月12日](https://x.com/TradercBTC/status/2043335272180641830) [1159Views](https://x.com/TradercBTC/status/2043335272180641830)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2043335272180641830"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"比起第一版总结，现在的版本明显好很多\n  \n  记录订阅频道每天和每周的思考\n  \n  在按照时间线复盘的时候，每个标的最后都有一个这段时间的主线\n  \n  非常清晰明了，也方便对照，看自己出了什么问题\" / X\nurl: \"https://x.com/TradercBTC/status/2043335272180641830\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2043335272180641830\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2043335272180641830/imgs/img-002-HFth5MaasAAW-8X-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-04-12T14:27:46.000Z\"\nsummary: |-\n  比起第一版总结，现在的版本明显好很多\n  \n  记录订阅频道每天和每周的思考\n  \n  在按照时间线复盘的时候，每个标的最后都有一个这段时间的主线\n  \n  非常清晰明了，也方便对照，看自己出了什么问题\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:52:40.740Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"比起第一版总结，现在的版本明显好很多\n\n记录订阅频道每天和每周的思考\n\n在按照时间线复盘的时候，每个标的最后都有一个这段时间的主线\n\n非常清晰明了，也方便对照，看自己出了什么问题\" / X\n\n[![@TradercBTC](2043335272180641830/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n比起第一版总结，现在的版本明显好很多 记录订阅频道每天和每周的思考 在按照时间线复盘的时候，每个标的最后都有一个这段时间的主线 非常清晰明了，也方便对照，看自己出了什么问题\n\n[22:27 · 2026年4月12日](https://x.com/TradercBTC/status/2043335272180641830) [1159Views](https://x.com/TradercBTC/status/2043335272180641830)"
+}

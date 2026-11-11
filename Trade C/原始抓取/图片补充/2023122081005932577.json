@@ -1,0 +1,70 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 372,
+  "lang": "zh",
+  "created_at": "2026-02-15T19:47:46.000Z",
+  "display_text_range": [
+    0,
+    135
+  ],
+  "entities": {},
+  "id_str": "2023122081005932577",
+  "text": "很棒的策略，很优质的博主\n\n我认为每一个优秀的交易员都要学习这种相对强弱关系思维\n\n同理你可以用作在a股里\n\n以下是个人对内容的简要整理：\n\n1️⃣核心概念：\n板块轮动优先：不是先看个股形态，而是先看哪个板块在吸纳资金\n\n11个板块ETF：使用SPDR板块ETF作为工具",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2023122081005932577"
+    ],
+    "editable_until_msecs": "1771188466000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 6,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "favorite_count": 657,
+    "lang": "en",
+    "reply_count": 30,
+    "retweet_count": 94,
+    "created_at": "2026-02-15T19:28:43.000Z",
+    "display_text_range": [
+      0,
+      280
+    ],
+    "entities": {},
+    "id_str": "2023117284999409847",
+    "text": "I used to pick perfect chart patterns in dying sectors and wonder why they never moved, until I learned to follow the money first.\n\nI used to pick stocks in a vacuum. I'd find a beautiful chart pattern, enter with confidence, and watch it go nowhere while stocks in another sector",
+    "user": {
+      "id_str": "1262999631002304513",
+      "name": "iain",
+      "screen_name": "ohiain",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2002946753281040385/_lrNrZ_a_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2023117284999409847"
+      ],
+      "editable_until_msecs": "1771187323000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDIzMTIyMDgwOTQ3MTc5NTIw"
+  }
+}

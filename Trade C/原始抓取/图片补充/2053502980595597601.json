@@ -1,0 +1,97 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 5,
+  "in_reply_to_screen_name": "Preboss01",
+  "in_reply_to_status_id_str": "2053501611696365791",
+  "in_reply_to_user_id_str": "1771515115969617920",
+  "lang": "zh",
+  "created_at": "2026-05-10T15:50:37.000Z",
+  "display_text_range": [
+    11,
+    148
+  ],
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1771515115969617920",
+        "indices": [
+          0,
+          10
+        ],
+        "name": "Preboss",
+        "screen_name": "Preboss01"
+      }
+    ]
+  },
+  "id_str": "2053502980595597601",
+  "text": "@Preboss01 这不是抓。。。\n\n其次识别也是有问题的\n\n当入场的时候，前面的k重叠k一定是非常少的，其次就是信号k是表现最好的\n\n入场不可能次次都是顶级，但是相对顶级足够了\n\n入场之后价格很快从有利于赚钱方向移动等等\n\n具体描述有很多，但是太麻烦，所以总结就是经验，你做到的时候自然理解了",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2053502980595597601"
+    ],
+    "editable_until_msecs": "1778431837000",
+    "edits_remaining": "5",
+    "is_edit_eligible": false
+  },
+  "conversation_count": 2,
+  "news_action_type": "conversation",
+  "parent": {
+    "favorite_count": 0,
+    "lang": "zh",
+    "reply_count": 1,
+    "retweet_count": 0,
+    "created_at": "2026-05-10T15:45:11.000Z",
+    "display_text_range": [
+      12,
+      42
+    ],
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1921065617479921670",
+          "indices": [
+            0,
+            11
+          ],
+          "name": "trader-c",
+          "screen_name": "TradercBTC"
+        }
+      ]
+    },
+    "id_str": "2053501611696365791",
+    "text": "@TradercBTC 但是这个怎么抓 一开始识别不出来是哪个等级的吧 走出来才知道",
+    "user": {
+      "id_str": "1771515115969617920",
+      "name": "Preboss",
+      "screen_name": "Preboss01",
+      "is_blue_verified": false,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1864974496249393152/cL1c6qJN_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2053501611696365791"
+      ],
+      "editable_until_msecs": "1778431511000",
+      "edits_remaining": "5",
+      "is_edit_eligible": false
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDUzNTAyOTgwNTU3ODE5OTA0"
+  }
+}

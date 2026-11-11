@@ -1,0 +1,59 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "login": {
+    "provider": "x",
+    "state": "unknown"
+  },
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2074020953500307587/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2074020953500307587/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2074020953500307587/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2074020953500307587",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2074020953500307587",
+    "title": "trader-c on X: \"学习金融理论可以提高理解市场的能力，但它不是交易盈利的充分条件。\n\n交易盈利需要的是一套能在市场中产生正期望、控制风险、稳定执行、持续复盘的交易系统。\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-07-06T06:41:43.000Z",
+    "summary": "学习金融理论可以提高理解市场的能力，但它不是交易盈利的充分条件。\n\n交易盈利需要的是一套能在市场中产生正期望、控制风险、稳定执行、持续复盘的交易系统。",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:50:00.945Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n学习金融理论可以提高理解市场的能力，但它不是交易盈利的充分条件。 交易盈利需要的是一套能在市场中产生正期望、控制风险、稳定执行、持续复盘的交易系统。\n\n[14:41 · 2026年7月6日](https://x.com/TradercBTC/status/2074020953500307587) [3508Views](https://x.com/TradercBTC/status/2074020953500307587)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2074020953500307587"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"学习金融理论可以提高理解市场的能力，但它不是交易盈利的充分条件。\n  \n  交易盈利需要的是一套能在市场中产生正期望、控制风险、稳定执行、持续复盘的交易系统。\" / X\nurl: \"https://x.com/TradercBTC/status/2074020953500307587\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2074020953500307587\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2074020953500307587/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-07-06T06:41:43.000Z\"\nsummary: |-\n  学习金融理论可以提高理解市场的能力，但它不是交易盈利的充分条件。\n  \n  交易盈利需要的是一套能在市场中产生正期望、控制风险、稳定执行、持续复盘的交易系统。\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:50:00.945Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"学习金融理论可以提高理解市场的能力，但它不是交易盈利的充分条件。\n\n交易盈利需要的是一套能在市场中产生正期望、控制风险、稳定执行、持续复盘的交易系统。\" / X\n\n[![@TradercBTC](2074020953500307587/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n学习金融理论可以提高理解市场的能力，但它不是交易盈利的充分条件。 交易盈利需要的是一套能在市场中产生正期望、控制风险、稳定执行、持续复盘的交易系统。\n\n[14:41 · 2026年7月6日](https://x.com/TradercBTC/status/2074020953500307587) [3508Views](https://x.com/TradercBTC/status/2074020953500307587)\n\nOnly some accounts can reply."
+}

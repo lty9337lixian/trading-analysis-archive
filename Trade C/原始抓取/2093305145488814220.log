@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2093305145488814220 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2093305145488814220.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HQznLDcaYAAHHNB.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2093305145488814220/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2093305145488814220/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HQznLDcaYAAHHNB.jpg:large",
+        "localPath": "2093305145488814220/imgs/img-002-HQznLDcaYAAHHNB-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2093305145488814220/imgs/img-002-HQznLDcaYAAHHNB-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2093305145488814220/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2093305145488814220",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2093305145488814220",
+    "title": "trader-c on X: \"我们看 BTC 的 6 小时图，现在很明确，市场冲 81500，被打回来了，突破直接被拒绝。\n\n先回顾前面的结构，之前行情是突破过 78000 的，而且多次测试之后，价格没有再跌回去，说明市场是接受 78000 这个价位的。\n\n重点就看这波向下测试的力度如何。那现在 81500 这边突破失败，后市很大概率会往下走一轮回测。\n\n如果回测之后，价格依旧稳在 78000 以上，那就是图里的绿色预期，代表市场的需求还是很强，后面再度向上突破的机会就变大。\n\n这种情况，我们才可以试着进场，去博弈突破。\n\n但要是直接把 78000 给跌穿了，那就不一样了。\n\n等于市场拒绝… / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-28T11:50:13.000Z",
+    "summary": "我们看 BTC 的 6 小时图，现在很明确，市场冲 81500，被打回来了，突破直接被拒绝。\n\n先回顾前面的结构，之前行情是突破过 78000 的，而且多次测试之后，价格没有再跌回去，说明市场是接受 78000 这个价位的。\n\n重点就看这波向下测试的力度如何。那现在 81500 这边突破失败，后市很大概率会往下走一轮回测。\n\n如果回测之后，价格依旧稳在 78000 以上，那就是图里的绿色预期，代表市场的需求还是很强，后面再度向上突破的机会就变大。\n\n这种情况，我们才可以试着进场，去博弈突破。\n\n但要是直接把 78000 给跌穿了，那就不一样了。\n\n等于市场拒绝上方阻力之后，进一步抛弃了这个支…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HQznLDcaYAAHHNB.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:06:36.118Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t我们看 BTC 的 6 小时图，现在很明确，市场冲 81500，被打回来了，突破直接被拒绝。 先回顾前面的结构，之前行情是突破过 78000 的，而且多次测试之后，价格没有再跌回去，说明市场是接受 78000 这个价位的。 重点就看这波向下测试的力度如何。那现在 81500 这边突破失败，后市很大概率会往下走一轮回测。 如果回测之后，价格依旧稳在 78000 以上，那就是图里的绿色预期，代表市场的需求还是很强，后面再度向上突破的机会就变大。 这种情况，我们才可以试着进场，去博弈突破。 但要是直接把 78000 给跌穿了，那就不一样了。 等于市场拒绝上方阻力之后，进一步抛弃了这个支撑，会开启新一轮回调，不确定性就变多。 因此只有走出绿色这个情况，这里才值得做。 其他情况，进场位置不好，盈亏比也不行，就不要去交易\n\t[19:50 · 2026年8月28日](https://x.com/TradercBTC/status/2093305145488814220) [1.1万Views](https://x.com/TradercBTC/status/2093305145488814220)\n\tOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2093305145488814220"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"我们看 BTC 的 6 小时图，现在很明确，市场冲 81500，被打回来了，突破直接被拒绝。\n  \n  先回顾前面的结构，之前行情是突破过 78000 的，而且多次测试之后，价格没有再跌回去，说明市场是接受 78000 这个价位的。\n  \n  重点就看这波向下测试的力度如何。那现在 81500 这边突破失败，后市很大概率会往下走一轮回测。\n  \n  如果回测之后，价格依旧稳在 78000 以上，那就是图里的绿色预期，代表市场的需求还是很强，后面再度向上突破的机会就变大。\n  \n  这种情况，我们才可以试着进场，去博弈突破。\n  \n  但要是直接把 78000 给跌穿了，那就不一样了。\n  \n  等于市场拒绝… / X\nurl: \"https://x.com/TradercBTC/status/2093305145488814220\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2093305145488814220\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2093305145488814220/imgs/img-002-HQznLDcaYAAHHNB-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-28T11:50:13.000Z\"\nsummary: |-\n  我们看 BTC 的 6 小时图，现在很明确，市场冲 81500，被打回来了，突破直接被拒绝。\n  \n  先回顾前面的结构，之前行情是突破过 78000 的，而且多次测试之后，价格没有再跌回去，说明市场是接受 78000 这个价位的。\n  \n  重点就看这波向下测试的力度如何。那现在 81500 这边突破失败，后市很大概率会往下走一轮回测。\n  \n  如果回测之后，价格依旧稳在 78000 以上，那就是图里的绿色预期，代表市场的需求还是很强，后面再度向上突破的机会就变大。\n  \n  这种情况，我们才可以试着进场，去博弈突破。\n  \n  但要是直接把 78000 给跌穿了，那就不一样了。\n  \n  等于市场拒绝上方阻力之后，进一步抛弃了这个支…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:06:36.118Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"我们看 BTC 的 6 小时图，现在很明确，市场冲 81500，被打回来了，突破直接被拒绝。\n\n先回顾前面的结构，之前行情是突破过 78000 的，而且多次测试之后，价格没有再跌回去，说明市场是接受 78000 这个价位的。\n\n重点就看这波向下测试的力度如何。那现在 81500 这边突破失败，后市很大概率会往下走一轮回测。\n\n如果回测之后，价格依旧稳在 78000 以上，那就是图里的绿色预期，代表市场的需求还是很强，后面再度向上突破的机会就变大。\n\n这种情况，我们才可以试着进场，去博弈突破。\n\n但要是直接把 78000 给跌穿了，那就不一样了。\n\n等于市场拒绝… / X\n\n- [![@TradercBTC](2093305145488814220/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t我们看 BTC 的 6 小时图，现在很明确，市场冲 81500，被打回来了，突破直接被拒绝。 先回顾前面的结构，之前行情是突破过 78000 的，而且多次测试之后，价格没有再跌回去，说明市场是接受 78000 这个价位的。 重点就看这波向下测试的力度如何。那现在 81500 这边突破失败，后市很大概率会往下走一轮回测。 如果回测之后，价格依旧稳在 78000 以上，那就是图里的绿色预期，代表市场的需求还是很强，后面再度向上突破的机会就变大。 这种情况，我们才可以试着进场，去博弈突破。 但要是直接把 78000 给跌穿了，那就不一样了。 等于市场拒绝上方阻力之后，进一步抛弃了这个支撑，会开启新一轮回调，不确定性就变多。 因此只有走出绿色这个情况，这里才值得做。 其他情况，进场位置不好，盈亏比也不行，就不要去交易\n\t[19:50 · 2026年8月28日](https://x.com/TradercBTC/status/2093305145488814220) [1.1万Views](https://x.com/TradercBTC/status/2093305145488814220)\n\tOnly some accounts can reply."
+}

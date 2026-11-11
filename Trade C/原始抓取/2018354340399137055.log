@@ -1,0 +1,70 @@
+[info] Loading https://x.com/TradercBTC/status/2018354340399137055 with generic adapter
+[warn] Skipping media (412): https://www.bilibili.com/video/BV1aeFPz1Euk/?share_source=copy_web&vd_source=75712bbfa63d92ade9033c8d6debac85
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2018354340399137055.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1aeFPz1Euk/?share_source=copy_web&vd_source=75712bbfa63d92ade9033c8d6debac85",
+      "kind": "video",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HAKhj59bgAAZ7iu.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2018354340399137055/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2018354340399137055/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HAKhj59bgAAZ7iu.jpg:large",
+        "localPath": "2018354340399137055/imgs/img-002-HAKhj59bgAAZ7iu-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2018354340399137055/imgs/img-002-HAKhj59bgAAZ7iu-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2018354340399137055/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2018354340399137055",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2018354340399137055",
+    "title": "trader-c on X: \"$BTC  $ETH 1H级别突破了ema50\n\n按照视频里的计划，我们等待4H的价格回归，出现做空信号，入场做空\n\n预计一下，大概是83，84，25，26附近吧\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-02T16:02:28.000Z",
+    "summary": "$BTC  $ETH 1H级别突破了ema50\n\n按照视频里的计划，我们等待4H的价格回归，出现做空信号，入场做空\n\n预计一下，大概是83，84，25，26附近吧",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HAKhj59bgAAZ7iu.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:07:44.130Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[$BTC](https://x.com/search?q=$BTC) [$ETH](https://x.com/search?q=$ETH) 1H级别突破了ema50 按照视频里的计划，我们等待4H的价格回归，出现做空信号，入场做空 预计一下，大概是83，84，25，26附近吧\n\n市场完美验证了我们在1.25那期视频里分析里大周期，市场处于一个价格震荡，oi持续增加，可能会面临连环清算的分析 【2月2日复盘我们是如何跟随BTC大跌的操作，以及大跌之后如何看待市场？】 [bilibili.com/video/BV1aeFPz…](https://www.bilibili.com/video/BV1aeFPz1Euk/?share_source=copy_web&vd_source=75712bbfa63d92ade9033c8d6debac85)\n\n[0:02 · 2026年2月3日](https://x.com/TradercBTC/status/2018354340399137055) [5326Views](https://x.com/TradercBTC/status/2018354340399137055)\n\n[2](https://x.com/i/status/2018354340399137055)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2018354340399137055"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"$BTC  $ETH 1H级别突破了ema50\n  \n  按照视频里的计划，我们等待4H的价格回归，出现做空信号，入场做空\n  \n  预计一下，大概是83，84，25，26附近吧\" / X\nurl: \"https://x.com/TradercBTC/status/2018354340399137055\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2018354340399137055\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2018354340399137055/imgs/img-002-HAKhj59bgAAZ7iu-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-02T16:02:28.000Z\"\nsummary: |-\n  $BTC  $ETH 1H级别突破了ema50\n  \n  按照视频里的计划，我们等待4H的价格回归，出现做空信号，入场做空\n  \n  预计一下，大概是83，84，25，26附近吧\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:07:44.130Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"$BTC  $ETH 1H级别突破了ema50\n\n按照视频里的计划，我们等待4H的价格回归，出现做空信号，入场做空\n\n预计一下，大概是83，84，25，26附近吧\" / X\n\n[![@TradercBTC](2018354340399137055/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[$BTC](https://x.com/search?q=$BTC) [$ETH](https://x.com/search?q=$ETH) 1H级别突破了ema50 按照视频里的计划，我们等待4H的价格回归，出现做空信号，入场做空 预计一下，大概是83，84，25，26附近吧\n\n市场完美验证了我们在1.25那期视频里分析里大周期，市场处于一个价格震荡，oi持续增加，可能会面临连环清算的分析 【2月2日复盘我们是如何跟随BTC大跌的操作，以及大跌之后如何看待市场？】 [bilibili.com/video/BV1aeFPz…](https://www.bilibili.com/video/BV1aeFPz1Euk/?share_source=copy_web&vd_source=75712bbfa63d92ade9033c8d6debac85)\n\n[0:02 · 2026年2月3日](https://x.com/TradercBTC/status/2018354340399137055) [5326Views](https://x.com/TradercBTC/status/2018354340399137055)\n\n[2](https://x.com/i/status/2018354340399137055)"
+}

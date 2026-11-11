@@ -1,0 +1,58 @@
+[info] Loading https://x.com/TradercBTC/status/2066781649938047108 with generic adapter
+[info] Downloaded 1 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2066781649938047108.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2066781649938047108/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2066781649938047108/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2066781649938047108/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2066781649938047108",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2066781649938047108",
+    "title": "trader-c on X: \"早上六点起来的时候，是因为黄金到了警报\n\n然后迷迷糊糊挂了一个stop，结果刚好被挂树上了\n\n一度亏18个点，到盈利9个点\n\n但是我只是把20点的止损移动到了10个点，结果刚好打掉就上去了\n\n很悲伤的操作\n\n唯一庆幸的就是早上看了稀土和新能源的ETF\n\n这两个进去就涨，还是很不错的。。。。\n\n我现在在疑惑博客放的交易日志是放日内交易呢还是放波段交易\n\n波段交易太漫长了，而且没有太大的情绪波动和想法。。。。\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-06-16T07:15:18.000Z",
+    "summary": "早上六点起来的时候，是因为黄金到了警报\n\n然后迷迷糊糊挂了一个stop，结果刚好被挂树上了\n\n一度亏18个点，到盈利9个点\n\n但是我只是把20点的止损移动到了10个点，结果刚好打掉就上去了\n\n很悲伤的操作\n\n唯一庆幸的就是早上看了稀土和新能源的ETF\n\n这两个进去就涨，还是很不错的。。。。\n\n我现在在疑惑博客放的交易日志是放日内交易呢还是放波段交易\n\n波段交易太漫长了，而且没有太大的情绪波动和想法。。。。",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:02:14.697Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n早上六点起来的时候，是因为黄金到了警报 然后迷迷糊糊挂了一个stop，结果刚好被挂树上了 一度亏18个点，到盈利9个点 但是我只是把20点的止损移动到了10个点，结果刚好打掉就上去了 很悲伤的操作 唯一庆幸的就是早上看了稀土和新能源的ETF 这两个进去就涨，还是很不错的。。。。 我现在在疑惑博客放的交易日志是放日内交易呢还是放波段交易 波段交易太漫长了，而且没有太大的情绪波动和想法。。。。\n\n[15:15 · 2026年6月16日](https://x.com/TradercBTC/status/2066781649938047108) [1349Views](https://x.com/TradercBTC/status/2066781649938047108)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2066781649938047108"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"早上六点起来的时候，是因为黄金到了警报\n  \n  然后迷迷糊糊挂了一个stop，结果刚好被挂树上了\n  \n  一度亏18个点，到盈利9个点\n  \n  但是我只是把20点的止损移动到了10个点，结果刚好打掉就上去了\n  \n  很悲伤的操作\n  \n  唯一庆幸的就是早上看了稀土和新能源的ETF\n  \n  这两个进去就涨，还是很不错的。。。。\n  \n  我现在在疑惑博客放的交易日志是放日内交易呢还是放波段交易\n  \n  波段交易太漫长了，而且没有太大的情绪波动和想法。。。。\" / X\nurl: \"https://x.com/TradercBTC/status/2066781649938047108\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2066781649938047108\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2066781649938047108/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-06-16T07:15:18.000Z\"\nsummary: |-\n  早上六点起来的时候，是因为黄金到了警报\n  \n  然后迷迷糊糊挂了一个stop，结果刚好被挂树上了\n  \n  一度亏18个点，到盈利9个点\n  \n  但是我只是把20点的止损移动到了10个点，结果刚好打掉就上去了\n  \n  很悲伤的操作\n  \n  唯一庆幸的就是早上看了稀土和新能源的ETF\n  \n  这两个进去就涨，还是很不错的。。。。\n  \n  我现在在疑惑博客放的交易日志是放日内交易呢还是放波段交易\n  \n  波段交易太漫长了，而且没有太大的情绪波动和想法。。。。\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:02:14.697Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"早上六点起来的时候，是因为黄金到了警报\n\n然后迷迷糊糊挂了一个stop，结果刚好被挂树上了\n\n一度亏18个点，到盈利9个点\n\n但是我只是把20点的止损移动到了10个点，结果刚好打掉就上去了\n\n很悲伤的操作\n\n唯一庆幸的就是早上看了稀土和新能源的ETF\n\n这两个进去就涨，还是很不错的。。。。\n\n我现在在疑惑博客放的交易日志是放日内交易呢还是放波段交易\n\n波段交易太漫长了，而且没有太大的情绪波动和想法。。。。\" / X\n\n[![@TradercBTC](2066781649938047108/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n早上六点起来的时候，是因为黄金到了警报 然后迷迷糊糊挂了一个stop，结果刚好被挂树上了 一度亏18个点，到盈利9个点 但是我只是把20点的止损移动到了10个点，结果刚好打掉就上去了 很悲伤的操作 唯一庆幸的就是早上看了稀土和新能源的ETF 这两个进去就涨，还是很不错的。。。。 我现在在疑惑博客放的交易日志是放日内交易呢还是放波段交易 波段交易太漫长了，而且没有太大的情绪波动和想法。。。。\n\n[15:15 · 2026年6月16日](https://x.com/TradercBTC/status/2066781649938047108) [1349Views](https://x.com/TradercBTC/status/2066781649938047108)\n\nOnly some accounts can reply."
+}

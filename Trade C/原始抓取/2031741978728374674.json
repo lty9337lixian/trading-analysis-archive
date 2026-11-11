@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HDIx6fiaAAA6Vg8.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2031741978728374674/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2031741978728374674/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HDIx6fiaAAA6Vg8.jpg:large",
+        "localPath": "2031741978728374674/imgs/img-002-HDIx6fiaAAA6Vg8-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2031741978728374674/imgs/img-002-HDIx6fiaAAA6Vg8-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2031741978728374674/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2031741978728374674",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2031741978728374674",
+    "title": "trader-c on X: \"开个复盘贴（手写，有需要可以对着图看，discord里面交易日志有Claude code给我整理的结构版本）\n\n复盘日志\n1:周内恒科。周一到周三\n方法：均线+ATR\n以ema50为大趋势基准，5min级别atr为止损，15min级别atr为止盈\n\n周一：\n跳空低开，远离均线组.\n\n我们来看周一有哪几个做单机会\n\n理论上来说有A和B可以作为做单机会\n\n原因是A的时候，ema20和50都是向下的，跳空低开之后回归了ema20，第19根蜡烛出现做空信号，表明在这里有卖压，20根蜡烛延续了卖压，在这里做空，是合理的选择。\n\n因为大背景向下，且出现了信号。\n\n止损移动… / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-03-11T14:40:10.000Z",
+    "summary": "开个复盘贴（手写，有需要可以对着图看，discord里面交易日志有Claude code给我整理的结构版本）\n\n复盘日志\n1:周内恒科。周一到周三\n方法：均线+ATR\n以ema50为大趋势基准，5min级别atr为止损，15min级别atr为止盈\n\n周一：\n跳空低开，远离均线组.\n\n我们来看周一有哪几个做单机会\n\n理论上来说有A和B可以作为做单机会\n\n原因是A的时候，ema20和50都是向下的，跳空低开之后回归了ema20，第19根蜡烛出现做空信号，表明在这里有卖压，20根蜡烛延续了卖压，在这里做空，是合理的选择。\n\n因为大背景向下，且出现了信号。\n\n止损移动到19的上方，止盈放在19的at…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HDIx6fiaAAA6Vg8.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:54:02.018Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t开个复盘贴（手写，有需要可以对着图看，discord里面交易日志有Claude code给我整理的结构版本） 复盘日志 1:周内恒科。周一到周三 方法：均线+ATR 以ema50为大趋势基准，5min级别atr为止损，15min级别atr为止盈 周一： 跳空低开，远离均线组. 我们来看周一有哪几个做单机会 理论上来说有A和B可以作为做单机会 原因是A的时候，ema20和50都是向下的，跳空低开之后回归了ema20，第19根蜡烛出现做空信号，表明在这里有卖压，20根蜡烛延续了卖压，在这里做空，是合理的选择。 因为大背景向下，且出现了信号。 止损移动到19的上方，止盈放在19的atr，似乎是很合理的选择，但是这个其实达不到，因为我们的规则止盈是在15min级别的atr，后面看到是达不到的，这一单如果入场，是要止损的。 有没有不做的理由呢？ 有就是前面连续三根，是大阳线，收线在最高的大阳线说明这里市场买方力量很强，一般这种情况，80%第一次反转都是失败的。 我们看到后续就是22之后就走平了，到34向下插针然后收回去，说明卖方缺少力量。 如果是买方，看到34也应该考虑离开市场了，或者减仓观察。 那么34之后呢，就形成了更高的低点和更高的高点，但是由于我们的ema20还在ema50之下，说明市场现在这是处于混沌区，价格在ema50下方，我们选择观望，不去入场做多。 第二个机会就是来到64左右，这里我们已经经历了ema20和ema50的金叉，价格在ema50的上方，而且前面出现了更高的高点和更高的低点的上涨结构 因此出现62到64连续大阳之后，我们在64附近的价格做多是合理的。止盈止损依旧参考atr。在这里做顺利达到止盈，是没有问题的。 为什么没做呢，是因为临近收盘了，做期货其实是可以顺利达到的，但是这里以指数为例子。 后续从c到e都是盈利的，逻辑是一样的。 回调到ema20附近，出现做多信号，价格在ema50上方，止盈15min的atr，止损5min的atr。 一直做到F，这里按照相同的逻辑，ema50和ema20死叉，价格在ema50底下，有个问题是，这里没有出现做空信号，在震荡，我入场了，因此我止损了。 这是没有满足规则盲目入场的后果。 与之相反的例子是G，周三日内的56根蜡烛，这里ema20和50又一次死叉，而且47到54有一个小型m顶的反转结构，从52开始连续三根阴线，56入场做空是一个比较好的选择。 如果在G入场做空，刚好到15min级别的atr止盈，\n\t[22:40 · 2026年3月11日](https://x.com/TradercBTC/status/2031741978728374674) [2142Views](https://x.com/TradercBTC/status/2031741978728374674)\n\t[1](https://x.com/i/status/2031741978728374674)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2031741978728374674"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"开个复盘贴（手写，有需要可以对着图看，discord里面交易日志有Claude code给我整理的结构版本）\n  \n  复盘日志\n  1:周内恒科。周一到周三\n  方法：均线+ATR\n  以ema50为大趋势基准，5min级别atr为止损，15min级别atr为止盈\n  \n  周一：\n  跳空低开，远离均线组.\n  \n  我们来看周一有哪几个做单机会\n  \n  理论上来说有A和B可以作为做单机会\n  \n  原因是A的时候，ema20和50都是向下的，跳空低开之后回归了ema20，第19根蜡烛出现做空信号，表明在这里有卖压，20根蜡烛延续了卖压，在这里做空，是合理的选择。\n  \n  因为大背景向下，且出现了信号。\n  \n  止损移动… / X\nurl: \"https://x.com/TradercBTC/status/2031741978728374674\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2031741978728374674\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2031741978728374674/imgs/img-002-HDIx6fiaAAA6Vg8-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-03-11T14:40:10.000Z\"\nsummary: |-\n  开个复盘贴（手写，有需要可以对着图看，discord里面交易日志有Claude code给我整理的结构版本）\n  \n  复盘日志\n  1:周内恒科。周一到周三\n  方法：均线+ATR\n  以ema50为大趋势基准，5min级别atr为止损，15min级别atr为止盈\n  \n  周一：\n  跳空低开，远离均线组.\n  \n  我们来看周一有哪几个做单机会\n  \n  理论上来说有A和B可以作为做单机会\n  \n  原因是A的时候，ema20和50都是向下的，跳空低开之后回归了ema20，第19根蜡烛出现做空信号，表明在这里有卖压，20根蜡烛延续了卖压，在这里做空，是合理的选择。\n  \n  因为大背景向下，且出现了信号。\n  \n  止损移动到19的上方，止盈放在19的at…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:54:02.018Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"开个复盘贴（手写，有需要可以对着图看，discord里面交易日志有Claude code给我整理的结构版本）\n\n复盘日志\n1:周内恒科。周一到周三\n方法：均线+ATR\n以ema50为大趋势基准，5min级别atr为止损，15min级别atr为止盈\n\n周一：\n跳空低开，远离均线组.\n\n我们来看周一有哪几个做单机会\n\n理论上来说有A和B可以作为做单机会\n\n原因是A的时候，ema20和50都是向下的，跳空低开之后回归了ema20，第19根蜡烛出现做空信号，表明在这里有卖压，20根蜡烛延续了卖压，在这里做空，是合理的选择。\n\n因为大背景向下，且出现了信号。\n\n止损移动… / X\n\n- [![@TradercBTC](2031741978728374674/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t开个复盘贴（手写，有需要可以对着图看，discord里面交易日志有Claude code给我整理的结构版本） 复盘日志 1:周内恒科。周一到周三 方法：均线+ATR 以ema50为大趋势基准，5min级别atr为止损，15min级别atr为止盈 周一： 跳空低开，远离均线组. 我们来看周一有哪几个做单机会 理论上来说有A和B可以作为做单机会 原因是A的时候，ema20和50都是向下的，跳空低开之后回归了ema20，第19根蜡烛出现做空信号，表明在这里有卖压，20根蜡烛延续了卖压，在这里做空，是合理的选择。 因为大背景向下，且出现了信号。 止损移动到19的上方，止盈放在19的atr，似乎是很合理的选择，但是这个其实达不到，因为我们的规则止盈是在15min级别的atr，后面看到是达不到的，这一单如果入场，是要止损的。 有没有不做的理由呢？ 有就是前面连续三根，是大阳线，收线在最高的大阳线说明这里市场买方力量很强，一般这种情况，80%第一次反转都是失败的。 我们看到后续就是22之后就走平了，到34向下插针然后收回去，说明卖方缺少力量。 如果是买方，看到34也应该考虑离开市场了，或者减仓观察。 那么34之后呢，就形成了更高的低点和更高的高点，但是由于我们的ema20还在ema50之下，说明市场现在这是处于混沌区，价格在ema50下方，我们选择观望，不去入场做多。 第二个机会就是来到64左右，这里我们已经经历了ema20和ema50的金叉，价格在ema50的上方，而且前面出现了更高的高点和更高的低点的上涨结构 因此出现62到64连续大阳之后，我们在64附近的价格做多是合理的。止盈止损依旧参考atr。在这里做顺利达到止盈，是没有问题的。 为什么没做呢，是因为临近收盘了，做期货其实是可以顺利达到的，但是这里以指数为例子。 后续从c到e都是盈利的，逻辑是一样的。 回调到ema20附近，出现做多信号，价格在ema50上方，止盈15min的atr，止损5min的atr。 一直做到F，这里按照相同的逻辑，ema50和ema20死叉，价格在ema50底下，有个问题是，这里没有出现做空信号，在震荡，我入场了，因此我止损了。 这是没有满足规则盲目入场的后果。 与之相反的例子是G，周三日内的56根蜡烛，这里ema20和50又一次死叉，而且47到54有一个小型m顶的反转结构，从52开始连续三根阴线，56入场做空是一个比较好的选择。 如果在G入场做空，刚好到15min级别的atr止盈，\n\t[22:40 · 2026年3月11日](https://x.com/TradercBTC/status/2031741978728374674) [2142Views](https://x.com/TradercBTC/status/2031741978728374674)\n\t[1](https://x.com/i/status/2031741978728374674)"
+}

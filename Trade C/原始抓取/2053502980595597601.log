@@ -1,0 +1,58 @@
+[info] Loading https://x.com/TradercBTC/status/2053502980595597601 with generic adapter
+[info] Downloaded 1 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2053502980595597601.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2053502980595597601/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2053502980595597601/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2053502980595597601/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2053502980595597601",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2053502980595597601",
+    "title": "trader-c on X: \"这不是抓。。。\n\n其次识别也是有问题的\n\n当入场的时候，前面的k重叠k一定是非常少的，其次就是信号k是表现最好的\n\n入场不可能次次都是顶级，但是相对顶级足够了\n\n入场之后价格很快从有利于赚钱方向移动等等\n\n具体描述有很多，但是太麻烦，所以总结就是经验，你做到的时候自然理解了\n\n做不到也没事，不用追求这个，迟早会理解的\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-05-10T15:50:37.000Z",
+    "summary": "这不是抓。。。\n\n其次识别也是有问题的\n\n当入场的时候，前面的k重叠k一定是非常少的，其次就是信号k是表现最好的\n\n入场不可能次次都是顶级，但是相对顶级足够了\n\n入场之后价格很快从有利于赚钱方向移动等等\n\n具体描述有很多，但是太麻烦，所以总结就是经验，你做到的时候自然理解了\n\n做不到也没事，不用追求这个，迟早会理解的",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:01:20.431Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t这不是抓。。。 其次识别也是有问题的 当入场的时候，前面的k重叠k一定是非常少的，其次就是信号k是表现最好的 入场不可能次次都是顶级，但是相对顶级足够了 入场之后价格很快从有利于赚钱方向移动等等 具体描述有很多，但是太麻烦，所以总结就是经验，你做到的时候自然理解了 做不到也没事，不用追求这个，迟早会理解的\n\t[23:50 · 2026年5月10日](https://x.com/TradercBTC/status/2053502980595597601) [173Views](https://x.com/TradercBTC/status/2053502980595597601)\n\t[2](https://x.com/i/status/2053502980595597601)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2053502980595597601"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"这不是抓。。。\n  \n  其次识别也是有问题的\n  \n  当入场的时候，前面的k重叠k一定是非常少的，其次就是信号k是表现最好的\n  \n  入场不可能次次都是顶级，但是相对顶级足够了\n  \n  入场之后价格很快从有利于赚钱方向移动等等\n  \n  具体描述有很多，但是太麻烦，所以总结就是经验，你做到的时候自然理解了\n  \n  做不到也没事，不用追求这个，迟早会理解的\" / X\nurl: \"https://x.com/TradercBTC/status/2053502980595597601\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2053502980595597601\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2053502980595597601/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-05-10T15:50:37.000Z\"\nsummary: |-\n  这不是抓。。。\n  \n  其次识别也是有问题的\n  \n  当入场的时候，前面的k重叠k一定是非常少的，其次就是信号k是表现最好的\n  \n  入场不可能次次都是顶级，但是相对顶级足够了\n  \n  入场之后价格很快从有利于赚钱方向移动等等\n  \n  具体描述有很多，但是太麻烦，所以总结就是经验，你做到的时候自然理解了\n  \n  做不到也没事，不用追求这个，迟早会理解的\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:01:20.431Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"这不是抓。。。\n\n其次识别也是有问题的\n\n当入场的时候，前面的k重叠k一定是非常少的，其次就是信号k是表现最好的\n\n入场不可能次次都是顶级，但是相对顶级足够了\n\n入场之后价格很快从有利于赚钱方向移动等等\n\n具体描述有很多，但是太麻烦，所以总结就是经验，你做到的时候自然理解了\n\n做不到也没事，不用追求这个，迟早会理解的\" / X\n\n- [![@TradercBTC](2053502980595597601/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t这不是抓。。。 其次识别也是有问题的 当入场的时候，前面的k重叠k一定是非常少的，其次就是信号k是表现最好的 入场不可能次次都是顶级，但是相对顶级足够了 入场之后价格很快从有利于赚钱方向移动等等 具体描述有很多，但是太麻烦，所以总结就是经验，你做到的时候自然理解了 做不到也没事，不用追求这个，迟早会理解的\n\t[23:50 · 2026年5月10日](https://x.com/TradercBTC/status/2053502980595597601) [173Views](https://x.com/TradercBTC/status/2053502980595597601)\n\t[2](https://x.com/i/status/2053502980595597601)"
+}

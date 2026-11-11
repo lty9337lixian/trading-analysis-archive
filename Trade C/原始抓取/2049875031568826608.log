@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2049875031568826608 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2049875031568826608.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HHKeR87boAAIbOd.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2049875031568826608/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2049875031568826608/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HHKeR87boAAIbOd.jpg:large",
+        "localPath": "2049875031568826608/imgs/img-002-HHKeR87boAAIbOd-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2049875031568826608/imgs/img-002-HHKeR87boAAIbOd-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2049875031568826608/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2049875031568826608",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2049875031568826608",
+    "title": "trader-c on X: \"没出现信号，放弃入场了\n\n没啥机会\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-04-30T15:34:27.000Z",
+    "summary": "没出现信号，放弃入场了\n\n没啥机会",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HHKeR87boAAIbOd.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:00:57.575Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n没出现信号，放弃入场了 没啥机会\n\n[23:34 · 2026年4月30日](https://x.com/TradercBTC/status/2049875031568826608) [1819Views](https://x.com/TradercBTC/status/2049875031568826608)\n\n[1](https://x.com/i/status/2049875031568826608)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2049875031568826608"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"没出现信号，放弃入场了\n  \n  没啥机会\" / X\nurl: \"https://x.com/TradercBTC/status/2049875031568826608\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2049875031568826608\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2049875031568826608/imgs/img-002-HHKeR87boAAIbOd-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-04-30T15:34:27.000Z\"\nsummary: |-\n  没出现信号，放弃入场了\n  \n  没啥机会\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:00:57.575Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"没出现信号，放弃入场了\n\n没啥机会\" / X\n\n[![@TradercBTC](2049875031568826608/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n没出现信号，放弃入场了 没啥机会\n\n[23:34 · 2026年4月30日](https://x.com/TradercBTC/status/2049875031568826608) [1819Views](https://x.com/TradercBTC/status/2049875031568826608)\n\n[1](https://x.com/i/status/2049875031568826608)"
+}

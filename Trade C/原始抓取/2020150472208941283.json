@@ -1,0 +1,106 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HAkB0F_bsAAdPjz.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HAkC5YwbEAAR8Rb?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HAJT0GrbUAAypyK?format=webp&name=small",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HAJVE21bYAE_HuP?format=webp&name=small",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HAJfyr6a4AAshI0?format=webp&name=small",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/HAkB0F_bsAAdPjz.jpg:large",
+        "localPath": "2020150472208941283/imgs/img-001-HAkB0F_bsAAdPjz-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2020150472208941283/imgs/img-001-HAkB0F_bsAAdPjz-jpg-large.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2020150472208941283/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2020150472208941283/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HAkC5YwbEAAR8Rb?format=webp&name=medium",
+        "localPath": "2020150472208941283/imgs/img-003-HAkC5YwbEAAR8Rb.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2020150472208941283/imgs/img-003-HAkC5YwbEAAR8Rb.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HAJT0GrbUAAypyK?format=webp&name=small",
+        "localPath": "2020150472208941283/imgs/img-004-HAJT0GrbUAAypyK.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2020150472208941283/imgs/img-004-HAJT0GrbUAAypyK.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HAJVE21bYAE_HuP?format=webp&name=small",
+        "localPath": "2020150472208941283/imgs/img-005-HAJVE21bYAE_HuP.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2020150472208941283/imgs/img-005-HAJVE21bYAE_HuP.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HAJfyr6a4AAshI0?format=webp&name=small",
+        "localPath": "2020150472208941283/imgs/img-006-HAJfyr6a4AAshI0.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2020150472208941283/imgs/img-006-HAJfyr6a4AAshI0.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 6,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2020150472208941283/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2020150472208941283",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2020150472208941283",
+    "title": "trader-c on X: \"纳斯达克周线 底下有一个支撑，23932这个位置，是一个支阻互换位 在跌破这里之前，我们逻辑上还是不能看空 最近两周的k线其实不是很好，上一周是一个上影线，收盘也在最低，这一周也是阴k，延续了上周的下跌趋势 毫无疑问是一个震荡区间 主观偏见是跌破之前不看空，以周线ema50为例，还是向上的。 那么从日线来看，前面走了一个向上的三推楔形，但是上周四向下突破 周五走了一根非常好的阳k，个人感觉很大概率是一个比较挣扎的k 因为市场的背景是一个震荡箱体。。。 在震荡箱体中，中间部分我是不想参与波段的 因此计划很简单： 1️⃣价格在箱体中间部分，如…",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-07T14:59:39.000Z",
+    "summary": "纳斯达克周线\n\n底下有一个支撑，23932这个位置，是一个支阻互换位\n\n在跌破这里之前，我们逻辑上还是不能看空\n\n最近两周的k线其实不是很好，上一周是一个上影线，收盘也在最低，这一周也是阴k，延续了上周的下跌趋势\n\n毫无疑问是一个震荡区间\n\n主观偏见是跌破之前不看空，以周线ema50为例，还是向上的。\n\n那么从日线来看，前面走了一个向上的三推楔形，但是上周四向下突破\n\n周五走了一根非常好的阳k，个人感觉很大概率是一个比较挣扎的k\n\n因为市场的背景是一个震荡箱体。。。\n\n在震荡箱体中，中间部分我是不想参与波段的\n\n因此计划很简单：\n\n1️⃣价格在箱体中间部分，如果有机会，做5min的剥头皮。\n…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HAkB0F_bsAAdPjz.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:57:11.060Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n纳斯达克周线 底下有一个支撑，23932这个位置，是一个支阻互换位 在跌破这里之前，我们逻辑上还是不能看空 最近两周的k线其实不是很好，上一周是一个上影线，收盘也在最低，这一周也是阴k，延续了上周的下跌趋势 毫无疑问是一个震荡区间 主观偏见是跌破之前不看空，以周线ema50为例，还是向上的。 那么从日线来看，前面走了一个向上的三推楔形，但是上周四向下突破 周五走了一根非常好的阳k，个人感觉很大概率是一个比较挣扎的k 因为市场的背景是一个震荡箱体。。。 在震荡箱体中，中间部分我是不想参与波段的 因此计划很简单： 1️⃣价格在箱体中间部分，如果有机会，做5min的剥头皮。 2️⃣价格在顶部或者底部，出现反转信号做波段交易。方向视市场行情而定\n\n[![](https://pbs.twimg.com/media/HAkC5YwbEAAR8Rb?format=webp&name=medium)](https://x.com/TradercBTC/status/2020150472208941283/photo/2)\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[2月2日](https://x.com/TradercBTC/status/2018282371846733929)\n\n一 纳斯达克日线周期 1：价格在支撑阻力呼唤位之上 2:价格在箱体震荡0.5上方 3.三推想要向上突破，但是失败，回调后向上突破又失败 说明买方没有力量将价格推动延续趋势，背后的资金处于观望而不是买入 因此认为nq的处于市场平衡状态，处于蓄力状态。 4h级别市场处于假突破，跌回箱体的结构\n\n[![](https://pbs.twimg.com/media/HAJT0GrbUAAypyK?format=webp&name=small)](https://x.com/TradercBTC/status/2018282371846733929/photo/1)\n\n[![](https://pbs.twimg.com/media/HAJVE21bYAE_HuP?format=webp&name=small)](https://x.com/TradercBTC/status/2018282371846733929/photo/2)\n\n[![](https://pbs.twimg.com/media/HAJfyr6a4AAshI0?format=webp&name=small)](https://x.com/TradercBTC/status/2018282371846733929/photo/3)\n\n[22:59 · 2026年2月7日](https://x.com/TradercBTC/status/2020150472208941283)[1873Views](https://x.com/TradercBTC/status/2020150472208941283)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2020150472208941283"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"纳斯达克周线 底下有一个支撑，23932这个位置，是一个支阻互换位 在跌破这里之前，我们逻辑上还是不能看空 最近两周的k线其实不是很好，上一周是一个上影线，收盘也在最低，这一周也是阴k，延续了上周的下跌趋势 毫无疑问是一个震荡区间 主观偏见是跌破之前不看空，以周线ema50为例，还是向上的。 那么从日线来看，前面走了一个向上的三推楔形，但是上周四向下突破 周五走了一根非常好的阳k，个人感觉很大概率是一个比较挣扎的k 因为市场的背景是一个震荡箱体。。。 在震荡箱体中，中间部分我是不想参与波段的 因此计划很简单： 1️⃣价格在箱体中间部分，如…\"\nurl: \"https://x.com/TradercBTC/status/2020150472208941283\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2020150472208941283\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2020150472208941283/imgs/img-001-HAkB0F_bsAAdPjz-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-07T14:59:39.000Z\"\nsummary: |-\n  纳斯达克周线\n  \n  底下有一个支撑，23932这个位置，是一个支阻互换位\n  \n  在跌破这里之前，我们逻辑上还是不能看空\n  \n  最近两周的k线其实不是很好，上一周是一个上影线，收盘也在最低，这一周也是阴k，延续了上周的下跌趋势\n  \n  毫无疑问是一个震荡区间\n  \n  主观偏见是跌破之前不看空，以周线ema50为例，还是向上的。\n  \n  那么从日线来看，前面走了一个向上的三推楔形，但是上周四向下突破\n  \n  周五走了一根非常好的阳k，个人感觉很大概率是一个比较挣扎的k\n  \n  因为市场的背景是一个震荡箱体。。。\n  \n  在震荡箱体中，中间部分我是不想参与波段的\n  \n  因此计划很简单：\n  \n  1️⃣价格在箱体中间部分，如果有机会，做5min的剥头皮。\n  …\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:57:11.060Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"纳斯达克周线 底下有一个支撑，23932这个位置，是一个支阻互换位 在跌破这里之前，我们逻辑上还是不能看空 最近两周的k线其实不是很好，上一周是一个上影线，收盘也在最低，这一周也是阴k，延续了上周的下跌趋势 毫无疑问是一个震荡区间 主观偏见是跌破之前不看空，以周线ema50为例，还是向上的。 那么从日线来看，前面走了一个向上的三推楔形，但是上周四向下突破 周五走了一根非常好的阳k，个人感觉很大概率是一个比较挣扎的k 因为市场的背景是一个震荡箱体。。。 在震荡箱体中，中间部分我是不想参与波段的 因此计划很简单： 1️⃣价格在箱体中间部分，如…\n\n[![@TradercBTC](2020150472208941283/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n纳斯达克周线 底下有一个支撑，23932这个位置，是一个支阻互换位 在跌破这里之前，我们逻辑上还是不能看空 最近两周的k线其实不是很好，上一周是一个上影线，收盘也在最低，这一周也是阴k，延续了上周的下跌趋势 毫无疑问是一个震荡区间 主观偏见是跌破之前不看空，以周线ema50为例，还是向上的。 那么从日线来看，前面走了一个向上的三推楔形，但是上周四向下突破 周五走了一根非常好的阳k，个人感觉很大概率是一个比较挣扎的k 因为市场的背景是一个震荡箱体。。。 在震荡箱体中，中间部分我是不想参与波段的 因此计划很简单： 1️⃣价格在箱体中间部分，如果有机会，做5min的剥头皮。 2️⃣价格在顶部或者底部，出现反转信号做波段交易。方向视市场行情而定\n\n[![](2020150472208941283/imgs/img-003-HAkC5YwbEAAR8Rb.webp)](https://x.com/TradercBTC/status/2020150472208941283/photo/2)\n\n[![@TradercBTC](2020150472208941283/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[2月2日](https://x.com/TradercBTC/status/2018282371846733929)\n\n一 纳斯达克日线周期 1：价格在支撑阻力呼唤位之上 2:价格在箱体震荡0.5上方 3.三推想要向上突破，但是失败，回调后向上突破又失败 说明买方没有力量将价格推动延续趋势，背后的资金处于观望而不是买入 因此认为nq的处于市场平衡状态，处于蓄力状态。 4h级别市场处于假突破，跌回箱体的结构\n\n[![](2020150472208941283/imgs/img-004-HAJT0GrbUAAypyK.webp)](https://x.com/TradercBTC/status/2018282371846733929/photo/1)\n\n[![](2020150472208941283/imgs/img-005-HAJVE21bYAE_HuP.webp)](https://x.com/TradercBTC/status/2018282371846733929/photo/2)\n\n[![](2020150472208941283/imgs/img-006-HAJfyr6a4AAshI0.webp)](https://x.com/TradercBTC/status/2018282371846733929/photo/3)\n\n[22:59 · 2026年2月7日](https://x.com/TradercBTC/status/2020150472208941283)[1873Views](https://x.com/TradercBTC/status/2020150472208941283)"
+}

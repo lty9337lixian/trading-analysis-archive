@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2021982119250334014 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2021982119250334014.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HA-F3ArbsAAz8xo.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2021982119250334014/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2021982119250334014/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HA-F3ArbsAAz8xo.jpg:large",
+        "localPath": "2021982119250334014/imgs/img-002-HA-F3ArbsAAz8xo-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2021982119250334014/imgs/img-002-HA-F3ArbsAAz8xo-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2021982119250334014/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2021982119250334014",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2021982119250334014",
+    "title": "trader-c on X: \"$GOLD 果然，上推动力不足\n\n防守是正确的，不防守的这周吃到的都吐回去了\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-12T16:17:58.000Z",
+    "summary": "$GOLD 果然，上推动力不足\n\n防守是正确的，不防守的这周吃到的都吐回去了",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HA-F3ArbsAAz8xo.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:57:51.428Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[$GOLD](https://x.com/search?q=$GOLD) 果然，上推动力不足 防守是正确的，不防守的这周吃到的都吐回去了\n\n[$GOLD](https://x.com/search?q=$GOLD) 黄金15min 短期来看，黄金上推动力不足。 多仓要注意减仓和防御，可以等到突破之后，在上方挂stop order来加仓，确定性会更高一些 想做空的可以关注4H级别的ema20和底下的支撑位置。 做空目标位置尽量保守，黄金的共识还是很强的，逆势不要太上头。\n\n[0:17 · 2026年2月13日](https://x.com/TradercBTC/status/2021982119250334014) [1318Views](https://x.com/TradercBTC/status/2021982119250334014)\n\n[1](https://x.com/i/status/2021982119250334014)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2021982119250334014"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"$GOLD 果然，上推动力不足\n  \n  防守是正确的，不防守的这周吃到的都吐回去了\" / X\nurl: \"https://x.com/TradercBTC/status/2021982119250334014\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2021982119250334014\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2021982119250334014/imgs/img-002-HA-F3ArbsAAz8xo-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-12T16:17:58.000Z\"\nsummary: |-\n  $GOLD 果然，上推动力不足\n  \n  防守是正确的，不防守的这周吃到的都吐回去了\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:57:51.428Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"$GOLD 果然，上推动力不足\n\n防守是正确的，不防守的这周吃到的都吐回去了\" / X\n\n[![@TradercBTC](2021982119250334014/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[$GOLD](https://x.com/search?q=$GOLD) 果然，上推动力不足 防守是正确的，不防守的这周吃到的都吐回去了\n\n[$GOLD](https://x.com/search?q=$GOLD) 黄金15min 短期来看，黄金上推动力不足。 多仓要注意减仓和防御，可以等到突破之后，在上方挂stop order来加仓，确定性会更高一些 想做空的可以关注4H级别的ema20和底下的支撑位置。 做空目标位置尽量保守，黄金的共识还是很强的，逆势不要太上头。\n\n[0:17 · 2026年2月13日](https://x.com/TradercBTC/status/2021982119250334014) [1318Views](https://x.com/TradercBTC/status/2021982119250334014)\n\n[1](https://x.com/i/status/2021982119250334014)"
+}

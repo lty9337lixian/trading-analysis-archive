@@ -1,0 +1,46 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 188,
+  "lang": "zh",
+  "created_at": "2026-03-20T07:27:09.000Z",
+  "display_text_range": [
+    0,
+    150
+  ],
+  "entities": {},
+  "id_str": "2034894498116039061",
+  "text": "PA，价格行为学\n\n只看价格行为，不用指标，不看基本面，纯粹看K线图就能持续赚钱。核心在哪\n\nPA本身有没有信息含量，和用PA赚钱的人到底是不是靠PA赚的钱，这是两件事\n\nPA确实包含真实的信息\n\n价格是所有市场参与者行为的最终汇总，一根K线的形态、一段价格结构的演变，确实反映了买卖双方力量的变化。",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "initial_tweet_id": "2034893646890508371",
+    "edit_tweet_ids": [
+      "2034893646890508371",
+      "2034894194884714753",
+      "2034894498116039061"
+    ],
+    "editable_until_msecs": "1773995026000",
+    "edits_remaining": "3",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 11,
+  "news_action_type": "conversation",
+  "isEdited": true,
+  "isStaleEdit": false,
+  "previous_counts": {
+    "favorite_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+  },
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDM0ODk0NDk4MDA3MDY0NTgw"
+  }
+}

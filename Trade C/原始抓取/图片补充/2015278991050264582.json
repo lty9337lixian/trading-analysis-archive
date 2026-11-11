@@ -1,0 +1,182 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 2,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-01-25T04:22:08.000Z",
+  "display_text_range": [
+    0,
+    46
+  ],
+  "entities": {
+    "urls": [
+      {
+        "display_url": "bilibili.com/video/BV1jfzSB…",
+        "expanded_url": "https://www.bilibili.com/video/BV1jfzSBeEss/?share_source=copy_web&vd_source=75712bbfa63d92ade9033c8d6debac85",
+        "indices": [
+          23,
+          46
+        ],
+        "url": "https://t.co/yGjx6VOmdr"
+      }
+    ]
+  },
+  "id_str": "2015278991050264582",
+  "text": "【1月25日周末从周线复盘BTC，制定计划】 https://t.co/yGjx6VOmdr",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2015278991050264582"
+    ],
+    "editable_until_msecs": "1769318528000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "card": {
+    "card_platform": {
+      "platform": {
+        "audience": {
+          "name": "production"
+        },
+        "device": {
+          "name": "iPhone",
+          "version": "13"
+        }
+      }
+    },
+    "name": "summary",
+    "url": "https://t.co/yGjx6VOmdr",
+    "binding_values": {
+      "thumbnail_image": {
+        "image_value": {
+          "alt": "1月25日周末从周线复盘BTC，制定计划_哔哩哔哩_bilibili",
+          "height": 144,
+          "url": "https://pbs.twimg.com/card_img/2094646404979564544/H3UYwoQS?format=jpg&name=144x144_2",
+          "width": 144
+        },
+        "type": "IMAGE"
+      },
+      "description": {
+        "string_value": "求关注，求点赞，求一键三连！！！之后会更新美g和大a，重点还是在大a不同板块, 视频播放量 226、弹幕量 0、点赞数 10、投硬币枚数 8、收藏人数 3、转发人数 0, 视频作者 trader-c, 作者简介 这是一个 半退休trader 喜欢吐槽装逼和妹子 ，相关视频：1分钟短线交易法，月入7K-9K的普通人也能上手！，【trader-c的交易频道】十分钟内完成识别趋势，制定交易计划，捕...",
+        "type": "STRING"
+      },
+      "domain": {
+        "string_value": "www.bilibili.com",
+        "type": "STRING"
+      },
+      "thumbnail_image_large": {
+        "image_value": {
+          "alt": "1月25日周末从周线复盘BTC，制定计划_哔哩哔哩_bilibili",
+          "height": 420,
+          "url": "https://pbs.twimg.com/card_img/2094646404979564544/H3UYwoQS?format=jpg&name=420x420_2",
+          "width": 420
+        },
+        "type": "IMAGE"
+      },
+      "thumbnail_image_original": {
+        "image_value": {
+          "alt": "1月25日周末从周线复盘BTC，制定计划_哔哩哔哩_bilibili",
+          "height": 630,
+          "url": "https://pbs.twimg.com/card_img/2094646404979564544/H3UYwoQS?format=jpg&name=orig",
+          "width": 1120
+        },
+        "type": "IMAGE"
+      },
+      "thumbnail_image_small": {
+        "image_value": {
+          "alt": "1月25日周末从周线复盘BTC，制定计划_哔哩哔哩_bilibili",
+          "height": 100,
+          "url": "https://pbs.twimg.com/card_img/2094646404979564544/H3UYwoQS?format=jpg&name=100x100_2",
+          "width": 100
+        },
+        "type": "IMAGE"
+      },
+      "thumbnail_image_x_large": {
+        "image_value": {
+          "alt": "1月25日周末从周线复盘BTC，制定计划_哔哩哔哩_bilibili",
+          "height": 630,
+          "url": "https://pbs.twimg.com/card_img/2094646404979564544/H3UYwoQS?format=png&name=2048x2048_2_exp",
+          "width": 1120
+        },
+        "type": "IMAGE"
+      },
+      "thumbnail_image_alt_text": {
+        "string_value": "1月25日周末从周线复盘BTC，制定计划_哔哩哔哩_bilibili",
+        "type": "STRING"
+      },
+      "vanity_url": {
+        "scribe_key": "vanity_url",
+        "string_value": "bilibili.com",
+        "type": "STRING"
+      },
+      "thumbnail_image_color": {
+        "image_color_value": {
+          "palette": [
+            {
+              "percentage": 73.97,
+              "rgb": {
+                "blue": 236,
+                "green": 236,
+                "red": 236
+              }
+            },
+            {
+              "percentage": 11.02,
+              "rgb": {
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              }
+            },
+            {
+              "percentage": 5.78,
+              "rgb": {
+                "blue": 53,
+                "green": 224,
+                "red": 236
+              }
+            },
+            {
+              "percentage": 2.89,
+              "rgb": {
+                "blue": 35,
+                "green": 130,
+                "red": 135
+              }
+            },
+            {
+              "percentage": 0.99,
+              "rgb": {
+                "blue": 20,
+                "green": 64,
+                "red": 66
+              }
+            }
+          ]
+        },
+        "type": "IMAGE_COLOR"
+      },
+      "title": {
+        "string_value": "1月25日周末从周线复盘BTC，制定计划_哔哩哔哩_bilibili",
+        "type": "STRING"
+      },
+      "card_url": {
+        "scribe_key": "card_url",
+        "string_value": "https://t.co/yGjx6VOmdr",
+        "type": "STRING"
+      }
+    }
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

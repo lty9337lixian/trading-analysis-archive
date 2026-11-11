@@ -1,0 +1,66 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/2033403139869769728/sH05x0AJ_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2044676406563774545/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2044676406563774545/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/2033403139869769728/sH05x0AJ_400x400.jpg",
+        "localPath": "2044676406563774545/imgs/img-002-sH05x0AJ_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2044676406563774545/imgs/img-002-sH05x0AJ_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2044676406563774545/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2044676406563774545",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2044676406563774545",
+    "title": "trader-c on X: \"交易逻辑和交易系统是两个概念\n\n好比打仗一样，交易逻辑是战略意图：\"我们要从北面突破敌人的防线，因为北面是他们的薄弱点。\"\n\n交易系统是整个作战计划，除了战略意图之外，还包括兵力部署（仓位分配）、后勤保障（资金储备）、通讯协议（执行流程）、撤退方案（止损机制）、战后复盘（交易回顾）、以及预备方案（应对计划外状况）。\n\n一个将军可以有绝妙的战略意图，但没有作战计划就无法把意图变成胜利。\n\n同样一个交易者可以有精准的市场判断，但没有完整的系统就无法把判断变成稳定的利润。\n\n所以我之前说“周期，结构，管理订单”组成我的交易系统是不准确的。。。\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-04-16T07:16:58.000Z",
+    "summary": "交易逻辑和交易系统是两个概念\n\n好比打仗一样，交易逻辑是战略意图：\"我们要从北面突破敌人的防线，因为北面是他们的薄弱点。\"\n\n交易系统是整个作战计划，除了战略意图之外，还包括兵力部署（仓位分配）、后勤保障（资金储备）、通讯协议（执行流程）、撤退方案（止损机制）、战后复盘（交易回顾）、以及预备方案（应对计划外状况）。\n\n一个将军可以有绝妙的战略意图，但没有作战计划就无法把意图变成胜利。\n\n同样一个交易者可以有精准的市场判断，但没有完整的系统就无法把判断变成稳定的利润。\n\n所以我之前说“周期，结构，管理订单”组成我的交易系统是不准确的。。。",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:52:28.272Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t交易逻辑和交易系统是两个概念 好比打仗一样，交易逻辑是战略意图：\"我们要从北面突破敌人的防线，因为北面是他们的薄弱点。\" 交易系统是整个作战计划，除了战略意图之外，还包括兵力部署（仓位分配）、后勤保障（资金储备）、通讯协议（执行流程）、撤退方案（止损机制）、战后复盘（交易回顾）、以及预备方案（应对计划外状况）。 一个将军可以有绝妙的战略意图，但没有作战计划就无法把意图变成胜利。 同样一个交易者可以有精准的市场判断，但没有完整的系统就无法把判断变成稳定的利润。 所以我之前说“周期，结构，管理订单”组成我的交易系统是不准确的。。。\n\t[15:16 · 2026年4月16日](https://x.com/TradercBTC/status/2044676406563774545) [4942Views](https://x.com/TradercBTC/status/2044676406563774545)\n\t[9](https://x.com/i/status/2044676406563774545)\n- [![@TradeWithLinn](https://pbs.twimg.com/profile_images/2033403139869769728/sH05x0AJ_400x400.jpg)](https://x.com/TradeWithLinn)\n\t战略意图再好，没有执行层面的细节也是白搭 很多人搞反了——花大量时间琢磨\"我为什么看多\"，却懒得想\"进去之后怎么办\" 止损怎么设？加仓条件是什么？回撤到什么程度要减仓？ 这些才是把战略变成可执行系统的关键"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2044676406563774545"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"交易逻辑和交易系统是两个概念\n  \n  好比打仗一样，交易逻辑是战略意图：\"我们要从北面突破敌人的防线，因为北面是他们的薄弱点。\"\n  \n  交易系统是整个作战计划，除了战略意图之外，还包括兵力部署（仓位分配）、后勤保障（资金储备）、通讯协议（执行流程）、撤退方案（止损机制）、战后复盘（交易回顾）、以及预备方案（应对计划外状况）。\n  \n  一个将军可以有绝妙的战略意图，但没有作战计划就无法把意图变成胜利。\n  \n  同样一个交易者可以有精准的市场判断，但没有完整的系统就无法把判断变成稳定的利润。\n  \n  所以我之前说“周期，结构，管理订单”组成我的交易系统是不准确的。。。\" / X\nurl: \"https://x.com/TradercBTC/status/2044676406563774545\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2044676406563774545\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2044676406563774545/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-04-16T07:16:58.000Z\"\nsummary: |-\n  交易逻辑和交易系统是两个概念\n  \n  好比打仗一样，交易逻辑是战略意图：\"我们要从北面突破敌人的防线，因为北面是他们的薄弱点。\"\n  \n  交易系统是整个作战计划，除了战略意图之外，还包括兵力部署（仓位分配）、后勤保障（资金储备）、通讯协议（执行流程）、撤退方案（止损机制）、战后复盘（交易回顾）、以及预备方案（应对计划外状况）。\n  \n  一个将军可以有绝妙的战略意图，但没有作战计划就无法把意图变成胜利。\n  \n  同样一个交易者可以有精准的市场判断，但没有完整的系统就无法把判断变成稳定的利润。\n  \n  所以我之前说“周期，结构，管理订单”组成我的交易系统是不准确的。。。\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:52:28.272Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"交易逻辑和交易系统是两个概念\n\n好比打仗一样，交易逻辑是战略意图：\"我们要从北面突破敌人的防线，因为北面是他们的薄弱点。\"\n\n交易系统是整个作战计划，除了战略意图之外，还包括兵力部署（仓位分配）、后勤保障（资金储备）、通讯协议（执行流程）、撤退方案（止损机制）、战后复盘（交易回顾）、以及预备方案（应对计划外状况）。\n\n一个将军可以有绝妙的战略意图，但没有作战计划就无法把意图变成胜利。\n\n同样一个交易者可以有精准的市场判断，但没有完整的系统就无法把判断变成稳定的利润。\n\n所以我之前说“周期，结构，管理订单”组成我的交易系统是不准确的。。。\" / X\n\n- [![@TradercBTC](2044676406563774545/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t交易逻辑和交易系统是两个概念 好比打仗一样，交易逻辑是战略意图：\"我们要从北面突破敌人的防线，因为北面是他们的薄弱点。\" 交易系统是整个作战计划，除了战略意图之外，还包括兵力部署（仓位分配）、后勤保障（资金储备）、通讯协议（执行流程）、撤退方案（止损机制）、战后复盘（交易回顾）、以及预备方案（应对计划外状况）。 一个将军可以有绝妙的战略意图，但没有作战计划就无法把意图变成胜利。 同样一个交易者可以有精准的市场判断，但没有完整的系统就无法把判断变成稳定的利润。 所以我之前说“周期，结构，管理订单”组成我的交易系统是不准确的。。。\n\t[15:16 · 2026年4月16日](https://x.com/TradercBTC/status/2044676406563774545) [4942Views](https://x.com/TradercBTC/status/2044676406563774545)\n\t[9](https://x.com/i/status/2044676406563774545)\n- [![@TradeWithLinn](2044676406563774545/imgs/img-002-sH05x0AJ_400x400.jpg)](https://x.com/TradeWithLinn)\n\t战略意图再好，没有执行层面的细节也是白搭 很多人搞反了——花大量时间琢磨\"我为什么看多\"，却懒得想\"进去之后怎么办\" 止损怎么设？加仓条件是什么？回撤到什么程度要减仓？ 这些才是把战略变成可执行系统的关键"
+}

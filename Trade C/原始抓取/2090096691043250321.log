@@ -1,0 +1,58 @@
+[info] Loading https://x.com/TradercBTC/status/2090096691043250321 with generic adapter
+[info] Downloaded 1 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2090096691043250321.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2090096691043250321/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2090096691043250321/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2090096691043250321/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2090096691043250321",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2090096691043250321",
+    "title": "trader-c on X: \"今天黄金和纳指在中间挂了空\n\n但是黄金止损了，受到黄金的影响，纳指的空单也撤了\n\n底下进了纳指的多，但是位置不好，止损了\n\n昨天赚了40点，今天亏了35点\n\n我哭😭\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-19T15:20:57.000Z",
+    "summary": "今天黄金和纳指在中间挂了空\n\n但是黄金止损了，受到黄金的影响，纳指的空单也撤了\n\n底下进了纳指的多，但是位置不好，止损了\n\n昨天赚了40点，今天亏了35点\n\n我哭😭",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:05:53.800Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n今天黄金和纳指在中间挂了空 但是黄金止损了，受到黄金的影响，纳指的空单也撤了 底下进了纳指的多，但是位置不好，止损了 昨天赚了40点，今天亏了35点 我哭😭\n\n[23:20 · 2026年8月19日](https://x.com/TradercBTC/status/2090096691043250321) [1746Views](https://x.com/TradercBTC/status/2090096691043250321)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2090096691043250321"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"今天黄金和纳指在中间挂了空\n  \n  但是黄金止损了，受到黄金的影响，纳指的空单也撤了\n  \n  底下进了纳指的多，但是位置不好，止损了\n  \n  昨天赚了40点，今天亏了35点\n  \n  我哭😭\" / X\nurl: \"https://x.com/TradercBTC/status/2090096691043250321\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2090096691043250321\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2090096691043250321/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-19T15:20:57.000Z\"\nsummary: |-\n  今天黄金和纳指在中间挂了空\n  \n  但是黄金止损了，受到黄金的影响，纳指的空单也撤了\n  \n  底下进了纳指的多，但是位置不好，止损了\n  \n  昨天赚了40点，今天亏了35点\n  \n  我哭😭\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:05:53.800Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"今天黄金和纳指在中间挂了空\n\n但是黄金止损了，受到黄金的影响，纳指的空单也撤了\n\n底下进了纳指的多，但是位置不好，止损了\n\n昨天赚了40点，今天亏了35点\n\n我哭😭\" / X\n\n[![@TradercBTC](2090096691043250321/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n今天黄金和纳指在中间挂了空 但是黄金止损了，受到黄金的影响，纳指的空单也撤了 底下进了纳指的多，但是位置不好，止损了 昨天赚了40点，今天亏了35点 我哭😭\n\n[23:20 · 2026年8月19日](https://x.com/TradercBTC/status/2090096691043250321) [1746Views](https://x.com/TradercBTC/status/2090096691043250321)\n\nOnly some accounts can reply."
+}

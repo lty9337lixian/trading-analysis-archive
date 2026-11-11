@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2093299972422713605 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2093299972422713605.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HQzi2r9aIAA-BVI.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2093299972422713605/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2093299972422713605/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HQzi2r9aIAA-BVI.jpg:large",
+        "localPath": "2093299972422713605/imgs/img-002-HQzi2r9aIAA-BVI-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2093299972422713605/imgs/img-002-HQzi2r9aIAA-BVI-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2093299972422713605/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2093299972422713605",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2093299972422713605",
+    "title": "trader-c on X: \"对比BTC上一轮熊市，在周线级别的表现来看现在\n\n上一轮，图一里，跌破支撑后没有看到追随，盘整一段时间后强势拉回，说明市场拒绝被跌破后的价格\n\n强势拉回后在上一个结构高点形成阻力，但是后续强势突破，开启了上涨，因为是周线，实际上这是相当长的一段时间\n\n现在来看这一轮，如果价格无法延续突破，迎来回调是一个必然的结果\n\n说实话我真的很难想象它会直接强势突破，但是这不好说，市场什么什么情况都可能发生\n\n目前我们看到的是，这一周的周线收的是阳k，如果周末跌不破周内低点，这一周就形成了一个比较好的追随\n\n那么就会诞生了下周可能继续突破的条件\n\n我们关注的应该有两个点：\n… / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-28T11:29:39.000Z",
+    "summary": "对比BTC上一轮熊市，在周线级别的表现来看现在\n\n上一轮，图一里，跌破支撑后没有看到追随，盘整一段时间后强势拉回，说明市场拒绝被跌破后的价格\n\n强势拉回后在上一个结构高点形成阻力，但是后续强势突破，开启了上涨，因为是周线，实际上这是相当长的一段时间\n\n现在来看这一轮，如果价格无法延续突破，迎来回调是一个必然的结果\n\n说实话我真的很难想象它会直接强势突破，但是这不好说，市场什么什么情况都可能发生\n\n目前我们看到的是，这一周的周线收的是阳k，如果周末跌不破周内低点，这一周就形成了一个比较好的追随\n\n那么就会诞生了下周可能继续突破的条件\n\n我们关注的应该有两个点：\n\n一个是这周的收盘，一个是下周的…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HQzi2r9aIAA-BVI.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:06:28.712Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n对比BTC上一轮熊市，在周线级别的表现来看现在 上一轮，图一里，跌破支撑后没有看到追随，盘整一段时间后强势拉回，说明市场拒绝被跌破后的价格 强势拉回后在上一个结构高点形成阻力，但是后续强势突破，开启了上涨，因为是周线，实际上这是相当长的一段时间 现在来看这一轮，如果价格无法延续突破，迎来回调是一个必然的结果 说实话我真的很难想象它会直接强势突破，但是这不好说，市场什么什么情况都可能发生 目前我们看到的是，这一周的周线收的是阳k，如果周末跌不破周内低点，这一周就形成了一个比较好的追随 那么就会诞生了下周可能继续突破的条件 我们关注的应该有两个点： 一个是这周的收盘，一个是下周的收盘。 最好的情况是：这周收盘没有跌破周内低点 下周收盘没有下跌的阴k反包这周的k线 但是我真的很难想象那种情况发生 目前我们有看空的理由吗？ 我觉得没有，如果你因为涨太多而看空，那太荒谬了（前提是你在相同的周期上）\n\n[19:29 · 2026年8月28日](https://x.com/TradercBTC/status/2093299972422713605) [8502Views](https://x.com/TradercBTC/status/2093299972422713605)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2093299972422713605"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"对比BTC上一轮熊市，在周线级别的表现来看现在\n  \n  上一轮，图一里，跌破支撑后没有看到追随，盘整一段时间后强势拉回，说明市场拒绝被跌破后的价格\n  \n  强势拉回后在上一个结构高点形成阻力，但是后续强势突破，开启了上涨，因为是周线，实际上这是相当长的一段时间\n  \n  现在来看这一轮，如果价格无法延续突破，迎来回调是一个必然的结果\n  \n  说实话我真的很难想象它会直接强势突破，但是这不好说，市场什么什么情况都可能发生\n  \n  目前我们看到的是，这一周的周线收的是阳k，如果周末跌不破周内低点，这一周就形成了一个比较好的追随\n  \n  那么就会诞生了下周可能继续突破的条件\n  \n  我们关注的应该有两个点：\n  … / X\nurl: \"https://x.com/TradercBTC/status/2093299972422713605\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2093299972422713605\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2093299972422713605/imgs/img-002-HQzi2r9aIAA-BVI-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-28T11:29:39.000Z\"\nsummary: |-\n  对比BTC上一轮熊市，在周线级别的表现来看现在\n  \n  上一轮，图一里，跌破支撑后没有看到追随，盘整一段时间后强势拉回，说明市场拒绝被跌破后的价格\n  \n  强势拉回后在上一个结构高点形成阻力，但是后续强势突破，开启了上涨，因为是周线，实际上这是相当长的一段时间\n  \n  现在来看这一轮，如果价格无法延续突破，迎来回调是一个必然的结果\n  \n  说实话我真的很难想象它会直接强势突破，但是这不好说，市场什么什么情况都可能发生\n  \n  目前我们看到的是，这一周的周线收的是阳k，如果周末跌不破周内低点，这一周就形成了一个比较好的追随\n  \n  那么就会诞生了下周可能继续突破的条件\n  \n  我们关注的应该有两个点：\n  \n  一个是这周的收盘，一个是下周的…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:06:28.712Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"对比BTC上一轮熊市，在周线级别的表现来看现在\n\n上一轮，图一里，跌破支撑后没有看到追随，盘整一段时间后强势拉回，说明市场拒绝被跌破后的价格\n\n强势拉回后在上一个结构高点形成阻力，但是后续强势突破，开启了上涨，因为是周线，实际上这是相当长的一段时间\n\n现在来看这一轮，如果价格无法延续突破，迎来回调是一个必然的结果\n\n说实话我真的很难想象它会直接强势突破，但是这不好说，市场什么什么情况都可能发生\n\n目前我们看到的是，这一周的周线收的是阳k，如果周末跌不破周内低点，这一周就形成了一个比较好的追随\n\n那么就会诞生了下周可能继续突破的条件\n\n我们关注的应该有两个点：\n… / X\n\n[![@TradercBTC](2093299972422713605/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n对比BTC上一轮熊市，在周线级别的表现来看现在 上一轮，图一里，跌破支撑后没有看到追随，盘整一段时间后强势拉回，说明市场拒绝被跌破后的价格 强势拉回后在上一个结构高点形成阻力，但是后续强势突破，开启了上涨，因为是周线，实际上这是相当长的一段时间 现在来看这一轮，如果价格无法延续突破，迎来回调是一个必然的结果 说实话我真的很难想象它会直接强势突破，但是这不好说，市场什么什么情况都可能发生 目前我们看到的是，这一周的周线收的是阳k，如果周末跌不破周内低点，这一周就形成了一个比较好的追随 那么就会诞生了下周可能继续突破的条件 我们关注的应该有两个点： 一个是这周的收盘，一个是下周的收盘。 最好的情况是：这周收盘没有跌破周内低点 下周收盘没有下跌的阴k反包这周的k线 但是我真的很难想象那种情况发生 目前我们有看空的理由吗？ 我觉得没有，如果你因为涨太多而看空，那太荒谬了（前提是你在相同的周期上）\n\n[19:29 · 2026年8月28日](https://x.com/TradercBTC/status/2093299972422713605) [8502Views](https://x.com/TradercBTC/status/2093299972422713605)\n\nOnly some accounts can reply."
+}

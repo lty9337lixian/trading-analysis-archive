@@ -1,0 +1,76 @@
+[info] Loading https://x.com/TradercBTC/status/2019427489232179478 with generic adapter
+[info] Downloaded 3 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2019427489232179478.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HAZxPRIboAA3cA0.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HAW0PfobUAA2CHR?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/HAZxPRIboAA3cA0.jpg:large",
+        "localPath": "2019427489232179478/imgs/img-001-HAZxPRIboAA3cA0-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2019427489232179478/imgs/img-001-HAZxPRIboAA3cA0-jpg-large.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2019427489232179478/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2019427489232179478/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HAW0PfobUAA2CHR?format=webp&name=medium",
+        "localPath": "2019427489232179478/imgs/img-003-HAW0PfobUAA2CHR.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2019427489232179478/imgs/img-003-HAW0PfobUAA2CHR.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 3,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2019427489232179478/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2019427489232179478",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2019427489232179478",
+    "title": "trader-c on X: \"$HYPE 更新一下 1H级别已经打破了上涨结构，形成了更低的低点和高点 这说明前一段的买方动能已经减弱了 买方看着价格无法突破，开始平仓，不再持有自己仓位，开始卖出。 卖方开始找机会卖出，在打破之后，卖方可能不着急平仓，准备持有自己的空头仓位去拿到更低的位置 最好的情况是在这里是一个假突破，然后随着 $BTC以前反弹，在这里形成一个宽的箱体震荡 这样如果有真实的买盘，价格可能继续上涨📈 总之在跌破28之前还是有机会继续up的 前提是没有非常强大的抛售现象\"",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-05T15:06:47.000Z",
+    "summary": "$HYPE 更新一下\n\n1H级别已经打破了上涨结构，形成了更低的低点和高点\n\n这说明前一段的买方动能已经减弱了\n\n买方看着价格无法突破，开始平仓，不再持有自己仓位，开始卖出。\n\n卖方开始找机会卖出，在打破之后，卖方可能不着急平仓，准备持有自己的空头仓位去拿到更低的位置\n\n最好的情况是在这里是一个假突破，然后随着 $BTC以前反弹，在这里形成一个宽的箱体震荡\n\n这样如果有真实的买盘，价格可能继续上涨📈\n\n总之在跌破28之前还是有机会继续up的\n\n前提是没有非常强大的抛售现象",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HAZxPRIboAA3cA0.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:56:37.208Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[$HYPE](https://x.com/search?q=$HYPE) 更新一下 1H级别已经打破了上涨结构，形成了更低的低点和高点 这说明前一段的买方动能已经减弱了 买方看着价格无法突破，开始平仓，不再持有自己仓位，开始卖出。 卖方开始找机会卖出，在打破之后，卖方可能不着急平仓，准备持有自己的空头仓位去拿到更低的位置 最好的情况是在这里是一个假突破，然后随着 $BTC以前反弹，在这里形成一个宽的箱体震荡 这样如果有真实的买盘，价格可能继续上涨📈 总之在跌破28之前还是有机会继续up的 前提是没有非常强大的抛售现象\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[2月5日](https://x.com/TradercBTC/status/2019219173956808958)\n\n[$HYPE](https://x.com/search?q=$HYPE) 日线和周线还是非常强势的，连续阳k 小时级别基本上都是多头均线排布 第一次上涨偏离度太高，但是中间走了一个下跌三推，虽然转为箱体震荡了，但是在箱体测试了买方力量 这说明第二波上涨是真金白银，有买方力量的上涨 可以看到价格沿着趋势线走上升结构\n\n[![](https://pbs.twimg.com/media/HAW0PfobUAA2CHR?format=webp&name=medium)](https://x.com/TradercBTC/status/2019219173956808958/photo/1)\n\n[23:06 · 2026年2月5日](https://x.com/TradercBTC/status/2019427489232179478)[8530Views](https://x.com/TradercBTC/status/2019427489232179478)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2019427489232179478"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"$HYPE 更新一下 1H级别已经打破了上涨结构，形成了更低的低点和高点 这说明前一段的买方动能已经减弱了 买方看着价格无法突破，开始平仓，不再持有自己仓位，开始卖出。 卖方开始找机会卖出，在打破之后，卖方可能不着急平仓，准备持有自己的空头仓位去拿到更低的位置 最好的情况是在这里是一个假突破，然后随着 $BTC以前反弹，在这里形成一个宽的箱体震荡 这样如果有真实的买盘，价格可能继续上涨📈 总之在跌破28之前还是有机会继续up的 前提是没有非常强大的抛售现象\\\"\"\nurl: \"https://x.com/TradercBTC/status/2019427489232179478\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2019427489232179478\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2019427489232179478/imgs/img-001-HAZxPRIboAA3cA0-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-05T15:06:47.000Z\"\nsummary: |-\n  $HYPE 更新一下\n  \n  1H级别已经打破了上涨结构，形成了更低的低点和高点\n  \n  这说明前一段的买方动能已经减弱了\n  \n  买方看着价格无法突破，开始平仓，不再持有自己仓位，开始卖出。\n  \n  卖方开始找机会卖出，在打破之后，卖方可能不着急平仓，准备持有自己的空头仓位去拿到更低的位置\n  \n  最好的情况是在这里是一个假突破，然后随着 $BTC以前反弹，在这里形成一个宽的箱体震荡\n  \n  这样如果有真实的买盘，价格可能继续上涨📈\n  \n  总之在跌破28之前还是有机会继续up的\n  \n  前提是没有非常强大的抛售现象\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:56:37.208Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"$HYPE 更新一下 1H级别已经打破了上涨结构，形成了更低的低点和高点 这说明前一段的买方动能已经减弱了 买方看着价格无法突破，开始平仓，不再持有自己仓位，开始卖出。 卖方开始找机会卖出，在打破之后，卖方可能不着急平仓，准备持有自己的空头仓位去拿到更低的位置 最好的情况是在这里是一个假突破，然后随着 $BTC以前反弹，在这里形成一个宽的箱体震荡 这样如果有真实的买盘，价格可能继续上涨📈 总之在跌破28之前还是有机会继续up的 前提是没有非常强大的抛售现象\"\n\n[![@TradercBTC](2019427489232179478/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[$HYPE](https://x.com/search?q=$HYPE) 更新一下 1H级别已经打破了上涨结构，形成了更低的低点和高点 这说明前一段的买方动能已经减弱了 买方看着价格无法突破，开始平仓，不再持有自己仓位，开始卖出。 卖方开始找机会卖出，在打破之后，卖方可能不着急平仓，准备持有自己的空头仓位去拿到更低的位置 最好的情况是在这里是一个假突破，然后随着 $BTC以前反弹，在这里形成一个宽的箱体震荡 这样如果有真实的买盘，价格可能继续上涨📈 总之在跌破28之前还是有机会继续up的 前提是没有非常强大的抛售现象\n\n[![@TradercBTC](2019427489232179478/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[2月5日](https://x.com/TradercBTC/status/2019219173956808958)\n\n[$HYPE](https://x.com/search?q=$HYPE) 日线和周线还是非常强势的，连续阳k 小时级别基本上都是多头均线排布 第一次上涨偏离度太高，但是中间走了一个下跌三推，虽然转为箱体震荡了，但是在箱体测试了买方力量 这说明第二波上涨是真金白银，有买方力量的上涨 可以看到价格沿着趋势线走上升结构\n\n[![](2019427489232179478/imgs/img-003-HAW0PfobUAA2CHR.webp)](https://x.com/TradercBTC/status/2019219173956808958/photo/1)\n\n[23:06 · 2026年2月5日](https://x.com/TradercBTC/status/2019427489232179478)[8530Views](https://x.com/TradercBTC/status/2019427489232179478)"
+}

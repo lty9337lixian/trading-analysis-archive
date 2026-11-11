@@ -1,0 +1,73 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 6,
+  "lang": "zh",
+  "created_at": "2026-06-24T05:14:36.000Z",
+  "display_text_range": [
+    0,
+    105
+  ],
+  "entities": {},
+  "id_str": "2069650377616888166",
+  "text": "主要是最近在研究基本面，大a的行业主线\n\n想要完整参与一次主线\n\n元件明显已经太高了，说不定能源金属能接力，哪怕接力一个中期的，两周，也算是我第一次介入主线的经验了😂\n\n实践一下，检验一下我的学习成果，再复盘",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2069650377616888166"
+    ],
+    "editable_until_msecs": "1782281676000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "conversation_control": {
+      "policy": "Verified"
+    },
+    "favorite_count": 5,
+    "lang": "zh",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "created_at": "2026-06-24T05:12:38.000Z",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "entities": {},
+    "id_str": "2069649881271275687",
+    "text": "早上追了融捷股份，现在封板，成本88，5个点\n\n逻辑链：\n\n前一段大盘下跌时，电子元件相对强度最高，基本没怎么下跌——大盘回涨时，元件爆发——相对强度在前列的都是和元件有关的，相对来说独立的是能源金属——上周开始追踪能源金属",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2069649881271275687"
+      ],
+      "editable_until_msecs": "1782281558000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

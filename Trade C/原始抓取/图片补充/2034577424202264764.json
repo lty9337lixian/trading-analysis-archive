@@ -1,0 +1,98 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 43,
+  "lang": "zh",
+  "created_at": "2026-03-19T10:27:13.000Z",
+  "display_text_range": [
+    0,
+    159
+  ],
+  "entities": {},
+  "id_str": "2034577424202264764",
+  "text": "非常好的一篇文章，对于想学习或者使用claude code的skills技巧辅助交易的人非常值得一看。\n\n看完之后给我蛮多启发的，我感觉这才是AI辅佐交易的一个正确的路径。（！！！这是建立在我之前研究了很多的这方面内容的基础上）\n\n首先这个对我来说，最有用的启发就是：可以交易经验变成 Gotchas。\n\nClaude",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2034577424202264764"
+    ],
+    "editable_until_msecs": "1773919633000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 1,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "favorite_count": 16429,
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "reply_count": 388,
+    "retweet_count": 2268,
+    "created_at": "2026-03-17T16:53:48.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2033…",
+          "expanded_url": "http://x.com/i/article/2033772621536591872",
+          "indices": [
+            0,
+            23
+          ],
+          "url": "https://t.co/45C3gKydTK"
+        }
+      ]
+    },
+    "id_str": "2033949937936085378",
+    "text": "https://t.co/45C3gKydTK",
+    "user": {
+      "id_str": "352806502",
+      "name": "Thariq is on vacation",
+      "screen_name": "trq212",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1976939058741039104/r3GgzqRh_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2033949937936085378"
+      ],
+      "editable_until_msecs": "1773770028000",
+      "edits_remaining": "5",
+      "is_edit_eligible": false
+    },
+    "article": {
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHDl2jn9a0AAKAAIAAAAAFQdmZgAA",
+        "media_info": {
+          "__typename": "ApiImage",
+          "original_img_height": 768,
+          "original_img_url": "https://pbs.twimg.com/media/HDl2jn9a0AAZkyz.jpg",
+          "original_img_width": 1920
+        }
+      },
+      "id": "QXJ0aWNsZUVudGl0eToyMDMzNzcyNjIxNTM2NTkxODcy",
+      "preview_text": "Skills have become one of the most used extension points in Claude Code. They’re flexible, easy to make, and simple to distribute.\nBut this flexibility also makes it hard to know what works best. What",
+      "rest_id": "2033772621536591872",
+      "title": "Lessons from Building Claude Code: How We Use Skills "
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDM0NTc3NDI0MDA5Mjg5NzI4"
+  }
+}

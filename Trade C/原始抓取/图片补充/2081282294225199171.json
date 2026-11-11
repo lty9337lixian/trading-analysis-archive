@@ -1,0 +1,62 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 19,
+  "lang": "zxx",
+  "possibly_sensitive": false,
+  "created_at": "2026-07-26T07:35:41.000Z",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2081…",
+        "expanded_url": "http://x.com/i/article/2081278331928932352",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/SQB4Iho9Fv"
+      }
+    ]
+  },
+  "id_str": "2081282294225199171",
+  "text": "https://t.co/SQB4Iho9Fv",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2081282294225199171"
+    ],
+    "editable_until_msecs": "1785054941000",
+    "edits_remaining": "5",
+    "is_edit_eligible": false
+  },
+  "conversation_count": 1,
+  "news_action_type": "conversation",
+  "article": {
+    "cover_media": {
+      "id": "QXBpTWVkaWE6DAAFCgABHOIzHy8aEAAKAAIaqP8AOBtwBgAA",
+      "media_info": {
+        "__typename": "ApiImage",
+        "original_img_height": 1312,
+        "original_img_url": "https://pbs.twimg.com/media/HOIzHy8aEAAxZa5.jpg",
+        "original_img_width": 3280
+      }
+    },
+    "id": "QXJ0aWNsZUVudGl0eToyMDgxMjc4MzMxOTI4OTMyMzUy",
+    "preview_text": "一笔完整的交易，可以分为以下几个步骤：\n确定交易周期\n识别市场环境\n判断不同周期的方向与动能\n制定入场计划\n规划止盈与止损\n按规则执行交易计划\n一、确定交易周期",
+    "rest_id": "2081278331928932352",
+    "title": "如何进行一笔完整交易？"
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

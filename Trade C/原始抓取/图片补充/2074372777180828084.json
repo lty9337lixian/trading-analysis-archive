@@ -1,0 +1,205 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 78,
+  "lang": "zh",
+  "created_at": "2026-07-07T05:59:44.000Z",
+  "display_text_range": [
+    0,
+    118
+  ],
+  "entities": {},
+  "id_str": "2074372777180828084",
+  "text": "几个提高交易账户盈利的好习惯：\n\n1:确认信号加仓法\n这套方法对我效果极佳。\n\n我发现，一旦行情开始向持仓有利方向运行，这笔交易最终盈利的概率会大幅上升。\n\n开仓时仅下计划仓位的一半；\n\n若价格触及止损失效位，仅亏损原定仓位一半的资金；",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2074372777180828084"
+    ],
+    "editable_until_msecs": "1783407584000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "favorite_count": 214,
+    "lang": "en",
+    "possibly_sensitive": false,
+    "reply_count": 8,
+    "retweet_count": 10,
+    "created_at": "2026-07-06T18:04:19.000Z",
+    "display_text_range": [
+      0,
+      274
+    ],
+    "entities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/RinP0eAJE4",
+          "expanded_url": "https://x.com/Luckshuryy/status/2074192735259726123/photo/1",
+          "indices": [
+            275,
+            298
+          ],
+          "url": "https://t.co/RinP0eAJE4"
+        }
+      ]
+    },
+    "id_str": "2074192735259726123",
+    "text": "Few things I did to increase pnl:\n\n1. Confirmation-based scaling. In my case this works exceptionally well. I know that once the trade begins to move in my favour the chance of it turning into a winner largely increases. Start with half the initial size, if price goes to my https://t.co/RinP0eAJE4",
+    "user": {
+      "id_str": "1468002736260235267",
+      "name": "Luckshury",
+      "screen_name": "Luckshuryy",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1688570098489896962/ehV5yAuF_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2074192735259726123"
+      ],
+      "editable_until_msecs": "1783364659000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "mediaDetails": [
+      {
+        "display_url": "pic.x.com/RinP0eAJE4",
+        "expanded_url": "https://x.com/Luckshuryy/status/2074192735259726123/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "indices": [
+          275,
+          298
+        ],
+        "media_url_https": "https://pbs.twimg.com/media/HMkDTQ8agAAfuI0.png",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 317,
+              "w": 566,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 425,
+              "w": 425,
+              "x": 85,
+              "y": 0
+            },
+            {
+              "h": 425,
+              "w": 373,
+              "x": 111,
+              "y": 0
+            },
+            {
+              "h": 425,
+              "w": 213,
+              "x": 191,
+              "y": 0
+            },
+            {
+              "h": 425,
+              "w": 566,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 425,
+          "width": 566
+        },
+        "sizes": {
+          "large": {
+            "h": 425,
+            "resize": "fit",
+            "w": 566
+          },
+          "medium": {
+            "h": 425,
+            "resize": "fit",
+            "w": 566
+          },
+          "small": {
+            "h": 425,
+            "resize": "fit",
+            "w": 566
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/RinP0eAJE4"
+      }
+    ],
+    "photos": [
+      {
+        "backgroundColor": {
+          "red": 204,
+          "green": 214,
+          "blue": 221
+        },
+        "cropCandidates": [
+          {
+            "h": 317,
+            "w": 566,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 425,
+            "w": 425,
+            "x": 85,
+            "y": 0
+          },
+          {
+            "h": 425,
+            "w": 373,
+            "x": 111,
+            "y": 0
+          },
+          {
+            "h": 425,
+            "w": 213,
+            "x": 191,
+            "y": 0
+          },
+          {
+            "h": 425,
+            "w": 566,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "expandedUrl": "https://x.com/Luckshuryy/status/2074192735259726123/photo/1",
+        "url": "https://pbs.twimg.com/media/HMkDTQ8agAAfuI0.png",
+        "width": 566,
+        "height": 425
+      }
+    ],
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDc0MzcyNzc3MTMwNTUzMzQ0"
+  }
+}

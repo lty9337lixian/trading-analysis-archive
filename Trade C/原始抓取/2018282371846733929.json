@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HAJT0GrbUAAypyK.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2018282371846733929/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2018282371846733929/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HAJT0GrbUAAypyK.jpg:large",
+        "localPath": "2018282371846733929/imgs/img-002-HAJT0GrbUAAypyK-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2018282371846733929/imgs/img-002-HAJT0GrbUAAypyK-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2018282371846733929/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2018282371846733929",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2018282371846733929",
+    "title": "trader-c on X: \"一\n纳斯达克日线周期\n\n1：价格在支撑阻力呼唤位之上  \n\n2:价格在箱体震荡0.5上方  \n\n3.三推想要向上突破，但是失败，回调后向上突破又失败  说明买方没有力量将价格推动延续趋势，背后的资金处于观望而不是买入\n\n因此认为nq的处于市场平衡状态，处于蓄力状态。\n\n4h级别市场处于假突破，跌回箱体的结构\n\n震荡区间我们的策略是低买高卖，仓位减小。\n\n或者等待市场上下突破。\n\n二.短期结构\n\n1H级别跌破了蓝色的上升通道\n\n15min走出了箱体区间更低的低点和更低的高点\n\n三.日内思路\n\n做空：\n5min等待回调，到图三的上方的阻力位，期待走出一个BOS的突… / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-02T11:16:29.000Z",
+    "summary": "一\n纳斯达克日线周期\n\n1：价格在支撑阻力呼唤位之上  \n\n2:价格在箱体震荡0.5上方  \n\n3.三推想要向上突破，但是失败，回调后向上突破又失败  说明买方没有力量将价格推动延续趋势，背后的资金处于观望而不是买入\n\n因此认为nq的处于市场平衡状态，处于蓄力状态。\n\n4h级别市场处于假突破，跌回箱体的结构\n\n震荡区间我们的策略是低买高卖，仓位减小。\n\n或者等待市场上下突破。\n\n二.短期结构\n\n1H级别跌破了蓝色的上升通道\n\n15min走出了箱体区间更低的低点和更低的高点\n\n三.日内思路\n\n做空：\n5min等待回调，到图三的上方的阻力位，期待走出一个BOS的突破\n\n目标1:突破bos\n\n目标…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HAJT0GrbUAAypyK.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:55:38.093Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n一 纳斯达克日线周期 1：价格在支撑阻力呼唤位之上 2:价格在箱体震荡0.5上方 3.三推想要向上突破，但是失败，回调后向上突破又失败 说明买方没有力量将价格推动延续趋势，背后的资金处于观望而不是买入 因此认为nq的处于市场平衡状态，处于蓄力状态。 4h级别市场处于假突破，跌回箱体的结构 震荡区间我们的策略是低买高卖，仓位减小。 或者等待市场上下突破。 二.短期结构 1H级别跌破了蓝色的上升通道 15min走出了箱体区间更低的低点和更低的高点 三.日内思路 做空： 5min等待回调，到图三的上方的阻力位，期待走出一个BOS的突破 目标1:突破bos 目标2:箱体底部 做多：等待\n\n[19:16 · 2026年2月2日](https://x.com/TradercBTC/status/2018282371846733929) [4805Views](https://x.com/TradercBTC/status/2018282371846733929)\n\n[1](https://x.com/i/status/2018282371846733929)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2018282371846733929"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"一\n  纳斯达克日线周期\n  \n  1：价格在支撑阻力呼唤位之上  \n  \n  2:价格在箱体震荡0.5上方  \n  \n  3.三推想要向上突破，但是失败，回调后向上突破又失败  说明买方没有力量将价格推动延续趋势，背后的资金处于观望而不是买入\n  \n  因此认为nq的处于市场平衡状态，处于蓄力状态。\n  \n  4h级别市场处于假突破，跌回箱体的结构\n  \n  震荡区间我们的策略是低买高卖，仓位减小。\n  \n  或者等待市场上下突破。\n  \n  二.短期结构\n  \n  1H级别跌破了蓝色的上升通道\n  \n  15min走出了箱体区间更低的低点和更低的高点\n  \n  三.日内思路\n  \n  做空：\n  5min等待回调，到图三的上方的阻力位，期待走出一个BOS的突… / X\nurl: \"https://x.com/TradercBTC/status/2018282371846733929\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2018282371846733929\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2018282371846733929/imgs/img-002-HAJT0GrbUAAypyK-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-02T11:16:29.000Z\"\nsummary: |-\n  一\n  纳斯达克日线周期\n  \n  1：价格在支撑阻力呼唤位之上  \n  \n  2:价格在箱体震荡0.5上方  \n  \n  3.三推想要向上突破，但是失败，回调后向上突破又失败  说明买方没有力量将价格推动延续趋势，背后的资金处于观望而不是买入\n  \n  因此认为nq的处于市场平衡状态，处于蓄力状态。\n  \n  4h级别市场处于假突破，跌回箱体的结构\n  \n  震荡区间我们的策略是低买高卖，仓位减小。\n  \n  或者等待市场上下突破。\n  \n  二.短期结构\n  \n  1H级别跌破了蓝色的上升通道\n  \n  15min走出了箱体区间更低的低点和更低的高点\n  \n  三.日内思路\n  \n  做空：\n  5min等待回调，到图三的上方的阻力位，期待走出一个BOS的突破\n  \n  目标1:突破bos\n  \n  目标…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:55:38.093Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"一\n纳斯达克日线周期\n\n1：价格在支撑阻力呼唤位之上  \n\n2:价格在箱体震荡0.5上方  \n\n3.三推想要向上突破，但是失败，回调后向上突破又失败  说明买方没有力量将价格推动延续趋势，背后的资金处于观望而不是买入\n\n因此认为nq的处于市场平衡状态，处于蓄力状态。\n\n4h级别市场处于假突破，跌回箱体的结构\n\n震荡区间我们的策略是低买高卖，仓位减小。\n\n或者等待市场上下突破。\n\n二.短期结构\n\n1H级别跌破了蓝色的上升通道\n\n15min走出了箱体区间更低的低点和更低的高点\n\n三.日内思路\n\n做空：\n5min等待回调，到图三的上方的阻力位，期待走出一个BOS的突… / X\n\n[![@TradercBTC](2018282371846733929/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n一 纳斯达克日线周期 1：价格在支撑阻力呼唤位之上 2:价格在箱体震荡0.5上方 3.三推想要向上突破，但是失败，回调后向上突破又失败 说明买方没有力量将价格推动延续趋势，背后的资金处于观望而不是买入 因此认为nq的处于市场平衡状态，处于蓄力状态。 4h级别市场处于假突破，跌回箱体的结构 震荡区间我们的策略是低买高卖，仓位减小。 或者等待市场上下突破。 二.短期结构 1H级别跌破了蓝色的上升通道 15min走出了箱体区间更低的低点和更低的高点 三.日内思路 做空： 5min等待回调，到图三的上方的阻力位，期待走出一个BOS的突破 目标1:突破bos 目标2:箱体底部 做多：等待\n\n[19:16 · 2026年2月2日](https://x.com/TradercBTC/status/2018282371846733929) [4805Views](https://x.com/TradercBTC/status/2018282371846733929)\n\n[1](https://x.com/i/status/2018282371846733929)"
+}

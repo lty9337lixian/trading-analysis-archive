@@ -1,0 +1,45 @@
+{
+  "base": "Use case: infographic-diagram. Generate one polished Chinese educational infographic for an Obsidian trading lesson, landscape 3:2, high resolution, legible simplified Chinese typography. Warm ivory paper, dark navy typography, teal and coral chart lines, golden highlights. Notebook-style editorial infographic, clear hierarchy, generous whitespace, 4 visual panels, a small friendly cartoon learner as supporting accent. Diagrams dominate over text. All charts schematic, no actual market prices, no profit guarantees. Footer exact: “教学示意 · 非实际行情”. ",
+  "topics": [
+    [
+      "01",
+      "价格行为学先导篇",
+      "Title: “01 价格行为学先导篇”. Central visual nesting three lenses: “背景” → “位置” → “信号”. Panels show trending line versus range; four schematic candlesticks long upper wick, long lower wick, large body, doji labelled “形态要结合背景”; balance scales win rate versus reward labelled “胜率 × 平均盈利 − 败率 × 平均亏损 − 成本”; small journal labelled “用一组交易评价系统”. Bottom takeaway “先看结构，再看单根K线”. Correct formula, no invented statistics."
+    ],
+    [
+      "02",
+      "通道篇",
+      "Title: “02 通道篇”. Large descending parallel channel diagram with prices oscillating inside; highlight lower boundary as observation zone, smaller inset shows rejection lower wick then bullish follow-through. Clear flow “位置 → 信号 → 跟随 → 计划”. Mark initial structural invalidation below local swing low, target near upper channel. Separate small panel “止盈 ≠ 反手” showing exit door versus new decision. Takeaway “碰到通道线，只是开始观察”. Do not show automatic buy every touch."
+    ],
+    [
+      "03",
+      "交易心理和仓位管理",
+      "Title: “03 交易心理与仓位管理”. Four panels: separate jars “生活资金” and “交易资金”; descending decision staircase “交易假设 → 失效位置 → 风险预算 → 仓位数量”; formula card exact “数量 = 风险预算 ÷ 每单位风险”; cartoon calm learner observing three clouds “亏损”“卖飞”“踏空”. Show small vs overloaded backpack to explain emotion and exposure. Takeaway “先定风险，再定仓位”. Small warning “计划止损不保证成交价”. No percentage recommendation."
+    ],
+    [
+      "04",
+      "突破单和移动止损篇",
+      "Title: “04 突破与移动止损”. Main chart range breakout upward, retrace to old upper boundary then renewed upward movement, stages numbered with “边界”“突破”“回踩”“再推进”. Second chart rising zigzag and stair-step protective stop BELOW confirmed higher swing lows, not above prices, labelled “跟随已形成的结构”. Branch diagram after breakout to “延续”“震荡”“失败”. Takeaway “确认有代价，退出有规则”. No guarantee breakouts succeed."
+    ],
+    [
+      "05",
+      "支撑和阻力篇",
+      "Title: “05 支撑与阻力”. Main schematic shows translucent horizontal zones NOT precise thin lines; bounce support then break below, retest from underneath rejected, labels “原支撑”“跌破”“回抽”“潜在阻力”. Four small icons of “前高前低”“区间边缘”“通道边缘”“推动起点”. Magnifying glass over zone with “观察反应，再做判断”. Compare repeated touches with weakening bounce using question icon not guarantee. Takeaway “位置不等于入场”. No claims about actual institutional intent."
+    ],
+    [
+      "06",
+      "MM篇",
+      "Title: “06 MM 测量目标”. Two exceptionally clear geometry charts. Left upward leg A at100 to B at110, retracement C at106, dashed projection T at116; label “推动段等距” and formula “T = C + (B − A)”. Right rectangular range bottom100 top110 heightH10, dashed upward projection to120 measured FROM upper boundary110, label “箱体突破” formula “目标 = 上边界 + H”. These are illustrative numbers, caption “数值仅为画法示例”. Bottom three icon cards “规划目标”“衡量剩余空间”“观察到位反应”. Takeaway “目标是参考，不是必达承诺”. Accurate geometry and arithmetic."
+    ],
+    [
+      "07",
+      "反转篇",
+      "Title: “07 反转篇”. Main teaching sequence “趋势减弱 → 结构破坏 → 回测失败 → 反向推进”. Three distinct mini line charts labelled “双顶”“头肩顶”“楔形”, show neckline for first two and converging boundaries wedge. Branch outcomes “反转”“横盘”“原趋势恢复”. Small learner with magnifier inspecting confirmation rather than guessing exact top. Takeaway “涨不动，不等于马上下跌”. Shapes accurate, no exact performance stats."
+    ],
+    [
+      "08",
+      "缺口篇",
+      "Title: “08 缺口篇”. Diagram focuses on price-action unrevisited zones, NOT only overnight candle gaps. Main line drops below shaded prior trading zone, bounce fails to reach it, continues lower, label “尚未回访的关键区域”; paired smaller chart price repeatedly crossing zone labelled “反复回补：观察震荡”. Friendly bull and bear icons as metaphor, small caption “被套是解释模型，不是仓位事实”. Four comparison tiles “距离”“时间”“反击”“持续性”. Takeaway “看谁的推进更能维持”. No promise all gaps fill."
+    ]
+  ]
+}

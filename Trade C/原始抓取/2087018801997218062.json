@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HPaUaSNaUAAqq9M.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2087018801997218062/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2087018801997218062/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HPaUaSNaUAAqq9M.jpg:large",
+        "localPath": "2087018801997218062/imgs/img-002-HPaUaSNaUAAqq9M-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2087018801997218062/imgs/img-002-HPaUaSNaUAAqq9M-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2087018801997218062/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2087018801997218062",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2087018801997218062",
+    "title": "trader-c on X: \"我认为日线是区间，更高周期可能是下跌结构\n\n但是目前看来在日线级别，在触碰上方阻力之后，下跌的动能没有展现出有效且强力的推动力量\n\n假设这是一段强力的下跌结构，应该出现向下的连续推动\n\n从空间来说，跌破底下的支撑，形成更低的低点，回调腿也不应该像现在这样，每次回调都回调到上次高点附近，没有拉开距离\n\n从时间来说，这么多天，没有像第一次触碰阻力位，接下来两周很快跌破了很大的区间\n\n所以上下的概率其实都差不多的，单纯是一个中性区间\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-11T03:30:31.000Z",
+    "summary": "我认为日线是区间，更高周期可能是下跌结构\n\n但是目前看来在日线级别，在触碰上方阻力之后，下跌的动能没有展现出有效且强力的推动力量\n\n假设这是一段强力的下跌结构，应该出现向下的连续推动\n\n从空间来说，跌破底下的支撑，形成更低的低点，回调腿也不应该像现在这样，每次回调都回调到上次高点附近，没有拉开距离\n\n从时间来说，这么多天，没有像第一次触碰阻力位，接下来两周很快跌破了很大的区间\n\n所以上下的概率其实都差不多的，单纯是一个中性区间",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HPaUaSNaUAAqq9M.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:05:04.464Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t我认为日线是区间，更高周期可能是下跌结构 但是目前看来在日线级别，在触碰上方阻力之后，下跌的动能没有展现出有效且强力的推动力量 假设这是一段强力的下跌结构，应该出现向下的连续推动 从空间来说，跌破底下的支撑，形成更低的低点，回调腿也不应该像现在这样，每次回调都回调到上次高点附近，没有拉开距离 从时间来说，这么多天，没有像第一次触碰阻力位，接下来两周很快跌破了很大的区间 所以上下的概率其实都差不多的，单纯是一个中性区间\n\t[11:30 · 2026年8月11日](https://x.com/TradercBTC/status/2087018801997218062) [1万Views](https://x.com/TradercBTC/status/2087018801997218062)\n\t[4](https://x.com/i/status/2087018801997218062)\n\tOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2087018801997218062"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"我认为日线是区间，更高周期可能是下跌结构\n  \n  但是目前看来在日线级别，在触碰上方阻力之后，下跌的动能没有展现出有效且强力的推动力量\n  \n  假设这是一段强力的下跌结构，应该出现向下的连续推动\n  \n  从空间来说，跌破底下的支撑，形成更低的低点，回调腿也不应该像现在这样，每次回调都回调到上次高点附近，没有拉开距离\n  \n  从时间来说，这么多天，没有像第一次触碰阻力位，接下来两周很快跌破了很大的区间\n  \n  所以上下的概率其实都差不多的，单纯是一个中性区间\" / X\nurl: \"https://x.com/TradercBTC/status/2087018801997218062\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2087018801997218062\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2087018801997218062/imgs/img-002-HPaUaSNaUAAqq9M-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-11T03:30:31.000Z\"\nsummary: |-\n  我认为日线是区间，更高周期可能是下跌结构\n  \n  但是目前看来在日线级别，在触碰上方阻力之后，下跌的动能没有展现出有效且强力的推动力量\n  \n  假设这是一段强力的下跌结构，应该出现向下的连续推动\n  \n  从空间来说，跌破底下的支撑，形成更低的低点，回调腿也不应该像现在这样，每次回调都回调到上次高点附近，没有拉开距离\n  \n  从时间来说，这么多天，没有像第一次触碰阻力位，接下来两周很快跌破了很大的区间\n  \n  所以上下的概率其实都差不多的，单纯是一个中性区间\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:05:04.464Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"我认为日线是区间，更高周期可能是下跌结构\n\n但是目前看来在日线级别，在触碰上方阻力之后，下跌的动能没有展现出有效且强力的推动力量\n\n假设这是一段强力的下跌结构，应该出现向下的连续推动\n\n从空间来说，跌破底下的支撑，形成更低的低点，回调腿也不应该像现在这样，每次回调都回调到上次高点附近，没有拉开距离\n\n从时间来说，这么多天，没有像第一次触碰阻力位，接下来两周很快跌破了很大的区间\n\n所以上下的概率其实都差不多的，单纯是一个中性区间\" / X\n\n- [![@TradercBTC](2087018801997218062/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t我认为日线是区间，更高周期可能是下跌结构 但是目前看来在日线级别，在触碰上方阻力之后，下跌的动能没有展现出有效且强力的推动力量 假设这是一段强力的下跌结构，应该出现向下的连续推动 从空间来说，跌破底下的支撑，形成更低的低点，回调腿也不应该像现在这样，每次回调都回调到上次高点附近，没有拉开距离 从时间来说，这么多天，没有像第一次触碰阻力位，接下来两周很快跌破了很大的区间 所以上下的概率其实都差不多的，单纯是一个中性区间\n\t[11:30 · 2026年8月11日](https://x.com/TradercBTC/status/2087018801997218062) [1万Views](https://x.com/TradercBTC/status/2087018801997218062)\n\t[4](https://x.com/i/status/2087018801997218062)\n\tOnly some accounts can reply."
+}

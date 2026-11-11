@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HEBdPnkbgAAKuNr.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2035729892969718037/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2035729892969718037/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HEBdPnkbgAAKuNr.jpg:large",
+        "localPath": "2035729892969718037/imgs/img-002-HEBdPnkbgAAKuNr-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2035729892969718037/imgs/img-002-HEBdPnkbgAAKuNr-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2035729892969718037/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2035729892969718037",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2035729892969718037",
+    "title": "trader-c on X: \"周末复盘\n\n上周开始，在3.16的时候对大a有三个想法，基本没什么出入，意外的是我没想到大a跌这么干脆。\n\n首先前几周动能减弱，就感觉不太妙了，这周跌了个大的\n\n其次跌破上面的小区间减仓也是正确的\n\n最后大a的特殊性，选强势板块，比如电力或者新能源，煤炭之类，确实比起其他半导体之类的板块跌幅要小，甚至新能源和煤炭还是向上的。\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-03-22T14:46:43.000Z",
+    "summary": "周末复盘\n\n上周开始，在3.16的时候对大a有三个想法，基本没什么出入，意外的是我没想到大a跌这么干脆。\n\n首先前几周动能减弱，就感觉不太妙了，这周跌了个大的\n\n其次跌破上面的小区间减仓也是正确的\n\n最后大a的特殊性，选强势板块，比如电力或者新能源，煤炭之类，确实比起其他半导体之类的板块跌幅要小，甚至新能源和煤炭还是向上的。",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HEBdPnkbgAAKuNr.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:53:36.136Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t周末复盘 上周开始，在3.16的时候对大a有三个想法，基本没什么出入，意外的是我没想到大a跌这么干脆。 首先前几周动能减弱，就感觉不太妙了，这周跌了个大的 其次跌破上面的小区间减仓也是正确的 最后大a的特殊性，选强势板块，比如电力或者新能源，煤炭之类，确实比起其他半导体之类的板块跌幅要小，甚至新能源和煤炭还是向上的。\n\t[22:46 · 2026年3月22日](https://x.com/TradercBTC/status/2035729892969718037) [4290Views](https://x.com/TradercBTC/status/2035729892969718037)\n\t[2](https://x.com/i/status/2035729892969718037)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2035729892969718037"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"周末复盘\n  \n  上周开始，在3.16的时候对大a有三个想法，基本没什么出入，意外的是我没想到大a跌这么干脆。\n  \n  首先前几周动能减弱，就感觉不太妙了，这周跌了个大的\n  \n  其次跌破上面的小区间减仓也是正确的\n  \n  最后大a的特殊性，选强势板块，比如电力或者新能源，煤炭之类，确实比起其他半导体之类的板块跌幅要小，甚至新能源和煤炭还是向上的。\" / X\nurl: \"https://x.com/TradercBTC/status/2035729892969718037\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2035729892969718037\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2035729892969718037/imgs/img-002-HEBdPnkbgAAKuNr-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-03-22T14:46:43.000Z\"\nsummary: |-\n  周末复盘\n  \n  上周开始，在3.16的时候对大a有三个想法，基本没什么出入，意外的是我没想到大a跌这么干脆。\n  \n  首先前几周动能减弱，就感觉不太妙了，这周跌了个大的\n  \n  其次跌破上面的小区间减仓也是正确的\n  \n  最后大a的特殊性，选强势板块，比如电力或者新能源，煤炭之类，确实比起其他半导体之类的板块跌幅要小，甚至新能源和煤炭还是向上的。\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:53:36.136Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"周末复盘\n\n上周开始，在3.16的时候对大a有三个想法，基本没什么出入，意外的是我没想到大a跌这么干脆。\n\n首先前几周动能减弱，就感觉不太妙了，这周跌了个大的\n\n其次跌破上面的小区间减仓也是正确的\n\n最后大a的特殊性，选强势板块，比如电力或者新能源，煤炭之类，确实比起其他半导体之类的板块跌幅要小，甚至新能源和煤炭还是向上的。\" / X\n\n- [![@TradercBTC](2035729892969718037/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t周末复盘 上周开始，在3.16的时候对大a有三个想法，基本没什么出入，意外的是我没想到大a跌这么干脆。 首先前几周动能减弱，就感觉不太妙了，这周跌了个大的 其次跌破上面的小区间减仓也是正确的 最后大a的特殊性，选强势板块，比如电力或者新能源，煤炭之类，确实比起其他半导体之类的板块跌幅要小，甚至新能源和煤炭还是向上的。\n\t[22:46 · 2026年3月22日](https://x.com/TradercBTC/status/2035729892969718037) [4290Views](https://x.com/TradercBTC/status/2035729892969718037)\n\t[2](https://x.com/i/status/2035729892969718037)"
+}

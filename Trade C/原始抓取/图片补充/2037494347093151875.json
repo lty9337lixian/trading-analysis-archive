@@ -1,0 +1,37 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 46,
+  "lang": "zh",
+  "created_at": "2026-03-27T11:38:01.000Z",
+  "display_text_range": [
+    0,
+    102
+  ],
+  "entities": {},
+  "id_str": "2037494347093151875",
+  "text": "止盈不应该问\"到哪里利润最大我该跑\"应该问\"到什么程度，我继续持有的理由已经不充分了\"。\n\n比如你做多，4小时级别结构还是完好的，高低点还在抬升，那你就还有持有的理由。\n\n什么时候没理由了？结构被打破了。",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2037494347093151875"
+    ],
+    "editable_until_msecs": "1774615081000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 2,
+  "news_action_type": "conversation",
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDM3NDk0MzQ3MDU1MzkwNzIw"
+  }
+}

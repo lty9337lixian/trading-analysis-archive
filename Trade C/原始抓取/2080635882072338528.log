@@ -1,0 +1,98 @@
+[info] Loading https://x.com/TradercBTC/status/2080635882072338528 with generic adapter
+[info] Downloaded 5 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2080635882072338528.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HN_lLs1aIAAEcEP.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HN_lPJyaIAAzgfc?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HN_lTKIa0AETUxs?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HN97emYaYAAXI_0?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/HN_lLs1aIAAEcEP.jpg:large",
+        "localPath": "2080635882072338528/imgs/img-001-HN_lLs1aIAAEcEP-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2080635882072338528/imgs/img-001-HN_lLs1aIAAEcEP-jpg-large.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2080635882072338528/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2080635882072338528/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HN_lPJyaIAAzgfc?format=webp&name=medium",
+        "localPath": "2080635882072338528/imgs/img-003-HN_lPJyaIAAzgfc.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2080635882072338528/imgs/img-003-HN_lPJyaIAAzgfc.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HN_lTKIa0AETUxs?format=webp&name=medium",
+        "localPath": "2080635882072338528/imgs/img-004-HN_lTKIa0AETUxs.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2080635882072338528/imgs/img-004-HN_lTKIa0AETUxs.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HN97emYaYAAXI_0?format=webp&name=medium",
+        "localPath": "2080635882072338528/imgs/img-005-HN97emYaYAAXI_0.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2080635882072338528/imgs/img-005-HN97emYaYAAXI_0.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 5,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2080635882072338528/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2080635882072338528",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2080635882072338528",
+    "title": "trader-c on X: \"盘前nq 4H下跌宽通道，依旧处于通道底部 1h处于震荡，通道中部，下跌动能 15m从上涨趋势进入均衡，即上涨趋势减弱 组合起来，约束是在这里最好不要做多 做多条件应该是15m进入上涨，1h下跌动能转位均衡，这样至少要突破1h的这个阻力区间 满足小波段做空的条件，但是止盈也只能按照波段的止盈走，因为我们没有处于明显的趋势当中，止损条件是突破区间高点。（操了，刚才没进去。。。准备睡觉吧）\"",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-07-24T12:47:05.000Z",
+    "summary": "盘前nq\n\n4H下跌宽通道，依旧处于通道底部\n\n1h处于震荡，通道中部，下跌动能\n\n15m从上涨趋势进入均衡，即上涨趋势减弱\n\n组合起来，约束是在这里最好不要做多\n\n做多条件应该是15m进入上涨，1h下跌动能转位均衡，这样至少要突破1h的这个阻力区间\n\n满足小波段做空的条件，但是止盈也只能按照波段的止盈走，因为我们没有处于明显的趋势当中，止损条件是突破区间高点。（操了，刚才没进去。。。准备睡觉吧）",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HN_lLs1aIAAEcEP.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:03:50.574Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n盘前nq 4H下跌宽通道，依旧处于通道底部 1h处于震荡，通道中部，下跌动能 15m从上涨趋势进入均衡，即上涨趋势减弱 组合起来，约束是在这里最好不要做多 做多条件应该是15m进入上涨，1h下跌动能转位均衡，这样至少要突破1h的这个阻力区间 满足小波段做空的条件，但是止盈也只能按照波段的止盈走，因为我们没有处于明显的趋势当中，止损条件是突破区间高点。（操了，刚才没进去。。。准备睡觉吧）\n\n[![](https://pbs.twimg.com/media/HN_lPJyaIAAzgfc?format=webp&name=medium)](https://x.com/TradercBTC/status/2080635882072338528/photo/2)\n\n[![](https://pbs.twimg.com/media/HN_lTKIa0AETUxs?format=webp&name=medium)](https://x.com/TradercBTC/status/2080635882072338528/photo/3)\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[7月24日](https://x.com/TradercBTC/status/2080518303009902612)\n\n早上尝试空了一下nq，没下去，保本了，果然大波动大概率还在美盘。。。。 其实那会应该走的🤣🫤果然还是看趋势太好，心存侥幸 平常波动这么多就止盈了\n\n[![](https://pbs.twimg.com/media/HN97emYaYAAXI_0?format=webp&name=medium)](https://x.com/TradercBTC/status/2080518303009902612/photo/1)\n\n[20:47 · 2026年7月24日](https://x.com/TradercBTC/status/2080635882072338528)[9384Views](https://x.com/TradercBTC/status/2080635882072338528)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2080635882072338528"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"盘前nq 4H下跌宽通道，依旧处于通道底部 1h处于震荡，通道中部，下跌动能 15m从上涨趋势进入均衡，即上涨趋势减弱 组合起来，约束是在这里最好不要做多 做多条件应该是15m进入上涨，1h下跌动能转位均衡，这样至少要突破1h的这个阻力区间 满足小波段做空的条件，但是止盈也只能按照波段的止盈走，因为我们没有处于明显的趋势当中，止损条件是突破区间高点。（操了，刚才没进去。。。准备睡觉吧）\\\"\"\nurl: \"https://x.com/TradercBTC/status/2080635882072338528\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2080635882072338528\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2080635882072338528/imgs/img-001-HN_lLs1aIAAEcEP-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-07-24T12:47:05.000Z\"\nsummary: |-\n  盘前nq\n  \n  4H下跌宽通道，依旧处于通道底部\n  \n  1h处于震荡，通道中部，下跌动能\n  \n  15m从上涨趋势进入均衡，即上涨趋势减弱\n  \n  组合起来，约束是在这里最好不要做多\n  \n  做多条件应该是15m进入上涨，1h下跌动能转位均衡，这样至少要突破1h的这个阻力区间\n  \n  满足小波段做空的条件，但是止盈也只能按照波段的止盈走，因为我们没有处于明显的趋势当中，止损条件是突破区间高点。（操了，刚才没进去。。。准备睡觉吧）\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:03:50.574Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"盘前nq 4H下跌宽通道，依旧处于通道底部 1h处于震荡，通道中部，下跌动能 15m从上涨趋势进入均衡，即上涨趋势减弱 组合起来，约束是在这里最好不要做多 做多条件应该是15m进入上涨，1h下跌动能转位均衡，这样至少要突破1h的这个阻力区间 满足小波段做空的条件，但是止盈也只能按照波段的止盈走，因为我们没有处于明显的趋势当中，止损条件是突破区间高点。（操了，刚才没进去。。。准备睡觉吧）\"\n\n[![@TradercBTC](2080635882072338528/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n盘前nq 4H下跌宽通道，依旧处于通道底部 1h处于震荡，通道中部，下跌动能 15m从上涨趋势进入均衡，即上涨趋势减弱 组合起来，约束是在这里最好不要做多 做多条件应该是15m进入上涨，1h下跌动能转位均衡，这样至少要突破1h的这个阻力区间 满足小波段做空的条件，但是止盈也只能按照波段的止盈走，因为我们没有处于明显的趋势当中，止损条件是突破区间高点。（操了，刚才没进去。。。准备睡觉吧）\n\n[![](2080635882072338528/imgs/img-003-HN_lPJyaIAAzgfc.webp)](https://x.com/TradercBTC/status/2080635882072338528/photo/2)\n\n[![](2080635882072338528/imgs/img-004-HN_lTKIa0AETUxs.webp)](https://x.com/TradercBTC/status/2080635882072338528/photo/3)\n\n[![@TradercBTC](2080635882072338528/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[7月24日](https://x.com/TradercBTC/status/2080518303009902612)\n\n早上尝试空了一下nq，没下去，保本了，果然大波动大概率还在美盘。。。。 其实那会应该走的🤣🫤果然还是看趋势太好，心存侥幸 平常波动这么多就止盈了\n\n[![](2080635882072338528/imgs/img-005-HN97emYaYAAXI_0.webp)](https://x.com/TradercBTC/status/2080518303009902612/photo/1)\n\n[20:47 · 2026年7月24日](https://x.com/TradercBTC/status/2080635882072338528)[9384Views](https://x.com/TradercBTC/status/2080635882072338528)\n\nOnly some accounts can reply."
+}

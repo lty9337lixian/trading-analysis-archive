@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2051887087348339015 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2051887087348339015.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HHnDsgdaUAAOX9H.png:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2051887087348339015/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2051887087348339015/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HHnDsgdaUAAOX9H.png:large",
+        "localPath": "2051887087348339015/imgs/img-002-HHnDsgdaUAAOX9H-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2051887087348339015/imgs/img-002-HHnDsgdaUAAOX9H-png-large.png",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2051887087348339015/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2051887087348339015",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2051887087348339015",
+    "title": "trader-c on X: \"踏空了\n\n全面踏空\n\n没辙了，难受，日经也踏空了，黄金也踏空了\n\n我认为我损失了起码n0w\n\n但是我追高必死\n\n发帖抚慰一下自己\n\n准备看情况做二波吧\n\n图中仅表示计划，单纯安慰一下自己受伤的心灵，不代表一定这么干，视情况而定\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-05-06T04:49:38.000Z",
+    "summary": "踏空了\n\n全面踏空\n\n没辙了，难受，日经也踏空了，黄金也踏空了\n\n我认为我损失了起码n0w\n\n但是我追高必死\n\n发帖抚慰一下自己\n\n准备看情况做二波吧\n\n图中仅表示计划，单纯安慰一下自己受伤的心灵，不代表一定这么干，视情况而定",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HHnDsgdaUAAOX9H.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:01:11.778Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t踏空了 全面踏空 没辙了，难受，日经也踏空了，黄金也踏空了 我认为我损失了起码n0w 但是我追高必死 发帖抚慰一下自己 准备看情况做二波吧 图中仅表示计划，单纯安慰一下自己受伤的心灵，不代表一定这么干，视情况而定\n\t[12:49 · 2026年5月6日](https://x.com/TradercBTC/status/2051887087348339015) [3474Views](https://x.com/TradercBTC/status/2051887087348339015)\n\t[14](https://x.com/i/status/2051887087348339015)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2051887087348339015"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"踏空了\n  \n  全面踏空\n  \n  没辙了，难受，日经也踏空了，黄金也踏空了\n  \n  我认为我损失了起码n0w\n  \n  但是我追高必死\n  \n  发帖抚慰一下自己\n  \n  准备看情况做二波吧\n  \n  图中仅表示计划，单纯安慰一下自己受伤的心灵，不代表一定这么干，视情况而定\" / X\nurl: \"https://x.com/TradercBTC/status/2051887087348339015\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2051887087348339015\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2051887087348339015/imgs/img-002-HHnDsgdaUAAOX9H-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-05-06T04:49:38.000Z\"\nsummary: |-\n  踏空了\n  \n  全面踏空\n  \n  没辙了，难受，日经也踏空了，黄金也踏空了\n  \n  我认为我损失了起码n0w\n  \n  但是我追高必死\n  \n  发帖抚慰一下自己\n  \n  准备看情况做二波吧\n  \n  图中仅表示计划，单纯安慰一下自己受伤的心灵，不代表一定这么干，视情况而定\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:01:11.778Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"踏空了\n\n全面踏空\n\n没辙了，难受，日经也踏空了，黄金也踏空了\n\n我认为我损失了起码n0w\n\n但是我追高必死\n\n发帖抚慰一下自己\n\n准备看情况做二波吧\n\n图中仅表示计划，单纯安慰一下自己受伤的心灵，不代表一定这么干，视情况而定\" / X\n\n- [![@TradercBTC](2051887087348339015/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t踏空了 全面踏空 没辙了，难受，日经也踏空了，黄金也踏空了 我认为我损失了起码n0w 但是我追高必死 发帖抚慰一下自己 准备看情况做二波吧 图中仅表示计划，单纯安慰一下自己受伤的心灵，不代表一定这么干，视情况而定\n\t[12:49 · 2026年5月6日](https://x.com/TradercBTC/status/2051887087348339015) [3474Views](https://x.com/TradercBTC/status/2051887087348339015)\n\t[14](https://x.com/i/status/2051887087348339015)"
+}

@@ -1,0 +1,62 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 26,
+  "lang": "zxx",
+  "possibly_sensitive": false,
+  "created_at": "2026-03-31T11:38:53.000Z",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2037…",
+        "expanded_url": "http://x.com/i/article/2037463794054787072",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/JlZPT8Q6rS"
+      }
+    ]
+  },
+  "id_str": "2038944115543728635",
+  "text": "https://t.co/JlZPT8Q6rS",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2038944115543728635"
+    ],
+    "editable_until_msecs": "1774960733000",
+    "edits_remaining": "5",
+    "is_edit_eligible": false
+  },
+  "conversation_count": 1,
+  "news_action_type": "conversation",
+  "article": {
+    "cover_media": {
+      "id": "QXBpTWVkaWE6DAAFCgABHEvIC2wbEAAKAAIaqP8AOBtwBgAA",
+      "media_info": {
+        "__typename": "ApiImage",
+        "original_img_height": 655,
+        "original_img_url": "https://pbs.twimg.com/media/HEvIC2wbEAAXMsR.jpg",
+        "original_img_width": 1638
+      }
+    },
+    "id": "QXJ0aWNsZUVudGl0eToyMDM3NDYzNzk0MDU0Nzg3MDcy",
+    "preview_text": "大多数交易者不是被市场杀死的。他们是被自己没看清的东西杀死的。",
+    "rest_id": "2037463794054787072",
+    "title": "你甚至无法准确描述你的亏损"
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

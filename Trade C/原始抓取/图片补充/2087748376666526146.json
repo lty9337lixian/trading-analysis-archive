@@ -1,0 +1,349 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 28,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-08-13T03:49:36.000Z",
+  "display_text_range": [
+    0,
+    143
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/Te5dKemFpT",
+        "expanded_url": "https://x.com/TradercBTC/status/2087748376666526146/photo/1",
+        "indices": [
+          144,
+          167
+        ],
+        "url": "https://t.co/Te5dKemFpT"
+      }
+    ],
+    "symbols": [
+      {
+        "indices": [
+          61,
+          66
+        ],
+        "text": "HYPE"
+      }
+    ]
+  },
+  "id_str": "2087748376666526146",
+  "text": "兄弟们，你们可以尝试学一下我之前写的「方向结构，趋势，区间，四类交易机会」内容来分析，我后续开个帖，我们一起讨论\n\n比如 $HYPE 前一段下跌趋势的结构高点形成的支撑阻力互换位置被打破\n\n下跌趋势的动能衰减，进入区间\n\n而且上涨趋势出现了推动再推动所以如果突破前高就是更加确定反转趋势 https://t.co/Te5dKemFpT",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2087748376666526146"
+    ],
+    "editable_until_msecs": "1786596576000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/Te5dKemFpT",
+      "expanded_url": "https://x.com/TradercBTC/status/2087748376666526146/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        144,
+        167
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HPkrGb-bcAAvJZa.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1324,
+            "w": 2364,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1324,
+            "w": 1324,
+            "x": 201,
+            "y": 0
+          },
+          {
+            "h": 1324,
+            "w": 1161,
+            "x": 283,
+            "y": 0
+          },
+          {
+            "h": 1324,
+            "w": 662,
+            "x": 532,
+            "y": 0
+          },
+          {
+            "h": 1324,
+            "w": 2658,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1324,
+        "width": 2658
+      },
+      "sizes": {
+        "large": {
+          "h": 1020,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 598,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 339,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/Te5dKemFpT"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1324,
+          "w": 2364,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1324,
+          "w": 1324,
+          "x": 201,
+          "y": 0
+        },
+        {
+          "h": 1324,
+          "w": 1161,
+          "x": 283,
+          "y": 0
+        },
+        {
+          "h": 1324,
+          "w": 662,
+          "x": 532,
+          "y": 0
+        },
+        {
+          "h": 1324,
+          "w": 2658,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2087748376666526146/photo/1",
+      "url": "https://pbs.twimg.com/media/HPkrGb-bcAAvJZa.jpg",
+      "width": 2658,
+      "height": 1324
+    }
+  ],
+  "conversation_count": 1,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "conversation_control": {
+      "policy": "Verified"
+    },
+    "favorite_count": 3,
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "created_at": "2026-08-12T18:32:41.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "entities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/QsO2HTmrXU",
+          "expanded_url": "https://x.com/TradercBTC/status/2087608224052846812/photo/1",
+          "indices": [
+            21,
+            44
+          ],
+          "url": "https://t.co/QsO2HTmrXU"
+        }
+      ]
+    },
+    "id_str": "2087608224052846812",
+    "text": "我认为HYPE有机会\n\n元芳，你怎么看？ https://t.co/QsO2HTmrXU",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2087608224052846812"
+      ],
+      "editable_until_msecs": "1786563161000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "mediaDetails": [
+      {
+        "display_url": "pic.x.com/QsO2HTmrXU",
+        "expanded_url": "https://x.com/TradercBTC/status/2087608224052846812/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "indices": [
+          21,
+          44
+        ],
+        "media_url_https": "https://pbs.twimg.com/media/HPisjwoawAA4i8O.png",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1136,
+              "w": 2028,
+              "x": 0,
+              "y": 90
+            },
+            {
+              "h": 1392,
+              "w": 1392,
+              "x": 636,
+              "y": 0
+            },
+            {
+              "h": 1392,
+              "w": 1221,
+              "x": 807,
+              "y": 0
+            },
+            {
+              "h": 1392,
+              "w": 696,
+              "x": 1332,
+              "y": 0
+            },
+            {
+              "h": 1392,
+              "w": 2028,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1392,
+          "width": 2028
+        },
+        "sizes": {
+          "large": {
+            "h": 1392,
+            "resize": "fit",
+            "w": 2028
+          },
+          "medium": {
+            "h": 824,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 467,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/QsO2HTmrXU"
+      }
+    ],
+    "photos": [
+      {
+        "backgroundColor": {
+          "red": 204,
+          "green": 214,
+          "blue": 221
+        },
+        "cropCandidates": [
+          {
+            "h": 1136,
+            "w": 2028,
+            "x": 0,
+            "y": 90
+          },
+          {
+            "h": 1392,
+            "w": 1392,
+            "x": 636,
+            "y": 0
+          },
+          {
+            "h": 1392,
+            "w": 1221,
+            "x": 807,
+            "y": 0
+          },
+          {
+            "h": 1392,
+            "w": 696,
+            "x": 1332,
+            "y": 0
+          },
+          {
+            "h": 1392,
+            "w": 2028,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "expandedUrl": "https://x.com/TradercBTC/status/2087608224052846812/photo/1",
+        "url": "https://pbs.twimg.com/media/HPisjwoawAA4i8O.png",
+        "width": 2028,
+        "height": 1392
+      }
+    ],
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDg3NzQ4Mzc2NjE2MjAyMjQw"
+  }
+}

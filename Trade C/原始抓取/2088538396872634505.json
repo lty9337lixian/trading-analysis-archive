@@ -1,0 +1,65 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "login": {
+    "provider": "x",
+    "state": "unknown"
+  },
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HPv6g-2acAAQi_Y.png:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2088538396872634505/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2088538396872634505/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HPv6g-2acAAQi_Y.png:large",
+        "localPath": "2088538396872634505/imgs/img-002-HPv6g-2acAAQi_Y-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2088538396872634505/imgs/img-002-HPv6g-2acAAQi_Y-png-large.png",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2088538396872634505/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2088538396872634505",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2088538396872634505",
+    "title": "trader-c on X: \"和群里开始复盘纳指\n\n但是纳指。。。。\n\n我个人认为出了我做的那一单，其实没有非常好的机会。。。。。。\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-15T08:08:51.000Z",
+    "summary": "和群里开始复盘纳指\n\n但是纳指。。。。\n\n我个人认为出了我做的那一单，其实没有非常好的机会。。。。。。",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HPv6g-2acAAQi_Y.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:44:10.076Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n和群里开始复盘纳指 但是纳指。。。。 我个人认为出了我做的那一单，其实没有非常好的机会。。。。。。\n\n[16:08 · 2026年8月15日](https://x.com/TradercBTC/status/2088538396872634505) [2121Views](https://x.com/TradercBTC/status/2088538396872634505)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2088538396872634505"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"和群里开始复盘纳指\n  \n  但是纳指。。。。\n  \n  我个人认为出了我做的那一单，其实没有非常好的机会。。。。。。\" / X\nurl: \"https://x.com/TradercBTC/status/2088538396872634505\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2088538396872634505\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2088538396872634505/imgs/img-002-HPv6g-2acAAQi_Y-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-15T08:08:51.000Z\"\nsummary: |-\n  和群里开始复盘纳指\n  \n  但是纳指。。。。\n  \n  我个人认为出了我做的那一单，其实没有非常好的机会。。。。。。\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:44:10.076Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"和群里开始复盘纳指\n\n但是纳指。。。。\n\n我个人认为出了我做的那一单，其实没有非常好的机会。。。。。。\" / X\n\n[![@TradercBTC](2088538396872634505/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n和群里开始复盘纳指 但是纳指。。。。 我个人认为出了我做的那一单，其实没有非常好的机会。。。。。。\n\n[16:08 · 2026年8月15日](https://x.com/TradercBTC/status/2088538396872634505) [2121Views](https://x.com/TradercBTC/status/2088538396872634505)\n\nOnly some accounts can reply."
+}

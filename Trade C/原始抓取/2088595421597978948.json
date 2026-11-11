@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HPwsP8vaEAAp7t5.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2088595421597978948/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2088595421597978948/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HPwsP8vaEAAp7t5.jpg:large",
+        "localPath": "2088595421597978948/imgs/img-002-HPwsP8vaEAAp7t5-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2088595421597978948/imgs/img-002-HPwsP8vaEAAp7t5-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2088595421597978948/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2088595421597978948",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2088595421597978948",
+    "title": "trader-c on X: \"在群里复盘，发现自己上周五做的 $LDO 方向性就是错误的，\n\nwoc了，看的级别太小，主观上抱着突破上涨的预期，而没有用客观事实验证，所以才做的那么难受\n\n$LDO 第一部分的绿色:上涨，再推动失败，上涨趋势减弱二次测试失败，没有创造高点，形成区间\n\n直到第二部分跌破了上涨的结构低点，形成新的结构下跌，修正，再推动下跌，确定完整反转\n\n这个 $LDO 和黄金不一样的是，黄金在下面的支撑位止跌强力反弹，说明有多军的需求存在，而LDO没有这种表现\n\n说明黄金的多军更强，LDO的一般\n\n这种情况下，LDO事实上仍然在下跌结构中，如果出现空头信号k，做空更为理想。\n… / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-15T11:55:27.000Z",
+    "summary": "在群里复盘，发现自己上周五做的 $LDO 方向性就是错误的，\n\nwoc了，看的级别太小，主观上抱着突破上涨的预期，而没有用客观事实验证，所以才做的那么难受\n\n$LDO 第一部分的绿色:上涨，再推动失败，上涨趋势减弱二次测试失败，没有创造高点，形成区间\n\n直到第二部分跌破了上涨的结构低点，形成新的结构下跌，修正，再推动下跌，确定完整反转\n\n这个 $LDO 和黄金不一样的是，黄金在下面的支撑位止跌强力反弹，说明有多军的需求存在，而LDO没有这种表现\n\n说明黄金的多军更强，LDO的一般\n\n这种情况下，LDO事实上仍然在下跌结构中，如果出现空头信号k，做空更为理想。\n\n黄金和LDO的区别是，黄金虽然…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HPwsP8vaEAAp7t5.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:51:49.296Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t在群里复盘，发现自己上周五做的 [$LDO](https://x.com/search?q=$LDO) 方向性就是错误的， woc了，看的级别太小，主观上抱着突破上涨的预期，而没有用客观事实验证，所以才做的那么难受 [$LDO](https://x.com/search?q=$LDO) 第一部分的绿色:上涨，再推动失败，上涨趋势减弱二次测试失败，没有创造高点，形成区间 直到第二部分跌破了上涨的结构低点，形成新的结构下跌，修正，再推动下跌，确定完整反转 这个 [$LDO](https://x.com/search?q=$LDO) 和黄金不一样的是，黄金在下面的支撑位止跌强力反弹，说明有多军的需求存在，而LDO没有这种表现 说明黄金的多军更强，LDO的一般 这种情况下，LDO事实上仍然在下跌结构中，如果出现空头信号k，做空更为理想。 黄金和LDO的区别是，黄金虽然形成了下跌，再推动，但是在HTF的支撑上获得强力反弹 这说明LTF的下跌再推动，只是HTF的修正现在更多的是可能进入了分歧，即进入了HTF的区间 暂时没有明显的方向性偏好，只能从结构性来保持做单思路 假设黄金是下跌趋势，我们应该看到的是微弱的回调，强势跌破支撑，而不是向上连续大阳回调强势 这种情况下，顺眼HTF的上涨结构(并未被打破)，思路应该是顺着LFT的方向和趋势交易 （比如现在是LTF是强势上涨，找机会在LTF里顺应上涨结构，在LTF进行我们现在的分析和复盘流程）\n\t[19:55 · 2026年8月15日](https://x.com/TradercBTC/status/2088595421597978948) [8885Views](https://x.com/TradercBTC/status/2088595421597978948)\n\tOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2088595421597978948"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"在群里复盘，发现自己上周五做的 $LDO 方向性就是错误的，\n  \n  woc了，看的级别太小，主观上抱着突破上涨的预期，而没有用客观事实验证，所以才做的那么难受\n  \n  $LDO 第一部分的绿色:上涨，再推动失败，上涨趋势减弱二次测试失败，没有创造高点，形成区间\n  \n  直到第二部分跌破了上涨的结构低点，形成新的结构下跌，修正，再推动下跌，确定完整反转\n  \n  这个 $LDO 和黄金不一样的是，黄金在下面的支撑位止跌强力反弹，说明有多军的需求存在，而LDO没有这种表现\n  \n  说明黄金的多军更强，LDO的一般\n  \n  这种情况下，LDO事实上仍然在下跌结构中，如果出现空头信号k，做空更为理想。\n  … / X\nurl: \"https://x.com/TradercBTC/status/2088595421597978948\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2088595421597978948\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2088595421597978948/imgs/img-002-HPwsP8vaEAAp7t5-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-15T11:55:27.000Z\"\nsummary: |-\n  在群里复盘，发现自己上周五做的 $LDO 方向性就是错误的，\n  \n  woc了，看的级别太小，主观上抱着突破上涨的预期，而没有用客观事实验证，所以才做的那么难受\n  \n  $LDO 第一部分的绿色:上涨，再推动失败，上涨趋势减弱二次测试失败，没有创造高点，形成区间\n  \n  直到第二部分跌破了上涨的结构低点，形成新的结构下跌，修正，再推动下跌，确定完整反转\n  \n  这个 $LDO 和黄金不一样的是，黄金在下面的支撑位止跌强力反弹，说明有多军的需求存在，而LDO没有这种表现\n  \n  说明黄金的多军更强，LDO的一般\n  \n  这种情况下，LDO事实上仍然在下跌结构中，如果出现空头信号k，做空更为理想。\n  \n  黄金和LDO的区别是，黄金虽然…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:51:49.296Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"在群里复盘，发现自己上周五做的 $LDO 方向性就是错误的，\n\nwoc了，看的级别太小，主观上抱着突破上涨的预期，而没有用客观事实验证，所以才做的那么难受\n\n$LDO 第一部分的绿色:上涨，再推动失败，上涨趋势减弱二次测试失败，没有创造高点，形成区间\n\n直到第二部分跌破了上涨的结构低点，形成新的结构下跌，修正，再推动下跌，确定完整反转\n\n这个 $LDO 和黄金不一样的是，黄金在下面的支撑位止跌强力反弹，说明有多军的需求存在，而LDO没有这种表现\n\n说明黄金的多军更强，LDO的一般\n\n这种情况下，LDO事实上仍然在下跌结构中，如果出现空头信号k，做空更为理想。\n… / X\n\n- [![@TradercBTC](2088595421597978948/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t在群里复盘，发现自己上周五做的 [$LDO](https://x.com/search?q=$LDO) 方向性就是错误的， woc了，看的级别太小，主观上抱着突破上涨的预期，而没有用客观事实验证，所以才做的那么难受 [$LDO](https://x.com/search?q=$LDO) 第一部分的绿色:上涨，再推动失败，上涨趋势减弱二次测试失败，没有创造高点，形成区间 直到第二部分跌破了上涨的结构低点，形成新的结构下跌，修正，再推动下跌，确定完整反转 这个 [$LDO](https://x.com/search?q=$LDO) 和黄金不一样的是，黄金在下面的支撑位止跌强力反弹，说明有多军的需求存在，而LDO没有这种表现 说明黄金的多军更强，LDO的一般 这种情况下，LDO事实上仍然在下跌结构中，如果出现空头信号k，做空更为理想。 黄金和LDO的区别是，黄金虽然形成了下跌，再推动，但是在HTF的支撑上获得强力反弹 这说明LTF的下跌再推动，只是HTF的修正现在更多的是可能进入了分歧，即进入了HTF的区间 暂时没有明显的方向性偏好，只能从结构性来保持做单思路 假设黄金是下跌趋势，我们应该看到的是微弱的回调，强势跌破支撑，而不是向上连续大阳回调强势 这种情况下，顺眼HTF的上涨结构(并未被打破)，思路应该是顺着LFT的方向和趋势交易 （比如现在是LTF是强势上涨，找机会在LTF里顺应上涨结构，在LTF进行我们现在的分析和复盘流程）\n\t[19:55 · 2026年8月15日](https://x.com/TradercBTC/status/2088595421597978948) [8885Views](https://x.com/TradercBTC/status/2088595421597978948)\n\tOnly some accounts can reply."
+}

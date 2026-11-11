@@ -1,0 +1,338 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 8,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-01-25T16:36:35.000Z",
+  "display_text_range": [
+    0,
+    80
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/gccy5XOyCH",
+        "expanded_url": "https://x.com/TradercBTC/status/2015463823235481608/photo/1",
+        "indices": [
+          81,
+          104
+        ],
+        "url": "https://t.co/gccy5XOyCH"
+      }
+    ],
+    "symbols": [
+      {
+        "indices": [
+          11,
+          15
+        ],
+        "text": "BTC"
+      }
+    ]
+  },
+  "id_str": "2015463823235481608",
+  "text": "睡觉前紧急更新一下\n\n$BTC 按照之前的视频分享的观点，押注一手向上反转，小级别892挂一个stop order\n\n之前已经触发的小仓位空单防守位挂到同样位置 https://t.co/gccy5XOyCH",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2015463823235481608"
+    ],
+    "editable_until_msecs": "1769362595000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/gccy5XOyCH",
+      "expanded_url": "https://x.com/TradercBTC/status/2015463823235481608/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        81,
+        104
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/G_hcwyNbYAA___3.png",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1512,
+            "w": 2700,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1586,
+            "w": 1586,
+            "x": 354,
+            "y": 0
+          },
+          {
+            "h": 1586,
+            "w": 1391,
+            "x": 452,
+            "y": 0
+          },
+          {
+            "h": 1586,
+            "w": 793,
+            "x": 751,
+            "y": 0
+          },
+          {
+            "h": 1586,
+            "w": 2700,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1586,
+        "width": 2700
+      },
+      "sizes": {
+        "large": {
+          "h": 1203,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 705,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 399,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/gccy5XOyCH"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1512,
+          "w": 2700,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1586,
+          "w": 1586,
+          "x": 354,
+          "y": 0
+        },
+        {
+          "h": 1586,
+          "w": 1391,
+          "x": 452,
+          "y": 0
+        },
+        {
+          "h": 1586,
+          "w": 793,
+          "x": 751,
+          "y": 0
+        },
+        {
+          "h": 1586,
+          "w": 2700,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2015463823235481608/photo/1",
+      "url": "https://pbs.twimg.com/media/G_hcwyNbYAA___3.png",
+      "width": 2700,
+      "height": 1586
+    }
+  ],
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "favorite_count": 12,
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "reply_count": 2,
+    "retweet_count": 0,
+    "created_at": "2026-01-25T04:31:30.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "entities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/aDOGv5okxx",
+          "expanded_url": "https://x.com/TradercBTC/status/2015281348639150231/video/1",
+          "indices": [
+            38,
+            61
+          ],
+          "url": "https://t.co/aDOGv5okxx"
+        }
+      ]
+    },
+    "id_str": "2015281348639150231",
+    "text": "woc，我发现推特能直接发视频\n\n牛逼，但是跪求各位大哥b站点个关注～～～ https://t.co/aDOGv5okxx",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2015281348639150231"
+      ],
+      "editable_until_msecs": "1769319090000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "mediaDetails": [
+      {
+        "additional_media_info": {},
+        "display_url": "pic.x.com/aDOGv5okxx",
+        "expanded_url": "https://x.com/TradercBTC/status/2015281348639150231/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "indices": [
+          38,
+          61
+        ],
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2015280181762834432/img/1oWHejRtQPzPcmU7.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1080,
+          "width": 2160
+        },
+        "sizes": {
+          "large": {
+            "h": 1024,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 600,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 340,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/aDOGv5okxx",
+        "video_info": {
+          "aspect_ratio": [
+            2,
+            1
+          ],
+          "duration_millis": 393346,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2015280181762834432/pl/A1EdCUd2da3DpzCK.m3u8?v=cfc"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2015280181762834432/vid/avc1/540x270/eeu7bnB_M22v5LvT.mp4"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2015280181762834432/vid/avc1/720x360/v1_WNbQ90T3ISjdQ.mp4"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2015280181762834432/vid/avc1/1440x720/SRMlVm4tr8MCWoaA.mp4"
+            },
+            {
+              "bitrate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2015280181762834432/vid/avc1/2160x1080/bEFw8cMRnIGlr6f9.mp4"
+            }
+          ]
+        }
+      }
+    ],
+    "photos": [],
+    "video": {
+      "aspectRatio": [
+        2,
+        1
+      ],
+      "contentType": "media_entity",
+      "durationMs": 393346,
+      "mediaAvailability": {
+        "status": "available"
+      },
+      "poster": "https://pbs.twimg.com/amplify_video_thumb/2015280181762834432/img/1oWHejRtQPzPcmU7.jpg",
+      "variants": [
+        {
+          "type": "application/x-mpegURL",
+          "src": "https://video.twimg.com/amplify_video/2015280181762834432/pl/A1EdCUd2da3DpzCK.m3u8?v=cfc"
+        },
+        {
+          "type": "video/mp4",
+          "src": "https://video.twimg.com/amplify_video/2015280181762834432/vid/avc1/540x270/eeu7bnB_M22v5LvT.mp4"
+        },
+        {
+          "type": "video/mp4",
+          "src": "https://video.twimg.com/amplify_video/2015280181762834432/vid/avc1/720x360/v1_WNbQ90T3ISjdQ.mp4"
+        },
+        {
+          "type": "video/mp4",
+          "src": "https://video.twimg.com/amplify_video/2015280181762834432/vid/avc1/1440x720/SRMlVm4tr8MCWoaA.mp4"
+        },
+        {
+          "type": "video/mp4",
+          "src": "https://video.twimg.com/amplify_video/2015280181762834432/vid/avc1/2160x1080/bEFw8cMRnIGlr6f9.mp4"
+        }
+      ],
+      "videoId": {
+        "type": "tweet",
+        "id": "2015281348639150231"
+      },
+      "viewCount": 0
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

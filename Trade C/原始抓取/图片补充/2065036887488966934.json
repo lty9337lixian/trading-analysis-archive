@@ -1,0 +1,337 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 10,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-06-11T11:42:15.000Z",
+  "display_text_range": [
+    0,
+    53
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/LWKYOEpFy8",
+        "expanded_url": "https://x.com/TradercBTC/status/2065036887488966934/photo/1",
+        "indices": [
+          54,
+          77
+        ],
+        "url": "https://t.co/LWKYOEpFy8"
+      }
+    ]
+  },
+  "id_str": "2065036887488966934",
+  "text": "所以止损真的不能太小\n\n这要是看1min和5min，我这会又亏钱了。。。。\n\n我对日内的理解还是有些不到位 https://t.co/LWKYOEpFy8",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2065036887488966934"
+    ],
+    "editable_until_msecs": "1781181735000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/LWKYOEpFy8",
+      "expanded_url": "https://x.com/TradercBTC/status/2065036887488966934/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        54,
+        77
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HKh77OxbAAEFNqg.png",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 513,
+            "w": 916,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 916,
+            "w": 916,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1028,
+            "w": 902,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1028,
+            "w": 514,
+            "x": 128,
+            "y": 0
+          },
+          {
+            "h": 1028,
+            "w": 916,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1028,
+        "width": 916
+      },
+      "sizes": {
+        "large": {
+          "h": 1028,
+          "resize": "fit",
+          "w": 916
+        },
+        "medium": {
+          "h": 1028,
+          "resize": "fit",
+          "w": 916
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 606
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/LWKYOEpFy8"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 513,
+          "w": 916,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 916,
+          "w": 916,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1028,
+          "w": 902,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1028,
+          "w": 514,
+          "x": 128,
+          "y": 0
+        },
+        {
+          "h": 1028,
+          "w": 916,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2065036887488966934/photo/1",
+      "url": "https://pbs.twimg.com/media/HKh77OxbAAEFNqg.png",
+      "width": 916,
+      "height": 1028
+    }
+  ],
+  "conversation_count": 3,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "conversation_control": {
+      "policy": "Verified"
+    },
+    "favorite_count": 7,
+    "in_reply_to_screen_name": "Yashiine001",
+    "in_reply_to_status_id_str": "2065029910838882384",
+    "in_reply_to_user_id_str": "1995076013106270208",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "reply_count": 1,
+    "retweet_count": 1,
+    "created_at": "2026-06-11T11:21:05.000Z",
+    "display_text_range": [
+      17,
+      145
+    ],
+    "entities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/zoA3xW5V1v",
+          "expanded_url": "https://x.com/TradercBTC/status/2065031561683349553/photo/1",
+          "indices": [
+            146,
+            169
+          ],
+          "url": "https://t.co/zoA3xW5V1v"
+        }
+      ]
+    },
+    "id_str": "2065031561683349553",
+    "text": "@AntoniaRhiannon 日内：少看1min\n\n以15min结构为主\n\n然后止损拉大，止损不能放太小啊，这玩意太容易插针了，以插针为主。\n\n以及我感觉日内其实波动差不多在100点左右，也就是尽量找反转的时候，看看日线从哪里开始的，就按照最高点最低点减去已经走的，基本上就是你能吃到的 https://t.co/zoA3xW5V1v",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2065031561683349553"
+      ],
+      "editable_until_msecs": "1781180465000",
+      "edits_remaining": "5",
+      "is_edit_eligible": false
+    },
+    "mediaDetails": [
+      {
+        "display_url": "pic.x.com/zoA3xW5V1v",
+        "expanded_url": "https://x.com/TradercBTC/status/2065031561683349553/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "indices": [
+          146,
+          169
+        ],
+        "media_url_https": "https://pbs.twimg.com/media/HKh3JCtaIAAZ2VG.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 673,
+              "w": 1202,
+              "x": 0,
+              "y": 196
+            },
+            {
+              "h": 1202,
+              "w": 1202,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1252,
+              "w": 1098,
+              "x": 104,
+              "y": 0
+            },
+            {
+              "h": 1252,
+              "w": 626,
+              "x": 576,
+              "y": 0
+            },
+            {
+              "h": 1252,
+              "w": 1202,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1252,
+          "width": 1202
+        },
+        "sizes": {
+          "large": {
+            "h": 1252,
+            "resize": "fit",
+            "w": 1202
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 1152
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 653
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/zoA3xW5V1v"
+      }
+    ],
+    "photos": [
+      {
+        "backgroundColor": {
+          "red": 204,
+          "green": 214,
+          "blue": 221
+        },
+        "cropCandidates": [
+          {
+            "h": 673,
+            "w": 1202,
+            "x": 0,
+            "y": 196
+          },
+          {
+            "h": 1202,
+            "w": 1202,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1252,
+            "w": 1098,
+            "x": 104,
+            "y": 0
+          },
+          {
+            "h": 1252,
+            "w": 626,
+            "x": 576,
+            "y": 0
+          },
+          {
+            "h": 1252,
+            "w": 1202,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "expandedUrl": "https://x.com/TradercBTC/status/2065031561683349553/photo/1",
+        "url": "https://pbs.twimg.com/media/HKh3JCtaIAAZ2VG.jpg",
+        "width": 1202,
+        "height": 1252
+      }
+    ],
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

@@ -1,0 +1,84 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HCD-Z2ZagAAYo5t?format=webp&name=small",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HCD-eDcaoAAUHEI?format=webp&name=small",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2027244952284209272/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2027244952284209272/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2027244952284209272/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2027244952284209272/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HCD-Z2ZagAAYo5t?format=webp&name=small",
+        "localPath": "2027244952284209272/imgs/img-003-HCD-Z2ZagAAYo5t.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2027244952284209272/imgs/img-003-HCD-Z2ZagAAYo5t.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HCD-eDcaoAAUHEI?format=webp&name=small",
+        "localPath": "2027244952284209272/imgs/img-004-HCD-eDcaoAAUHEI.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2027244952284209272/imgs/img-004-HCD-eDcaoAAUHEI.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 4,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2027244952284209272/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2027244952284209272",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2027244952284209272",
+    "title": "trader-c on X: \"根据这个内容，我选了天赐材料和特变电工两只股票 其他的我其实不太懂，就简单结合了基本面和技术面（以技术面为主） 现在我对基本面和技术面的理解就是，一个是价格结构，一个是行业以及题材的动能周期 所以顺序是先选有动能的题材，然后筛选个股基本面较好，pe什么的都不错。 再结合技术面看价格结构有没有机会。 （筛选题材靠ETF的监控，这个关注我的朋友知道，个股靠AI的深度研究，我用的是Gemini和豆包）\"",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-27T04:50:35.000Z",
+    "summary": "根据这个内容，我选了天赐材料和特变电工两只股票\n\n其他的我其实不太懂，就简单结合了基本面和技术面（以技术面为主）\n\n现在我对基本面和技术面的理解就是，一个是价格结构，一个是行业以及题材的动能周期\n\n所以顺序是先选有动能的题材，然后筛选个股基本面较好，pe什么的都不错。\n\n再结合技术面看价格结构有没有机会。\n\n（筛选题材靠ETF的监控，这个关注我的朋友知道，个股靠AI的深度研究，我用的是Gemini和豆包）",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:59:02.309Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n根据这个内容，我选了天赐材料和特变电工两只股票 其他的我其实不太懂，就简单结合了基本面和技术面（以技术面为主） 现在我对基本面和技术面的理解就是，一个是价格结构，一个是行业以及题材的动能周期 所以顺序是先选有动能的题材，然后筛选个股基本面较好，pe什么的都不错。 再结合技术面看价格结构有没有机会。 （筛选题材靠ETF的监控，这个关注我的朋友知道，个股靠AI的深度研究，我用的是Gemini和豆包）\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[2月26日](https://x.com/TradercBTC/status/2026930054073344410)\n\n声明：以下内容基于ETF板块轮动数据的技术分析，不构成正式投资建议。投资有风险，决策需结合个人风险承受能力、资金周期和整体资产配置。 一、核心策略定调：拥抱实物资产，减持软科技，保持灵活\n\n[![](https://pbs.twimg.com/media/HCD-Z2ZagAAYo5t?format=webp&name=small)](https://x.com/TradercBTC/status/2026930054073344410/photo/1)\n\n[![](https://pbs.twimg.com/media/HCD-eDcaoAAUHEI?format=webp&name=small)](https://x.com/TradercBTC/status/2026930054073344410/photo/2)\n\n[12:50 · 2026年2月27日](https://x.com/TradercBTC/status/2027244952284209272)[3.4万Views](https://x.com/TradercBTC/status/2027244952284209272)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2027244952284209272"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"根据这个内容，我选了天赐材料和特变电工两只股票 其他的我其实不太懂，就简单结合了基本面和技术面（以技术面为主） 现在我对基本面和技术面的理解就是，一个是价格结构，一个是行业以及题材的动能周期 所以顺序是先选有动能的题材，然后筛选个股基本面较好，pe什么的都不错。 再结合技术面看价格结构有没有机会。 （筛选题材靠ETF的监控，这个关注我的朋友知道，个股靠AI的深度研究，我用的是Gemini和豆包）\\\"\"\nurl: \"https://x.com/TradercBTC/status/2027244952284209272\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2027244952284209272\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2027244952284209272/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-27T04:50:35.000Z\"\nsummary: |-\n  根据这个内容，我选了天赐材料和特变电工两只股票\n  \n  其他的我其实不太懂，就简单结合了基本面和技术面（以技术面为主）\n  \n  现在我对基本面和技术面的理解就是，一个是价格结构，一个是行业以及题材的动能周期\n  \n  所以顺序是先选有动能的题材，然后筛选个股基本面较好，pe什么的都不错。\n  \n  再结合技术面看价格结构有没有机会。\n  \n  （筛选题材靠ETF的监控，这个关注我的朋友知道，个股靠AI的深度研究，我用的是Gemini和豆包）\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:59:02.309Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"根据这个内容，我选了天赐材料和特变电工两只股票 其他的我其实不太懂，就简单结合了基本面和技术面（以技术面为主） 现在我对基本面和技术面的理解就是，一个是价格结构，一个是行业以及题材的动能周期 所以顺序是先选有动能的题材，然后筛选个股基本面较好，pe什么的都不错。 再结合技术面看价格结构有没有机会。 （筛选题材靠ETF的监控，这个关注我的朋友知道，个股靠AI的深度研究，我用的是Gemini和豆包）\"\n\n[![@TradercBTC](2027244952284209272/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n根据这个内容，我选了天赐材料和特变电工两只股票 其他的我其实不太懂，就简单结合了基本面和技术面（以技术面为主） 现在我对基本面和技术面的理解就是，一个是价格结构，一个是行业以及题材的动能周期 所以顺序是先选有动能的题材，然后筛选个股基本面较好，pe什么的都不错。 再结合技术面看价格结构有没有机会。 （筛选题材靠ETF的监控，这个关注我的朋友知道，个股靠AI的深度研究，我用的是Gemini和豆包）\n\n[![@TradercBTC](2027244952284209272/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[2月26日](https://x.com/TradercBTC/status/2026930054073344410)\n\n声明：以下内容基于ETF板块轮动数据的技术分析，不构成正式投资建议。投资有风险，决策需结合个人风险承受能力、资金周期和整体资产配置。 一、核心策略定调：拥抱实物资产，减持软科技，保持灵活\n\n[![](2027244952284209272/imgs/img-003-HCD-Z2ZagAAYo5t.webp)](https://x.com/TradercBTC/status/2026930054073344410/photo/1)\n\n[![](2027244952284209272/imgs/img-004-HCD-eDcaoAAUHEI.webp)](https://x.com/TradercBTC/status/2026930054073344410/photo/2)\n\n[12:50 · 2026年2月27日](https://x.com/TradercBTC/status/2027244952284209272)[3.4万Views](https://x.com/TradercBTC/status/2027244952284209272)"
+}

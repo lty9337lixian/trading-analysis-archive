@@ -1,0 +1,87 @@
+[info] Loading https://x.com/TradercBTC/status/2020684573487874258 with generic adapter
+[info] Downloaded 4 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2020684573487874258.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HArox_AasAA8UPz.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HAj8IWSbsAAyx1V?format=webp&name=small",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HAj9aDwaAAAHA-k?format=webp&name=small",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/HArox_AasAA8UPz.jpg:large",
+        "localPath": "2020684573487874258/imgs/img-001-HArox_AasAA8UPz-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2020684573487874258/imgs/img-001-HArox_AasAA8UPz-jpg-large.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2020684573487874258/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2020684573487874258/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HAj8IWSbsAAyx1V?format=webp&name=small",
+        "localPath": "2020684573487874258/imgs/img-003-HAj8IWSbsAAyx1V.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2020684573487874258/imgs/img-003-HAj8IWSbsAAyx1V.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HAj9aDwaAAAHA-k?format=webp&name=small",
+        "localPath": "2020684573487874258/imgs/img-004-HAj9aDwaAAAHA-k.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2020684573487874258/imgs/img-004-HAj9aDwaAAAHA-k.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 4,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2020684573487874258/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2020684573487874258",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2020684573487874258",
+    "title": "trader-c on X: \"日经指数 相当强势的上涨行情 周一开盘直接跳空突破4%，非常强势的突破 但是我早上起不来，日本八点开盘，太痛苦了，没有做上 准备在跳空的缺口，或者斐波那期50%，更小级别回调入场做多 有一说一，我还是非常看好日经的行情的，我认为机会蛮多的 春节旅游期间打算研究全球的一些主流市场的调研和研究报告，心中有一些底\"",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-09T02:21:59.000Z",
+    "summary": "日经指数\n\n相当强势的上涨行情\n\n周一开盘直接跳空突破4%，非常强势的突破\n\n但是我早上起不来，日本八点开盘，太痛苦了，没有做上\n\n准备在跳空的缺口，或者斐波那期50%，更小级别回调入场做多\n\n有一说一，我还是非常看好日经的行情的，我认为机会蛮多的\n\n春节旅游期间打算研究全球的一些主流市场的调研和研究报告，心中有一些底",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HArox_AasAA8UPz.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:57:34.233Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n日经指数 相当强势的上涨行情 周一开盘直接跳空突破4%，非常强势的突破 但是我早上起不来，日本八点开盘，太痛苦了，没有做上 准备在跳空的缺口，或者斐波那期50%，更小级别回调入场做多 有一说一，我还是非常看好日经的行情的，我认为机会蛮多的 春节旅游期间打算研究全球的一些主流市场的调研和研究报告，心中有一些底\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[2月7日](https://x.com/TradercBTC/status/2020143873100800032)\n\n日经指数 从周线上看还是非常强势的上涨行情，周线连续的阳k，而且上周收盘也是收在了上半部分 这种环境只能是alawys in long 大趋势定好方向，作为下一周的主观交易偏见 但其实指数大多数都是以日内为主，大概的作用就是让我不要逆势做空（上周四做空赚了一笔，只能说很幸运，反思ing）\n\n[![](https://pbs.twimg.com/media/HAj8IWSbsAAyx1V?format=webp&name=small)](https://x.com/TradercBTC/status/2020143873100800032/photo/1)\n\n[![](https://pbs.twimg.com/media/HAj9aDwaAAAHA-k?format=webp&name=small)](https://x.com/TradercBTC/status/2020143873100800032/photo/2)\n\n[10:21 · 2026年2月9日](https://x.com/TradercBTC/status/2020684573487874258)[6737Views](https://x.com/TradercBTC/status/2020684573487874258)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2020684573487874258"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"日经指数 相当强势的上涨行情 周一开盘直接跳空突破4%，非常强势的突破 但是我早上起不来，日本八点开盘，太痛苦了，没有做上 准备在跳空的缺口，或者斐波那期50%，更小级别回调入场做多 有一说一，我还是非常看好日经的行情的，我认为机会蛮多的 春节旅游期间打算研究全球的一些主流市场的调研和研究报告，心中有一些底\\\"\"\nurl: \"https://x.com/TradercBTC/status/2020684573487874258\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2020684573487874258\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2020684573487874258/imgs/img-001-HArox_AasAA8UPz-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-09T02:21:59.000Z\"\nsummary: |-\n  日经指数\n  \n  相当强势的上涨行情\n  \n  周一开盘直接跳空突破4%，非常强势的突破\n  \n  但是我早上起不来，日本八点开盘，太痛苦了，没有做上\n  \n  准备在跳空的缺口，或者斐波那期50%，更小级别回调入场做多\n  \n  有一说一，我还是非常看好日经的行情的，我认为机会蛮多的\n  \n  春节旅游期间打算研究全球的一些主流市场的调研和研究报告，心中有一些底\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:57:34.233Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"日经指数 相当强势的上涨行情 周一开盘直接跳空突破4%，非常强势的突破 但是我早上起不来，日本八点开盘，太痛苦了，没有做上 准备在跳空的缺口，或者斐波那期50%，更小级别回调入场做多 有一说一，我还是非常看好日经的行情的，我认为机会蛮多的 春节旅游期间打算研究全球的一些主流市场的调研和研究报告，心中有一些底\"\n\n[![@TradercBTC](2020684573487874258/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n日经指数 相当强势的上涨行情 周一开盘直接跳空突破4%，非常强势的突破 但是我早上起不来，日本八点开盘，太痛苦了，没有做上 准备在跳空的缺口，或者斐波那期50%，更小级别回调入场做多 有一说一，我还是非常看好日经的行情的，我认为机会蛮多的 春节旅游期间打算研究全球的一些主流市场的调研和研究报告，心中有一些底\n\n[![@TradercBTC](2020684573487874258/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[2月7日](https://x.com/TradercBTC/status/2020143873100800032)\n\n日经指数 从周线上看还是非常强势的上涨行情，周线连续的阳k，而且上周收盘也是收在了上半部分 这种环境只能是alawys in long 大趋势定好方向，作为下一周的主观交易偏见 但其实指数大多数都是以日内为主，大概的作用就是让我不要逆势做空（上周四做空赚了一笔，只能说很幸运，反思ing）\n\n[![](2020684573487874258/imgs/img-003-HAj8IWSbsAAyx1V.webp)](https://x.com/TradercBTC/status/2020143873100800032/photo/1)\n\n[![](2020684573487874258/imgs/img-004-HAj9aDwaAAAHA-k.webp)](https://x.com/TradercBTC/status/2020143873100800032/photo/2)\n\n[10:21 · 2026年2月9日](https://x.com/TradercBTC/status/2020684573487874258)[6737Views](https://x.com/TradercBTC/status/2020684573487874258)"
+}

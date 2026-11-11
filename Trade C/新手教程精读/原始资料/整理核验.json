@@ -1,0 +1,31 @@
+{
+  "status": "PASS",
+  "date": "2026-10-22",
+  "pdf_pages": 24,
+  "sha256": "9dd3ef4eb4ffff68c44ffd04a17bd321c720e068a53a2a1b0b0d53ac73f13d6e",
+  "part1_sections": 32,
+  "part2_sections": 47,
+  "markdown_files": 7,
+  "wiki_links_checked": 200,
+  "errors": [],
+  "checks": [
+    "original PDF byte identical",
+    "24 page text extraction",
+    "79 original section lines preserved",
+    "79 individual explanations",
+    "formula arithmetic assertions",
+    "all wiki targets and markdown anchors resolve",
+    "frontmatter title source date",
+    "X archive counts unchanged"
+  ],
+  "visual_review_pages": [
+    1,
+    4,
+    8,
+    19,
+    20,
+    21,
+    23
+  ],
+  "notes": "Visual spot checks plus full text extraction; original PDF controls layout. Authorship follows user supplied attribution; publication date unverified."
+}

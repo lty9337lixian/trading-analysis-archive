@@ -1,0 +1,62 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 79,
+  "lang": "zxx",
+  "possibly_sensitive": false,
+  "created_at": "2026-04-15T14:02:56.000Z",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2044…",
+        "expanded_url": "http://x.com/i/article/2044411923337543682",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/TSUoa9OVg6"
+      }
+    ]
+  },
+  "id_str": "2044416183055917515",
+  "text": "https://t.co/TSUoa9OVg6",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2044416183055917515"
+    ],
+    "editable_until_msecs": "1776265376000",
+    "edits_remaining": "5",
+    "is_edit_eligible": false
+  },
+  "conversation_count": 9,
+  "news_action_type": "conversation",
+  "article": {
+    "cover_media": {
+      "id": "QXBpTWVkaWE6DAAFCgABHF83h9jakAAKAAIaqP8AOBtwBgAA",
+      "media_info": {
+        "__typename": "ApiImage",
+        "original_img_height": 656,
+        "original_img_url": "https://pbs.twimg.com/media/HF83h9jakAAyU8w.jpg",
+        "original_img_width": 1640
+      }
+    },
+    "id": "QXJ0aWNsZUVudGl0eToyMDQ0NDExOTIzMzM3NTQzNjgy",
+    "preview_text": "\"交易是反人性的。\"\n你听过这句话。你可能自己说过。你可能在亏了一笔之后在群里打过这七个字，加一个苦笑的表情。\n这句话在中文交易圈几乎是空气。它存在于每一个论坛、每一本入门教程、每一段亏损后的自我安慰里。",
+    "rest_id": "2044411923337543682",
+    "title": "交易从不反人性"
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2049067386524029076 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2049067386524029076.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HG-_LJLa4AAe8GC.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2049067386524029076/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2049067386524029076/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HG-_LJLa4AAe8GC.jpg:large",
+        "localPath": "2049067386524029076/imgs/img-002-HG-_LJLa4AAe8GC-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2049067386524029076/imgs/img-002-HG-_LJLa4AAe8GC-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2049067386524029076/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2049067386524029076",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2049067386524029076",
+    "title": "trader-c on X: \"连续四周的周k是阳线\n\n这周如果跌不破上周周k的实体0.5，形成不了吞没其实还行\n\n不过4H三推反转，m顶，跌破趋势线\n\n买盘动能减弱是肯定的，但是能不能造成趋势反转，大概率还得看后续的测试，没有直接跌穿，也没形成excess，没有结构高点\n\n最多算poor high🤔\n\n大概率一个震荡\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-04-28T10:05:09.000Z",
+    "summary": "连续四周的周k是阳线\n\n这周如果跌不破上周周k的实体0.5，形成不了吞没其实还行\n\n不过4H三推反转，m顶，跌破趋势线\n\n买盘动能减弱是肯定的，但是能不能造成趋势反转，大概率还得看后续的测试，没有直接跌穿，也没形成excess，没有结构高点\n\n最多算poor high🤔\n\n大概率一个震荡",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HG-_LJLa4AAe8GC.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:00:43.329Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t连续四周的周k是阳线 这周如果跌不破上周周k的实体0.5，形成不了吞没其实还行 不过4H三推反转，m顶，跌破趋势线 买盘动能减弱是肯定的，但是能不能造成趋势反转，大概率还得看后续的测试，没有直接跌穿，也没形成excess，没有结构高点 最多算poor high🤔 大概率一个震荡\n\t[18:05 · 2026年4月28日](https://x.com/TradercBTC/status/2049067386524029076) [1677Views](https://x.com/TradercBTC/status/2049067386524029076)\n\t[2](https://x.com/i/status/2049067386524029076)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2049067386524029076"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"连续四周的周k是阳线\n  \n  这周如果跌不破上周周k的实体0.5，形成不了吞没其实还行\n  \n  不过4H三推反转，m顶，跌破趋势线\n  \n  买盘动能减弱是肯定的，但是能不能造成趋势反转，大概率还得看后续的测试，没有直接跌穿，也没形成excess，没有结构高点\n  \n  最多算poor high🤔\n  \n  大概率一个震荡\" / X\nurl: \"https://x.com/TradercBTC/status/2049067386524029076\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2049067386524029076\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2049067386524029076/imgs/img-002-HG-_LJLa4AAe8GC-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-04-28T10:05:09.000Z\"\nsummary: |-\n  连续四周的周k是阳线\n  \n  这周如果跌不破上周周k的实体0.5，形成不了吞没其实还行\n  \n  不过4H三推反转，m顶，跌破趋势线\n  \n  买盘动能减弱是肯定的，但是能不能造成趋势反转，大概率还得看后续的测试，没有直接跌穿，也没形成excess，没有结构高点\n  \n  最多算poor high🤔\n  \n  大概率一个震荡\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:00:43.329Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"连续四周的周k是阳线\n\n这周如果跌不破上周周k的实体0.5，形成不了吞没其实还行\n\n不过4H三推反转，m顶，跌破趋势线\n\n买盘动能减弱是肯定的，但是能不能造成趋势反转，大概率还得看后续的测试，没有直接跌穿，也没形成excess，没有结构高点\n\n最多算poor high🤔\n\n大概率一个震荡\" / X\n\n- [![@TradercBTC](2049067386524029076/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t连续四周的周k是阳线 这周如果跌不破上周周k的实体0.5，形成不了吞没其实还行 不过4H三推反转，m顶，跌破趋势线 买盘动能减弱是肯定的，但是能不能造成趋势反转，大概率还得看后续的测试，没有直接跌穿，也没形成excess，没有结构高点 最多算poor high🤔 大概率一个震荡\n\t[18:05 · 2026年4月28日](https://x.com/TradercBTC/status/2049067386524029076) [1677Views](https://x.com/TradercBTC/status/2049067386524029076)\n\t[2](https://x.com/i/status/2049067386524029076)"
+}

@@ -1,0 +1,349 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 3,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-01-19T15:42:22.000Z",
+  "display_text_range": [
+    0,
+    113
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/G8qzQUU7S4",
+        "expanded_url": "https://x.com/TradercBTC/status/2013275849915842965/photo/1",
+        "indices": [
+          114,
+          137
+        ],
+        "url": "https://t.co/G8qzQUU7S4"
+      }
+    ],
+    "symbols": [
+      {
+        "indices": [
+          6,
+          10
+        ],
+        "text": "BTC"
+      }
+    ]
+  },
+  "id_str": "2013275849915842965",
+  "text": "正在走二推 $BTC \n\nbut该睡觉了，今天是等不到了，只能挂个左侧空单937和底部多单922。\n\n止损会大一些。\n\n简单来说我的逻辑是一段行情走完了，押注它走两天的震荡。\n\n基于大背景和赔率，空单100%仓位，多单50%。 https://t.co/G8qzQUU7S4",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2013275849915842965"
+    ],
+    "editable_until_msecs": "1768840942000",
+    "edits_remaining": "5",
+    "is_edit_eligible": false
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/G8qzQUU7S4",
+      "expanded_url": "https://x.com/TradercBTC/status/2013275849915842965/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        114,
+        137
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/G_CXCFiWkAAJJdr.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1876,
+            "w": 3350,
+            "x": 48,
+            "y": 0
+          },
+          {
+            "h": 1876,
+            "w": 1876,
+            "x": 785,
+            "y": 0
+          },
+          {
+            "h": 1876,
+            "w": 1646,
+            "x": 900,
+            "y": 0
+          },
+          {
+            "h": 1876,
+            "w": 938,
+            "x": 1254,
+            "y": 0
+          },
+          {
+            "h": 1876,
+            "w": 3628,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1876,
+        "width": 3628
+      },
+      "sizes": {
+        "large": {
+          "h": 1059,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 621,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 352,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/G8qzQUU7S4"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1876,
+          "w": 3350,
+          "x": 48,
+          "y": 0
+        },
+        {
+          "h": 1876,
+          "w": 1876,
+          "x": 785,
+          "y": 0
+        },
+        {
+          "h": 1876,
+          "w": 1646,
+          "x": 900,
+          "y": 0
+        },
+        {
+          "h": 1876,
+          "w": 938,
+          "x": 1254,
+          "y": 0
+        },
+        {
+          "h": 1876,
+          "w": 3628,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2013275849915842965/photo/1",
+      "url": "https://pbs.twimg.com/media/G_CXCFiWkAAJJdr.jpg",
+      "width": 3628,
+      "height": 1876
+    }
+  ],
+  "conversation_count": 2,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "favorite_count": 8,
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "reply_count": 5,
+    "retweet_count": 2,
+    "created_at": "2026-01-19T06:21:39.000Z",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "entities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/dnzOXPvdCf",
+          "expanded_url": "https://x.com/TradercBTC/status/2013134744326996048/photo/1",
+          "indices": [
+            106,
+            129
+          ],
+          "url": "https://t.co/dnzOXPvdCf"
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [
+            0,
+            4
+          ],
+          "text": "BTC"
+        }
+      ]
+    },
+    "id_str": "2013134744326996048",
+    "text": "$BTC 等待等待\n\n如果打开4h会发现刚好落在ema200的地方\n\n希望看到回测这一段下跌的50%\n\n（这种非常巨大的k线不具备持续性，加上还在ema200上方，可能会有人去做剥头皮的交易，这回推动价格上涨） https://t.co/dnzOXPvdCf",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2013134744326996048"
+      ],
+      "editable_until_msecs": "1768807299000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "mediaDetails": [
+      {
+        "display_url": "pic.x.com/dnzOXPvdCf",
+        "expanded_url": "https://x.com/TradercBTC/status/2013134744326996048/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "indices": [
+          106,
+          129
+        ],
+        "media_url_https": "https://pbs.twimg.com/media/G_AWaLZXsAE9WZw.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1729,
+              "w": 3088,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1820,
+              "w": 1820,
+              "x": 553,
+              "y": 0
+            },
+            {
+              "h": 1820,
+              "w": 1596,
+              "x": 665,
+              "y": 0
+            },
+            {
+              "h": 1820,
+              "w": 910,
+              "x": 1008,
+              "y": 0
+            },
+            {
+              "h": 1820,
+              "w": 3088,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1820,
+          "width": 3088
+        },
+        "sizes": {
+          "large": {
+            "h": 1207,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 707,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 401,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/dnzOXPvdCf"
+      }
+    ],
+    "photos": [
+      {
+        "backgroundColor": {
+          "red": 204,
+          "green": 214,
+          "blue": 221
+        },
+        "cropCandidates": [
+          {
+            "h": 1729,
+            "w": 3088,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1820,
+            "w": 1820,
+            "x": 553,
+            "y": 0
+          },
+          {
+            "h": 1820,
+            "w": 1596,
+            "x": 665,
+            "y": 0
+          },
+          {
+            "h": 1820,
+            "w": 910,
+            "x": 1008,
+            "y": 0
+          },
+          {
+            "h": 1820,
+            "w": 3088,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "expandedUrl": "https://x.com/TradercBTC/status/2013134744326996048/photo/1",
+        "url": "https://pbs.twimg.com/media/G_AWaLZXsAE9WZw.jpg",
+        "width": 3088,
+        "height": 1820
+      }
+    ],
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

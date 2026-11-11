@@ -1,0 +1,50 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/card_img/2094646404979564544/H3UYwoQS?format=jpg&name=orig",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/card_img/2094646404979564544/H3UYwoQS?format=jpg&name=orig",
+        "localPath": "2015278991050264582/imgs/img-001-H3UYwoQS.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2015278991050264582/imgs/img-001-H3UYwoQS.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2015278991050264582/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2015278991050264582",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2015278991050264582",
+    "title": "trader-c on X: \"【1月25日周末从周线复盘BTC，制定计划】 https://t.co/yGjx6VOmdr\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-01-25T04:22:08.000Z",
+    "summary": "【1月25日周末从周线复盘BTC，制定计划】 https://t.co/yGjx6VOmdr",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/card_img/2094646404979564544/H3UYwoQS?format=jpg&name=orig",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:54:11.061Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "求关注，求点赞，求一键三连！！！之后会更新美g和大a，重点还是在大a不同板块, 视频播放量 226、弹幕量 0、点赞数 10、投硬币枚数 8、收藏人数 3、转发人数 0, 视频作者 trader-c, 作者简介 这是一个 半退休trader 喜欢吐槽装逼和妹子 ，相关视频：1分钟短线交易法，月入7K-9K的普通人也能上手！，【trader-c的交易频道】十分钟内完成识别趋势，制定交易计划，捕..."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2015278991050264582"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"【1月25日周末从周线复盘BTC，制定计划】 https://t.co/yGjx6VOmdr/\" / X\"\nurl: \"https://x.com/TradercBTC/status/2015278991050264582\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2015278991050264582\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2015278991050264582/imgs/img-001-H3UYwoQS.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-01-25T04:22:08.000Z\"\nsummary: \"【1月25日周末从周线复盘BTC，制定计划】 https://t.co/yGjx6VOmdr\"\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:54:11.061Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"【1月25日周末从周线复盘BTC，制定计划】 https://t.co/yGjx6VOmdr\" / X\n\n求关注，求点赞，求一键三连！！！之后会更新美g和大a，重点还是在大a不同板块, 视频播放量 226、弹幕量 0、点赞数 10、投硬币枚数 8、收藏人数 3、转发人数 0, 视频作者 trader-c, 作者简介 这是一个 半退休trader 喜欢吐槽装逼和妹子 ，相关视频：1分钟短线交易法，月入7K-9K的普通人也能上手！，【trader-c的交易频道】十分钟内完成识别趋势，制定交易计划，捕..."
+}

@@ -1,0 +1,62 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 219,
+  "lang": "zxx",
+  "possibly_sensitive": false,
+  "created_at": "2026-03-20T07:17:02.000Z",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2034…",
+        "expanded_url": "http://x.com/i/article/2034890425199468546",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/MXFaGZk0gk"
+      }
+    ]
+  },
+  "id_str": "2034891950482931984",
+  "text": "https://t.co/MXFaGZk0gk",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2034891950482931984"
+    ],
+    "editable_until_msecs": "1773994622000",
+    "edits_remaining": "5",
+    "is_edit_eligible": false
+  },
+  "conversation_count": 3,
+  "news_action_type": "conversation",
+  "article": {
+    "cover_media": {
+      "id": "QXBpTWVkaWE6DAAFCgABHD1jOgYboAIKAAIaqP8AOBtwBgAA",
+      "media_info": {
+        "__typename": "ApiImage",
+        "original_img_height": 640,
+        "original_img_url": "https://pbs.twimg.com/media/HD1jOgYboAI9wtV.jpg",
+        "original_img_width": 1600
+      }
+    },
+    "id": "QXJ0aWNsZUVudGl0eToyMDM0ODkwNDI1MTk5NDY4NTQ2",
+    "preview_text": "期货和合约市场有一个数学事实，大多数参与者不愿意直视它：这是一个负和博弈。",
+    "rest_id": "2034890425199468546",
+    "title": "低于十万美金做交易是没有意义的，这是结构和数学的问题，而不是个人的问题"
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

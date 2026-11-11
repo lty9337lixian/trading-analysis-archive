@@ -1,0 +1,62 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 92,
+  "lang": "zxx",
+  "possibly_sensitive": false,
+  "created_at": "2026-04-24T06:13:40.000Z",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2047…",
+        "expanded_url": "http://x.com/i/article/2047554552090771456",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/TQbqFFa4wh"
+      }
+    ]
+  },
+  "id_str": "2047559581556146293",
+  "text": "https://t.co/TQbqFFa4wh",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2047559581556146293"
+    ],
+    "editable_until_msecs": "1777014820000",
+    "edits_remaining": "5",
+    "is_edit_eligible": false
+  },
+  "conversation_count": 4,
+  "news_action_type": "conversation",
+  "article": {
+    "cover_media": {
+      "id": "QXBpTWVkaWE6DAAFCgABHGpkkb2bMAAKAAIaqP8AOBtwBgAA",
+      "media_info": {
+        "__typename": "ApiImage",
+        "original_img_height": 550,
+        "original_img_url": "https://pbs.twimg.com/media/HGpkkb2bMAAuhIt.jpg",
+        "original_img_width": 1376
+      }
+    },
+    "id": "QXJ0aWNsZUVudGl0eToyMDQ3NTU0NTUyMDkwNzcxNDU2",
+    "preview_text": "1929年10月15日，耶鲁大学经济学教授欧文·费雪在纽约的一次演讲中说出了一句后来被刻进金融史教科书的话：\"股价已经达到了一个看起来像是永久性高位平台的水平。\"两周后，美国股市崩盘。",
+    "rest_id": "2047554552090771456",
+    "title": "成为稳定盈利交易者的唯一途径是承认自己永远无知"
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

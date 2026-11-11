@@ -1,0 +1,55 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2065025133073625534/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2065025133073625534/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2065025133073625534/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2065025133073625534",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2065025133073625534",
+    "title": "trader-c on X: \"真难。。。。\n\nwoc，复盘看自己做的和失了智一样\n\n我感觉本质还是偶尔盯盘，贪婪和恐惧会占据上风\n\n这是人性\n\n我知道正确的怎么做，但是唯两次机会我都出去放风去了\n\n因为我太追求精准入场了，止损放太近了\n\n一直盯盘容易情绪上头🤔\n\n还是波段舒服，但是日内确实不好做，我日\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-06-11T10:55:32.000Z",
+    "summary": "真难。。。。\n\nwoc，复盘看自己做的和失了智一样\n\n我感觉本质还是偶尔盯盘，贪婪和恐惧会占据上风\n\n这是人性\n\n我知道正确的怎么做，但是唯两次机会我都出去放风去了\n\n因为我太追求精准入场了，止损放太近了\n\n一直盯盘容易情绪上头🤔\n\n还是波段舒服，但是日内确实不好做，我日",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:51:58.795Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t真难。。。。 woc，复盘看自己做的和失了智一样 我感觉本质还是偶尔盯盘，贪婪和恐惧会占据上风 这是人性 我知道正确的怎么做，但是唯两次机会我都出去放风去了 因为我太追求精准入场了，止损放太近了 一直盯盘容易情绪上头🤔 还是波段舒服，但是日内确实不好做，我日\n\t[18:55 · 2026年6月11日](https://x.com/TradercBTC/status/2065025133073625534) [1544Views](https://x.com/TradercBTC/status/2065025133073625534)\n\t[1](https://x.com/i/status/2065025133073625534)\n\tOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2065025133073625534"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"真难。。。。\n  \n  woc，复盘看自己做的和失了智一样\n  \n  我感觉本质还是偶尔盯盘，贪婪和恐惧会占据上风\n  \n  这是人性\n  \n  我知道正确的怎么做，但是唯两次机会我都出去放风去了\n  \n  因为我太追求精准入场了，止损放太近了\n  \n  一直盯盘容易情绪上头🤔\n  \n  还是波段舒服，但是日内确实不好做，我日\" / X\nurl: \"https://x.com/TradercBTC/status/2065025133073625534\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2065025133073625534\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2065025133073625534/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-06-11T10:55:32.000Z\"\nsummary: |-\n  真难。。。。\n  \n  woc，复盘看自己做的和失了智一样\n  \n  我感觉本质还是偶尔盯盘，贪婪和恐惧会占据上风\n  \n  这是人性\n  \n  我知道正确的怎么做，但是唯两次机会我都出去放风去了\n  \n  因为我太追求精准入场了，止损放太近了\n  \n  一直盯盘容易情绪上头🤔\n  \n  还是波段舒服，但是日内确实不好做，我日\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:51:58.795Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"真难。。。。\n\nwoc，复盘看自己做的和失了智一样\n\n我感觉本质还是偶尔盯盘，贪婪和恐惧会占据上风\n\n这是人性\n\n我知道正确的怎么做，但是唯两次机会我都出去放风去了\n\n因为我太追求精准入场了，止损放太近了\n\n一直盯盘容易情绪上头🤔\n\n还是波段舒服，但是日内确实不好做，我日\" / X\n\n- [![@TradercBTC](2065025133073625534/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t真难。。。。 woc，复盘看自己做的和失了智一样 我感觉本质还是偶尔盯盘，贪婪和恐惧会占据上风 这是人性 我知道正确的怎么做，但是唯两次机会我都出去放风去了 因为我太追求精准入场了，止损放太近了 一直盯盘容易情绪上头🤔 还是波段舒服，但是日内确实不好做，我日\n\t[18:55 · 2026年6月11日](https://x.com/TradercBTC/status/2065025133073625534) [1544Views](https://x.com/TradercBTC/status/2065025133073625534)\n\t[1](https://x.com/i/status/2065025133073625534)\n\tOnly some accounts can reply."
+}

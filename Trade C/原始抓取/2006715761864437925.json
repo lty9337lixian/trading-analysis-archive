@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/G9lJUkOW0AEzKIP.png:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2006715761864437925/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2006715761864437925/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/G9lJUkOW0AEzKIP.png:large",
+        "localPath": "2006715761864437925/imgs/img-002-G9lJUkOW0AEzKIP-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2006715761864437925/imgs/img-002-G9lJUkOW0AEzKIP-png-large.png",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2006715761864437925/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2006715761864437925",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2006715761864437925",
+    "title": "trader-c on X: \"我的下一步计划 $BTC\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-01-01T13:14:55.000Z",
+    "summary": "我的下一步计划 $BTC",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/G9lJUkOW0AEzKIP.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:41:42.502Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n我的下一步计划 [$BTC](https://x.com/search?q=$BTC)\n\n[21:14 · 2026年1月1日](https://x.com/TradercBTC/status/2006715761864437925) [2.7万Views](https://x.com/TradercBTC/status/2006715761864437925)\n\n[2](https://x.com/i/status/2006715761864437925)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2006715761864437925"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"我的下一步计划 $BTC\\\" / X\"\nurl: \"https://x.com/TradercBTC/status/2006715761864437925\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2006715761864437925\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2006715761864437925/imgs/img-002-G9lJUkOW0AEzKIP-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-01-01T13:14:55.000Z\"\nsummary: \"我的下一步计划 $BTC\"\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:41:42.502Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"我的下一步计划 $BTC\" / X\n\n[![@TradercBTC](2006715761864437925/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n我的下一步计划 [$BTC](https://x.com/search?q=$BTC)\n\n[21:14 · 2026年1月1日](https://x.com/TradercBTC/status/2006715761864437925) [2.7万Views](https://x.com/TradercBTC/status/2006715761864437925)\n\n[2](https://x.com/i/status/2006715761864437925)"
+}

@@ -1,0 +1,76 @@
+[info] Loading https://x.com/TradercBTC/status/2091775462146244639 with generic adapter
+[info] Downloaded 3 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2091775462146244639.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HQd5yZqbUAA6OXS.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HQdEzJdaMAAApdg?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/HQd5yZqbUAA6OXS.jpg:large",
+        "localPath": "2091775462146244639/imgs/img-001-HQd5yZqbUAA6OXS-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2091775462146244639/imgs/img-001-HQd5yZqbUAA6OXS-jpg-large.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2091775462146244639/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2091775462146244639/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HQdEzJdaMAAApdg?format=webp&name=medium",
+        "localPath": "2091775462146244639/imgs/img-003-HQdEzJdaMAAApdg.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2091775462146244639/imgs/img-003-HQdEzJdaMAAApdg.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 3,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2091775462146244639/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2091775462146244639",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2091775462146244639",
+    "title": "trader-c on X: \"太tmd扯了 我不知道第二单是怎么回事？ 我记着我的止损是13个点，但是到8个点就没了 记忆已经混乱了 第二个，贪了了三个点，原本想着15个点止损，按照13个点挂前高被打了 傻逼了 我主要在观察加密货币的市场，制定策略，搞的我头昏脑涨的。。。。 但是风险控制的很好，我即使这么乱玩总共亏了20点。。。 （but好像并不是，主要是我早上纳指赢了20点，但是我后续没有时间观察纳指，导致错过了一波相对较好的行情。。。。）\"",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-24T06:31:48.000Z",
+    "summary": "太tmd扯了\n\n我不知道第二单是怎么回事？\n\n我记着我的止损是13个点，但是到8个点就没了\n\n记忆已经混乱了\n\n第二个，贪了了三个点，原本想着15个点止损，按照13个点挂前高被打了\n\n傻逼了\n\n我主要在观察加密货币的市场，制定策略，搞的我头昏脑涨的。。。。\n\n但是风险控制的很好，我即使这么乱玩总共亏了20点。。。\n\n（but好像并不是，主要是我早上纳指赢了20点，但是我后续没有时间观察纳指，导致错过了一波相对较好的行情。。。。）",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HQd5yZqbUAA6OXS.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:06:21.726Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n太tmd扯了 我不知道第二单是怎么回事？ 我记着我的止损是13个点，但是到8个点就没了 记忆已经混乱了 第二个，贪了了三个点，原本想着15个点止损，按照13个点挂前高被打了 傻逼了 我主要在观察加密货币的市场，制定策略，搞的我头昏脑涨的。。。。 但是风险控制的很好，我即使这么乱玩总共亏了20点。。。 （but好像并不是，主要是我早上纳指赢了20点，但是我后续没有时间观察纳指，导致错过了一波相对较好的行情。。。。）\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[8月24日](https://x.com/TradercBTC/status/2091716251999690863)\n\n复盘黄金：犯了两个错误： 1:如果押注上方阻力位反弹，则止损不应该这么大，跌破止损就应该离场，合理的止损是7到10个点，放15个点实际上已经到了区级底部，这就是在震荡区间上方做多的傻逼行为了。 2:实际上在HTF背景没有变化的时候，更应该去等待测试和信号。\n\n[![](https://pbs.twimg.com/media/HQdEzJdaMAAApdg?format=webp&name=medium)](https://x.com/TradercBTC/status/2091716251999690863/photo/1)\n\n[14:31 · 2026年8月24日](https://x.com/TradercBTC/status/2091775462146244639)[2408Views](https://x.com/TradercBTC/status/2091775462146244639)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2091775462146244639"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"太tmd扯了 我不知道第二单是怎么回事？ 我记着我的止损是13个点，但是到8个点就没了 记忆已经混乱了 第二个，贪了了三个点，原本想着15个点止损，按照13个点挂前高被打了 傻逼了 我主要在观察加密货币的市场，制定策略，搞的我头昏脑涨的。。。。 但是风险控制的很好，我即使这么乱玩总共亏了20点。。。 （but好像并不是，主要是我早上纳指赢了20点，但是我后续没有时间观察纳指，导致错过了一波相对较好的行情。。。。）\\\"\"\nurl: \"https://x.com/TradercBTC/status/2091775462146244639\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2091775462146244639\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2091775462146244639/imgs/img-001-HQd5yZqbUAA6OXS-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-24T06:31:48.000Z\"\nsummary: |-\n  太tmd扯了\n  \n  我不知道第二单是怎么回事？\n  \n  我记着我的止损是13个点，但是到8个点就没了\n  \n  记忆已经混乱了\n  \n  第二个，贪了了三个点，原本想着15个点止损，按照13个点挂前高被打了\n  \n  傻逼了\n  \n  我主要在观察加密货币的市场，制定策略，搞的我头昏脑涨的。。。。\n  \n  但是风险控制的很好，我即使这么乱玩总共亏了20点。。。\n  \n  （but好像并不是，主要是我早上纳指赢了20点，但是我后续没有时间观察纳指，导致错过了一波相对较好的行情。。。。）\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:06:21.726Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"太tmd扯了 我不知道第二单是怎么回事？ 我记着我的止损是13个点，但是到8个点就没了 记忆已经混乱了 第二个，贪了了三个点，原本想着15个点止损，按照13个点挂前高被打了 傻逼了 我主要在观察加密货币的市场，制定策略，搞的我头昏脑涨的。。。。 但是风险控制的很好，我即使这么乱玩总共亏了20点。。。 （but好像并不是，主要是我早上纳指赢了20点，但是我后续没有时间观察纳指，导致错过了一波相对较好的行情。。。。）\"\n\n[![@TradercBTC](2091775462146244639/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n太tmd扯了 我不知道第二单是怎么回事？ 我记着我的止损是13个点，但是到8个点就没了 记忆已经混乱了 第二个，贪了了三个点，原本想着15个点止损，按照13个点挂前高被打了 傻逼了 我主要在观察加密货币的市场，制定策略，搞的我头昏脑涨的。。。。 但是风险控制的很好，我即使这么乱玩总共亏了20点。。。 （but好像并不是，主要是我早上纳指赢了20点，但是我后续没有时间观察纳指，导致错过了一波相对较好的行情。。。。）\n\n[![@TradercBTC](2091775462146244639/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[8月24日](https://x.com/TradercBTC/status/2091716251999690863)\n\n复盘黄金：犯了两个错误： 1:如果押注上方阻力位反弹，则止损不应该这么大，跌破止损就应该离场，合理的止损是7到10个点，放15个点实际上已经到了区级底部，这就是在震荡区间上方做多的傻逼行为了。 2:实际上在HTF背景没有变化的时候，更应该去等待测试和信号。\n\n[![](2091775462146244639/imgs/img-003-HQdEzJdaMAAApdg.webp)](https://x.com/TradercBTC/status/2091716251999690863/photo/1)\n\n[14:31 · 2026年8月24日](https://x.com/TradercBTC/status/2091775462146244639)[2408Views](https://x.com/TradercBTC/status/2091775462146244639)\n\nOnly some accounts can reply."
+}

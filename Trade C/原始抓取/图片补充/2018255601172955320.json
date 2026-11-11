@@ -1,0 +1,45 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 21,
+  "lang": "zh",
+  "created_at": "2026-02-02T09:30:07.000Z",
+  "display_text_range": [
+    0,
+    154
+  ],
+  "entities": {},
+  "id_str": "2018255601172955320",
+  "text": "整理了一下接下来一年做交易的主要市场。\n\n我想像基金经理一样，每个季度写一份投资报告，各位关注我的朋友就是我的客户😂\n\n以推文和视频记录。\n\n短中期：\n\n在utc+8时区，白天关注日经225和看看自选股的股票。\n\n主力：交易美股指数纳斯达克和大宗商品黄金。\n\nBTC，ETH，SOL全部转为短线。\n\n中长：",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "initial_tweet_id": "2018254579092324559",
+    "edit_tweet_ids": [
+      "2018254579092324559",
+      "2018255601172955320"
+    ],
+    "editable_until_msecs": "1770027963000",
+    "edits_remaining": "4",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 3,
+  "news_action_type": "conversation",
+  "isEdited": true,
+  "isStaleEdit": false,
+  "previous_counts": {
+    "favorite_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+  },
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDE4MjU1NjAxMTI2NzM1ODcy"
+  }
+}

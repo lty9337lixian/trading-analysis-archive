@@ -1,0 +1,58 @@
+[info] Loading https://x.com/TradercBTC/status/2065793763440754929 with generic adapter
+[info] Downloaded 1 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2065793763440754929.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2065793763440754929/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2065793763440754929/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2065793763440754929/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2065793763440754929",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2065793763440754929",
+    "title": "trader-c on X: \"关于做日内黄金的一些想法：\n\n简单分为高波动日和低波动日\n\n高波动大概150到200点\n\n低波动大概80到120点\n\n所以基础目标应该是40到50点，高波动日更高，止损是20点到30点。\n\n一般分为伦敦盘和美盘，机会基本在这两个\n\n美盘的波动太高，伦敦盘日内效果会更好，时间也很友好\n\n所以打PF日内就像周五一样，一手足以。\n\n基本就熟悉做黄金就足够每天500💲的收入了。\n\n同理可以扩充。以上皆为15min为主要周期，移动止损为5min的1.6atr。\n\n按照洞哥的说法，这些具体的内容应该作为知识付费的交付产品\n\n对外讲的内容，要讲\"认知\"（也就是思维方式、判… / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-06-13T13:49:48.000Z",
+    "summary": "关于做日内黄金的一些想法：\n\n简单分为高波动日和低波动日\n\n高波动大概150到200点\n\n低波动大概80到120点\n\n所以基础目标应该是40到50点，高波动日更高，止损是20点到30点。\n\n一般分为伦敦盘和美盘，机会基本在这两个\n\n美盘的波动太高，伦敦盘日内效果会更好，时间也很友好\n\n所以打PF日内就像周五一样，一手足以。\n\n基本就熟悉做黄金就足够每天500💲的收入了。\n\n同理可以扩充。以上皆为15min为主要周期，移动止损为5min的1.6atr。\n\n按照洞哥的说法，这些具体的内容应该作为知识付费的交付产品\n\n对外讲的内容，要讲\"认知\"（也就是思维方式、判断力、行业洞察、格局这类\"虚\"的…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:02:07.375Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t关于做日内黄金的一些想法： 简单分为高波动日和低波动日 高波动大概150到200点 低波动大概80到120点 所以基础目标应该是40到50点，高波动日更高，止损是20点到30点。 一般分为伦敦盘和美盘，机会基本在这两个 美盘的波动太高，伦敦盘日内效果会更好，时间也很友好 所以打PF日内就像周五一样，一手足以。 基本就熟悉做黄金就足够每天500💲的收入了。 同理可以扩充。以上皆为15min为主要周期，移动止损为5min的1.6atr。 按照洞哥的说法，这些具体的内容应该作为知识付费的交付产品 对外讲的内容，要讲\"认知\"（也就是思维方式、判断力、行业洞察、格局这类\"虚\"的东西）。 真正收费卖的，要卖\"技能\"（具体的、能落地操作的方法和能力） 认知这种东西，\"学不会、不回本\"。认知是很难通过买一个课就真正习得的，它依赖个人长期积累和悟性。 所以如果把认知当商品卖，买家大概率学不会、感觉不值、要求退款，口碑也差。 技能\"不值钱、烂好人\"。技能是具体可教的，如果天天免费把技能讲给大家听，一方面显得你的东西很廉价（容易教 = 不值钱），另一方面你把核心的可收费内容白送了，成了\"烂好人\"（老好人），最后没东西可卖 但是我一想，我觉得金融类的傻逼很多，是真的纯纯菜，说了他们也不会，还是有一些区别的😂\n\t[21:49 · 2026年6月13日](https://x.com/TradercBTC/status/2065793763440754929) [2774Views](https://x.com/TradercBTC/status/2065793763440754929)\n\t[1](https://x.com/i/status/2065793763440754929)\n\tOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2065793763440754929"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"关于做日内黄金的一些想法：\n  \n  简单分为高波动日和低波动日\n  \n  高波动大概150到200点\n  \n  低波动大概80到120点\n  \n  所以基础目标应该是40到50点，高波动日更高，止损是20点到30点。\n  \n  一般分为伦敦盘和美盘，机会基本在这两个\n  \n  美盘的波动太高，伦敦盘日内效果会更好，时间也很友好\n  \n  所以打PF日内就像周五一样，一手足以。\n  \n  基本就熟悉做黄金就足够每天500💲的收入了。\n  \n  同理可以扩充。以上皆为15min为主要周期，移动止损为5min的1.6atr。\n  \n  按照洞哥的说法，这些具体的内容应该作为知识付费的交付产品\n  \n  对外讲的内容，要讲\"认知\"（也就是思维方式、判… / X\nurl: \"https://x.com/TradercBTC/status/2065793763440754929\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2065793763440754929\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2065793763440754929/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-06-13T13:49:48.000Z\"\nsummary: |-\n  关于做日内黄金的一些想法：\n  \n  简单分为高波动日和低波动日\n  \n  高波动大概150到200点\n  \n  低波动大概80到120点\n  \n  所以基础目标应该是40到50点，高波动日更高，止损是20点到30点。\n  \n  一般分为伦敦盘和美盘，机会基本在这两个\n  \n  美盘的波动太高，伦敦盘日内效果会更好，时间也很友好\n  \n  所以打PF日内就像周五一样，一手足以。\n  \n  基本就熟悉做黄金就足够每天500💲的收入了。\n  \n  同理可以扩充。以上皆为15min为主要周期，移动止损为5min的1.6atr。\n  \n  按照洞哥的说法，这些具体的内容应该作为知识付费的交付产品\n  \n  对外讲的内容，要讲\"认知\"（也就是思维方式、判断力、行业洞察、格局这类\"虚\"的…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:02:07.375Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"关于做日内黄金的一些想法：\n\n简单分为高波动日和低波动日\n\n高波动大概150到200点\n\n低波动大概80到120点\n\n所以基础目标应该是40到50点，高波动日更高，止损是20点到30点。\n\n一般分为伦敦盘和美盘，机会基本在这两个\n\n美盘的波动太高，伦敦盘日内效果会更好，时间也很友好\n\n所以打PF日内就像周五一样，一手足以。\n\n基本就熟悉做黄金就足够每天500💲的收入了。\n\n同理可以扩充。以上皆为15min为主要周期，移动止损为5min的1.6atr。\n\n按照洞哥的说法，这些具体的内容应该作为知识付费的交付产品\n\n对外讲的内容，要讲\"认知\"（也就是思维方式、判… / X\n\n- [![@TradercBTC](2065793763440754929/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t关于做日内黄金的一些想法： 简单分为高波动日和低波动日 高波动大概150到200点 低波动大概80到120点 所以基础目标应该是40到50点，高波动日更高，止损是20点到30点。 一般分为伦敦盘和美盘，机会基本在这两个 美盘的波动太高，伦敦盘日内效果会更好，时间也很友好 所以打PF日内就像周五一样，一手足以。 基本就熟悉做黄金就足够每天500💲的收入了。 同理可以扩充。以上皆为15min为主要周期，移动止损为5min的1.6atr。 按照洞哥的说法，这些具体的内容应该作为知识付费的交付产品 对外讲的内容，要讲\"认知\"（也就是思维方式、判断力、行业洞察、格局这类\"虚\"的东西）。 真正收费卖的，要卖\"技能\"（具体的、能落地操作的方法和能力） 认知这种东西，\"学不会、不回本\"。认知是很难通过买一个课就真正习得的，它依赖个人长期积累和悟性。 所以如果把认知当商品卖，买家大概率学不会、感觉不值、要求退款，口碑也差。 技能\"不值钱、烂好人\"。技能是具体可教的，如果天天免费把技能讲给大家听，一方面显得你的东西很廉价（容易教 = 不值钱），另一方面你把核心的可收费内容白送了，成了\"烂好人\"（老好人），最后没东西可卖 但是我一想，我觉得金融类的傻逼很多，是真的纯纯菜，说了他们也不会，还是有一些区别的😂\n\t[21:49 · 2026年6月13日](https://x.com/TradercBTC/status/2065793763440754929) [2774Views](https://x.com/TradercBTC/status/2065793763440754929)\n\t[1](https://x.com/i/status/2065793763440754929)\n\tOnly some accounts can reply."
+}

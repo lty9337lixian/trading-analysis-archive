@@ -1,0 +1,65 @@
+[warn] No running Chrome debugger found for profile /Users/lu/Library/Application Support/baoyu-skills/chrome-profile. Launching Chrome with that profile.
+[info] Loading https://x.com/TradercBTC/status/2074372777180828084 with x adapter
+[info] Adapter x returned no structured document; falling back to generic extraction
+[info] Loading https://x.com/TradercBTC/status/2074372777180828084 with generic adapter
+[info] Downloaded 1 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2074372777180828084.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "login": {
+    "provider": "x",
+    "state": "unknown"
+  },
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2074372777180828084/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2074372777180828084/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2074372777180828084/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2074372777180828084",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2074372777180828084",
+    "title": "trader-c on X: \"几个提高交易账户盈利的好习惯：\n\n1:确认信号加仓法\n这套方法对我效果极佳。\n\n我发现，一旦行情开始向持仓有利方向运行，这笔交易最终盈利的概率会大幅上升。\n\n开仓时仅下计划仓位的一半；\n\n若价格触及止损失效位，仅亏损原定仓位一半的资金；\n\n若行情顺着我的预期走，再以指数级加仓。以此做到盈利单利润放大、亏损单亏损收窄。\n\n2:摒弃市价单\n这么做不只是为了节省手续费。\n我复盘所有盈利订单后发现，每笔单子开仓后都会出现不同程度浮亏。\n\n这说明挂限价单能拿到更优入场价位，所有盈利单的平均入场成本本可以更低，只是需要足够耐心等待价位。\n\n3:放宽止损失效区间\n不再执着精… / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-07-07T05:59:44.000Z",
+    "summary": "几个提高交易账户盈利的好习惯：\n\n1:确认信号加仓法\n这套方法对我效果极佳。\n\n我发现，一旦行情开始向持仓有利方向运行，这笔交易最终盈利的概率会大幅上升。\n\n开仓时仅下计划仓位的一半；\n\n若价格触及止损失效位，仅亏损原定仓位一半的资金；\n\n若行情顺着我的预期走，再以指数级加仓。以此做到盈利单利润放大、亏损单亏损收窄。\n\n2:摒弃市价单\n这么做不只是为了节省手续费。\n我复盘所有盈利订单后发现，每笔单子开仓后都会出现不同程度浮亏。\n\n这说明挂限价单能拿到更优入场价位，所有盈利单的平均入场成本本可以更低，只是需要足够耐心等待价位。\n\n3:放宽止损失效区间\n不再执着精准抓反转拐点、把止损设在拐点处，…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:49:33.767Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t几个提高交易账户盈利的好习惯： 1:确认信号加仓法 这套方法对我效果极佳。 我发现，一旦行情开始向持仓有利方向运行，这笔交易最终盈利的概率会大幅上升。 开仓时仅下计划仓位的一半； 若价格触及止损失效位，仅亏损原定仓位一半的资金； 若行情顺着我的预期走，再以指数级加仓。以此做到盈利单利润放大、亏损单亏损收窄。 2:摒弃市价单 这么做不只是为了节省手续费。 我复盘所有盈利订单后发现，每笔单子开仓后都会出现不同程度浮亏。 这说明挂限价单能拿到更优入场价位，所有盈利单的平均入场成本本可以更低，只是需要足够耐心等待价位。 3:放宽止损失效区间 不再执着精准抓反转拐点、把止损设在拐点处，而是将止损位放在更远的高低波动点位。 我依旧有清晰标准判断何时判定交易逻辑失效。 更大的容错空间，让我不用反复针对同一交易逻辑频繁开仓。 4:注重交易流程，轻盈亏结果 这条是我最早执行、但整体收效最大的改变。 我不再简单定义：赚钱 = 好交易、亏钱 = 差交易，转而把核心关注点放在自己是否严格执行整套交易规则。 持续记录每笔交易的操作流程，后续优化交易体系也会清晰很多。\n\t[13:59 · 2026年7月7日](https://x.com/TradercBTC/status/2074372777180828084) [9218Views](https://x.com/TradercBTC/status/2074372777180828084)\n\tOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2074372777180828084"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"几个提高交易账户盈利的好习惯：\n  \n  1:确认信号加仓法\n  这套方法对我效果极佳。\n  \n  我发现，一旦行情开始向持仓有利方向运行，这笔交易最终盈利的概率会大幅上升。\n  \n  开仓时仅下计划仓位的一半；\n  \n  若价格触及止损失效位，仅亏损原定仓位一半的资金；\n  \n  若行情顺着我的预期走，再以指数级加仓。以此做到盈利单利润放大、亏损单亏损收窄。\n  \n  2:摒弃市价单\n  这么做不只是为了节省手续费。\n  我复盘所有盈利订单后发现，每笔单子开仓后都会出现不同程度浮亏。\n  \n  这说明挂限价单能拿到更优入场价位，所有盈利单的平均入场成本本可以更低，只是需要足够耐心等待价位。\n  \n  3:放宽止损失效区间\n  不再执着精… / X\nurl: \"https://x.com/TradercBTC/status/2074372777180828084\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2074372777180828084\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2074372777180828084/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-07-07T05:59:44.000Z\"\nsummary: |-\n  几个提高交易账户盈利的好习惯：\n  \n  1:确认信号加仓法\n  这套方法对我效果极佳。\n  \n  我发现，一旦行情开始向持仓有利方向运行，这笔交易最终盈利的概率会大幅上升。\n  \n  开仓时仅下计划仓位的一半；\n  \n  若价格触及止损失效位，仅亏损原定仓位一半的资金；\n  \n  若行情顺着我的预期走，再以指数级加仓。以此做到盈利单利润放大、亏损单亏损收窄。\n  \n  2:摒弃市价单\n  这么做不只是为了节省手续费。\n  我复盘所有盈利订单后发现，每笔单子开仓后都会出现不同程度浮亏。\n  \n  这说明挂限价单能拿到更优入场价位，所有盈利单的平均入场成本本可以更低，只是需要足够耐心等待价位。\n  \n  3:放宽止损失效区间\n  不再执着精准抓反转拐点、把止损设在拐点处，…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:49:33.767Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"几个提高交易账户盈利的好习惯：\n\n1:确认信号加仓法\n这套方法对我效果极佳。\n\n我发现，一旦行情开始向持仓有利方向运行，这笔交易最终盈利的概率会大幅上升。\n\n开仓时仅下计划仓位的一半；\n\n若价格触及止损失效位，仅亏损原定仓位一半的资金；\n\n若行情顺着我的预期走，再以指数级加仓。以此做到盈利单利润放大、亏损单亏损收窄。\n\n2:摒弃市价单\n这么做不只是为了节省手续费。\n我复盘所有盈利订单后发现，每笔单子开仓后都会出现不同程度浮亏。\n\n这说明挂限价单能拿到更优入场价位，所有盈利单的平均入场成本本可以更低，只是需要足够耐心等待价位。\n\n3:放宽止损失效区间\n不再执着精… / X\n\n- [![@TradercBTC](2074372777180828084/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t几个提高交易账户盈利的好习惯： 1:确认信号加仓法 这套方法对我效果极佳。 我发现，一旦行情开始向持仓有利方向运行，这笔交易最终盈利的概率会大幅上升。 开仓时仅下计划仓位的一半； 若价格触及止损失效位，仅亏损原定仓位一半的资金； 若行情顺着我的预期走，再以指数级加仓。以此做到盈利单利润放大、亏损单亏损收窄。 2:摒弃市价单 这么做不只是为了节省手续费。 我复盘所有盈利订单后发现，每笔单子开仓后都会出现不同程度浮亏。 这说明挂限价单能拿到更优入场价位，所有盈利单的平均入场成本本可以更低，只是需要足够耐心等待价位。 3:放宽止损失效区间 不再执着精准抓反转拐点、把止损设在拐点处，而是将止损位放在更远的高低波动点位。 我依旧有清晰标准判断何时判定交易逻辑失效。 更大的容错空间，让我不用反复针对同一交易逻辑频繁开仓。 4:注重交易流程，轻盈亏结果 这条是我最早执行、但整体收效最大的改变。 我不再简单定义：赚钱 = 好交易、亏钱 = 差交易，转而把核心关注点放在自己是否严格执行整套交易规则。 持续记录每笔交易的操作流程，后续优化交易体系也会清晰很多。\n\t[13:59 · 2026年7月7日](https://x.com/TradercBTC/status/2074372777180828084) [9218Views](https://x.com/TradercBTC/status/2074372777180828084)\n\tOnly some accounts can reply."
+}

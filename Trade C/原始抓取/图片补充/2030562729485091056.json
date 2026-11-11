@@ -1,0 +1,166 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 18,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-03-08T08:34:15.000Z",
+  "display_text_range": [
+    0,
+    107
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/4tlau3Gu89",
+        "expanded_url": "https://x.com/TradercBTC/status/2030562729485091056/photo/1",
+        "indices": [
+          108,
+          131
+        ],
+        "url": "https://t.co/4tlau3Gu89"
+      }
+    ]
+  },
+  "id_str": "2030562729485091056",
+  "text": "我勒个\n\n好久没登discord了\n\n现在快社区900人了，牛逼\n\n最近有点想法，像效仿张居正搞一套自我\"考成法\"？\n\n搞“三本账”一个交易日志，记录每笔交易的逻辑、入场价、止损位、出场价、事后复盘，当然是初步想法 https://t.co/4tlau3Gu89",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2030562729485091056"
+    ],
+    "editable_until_msecs": "1772962455000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/4tlau3Gu89",
+      "expanded_url": "https://x.com/TradercBTC/status/2030562729485091056/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        108,
+        131
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HC4BXfyb0AAPjc1.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1546,
+            "w": 2761,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1546,
+            "w": 1546,
+            "x": 463,
+            "y": 0
+          },
+          {
+            "h": 1546,
+            "w": 1356,
+            "x": 558,
+            "y": 0
+          },
+          {
+            "h": 1546,
+            "w": 773,
+            "x": 850,
+            "y": 0
+          },
+          {
+            "h": 1546,
+            "w": 2910,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1546,
+        "width": 2910
+      },
+      "sizes": {
+        "large": {
+          "h": 1088,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 638,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 361,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/4tlau3Gu89"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1546,
+          "w": 2761,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1546,
+          "w": 1546,
+          "x": 463,
+          "y": 0
+        },
+        {
+          "h": 1546,
+          "w": 1356,
+          "x": 558,
+          "y": 0
+        },
+        {
+          "h": 1546,
+          "w": 773,
+          "x": 850,
+          "y": 0
+        },
+        {
+          "h": 1546,
+          "w": 2910,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2030562729485091056/photo/1",
+      "url": "https://pbs.twimg.com/media/HC4BXfyb0AAPjc1.jpg",
+      "width": 2910,
+      "height": 1546
+    }
+  ],
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "isEdited": false,
+  "isStaleEdit": false
+}

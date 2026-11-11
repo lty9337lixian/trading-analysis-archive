@@ -1,0 +1,73 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HQQvOSsbUAAedKx.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HQQRH9DasAAuEEC?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/HQQvOSsbUAAedKx.jpg:large",
+        "localPath": "2090848067566403888/imgs/img-001-HQQvOSsbUAAedKx-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2090848067566403888/imgs/img-001-HQQvOSsbUAAedKx-jpg-large.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2090848067566403888/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2090848067566403888/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HQQRH9DasAAuEEC?format=webp&name=medium",
+        "localPath": "2090848067566403888/imgs/img-003-HQQRH9DasAAuEEC.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2090848067566403888/imgs/img-003-HQQRH9DasAAuEEC.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 3,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2090848067566403888/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2090848067566403888",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2090848067566403888",
+    "title": "trader-c on X: \"$FARTCOIN：移动止损在成本线上方10% 观察到15分钟周期价格仍然在尝试突破，上一个被突破的位置，也就是我们形成的15分钟级别的上一个结构低点，我们现在的移动止损的位置，是离成本线上方10%左右的位置，在0.19 价格在突破0.19这个位置之后进行了修正，产生了15分钟周期的结构低点，目前价格在发生突破事件 我们的预期是，如果它跌破这个结构第一点，也就是0.19附近的位置，则证明这一波上涨趋势动能减弱 我们可以去保护利润，因为这已经比预期中的目标高很多 目前从我们入场最高涨幅16%，目标位18%，只差2%，离场或者减仓也是一个合理的选择…",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-21T17:06:40.000Z",
+    "summary": "$FARTCOIN：移动止损在成本线上方10%\n\n观察到15分钟周期价格仍然在尝试突破，上一个被突破的位置，也就是我们形成的15分钟级别的上一个结构低点，我们现在的移动止损的位置，是离成本线上方10%左右的位置，在0.19 \n\n价格在突破0.19这个位置之后进行了修正，产生了15分钟周期的结构低点，目前价格在发生突破事件\n\n我们的预期是，如果它跌破这个结构第一点，也就是0.19附近的位置，则证明这一波上涨趋势动能减弱 \n\n我们可以去保护利润，因为这已经比预期中的目标高很多 \n\n目前从我们入场最高涨幅16%，目标位18%，只差2%，离场或者减仓也是一个合理的选择 \n\n或者留下仓位继续按照小周期…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HQQvOSsbUAAedKx.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:06:06.672Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n$FARTCOIN：移动止损在成本线上方10% 观察到15分钟周期价格仍然在尝试突破，上一个被突破的位置，也就是我们形成的15分钟级别的上一个结构低点，我们现在的移动止损的位置，是离成本线上方10%左右的位置，在0.19 价格在突破0.19这个位置之后进行了修正，产生了15分钟周期的结构低点，目前价格在发生突破事件 我们的预期是，如果它跌破这个结构第一点，也就是0.19附近的位置，则证明这一波上涨趋势动能减弱 我们可以去保护利润，因为这已经比预期中的目标高很多 目前从我们入场最高涨幅16%，目标位18%，只差2%，离场或者减仓也是一个合理的选择 或者留下仓位继续按照小周期的发展，移动止损，博弈后续空间\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[8月21日](https://x.com/TradercBTC/status/2090815131177595368)\n\n[$FARTCOIN](https://x.com/search?q=$FARTCOIN) 完全按照我们的预期走了也是 目前上涨11%，5.5R\n\n[![](https://pbs.twimg.com/media/HQQRH9DasAAuEEC?format=webp&name=medium)](https://x.com/TradercBTC/status/2090815131177595368/photo/1)\n\n[1:06 · 2026年8月22日](https://x.com/TradercBTC/status/2090848067566403888)[3005Views](https://x.com/TradercBTC/status/2090848067566403888)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2090848067566403888"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"$FARTCOIN：移动止损在成本线上方10% 观察到15分钟周期价格仍然在尝试突破，上一个被突破的位置，也就是我们形成的15分钟级别的上一个结构低点，我们现在的移动止损的位置，是离成本线上方10%左右的位置，在0.19 价格在突破0.19这个位置之后进行了修正，产生了15分钟周期的结构低点，目前价格在发生突破事件 我们的预期是，如果它跌破这个结构第一点，也就是0.19附近的位置，则证明这一波上涨趋势动能减弱 我们可以去保护利润，因为这已经比预期中的目标高很多 目前从我们入场最高涨幅16%，目标位18%，只差2%，离场或者减仓也是一个合理的选择…\"\nurl: \"https://x.com/TradercBTC/status/2090848067566403888\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2090848067566403888\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2090848067566403888/imgs/img-001-HQQvOSsbUAAedKx-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-21T17:06:40.000Z\"\nsummary: |-\n  $FARTCOIN：移动止损在成本线上方10%\n  \n  观察到15分钟周期价格仍然在尝试突破，上一个被突破的位置，也就是我们形成的15分钟级别的上一个结构低点，我们现在的移动止损的位置，是离成本线上方10%左右的位置，在0.19 \n  \n  价格在突破0.19这个位置之后进行了修正，产生了15分钟周期的结构低点，目前价格在发生突破事件\n  \n  我们的预期是，如果它跌破这个结构第一点，也就是0.19附近的位置，则证明这一波上涨趋势动能减弱 \n  \n  我们可以去保护利润，因为这已经比预期中的目标高很多 \n  \n  目前从我们入场最高涨幅16%，目标位18%，只差2%，离场或者减仓也是一个合理的选择 \n  \n  或者留下仓位继续按照小周期…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:06:06.672Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"$FARTCOIN：移动止损在成本线上方10% 观察到15分钟周期价格仍然在尝试突破，上一个被突破的位置，也就是我们形成的15分钟级别的上一个结构低点，我们现在的移动止损的位置，是离成本线上方10%左右的位置，在0.19 价格在突破0.19这个位置之后进行了修正，产生了15分钟周期的结构低点，目前价格在发生突破事件 我们的预期是，如果它跌破这个结构第一点，也就是0.19附近的位置，则证明这一波上涨趋势动能减弱 我们可以去保护利润，因为这已经比预期中的目标高很多 目前从我们入场最高涨幅16%，目标位18%，只差2%，离场或者减仓也是一个合理的选择…\n\n[![@TradercBTC](2090848067566403888/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n$FARTCOIN：移动止损在成本线上方10% 观察到15分钟周期价格仍然在尝试突破，上一个被突破的位置，也就是我们形成的15分钟级别的上一个结构低点，我们现在的移动止损的位置，是离成本线上方10%左右的位置，在0.19 价格在突破0.19这个位置之后进行了修正，产生了15分钟周期的结构低点，目前价格在发生突破事件 我们的预期是，如果它跌破这个结构第一点，也就是0.19附近的位置，则证明这一波上涨趋势动能减弱 我们可以去保护利润，因为这已经比预期中的目标高很多 目前从我们入场最高涨幅16%，目标位18%，只差2%，离场或者减仓也是一个合理的选择 或者留下仓位继续按照小周期的发展，移动止损，博弈后续空间\n\n[![@TradercBTC](2090848067566403888/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[8月21日](https://x.com/TradercBTC/status/2090815131177595368)\n\n[$FARTCOIN](https://x.com/search?q=$FARTCOIN) 完全按照我们的预期走了也是 目前上涨11%，5.5R\n\n[![](2090848067566403888/imgs/img-003-HQQRH9DasAAuEEC.webp)](https://x.com/TradercBTC/status/2090815131177595368/photo/1)\n\n[1:06 · 2026年8月22日](https://x.com/TradercBTC/status/2090848067566403888)[3005Views](https://x.com/TradercBTC/status/2090848067566403888)\n\nOnly some accounts can reply."
+}

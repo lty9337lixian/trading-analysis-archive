@@ -1,0 +1,58 @@
+[info] Loading https://x.com/TradercBTC/status/2057422678215332126 with generic adapter
+[info] Downloaded 1 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2057422678215332126.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2057422678215332126/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2057422678215332126/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2057422678215332126/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2057422678215332126",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2057422678215332126",
+    "title": "trader-c on X: \"第一步：建立交易系统\n\n定义清晰的入场信号（技术指标、价格形态）\n设定明确的出场规则（目标价、移动止损）\n制定严格的止损线（永远不要\"扛单\"）\n\n第二步：资金管理\n\n单笔交易风险不超过账户总额的1%\n分散投资，避免过度集中\n总风险敞口控制在账户的5-10%\n\n第三步：验证系统\n\n用历史数据回测，但不要过度优化\n关注系统在牛市、熊市、震荡市的表现\n如果系统连续亏损，可能是市场环境变了，不一定是系统失效\n\n第四步：纪律执行\n\n严格按照系统信号操作\n记录每笔交易，定期复盘\n情绪控制是关键——市场不会因为你的\"感觉\"而改变\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-05-21T11:26:06.000Z",
+    "summary": "第一步：建立交易系统\n\n定义清晰的入场信号（技术指标、价格形态）\n设定明确的出场规则（目标价、移动止损）\n制定严格的止损线（永远不要\"扛单\"）\n\n第二步：资金管理\n\n单笔交易风险不超过账户总额的1%\n分散投资，避免过度集中\n总风险敞口控制在账户的5-10%\n\n第三步：验证系统\n\n用历史数据回测，但不要过度优化\n关注系统在牛市、熊市、震荡市的表现\n如果系统连续亏损，可能是市场环境变了，不一定是系统失效\n\n第四步：纪律执行\n\n严格按照系统信号操作\n记录每笔交易，定期复盘\n情绪控制是关键——市场不会因为你的\"感觉\"而改变",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:52:03.151Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t第一步：建立交易系统 定义清晰的入场信号（技术指标、价格形态） 设定明确的出场规则（目标价、移动止损） 制定严格的止损线（永远不要\"扛单\"） 第二步：资金管理 单笔交易风险不超过账户总额的1% 分散投资，避免过度集中 总风险敞口控制在账户的5-10% 第三步：验证系统 用历史数据回测，但不要过度优化 关注系统在牛市、熊市、震荡市的表现 如果系统连续亏损，可能是市场环境变了，不一定是系统失效 第四步：纪律执行 严格按照系统信号操作 记录每笔交易，定期复盘 情绪控制是关键——市场不会因为你的\"感觉\"而改变\n\t[19:26 · 2026年5月21日](https://x.com/TradercBTC/status/2057422678215332126) [6571Views](https://x.com/TradercBTC/status/2057422678215332126)\n\t[23](https://x.com/i/status/2057422678215332126)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2057422678215332126"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"第一步：建立交易系统\n  \n  定义清晰的入场信号（技术指标、价格形态）\n  设定明确的出场规则（目标价、移动止损）\n  制定严格的止损线（永远不要\"扛单\"）\n  \n  第二步：资金管理\n  \n  单笔交易风险不超过账户总额的1%\n  分散投资，避免过度集中\n  总风险敞口控制在账户的5-10%\n  \n  第三步：验证系统\n  \n  用历史数据回测，但不要过度优化\n  关注系统在牛市、熊市、震荡市的表现\n  如果系统连续亏损，可能是市场环境变了，不一定是系统失效\n  \n  第四步：纪律执行\n  \n  严格按照系统信号操作\n  记录每笔交易，定期复盘\n  情绪控制是关键——市场不会因为你的\"感觉\"而改变\" / X\nurl: \"https://x.com/TradercBTC/status/2057422678215332126\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2057422678215332126\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2057422678215332126/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-05-21T11:26:06.000Z\"\nsummary: |-\n  第一步：建立交易系统\n  \n  定义清晰的入场信号（技术指标、价格形态）\n  设定明确的出场规则（目标价、移动止损）\n  制定严格的止损线（永远不要\"扛单\"）\n  \n  第二步：资金管理\n  \n  单笔交易风险不超过账户总额的1%\n  分散投资，避免过度集中\n  总风险敞口控制在账户的5-10%\n  \n  第三步：验证系统\n  \n  用历史数据回测，但不要过度优化\n  关注系统在牛市、熊市、震荡市的表现\n  如果系统连续亏损，可能是市场环境变了，不一定是系统失效\n  \n  第四步：纪律执行\n  \n  严格按照系统信号操作\n  记录每笔交易，定期复盘\n  情绪控制是关键——市场不会因为你的\"感觉\"而改变\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:52:03.151Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"第一步：建立交易系统\n\n定义清晰的入场信号（技术指标、价格形态）\n设定明确的出场规则（目标价、移动止损）\n制定严格的止损线（永远不要\"扛单\"）\n\n第二步：资金管理\n\n单笔交易风险不超过账户总额的1%\n分散投资，避免过度集中\n总风险敞口控制在账户的5-10%\n\n第三步：验证系统\n\n用历史数据回测，但不要过度优化\n关注系统在牛市、熊市、震荡市的表现\n如果系统连续亏损，可能是市场环境变了，不一定是系统失效\n\n第四步：纪律执行\n\n严格按照系统信号操作\n记录每笔交易，定期复盘\n情绪控制是关键——市场不会因为你的\"感觉\"而改变\" / X\n\n- [![@TradercBTC](2057422678215332126/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t第一步：建立交易系统 定义清晰的入场信号（技术指标、价格形态） 设定明确的出场规则（目标价、移动止损） 制定严格的止损线（永远不要\"扛单\"） 第二步：资金管理 单笔交易风险不超过账户总额的1% 分散投资，避免过度集中 总风险敞口控制在账户的5-10% 第三步：验证系统 用历史数据回测，但不要过度优化 关注系统在牛市、熊市、震荡市的表现 如果系统连续亏损，可能是市场环境变了，不一定是系统失效 第四步：纪律执行 严格按照系统信号操作 记录每笔交易，定期复盘 情绪控制是关键——市场不会因为你的\"感觉\"而改变\n\t[19:26 · 2026年5月21日](https://x.com/TradercBTC/status/2057422678215332126) [6571Views](https://x.com/TradercBTC/status/2057422678215332126)\n\t[23](https://x.com/i/status/2057422678215332126)"
+}

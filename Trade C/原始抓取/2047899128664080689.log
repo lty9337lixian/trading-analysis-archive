@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2047899128664080689 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2047899128664080689.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HGuYdQmaUAEWQtd.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2047899128664080689/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2047899128664080689/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HGuYdQmaUAEWQtd.jpg:large",
+        "localPath": "2047899128664080689/imgs/img-002-HGuYdQmaUAEWQtd-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2047899128664080689/imgs/img-002-HGuYdQmaUAEWQtd-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2047899128664080689/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2047899128664080689",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2047899128664080689",
+    "title": "trader-c on X: \"真的不觉得会这一种模式就足够了吗？\n\n不管你用什么理论，研究透这个模式的原理就足够了吧\n\n动能减弱，反转结构突破，后续不管是震荡还是反转，起码有一波\n\n一个三推反转➕MSS\n\n大部分都是右下角的变式\n\n比如昨天的GC。。。。\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-04-25T04:42:55.000Z",
+    "summary": "真的不觉得会这一种模式就足够了吗？\n\n不管你用什么理论，研究透这个模式的原理就足够了吧\n\n动能减弱，反转结构突破，后续不管是震荡还是反转，起码有一波\n\n一个三推反转➕MSS\n\n大部分都是右下角的变式\n\n比如昨天的GC。。。。",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HGuYdQmaUAEWQtd.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:00:39.225Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t真的不觉得会这一种模式就足够了吗？ 不管你用什么理论，研究透这个模式的原理就足够了吧 动能减弱，反转结构突破，后续不管是震荡还是反转，起码有一波 一个三推反转➕MSS 大部分都是右下角的变式 比如昨天的GC。。。。\n\t[12:42 · 2026年4月25日](https://x.com/TradercBTC/status/2047899128664080689) [7105Views](https://x.com/TradercBTC/status/2047899128664080689)\n\t[3](https://x.com/i/status/2047899128664080689)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2047899128664080689"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"真的不觉得会这一种模式就足够了吗？\n  \n  不管你用什么理论，研究透这个模式的原理就足够了吧\n  \n  动能减弱，反转结构突破，后续不管是震荡还是反转，起码有一波\n  \n  一个三推反转➕MSS\n  \n  大部分都是右下角的变式\n  \n  比如昨天的GC。。。。\" / X\nurl: \"https://x.com/TradercBTC/status/2047899128664080689\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2047899128664080689\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2047899128664080689/imgs/img-002-HGuYdQmaUAEWQtd-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-04-25T04:42:55.000Z\"\nsummary: |-\n  真的不觉得会这一种模式就足够了吗？\n  \n  不管你用什么理论，研究透这个模式的原理就足够了吧\n  \n  动能减弱，反转结构突破，后续不管是震荡还是反转，起码有一波\n  \n  一个三推反转➕MSS\n  \n  大部分都是右下角的变式\n  \n  比如昨天的GC。。。。\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:00:39.225Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"真的不觉得会这一种模式就足够了吗？\n\n不管你用什么理论，研究透这个模式的原理就足够了吧\n\n动能减弱，反转结构突破，后续不管是震荡还是反转，起码有一波\n\n一个三推反转➕MSS\n\n大部分都是右下角的变式\n\n比如昨天的GC。。。。\" / X\n\n- [![@TradercBTC](2047899128664080689/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t真的不觉得会这一种模式就足够了吗？ 不管你用什么理论，研究透这个模式的原理就足够了吧 动能减弱，反转结构突破，后续不管是震荡还是反转，起码有一波 一个三推反转➕MSS 大部分都是右下角的变式 比如昨天的GC。。。。\n\t[12:42 · 2026年4月25日](https://x.com/TradercBTC/status/2047899128664080689) [7105Views](https://x.com/TradercBTC/status/2047899128664080689)\n\t[3](https://x.com/i/status/2047899128664080689)"
+}

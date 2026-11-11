@@ -1,0 +1,70 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 18,
+  "lang": "zh",
+  "created_at": "2026-04-16T06:44:39.000Z",
+  "display_text_range": [
+    0,
+    131
+  ],
+  "entities": {},
+  "id_str": "2044668276614332423",
+  "text": "我要更新这条我说的交易系统\n\n这个描述是不准确的\n\n周期，结构，管理订单\n\n这三个词描述的既不是完整的交易逻辑，也不是完整的交易系统。\n\n这是我交易系统的三个组成模块的名字。\n\n等同于我说\"我的菜是由食材、火候和摆盘组成的\"。\n\n说的没错，但这不是一道菜的菜谱。",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2044668276614332423"
+    ],
+    "editable_until_msecs": "1776325479000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 9,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "favorite_count": 93,
+    "lang": "zh",
+    "reply_count": 4,
+    "retweet_count": 6,
+    "created_at": "2026-02-19T13:50:14.000Z",
+    "display_text_range": [
+      0,
+      115
+    ],
+    "entities": {},
+    "id_str": "2024481654505689104",
+    "text": "我的交易系统由三部分组成：周期+结构+管理订单\n\n这短短的八个字，是我多年交易生活，持续学习，在之前学习cursor，跟随AI时代不断尝试新事物\n\n在不断的理论，实践，理论指导实践，实践检验理论的循环中，不知道循环了多少次才明白的",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2024481654505689104"
+      ],
+      "editable_until_msecs": "1771512614000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDQ0NjY4Mjc2NTcyMzY4ODk2"
+  }
+}

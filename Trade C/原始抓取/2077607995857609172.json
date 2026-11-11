@@ -1,0 +1,55 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2077607995857609172/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2077607995857609172/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2077607995857609172/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2077607995857609172",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2077607995857609172",
+    "title": "trader-c on X: \"第五部分 进出场与执行\n\n顺大逆小是以大级别确定方向，等待小级别结构转变后逐步建立仓位。\nhttps://t.co/jeJR0uaM9R\n不确定时可以使用小仓位试探市场并验证判断。\nhttps://t.co/kB1XqzwAek\n\n轻仓试错、分批进场和结构止损可以控制单次判断错误的代价。\nhttps://t.co/DVX1dA6DHr\n分批建仓需要预先规定批次和加仓触发条件。\nhttps://t.co/p9IMQMLYt3\n\n做多条件和做空失效条件需要明确区分同时成立与任一成立。\nhttps://t.co/iiNHCMjZ05\n入场计划需要包含方向判断、触发条… / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-07-16T04:15:20.000Z",
+    "summary": "第五部分 进出场与执行\n\n顺大逆小是以大级别确定方向，等待小级别结构转变后逐步建立仓位。\nhttps://t.co/jeJR0uaM9R\n不确定时可以使用小仓位试探市场并验证判断。\nhttps://t.co/kB1XqzwAek\n\n轻仓试错、分批进场和结构止损可以控制单次判断错误的代价。\nhttps://t.co/DVX1dA6DHr\n分批建仓需要预先规定批次和加仓触发条件。\nhttps://t.co/p9IMQMLYt3\n\n做多条件和做空失效条件需要明确区分同时成立与任一成立。\nhttps://t.co/iiNHCMjZ05\n入场计划需要包含方向判断、触发条件和明确的失效位置。\nhttps…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:02:51.439Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\tC哥完整交易系统框架（全量推文版） 基于 C哥交易认知与推文内容整理，按交易系统的逻辑层级排列。 一、整体框架 第一层是第一性原理，解决市场是什么、交易者如何看待自己、为什么必须承认不确定性的问题。\n\t[13](https://x.com/i/status/2077593081243914523)\n- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t第五部分 进出场与执行 顺大逆小是以大级别确定方向，等待小级别结构转变后逐步建立仓位。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/1987891639675949056) 不确定时可以使用小仓位试探市场并验证判断。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/1977886417301938392) 轻仓试错、分批进场和结构止损可以控制单次判断错误的代价。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/1977960605513646483) 分批建仓需要预先规定批次和加仓触发条件。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/1978113018409132263) 做多条件和做空失效条件需要明确区分同时成立与任一成立。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/1985673091335512549) 入场计划需要包含方向判断、触发条件和明确的失效位置。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/2030225197333369321) 激进入场和保守入场分别使用价格位置与结构确认作为条件。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/2032815012864303162) 底部不需要抢在最低点买入，应等待形态和退出机制出现。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/1989214121649119535) 过早止盈可能放弃交易系统原本依赖的大额盈利。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/2025178718696767988) 结构破坏后需要重新判断原有交易逻辑是否仍然成立。 [x.com/i/article/2048…](https://x.com/i/article/2048011486875021312) 假突破后价格可能重新测试区间的另一侧。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/2034660656146952611) 图表应保持简洁，执行应保持纪律。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/1968849885761069365) 方向判断可以明确，但持仓管理需要灵活。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/2016062589973762357) 交易系统的核心不是指标数量，而是执行纪律。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/1926941388295328077) 情绪可以被感受到，但不能替代交易规则作出决定。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/1978477943455465530) 没有真实动能和结构确认时，不入场也是交易决策。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/2033469597572325712) 市场与原计划相反时，放弃计划是正确的风险控制。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/2039554198124285989) 原有趋势假设被价格证伪后，需要重新评估而不是继续坚持。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/2039131130461589665) 大周期结构不利时，可以暂停交易或转向其他市场。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/1988917717689393459) 超跌没有统一标准，规则应避免交易者在下跌趋势中随意抄底。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/2034153142502494240)\n\t[12:15 · 2026年7月16日](https://x.com/TradercBTC/status/2077607995857609172) [747Views](https://x.com/TradercBTC/status/2077607995857609172)\n\tOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2077607995857609172"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"第五部分 进出场与执行\n  \n  顺大逆小是以大级别确定方向，等待小级别结构转变后逐步建立仓位。\n  https://t.co/jeJR0uaM9R\n  不确定时可以使用小仓位试探市场并验证判断。\n  https://t.co/kB1XqzwAek\n  \n  轻仓试错、分批进场和结构止损可以控制单次判断错误的代价。\n  https://t.co/DVX1dA6DHr\n  分批建仓需要预先规定批次和加仓触发条件。\n  https://t.co/p9IMQMLYt3\n  \n  做多条件和做空失效条件需要明确区分同时成立与任一成立。\n  https://t.co/iiNHCMjZ05\n  入场计划需要包含方向判断、触发条… / X\nurl: \"https://x.com/TradercBTC/status/2077607995857609172\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2077607995857609172\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2077607995857609172/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-07-16T04:15:20.000Z\"\nsummary: |-\n  第五部分 进出场与执行\n  \n  顺大逆小是以大级别确定方向，等待小级别结构转变后逐步建立仓位。\n  https://t.co/jeJR0uaM9R\n  不确定时可以使用小仓位试探市场并验证判断。\n  https://t.co/kB1XqzwAek\n  \n  轻仓试错、分批进场和结构止损可以控制单次判断错误的代价。\n  https://t.co/DVX1dA6DHr\n  分批建仓需要预先规定批次和加仓触发条件。\n  https://t.co/p9IMQMLYt3\n  \n  做多条件和做空失效条件需要明确区分同时成立与任一成立。\n  https://t.co/iiNHCMjZ05\n  入场计划需要包含方向判断、触发条件和明确的失效位置。\n  https…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:02:51.439Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"第五部分 进出场与执行\n\n顺大逆小是以大级别确定方向，等待小级别结构转变后逐步建立仓位。\nhttps://t.co/jeJR0uaM9R\n不确定时可以使用小仓位试探市场并验证判断。\nhttps://t.co/kB1XqzwAek\n\n轻仓试错、分批进场和结构止损可以控制单次判断错误的代价。\nhttps://t.co/DVX1dA6DHr\n分批建仓需要预先规定批次和加仓触发条件。\nhttps://t.co/p9IMQMLYt3\n\n做多条件和做空失效条件需要明确区分同时成立与任一成立。\nhttps://t.co/iiNHCMjZ05\n入场计划需要包含方向判断、触发条… / X\n\n- [![@TradercBTC](2077607995857609172/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\tC哥完整交易系统框架（全量推文版） 基于 C哥交易认知与推文内容整理，按交易系统的逻辑层级排列。 一、整体框架 第一层是第一性原理，解决市场是什么、交易者如何看待自己、为什么必须承认不确定性的问题。\n\t[13](https://x.com/i/status/2077593081243914523)\n- [![@TradercBTC](2077607995857609172/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t第五部分 进出场与执行 顺大逆小是以大级别确定方向，等待小级别结构转变后逐步建立仓位。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/1987891639675949056) 不确定时可以使用小仓位试探市场并验证判断。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/1977886417301938392) 轻仓试错、分批进场和结构止损可以控制单次判断错误的代价。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/1977960605513646483) 分批建仓需要预先规定批次和加仓触发条件。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/1978113018409132263) 做多条件和做空失效条件需要明确区分同时成立与任一成立。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/1985673091335512549) 入场计划需要包含方向判断、触发条件和明确的失效位置。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/2030225197333369321) 激进入场和保守入场分别使用价格位置与结构确认作为条件。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/2032815012864303162) 底部不需要抢在最低点买入，应等待形态和退出机制出现。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/1989214121649119535) 过早止盈可能放弃交易系统原本依赖的大额盈利。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/2025178718696767988) 结构破坏后需要重新判断原有交易逻辑是否仍然成立。 [x.com/i/article/2048…](https://x.com/i/article/2048011486875021312) 假突破后价格可能重新测试区间的另一侧。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/2034660656146952611) 图表应保持简洁，执行应保持纪律。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/1968849885761069365) 方向判断可以明确，但持仓管理需要灵活。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/2016062589973762357) 交易系统的核心不是指标数量，而是执行纪律。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/1926941388295328077) 情绪可以被感受到，但不能替代交易规则作出决定。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/1978477943455465530) 没有真实动能和结构确认时，不入场也是交易决策。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/2033469597572325712) 市场与原计划相反时，放弃计划是正确的风险控制。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/2039554198124285989) 原有趋势假设被价格证伪后，需要重新评估而不是继续坚持。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/2039131130461589665) 大周期结构不利时，可以暂停交易或转向其他市场。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/1988917717689393459) 超跌没有统一标准，规则应避免交易者在下跌趋势中随意抄底。 [x.com/TradercBTC/sta…](https://x.com/TradercBTC/status/2034153142502494240)\n\t[12:15 · 2026年7月16日](https://x.com/TradercBTC/status/2077607995857609172) [747Views](https://x.com/TradercBTC/status/2077607995857609172)\n\tOnly some accounts can reply."
+}

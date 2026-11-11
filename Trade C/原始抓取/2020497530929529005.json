@@ -1,0 +1,84 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HAo6iyUaYAA3JEh.png:large",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HAo7TrJa8AANIir?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HAZ1Vl2aMAAVbTd?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/HAo6iyUaYAA3JEh.png:large",
+        "localPath": "2020497530929529005/imgs/img-001-HAo6iyUaYAA3JEh-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2020497530929529005/imgs/img-001-HAo6iyUaYAA3JEh-png-large.png",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2020497530929529005/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2020497530929529005/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HAo7TrJa8AANIir?format=webp&name=medium",
+        "localPath": "2020497530929529005/imgs/img-003-HAo7TrJa8AANIir.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2020497530929529005/imgs/img-003-HAo7TrJa8AANIir.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HAZ1Vl2aMAAVbTd?format=webp&name=medium",
+        "localPath": "2020497530929529005/imgs/img-004-HAZ1Vl2aMAAVbTd.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2020497530929529005/imgs/img-004-HAZ1Vl2aMAAVbTd.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 4,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2020497530929529005/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2020497530929529005",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2020497530929529005",
+    "title": "trader-c on X: \"$BTC 更新一下 从周线看，不出意外这周的周线收为一个长下影线。 因为OI一直在下降，所以这里我们认为非常大的概率是跌多了，获利盘买入回补。 没有非常强的买盘力量出现，市场没有心入场的多仓。 同时周线和1H级别的ema组合向平缓发展 日线价格回测了ema200，4H级别回归了ema50. 因此价格在这里陷入了平衡区，买卖双方大概率暂时在这里达成了平衡。 基于4H和日线左边的市场环境，连续下跌，因此主观偏见是逢高做空 如果突破了4H下跌结构中的LL，也就是728这里，我们要等待市场重新走出下跌结构 比如1H走出下跌结构，或者下跌的信号k。\"",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-08T13:58:45.000Z",
+    "summary": "$BTC 更新一下\n\n从周线看，不出意外这周的周线收为一个长下影线。\n\n因为OI一直在下降，所以这里我们认为非常大的概率是跌多了，获利盘买入回补。\n\n没有非常强的买盘力量出现，市场没有心入场的多仓。\n\n同时周线和1H级别的ema组合向平缓发展\n\n日线价格回测了ema200，4H级别回归了ema50.\n\n因此价格在这里陷入了平衡区，买卖双方大概率暂时在这里达成了平衡。\n\n基于4H和日线左边的市场环境，连续下跌，因此主观偏见是逢高做空\n\n如果突破了4H下跌结构中的LL，也就是728这里，我们要等待市场重新走出下跌结构\n\n比如1H走出下跌结构，或者下跌的信号k。",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HAo6iyUaYAA3JEh.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:57:24.095Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[$BTC](https://x.com/search?q=$BTC) 更新一下 从周线看，不出意外这周的周线收为一个长下影线。 因为OI一直在下降，所以这里我们认为非常大的概率是跌多了，获利盘买入回补。 没有非常强的买盘力量出现，市场没有心入场的多仓。 同时周线和1H级别的ema组合向平缓发展 日线价格回测了ema200，4H级别回归了ema50. 因此价格在这里陷入了平衡区，买卖双方大概率暂时在这里达成了平衡。 基于4H和日线左边的市场环境，连续下跌，因此主观偏见是逢高做空 如果突破了4H下跌结构中的LL，也就是728这里，我们要等待市场重新走出下跌结构 比如1H走出下跌结构，或者下跌的信号k。\n\n[![](https://pbs.twimg.com/media/HAo7TrJa8AANIir?format=webp&name=medium)](https://x.com/TradercBTC/status/2020497530929529005/photo/2)\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[2月5日](https://x.com/TradercBTC/status/2019430607290507752)\n\n抛售高潮来了 [$BTC](https://x.com/search?q=$BTC) 梦回2024 12w终究是一场梦\n\n[![](https://pbs.twimg.com/media/HAZ1Vl2aMAAVbTd?format=webp&name=medium)](https://x.com/TradercBTC/status/2019430607290507752/photo/1)\n\n[21:58 · 2026年2月8日](https://x.com/TradercBTC/status/2020497530929529005)[6080Views](https://x.com/TradercBTC/status/2020497530929529005)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2020497530929529005"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"$BTC 更新一下 从周线看，不出意外这周的周线收为一个长下影线。 因为OI一直在下降，所以这里我们认为非常大的概率是跌多了，获利盘买入回补。 没有非常强的买盘力量出现，市场没有心入场的多仓。 同时周线和1H级别的ema组合向平缓发展 日线价格回测了ema200，4H级别回归了ema50. 因此价格在这里陷入了平衡区，买卖双方大概率暂时在这里达成了平衡。 基于4H和日线左边的市场环境，连续下跌，因此主观偏见是逢高做空 如果突破了4H下跌结构中的LL，也就是728这里，我们要等待市场重新走出下跌结构 比如1H走出下跌结构，或者下跌的信号k。\\\"\"\nurl: \"https://x.com/TradercBTC/status/2020497530929529005\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2020497530929529005\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2020497530929529005/imgs/img-001-HAo6iyUaYAA3JEh-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-08T13:58:45.000Z\"\nsummary: |-\n  $BTC 更新一下\n  \n  从周线看，不出意外这周的周线收为一个长下影线。\n  \n  因为OI一直在下降，所以这里我们认为非常大的概率是跌多了，获利盘买入回补。\n  \n  没有非常强的买盘力量出现，市场没有心入场的多仓。\n  \n  同时周线和1H级别的ema组合向平缓发展\n  \n  日线价格回测了ema200，4H级别回归了ema50.\n  \n  因此价格在这里陷入了平衡区，买卖双方大概率暂时在这里达成了平衡。\n  \n  基于4H和日线左边的市场环境，连续下跌，因此主观偏见是逢高做空\n  \n  如果突破了4H下跌结构中的LL，也就是728这里，我们要等待市场重新走出下跌结构\n  \n  比如1H走出下跌结构，或者下跌的信号k。\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:57:24.095Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"$BTC 更新一下 从周线看，不出意外这周的周线收为一个长下影线。 因为OI一直在下降，所以这里我们认为非常大的概率是跌多了，获利盘买入回补。 没有非常强的买盘力量出现，市场没有心入场的多仓。 同时周线和1H级别的ema组合向平缓发展 日线价格回测了ema200，4H级别回归了ema50. 因此价格在这里陷入了平衡区，买卖双方大概率暂时在这里达成了平衡。 基于4H和日线左边的市场环境，连续下跌，因此主观偏见是逢高做空 如果突破了4H下跌结构中的LL，也就是728这里，我们要等待市场重新走出下跌结构 比如1H走出下跌结构，或者下跌的信号k。\"\n\n[![@TradercBTC](2020497530929529005/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[$BTC](https://x.com/search?q=$BTC) 更新一下 从周线看，不出意外这周的周线收为一个长下影线。 因为OI一直在下降，所以这里我们认为非常大的概率是跌多了，获利盘买入回补。 没有非常强的买盘力量出现，市场没有心入场的多仓。 同时周线和1H级别的ema组合向平缓发展 日线价格回测了ema200，4H级别回归了ema50. 因此价格在这里陷入了平衡区，买卖双方大概率暂时在这里达成了平衡。 基于4H和日线左边的市场环境，连续下跌，因此主观偏见是逢高做空 如果突破了4H下跌结构中的LL，也就是728这里，我们要等待市场重新走出下跌结构 比如1H走出下跌结构，或者下跌的信号k。\n\n[![](2020497530929529005/imgs/img-003-HAo7TrJa8AANIir.webp)](https://x.com/TradercBTC/status/2020497530929529005/photo/2)\n\n[![@TradercBTC](2020497530929529005/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[2月5日](https://x.com/TradercBTC/status/2019430607290507752)\n\n抛售高潮来了 [$BTC](https://x.com/search?q=$BTC) 梦回2024 12w终究是一场梦\n\n[![](2020497530929529005/imgs/img-004-HAZ1Vl2aMAAVbTd.webp)](https://x.com/TradercBTC/status/2019430607290507752/photo/1)\n\n[21:58 · 2026年2月8日](https://x.com/TradercBTC/status/2020497530929529005)[6080Views](https://x.com/TradercBTC/status/2020497530929529005)"
+}

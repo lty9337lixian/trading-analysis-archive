@@ -1,0 +1,228 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 4,
+  "in_reply_to_screen_name": "evil96176865",
+  "in_reply_to_status_id_str": "2049413515467993095",
+  "in_reply_to_user_id_str": "1088812913073086464",
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-04-29T09:04:43.000Z",
+  "display_text_range": [
+    14,
+    161
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/aW5yDoxIjU",
+        "expanded_url": "https://x.com/TradercBTC/status/2049414564786458863/photo/1",
+        "indices": [
+          162,
+          185
+        ],
+        "url": "https://t.co/aW5yDoxIjU"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id_str": "1088812913073086464",
+        "indices": [
+          0,
+          13
+        ],
+        "name": "alasi",
+        "screen_name": "evil96176865"
+      }
+    ]
+  },
+  "id_str": "2049414564786458863",
+  "text": "@evil96176865 是的，我分为两部分，第一段上涨很强劲，但是第二部分很明显成为宽通道，上涨的斜率减弱\n\n形成了一个m顶的背离，出现信号k之后就做空了\n\n有时候可以从入场的信号去看，强上涨入场信号比较少，弱上涨信号比较多\n\n这种情况目标就是前面的支撑阻力呼唤位，也就是宽通道的起点，同时也是15min的第一波MM位 https://t.co/aW5yDoxIjU",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2049414564786458863"
+    ],
+    "editable_until_msecs": "1777457083000",
+    "edits_remaining": "5",
+    "is_edit_eligible": false
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/aW5yDoxIjU",
+      "expanded_url": "https://x.com/TradercBTC/status/2049414564786458863/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        162,
+        185
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HHD7O46aYAA9ft2.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1495,
+            "w": 2670,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1530,
+            "w": 1530,
+            "x": 236,
+            "y": 0
+          },
+          {
+            "h": 1530,
+            "w": 1342,
+            "x": 330,
+            "y": 0
+          },
+          {
+            "h": 1530,
+            "w": 765,
+            "x": 619,
+            "y": 0
+          },
+          {
+            "h": 1530,
+            "w": 2670,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1530,
+        "width": 2670
+      },
+      "sizes": {
+        "large": {
+          "h": 1174,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 688,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 390,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/aW5yDoxIjU"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1495,
+          "w": 2670,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1530,
+          "w": 1530,
+          "x": 236,
+          "y": 0
+        },
+        {
+          "h": 1530,
+          "w": 1342,
+          "x": 330,
+          "y": 0
+        },
+        {
+          "h": 1530,
+          "w": 765,
+          "x": 619,
+          "y": 0
+        },
+        {
+          "h": 1530,
+          "w": 2670,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2049414564786458863/photo/1",
+      "url": "https://pbs.twimg.com/media/HHD7O46aYAA9ft2.jpg",
+      "width": 2670,
+      "height": 1530
+    }
+  ],
+  "conversation_count": 2,
+  "news_action_type": "conversation",
+  "parent": {
+    "favorite_count": 0,
+    "in_reply_to_screen_name": "TradercBTC",
+    "in_reply_to_status_id_str": "2049408623932305409",
+    "in_reply_to_user_id_str": "1921065617479921670",
+    "lang": "zh",
+    "reply_count": 1,
+    "retweet_count": 0,
+    "created_at": "2026-04-29T09:00:33.000Z",
+    "display_text_range": [
+      12,
+      34
+    ],
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1921065617479921670",
+          "indices": [
+            0,
+            11
+          ],
+          "name": "trader-c",
+          "screen_name": "TradercBTC"
+        }
+      ]
+    },
+    "id_str": "2049413515467993095",
+    "text": "@TradercBTC 这单也是三推+MSS\n这单也是三推+MSS吗",
+    "user": {
+      "id_str": "1088812913073086464",
+      "name": "alasi",
+      "screen_name": "evil96176865",
+      "is_blue_verified": false,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088813406499549185/Q193FLvE_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2049413515467993095"
+      ],
+      "editable_until_msecs": "1777456833000",
+      "edits_remaining": "5",
+      "is_edit_eligible": false
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

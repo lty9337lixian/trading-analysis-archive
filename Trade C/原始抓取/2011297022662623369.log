@@ -1,0 +1,59 @@
+[info] Reusing Chrome debugger at http://127.0.0.1:57385 for profile /Users/lu/Library/Application Support/baoyu-skills/chrome-profile
+[info] Loading https://x.com/TradercBTC/status/2011297022662623369 with generic adapter
+[info] Downloaded 1 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2011297022662623369.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2011297022662623369/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2011297022662623369/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2011297022662623369/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2011297022662623369",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2011297022662623369",
+    "title": "trader-c on X: \"崩溃了啊\n\n中科星图我58的成本，84卖飞了\n\n今天又大涨17%，100块了\n\n血亏\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-01-14T04:39:12.000Z",
+    "summary": "崩溃了啊\n\n中科星图我58的成本，84卖飞了\n\n今天又大涨17%，100块了\n\n血亏",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:42:30.141Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n崩溃了啊 中科星图我58的成本，84卖飞了 今天又大涨17%，100块了 血亏\n\n[12:39 · 2026年1月14日](https://x.com/TradercBTC/status/2011297022662623369) [1076Views](https://x.com/TradercBTC/status/2011297022662623369)\n\n[1](https://x.com/i/status/2011297022662623369)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2011297022662623369"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"崩溃了啊\n  \n  中科星图我58的成本，84卖飞了\n  \n  今天又大涨17%，100块了\n  \n  血亏\" / X\nurl: \"https://x.com/TradercBTC/status/2011297022662623369\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2011297022662623369\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2011297022662623369/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-01-14T04:39:12.000Z\"\nsummary: |-\n  崩溃了啊\n  \n  中科星图我58的成本，84卖飞了\n  \n  今天又大涨17%，100块了\n  \n  血亏\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:42:30.141Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"崩溃了啊\n\n中科星图我58的成本，84卖飞了\n\n今天又大涨17%，100块了\n\n血亏\" / X\n\n[![@TradercBTC](2011297022662623369/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n崩溃了啊 中科星图我58的成本，84卖飞了 今天又大涨17%，100块了 血亏\n\n[12:39 · 2026年1月14日](https://x.com/TradercBTC/status/2011297022662623369) [1076Views](https://x.com/TradercBTC/status/2011297022662623369)\n\n[1](https://x.com/i/status/2011297022662623369)"
+}

@@ -1,0 +1,98 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 95,
+  "lang": "zh",
+  "created_at": "2026-02-21T12:00:07.000Z",
+  "display_text_range": [
+    0,
+    147
+  ],
+  "entities": {},
+  "id_str": "2025178718696767988",
+  "text": "好文，过早止盈实际上是一种温水煮青蛙的慢性死亡\n\n我认为应该加入一个限制，前提是你在做左侧交易或者突破交易。\n\n过早止盈 = 放弃验证= 用\"感觉安全\"替代\"价格告诉我什么\"\n= 违背之前我们说的Price is Truth原则\n\n如果你提前入场，（追求更高盈亏比）， 但是过早止盈（害怕风险）",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2025178718696767988"
+    ],
+    "editable_until_msecs": "1771678807000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 3,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "favorite_count": 347,
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "reply_count": 14,
+    "retweet_count": 34,
+    "created_at": "2026-02-19T20:01:18.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2024…",
+          "expanded_url": "http://x.com/i/article/2024570445203111936",
+          "indices": [
+            0,
+            23
+          ],
+          "url": "https://t.co/U1nZ5qUhIs"
+        }
+      ]
+    },
+    "id_str": "2024575038427660405",
+    "text": "https://t.co/U1nZ5qUhIs",
+    "user": {
+      "id_str": "298953617",
+      "name": "Aksel Kibar, CMT",
+      "screen_name": "TechCharts",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/846395449867194368/7p7s27O-_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2024575038427660405"
+      ],
+      "editable_until_msecs": "1771534878000",
+      "edits_remaining": "5",
+      "is_edit_eligible": false
+    },
+    "article": {
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHBi7I1cXcAAKAAIAAAAAEdGrkQAA",
+        "media_info": {
+          "__typename": "ApiImage",
+          "original_img_height": 433,
+          "original_img_url": "https://pbs.twimg.com/media/HBi7I1cXcAAy0GW.jpg",
+          "original_img_width": 1082
+        }
+      },
+      "id": "QXJ0aWNsZUVudGl0eToyMDI0NTcwNDQ1MjAzMTExOTM2",
+      "preview_text": "The Hidden Danger of Taking Profits Too Early\nMany profitable trading systems are not built on being right often — they are built on being right big.\nThese systems typically follow a structure like:",
+      "rest_id": "2024570445203111936",
+      "title": "The Hidden Danger of Taking Profits Too Early"
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDI1MTc4NzE4NjAwMzQ3NjQ4"
+  }
+}

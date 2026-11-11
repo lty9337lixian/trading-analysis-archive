@@ -1,0 +1,63 @@
+[info] Loading https://x.com/TradercBTC/status/2027670548692738364 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2027670548692738364.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2027670548692738364/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2027670548692738364/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "localPath": "2027670548692738364/imgs/img-002-image.png",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2027670548692738364/imgs/img-002-image.png",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2027670548692738364/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2027670548692738364",
+    "canonicalUrl": "https://x.com/i/status/2027670548692738364",
+    "title": "X on X / X",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-28T09:01:45.762Z",
+    "summary": "X on X",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:59:12.994Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[$BTC](https://x.com/search?q=$BTC) 尽量多看大周期 大周期代表趋势和宏观环境，如果你关注大周期，你会考虑尽可能在高位做空，而不是前两天大涨的时候认为牛回或者有一波反弹 不是说不能做，而是你做空会比做多舒服 上坡和下坡哪个舒服这个不用多说吧\n\n[17:01 · 2026年2月28日](https://x.com/TradercBTC/status/2027670548692738364) [8792Views](https://x.com/TradercBTC/status/2027670548692738364)\n\n[3](https://x.com/i/status/2027670548692738364)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2027670548692738364"
+  },
+  "markdown": "---\ntitle: \"X on X / X\"\nurl: \"https://x.com/i/status/2027670548692738364\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2027670548692738364\"\ncoverImage: \"2027670548692738364/imgs/img-002-image.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-28T09:01:45.762Z\"\nsummary: \"X on X\"\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:59:12.994Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# X on X / X\n\n[![@TradercBTC](2027670548692738364/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[$BTC](https://x.com/search?q=$BTC) 尽量多看大周期 大周期代表趋势和宏观环境，如果你关注大周期，你会考虑尽可能在高位做空，而不是前两天大涨的时候认为牛回或者有一波反弹 不是说不能做，而是你做空会比做多舒服 上坡和下坡哪个舒服这个不用多说吧\n\n[17:01 · 2026年2月28日](https://x.com/TradercBTC/status/2027670548692738364) [8792Views](https://x.com/TradercBTC/status/2027670548692738364)\n\n[3](https://x.com/i/status/2027670548692738364)"
+}

@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2094910742348873822 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2094910742348873822.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HRKdj0ja0AA1NgW.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2094910742348873822/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2094910742348873822/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HRKdj0ja0AA1NgW.jpg:large",
+        "localPath": "2094910742348873822/imgs/img-002-HRKdj0ja0AA1NgW-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2094910742348873822/imgs/img-002-HRKdj0ja0AA1NgW-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2094910742348873822/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2094910742348873822",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2094910742348873822",
+    "title": "trader-c on X: \"我服了，这傻逼BTC，本来79100开的非常完美\n\n结果拉回去我给跑了，甚至都没出发止损\n\n哎被自己傻逼刀了\n\nSOL今天睡觉前想着跌破了指标的阻力，要不要进去做个空\n\n最后看BTC走的一般犹豫了，哎在黄金上我肯定果断就空了\n\nBTC止损也亏不了几个钱，SOL也是\n\n咋就没做呢。。。。哎傻逼了\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-09-01T22:10:17.000Z",
+    "summary": "我服了，这傻逼BTC，本来79100开的非常完美\n\n结果拉回去我给跑了，甚至都没出发止损\n\n哎被自己傻逼刀了\n\nSOL今天睡觉前想着跌破了指标的阻力，要不要进去做个空\n\n最后看BTC走的一般犹豫了，哎在黄金上我肯定果断就空了\n\nBTC止损也亏不了几个钱，SOL也是\n\n咋就没做呢。。。。哎傻逼了",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HRKdj0ja0AA1NgW.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:06:43.128Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t我服了，这傻逼BTC，本来79100开的非常完美 结果拉回去我给跑了，甚至都没出发止损 哎被自己傻逼刀了 SOL今天睡觉前想着跌破了指标的阻力，要不要进去做个空 最后看BTC走的一般犹豫了，哎在黄金上我肯定果断就空了 BTC止损也亏不了几个钱，SOL也是 咋就没做呢。。。。哎傻逼了\n\t[6:10 · 2026年9月2日](https://x.com/TradercBTC/status/2094910742348873822) [6589Views](https://x.com/TradercBTC/status/2094910742348873822)\n\tOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2094910742348873822"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"我服了，这傻逼BTC，本来79100开的非常完美\n  \n  结果拉回去我给跑了，甚至都没出发止损\n  \n  哎被自己傻逼刀了\n  \n  SOL今天睡觉前想着跌破了指标的阻力，要不要进去做个空\n  \n  最后看BTC走的一般犹豫了，哎在黄金上我肯定果断就空了\n  \n  BTC止损也亏不了几个钱，SOL也是\n  \n  咋就没做呢。。。。哎傻逼了\" / X\nurl: \"https://x.com/TradercBTC/status/2094910742348873822\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2094910742348873822\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2094910742348873822/imgs/img-002-HRKdj0ja0AA1NgW-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-09-01T22:10:17.000Z\"\nsummary: |-\n  我服了，这傻逼BTC，本来79100开的非常完美\n  \n  结果拉回去我给跑了，甚至都没出发止损\n  \n  哎被自己傻逼刀了\n  \n  SOL今天睡觉前想着跌破了指标的阻力，要不要进去做个空\n  \n  最后看BTC走的一般犹豫了，哎在黄金上我肯定果断就空了\n  \n  BTC止损也亏不了几个钱，SOL也是\n  \n  咋就没做呢。。。。哎傻逼了\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:06:43.128Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"我服了，这傻逼BTC，本来79100开的非常完美\n\n结果拉回去我给跑了，甚至都没出发止损\n\n哎被自己傻逼刀了\n\nSOL今天睡觉前想着跌破了指标的阻力，要不要进去做个空\n\n最后看BTC走的一般犹豫了，哎在黄金上我肯定果断就空了\n\nBTC止损也亏不了几个钱，SOL也是\n\n咋就没做呢。。。。哎傻逼了\" / X\n\n- [![@TradercBTC](2094910742348873822/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t我服了，这傻逼BTC，本来79100开的非常完美 结果拉回去我给跑了，甚至都没出发止损 哎被自己傻逼刀了 SOL今天睡觉前想着跌破了指标的阻力，要不要进去做个空 最后看BTC走的一般犹豫了，哎在黄金上我肯定果断就空了 BTC止损也亏不了几个钱，SOL也是 咋就没做呢。。。。哎傻逼了\n\t[6:10 · 2026年9月2日](https://x.com/TradercBTC/status/2094910742348873822) [6589Views](https://x.com/TradercBTC/status/2094910742348873822)\n\tOnly some accounts can reply."
+}

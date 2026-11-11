@@ -1,0 +1,205 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 4,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-07-23T02:35:34.000Z",
+  "display_text_range": [
+    0,
+    113
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/2UMkDkDfdl",
+        "expanded_url": "https://x.com/TradercBTC/status/2080119602919637453/photo/1",
+        "indices": [
+          114,
+          137
+        ],
+        "url": "https://t.co/2UMkDkDfdl"
+      }
+    ]
+  },
+  "id_str": "2080119602919637453",
+  "text": "我就知道昨天没有阳k作为跟随，这就是下跌趋势中的\n\n昨天没有阳k作为跟随，这就是下跌趋势中的反弹，而不是得到支撑修复\n\n今天果然跌下来了\n\n纯纯套人进去，还好跑得快，今天要是反包不了，就正式形成M顶反转➕N字下跌结构了。。。。 https://t.co/2UMkDkDfdl",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2080119602919637453"
+    ],
+    "editable_until_msecs": "1784777734000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/2UMkDkDfdl",
+      "expanded_url": "https://x.com/TradercBTC/status/2080119602919637453/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        114,
+        137
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HN4RYa9bMAAo1jI.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1306,
+            "w": 2332,
+            "x": 0,
+            "y": 266
+          },
+          {
+            "h": 1572,
+            "w": 1572,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1572,
+            "w": 1379,
+            "x": 67,
+            "y": 0
+          },
+          {
+            "h": 1572,
+            "w": 786,
+            "x": 363,
+            "y": 0
+          },
+          {
+            "h": 1572,
+            "w": 2332,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1572,
+        "width": 2332
+      },
+      "sizes": {
+        "large": {
+          "h": 1381,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 809,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 458,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/2UMkDkDfdl"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1306,
+          "w": 2332,
+          "x": 0,
+          "y": 266
+        },
+        {
+          "h": 1572,
+          "w": 1572,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1572,
+          "w": 1379,
+          "x": 67,
+          "y": 0
+        },
+        {
+          "h": 1572,
+          "w": 786,
+          "x": 363,
+          "y": 0
+        },
+        {
+          "h": 1572,
+          "w": 2332,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2080119602919637453/photo/1",
+      "url": "https://pbs.twimg.com/media/HN4RYa9bMAAo1jI.jpg",
+      "width": 2332,
+      "height": 1572
+    }
+  ],
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "conversation_control": {
+      "policy": "Verified"
+    },
+    "favorite_count": 0,
+    "lang": "zh",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "created_at": "2026-07-22T06:17:48.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "entities": {},
+    "id_str": "2079813138946666973",
+    "text": "科创50跑了哥，再见",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2079813138946666973"
+      ],
+      "editable_until_msecs": "1784704668000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

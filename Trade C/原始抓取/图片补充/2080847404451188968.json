@@ -1,0 +1,328 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 38,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-07-25T02:47:36.000Z",
+  "display_text_range": [
+    0,
+    142
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/qvGbDAzr9C",
+        "expanded_url": "https://x.com/TradercBTC/status/2080847404451188968/photo/1",
+        "indices": [
+          143,
+          166
+        ],
+        "url": "https://t.co/qvGbDAzr9C"
+      }
+    ]
+  },
+  "id_str": "2080847404451188968",
+  "text": "推特上一刷，噼里啪啦都是看衰存储和美股的\n\n认为纳指没有抵抗了，存储完蛋了\n\n从技术面来说，价格确实不太妙，但是我们这次以基本面驱动，基本面仍然没有达到被证伪的条件\n\n而且从技术面来说，我们仍然保持在支撑位之上，问题不是很大，还有机会\n\n以技术面做一个止损，跌破支撑确定被证伪就先离场 https://t.co/qvGbDAzr9C",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "initial_tweet_id": "2080847300986073409",
+    "edit_tweet_ids": [
+      "2080847300986073409",
+      "2080847404451188968"
+    ],
+    "editable_until_msecs": "1784951231000",
+    "edits_remaining": "4",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/qvGbDAzr9C",
+      "expanded_url": "https://x.com/TradercBTC/status/2080847404451188968/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        143,
+        166
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HOCm1Q0bAAACOJs.png",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 689,
+            "w": 1230,
+            "x": 0,
+            "y": 59
+          },
+          {
+            "h": 1230,
+            "w": 1230,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1402,
+            "w": 1230,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1470,
+            "w": 735,
+            "x": 257,
+            "y": 0
+          },
+          {
+            "h": 1470,
+            "w": 1230,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1470,
+        "width": 1230
+      },
+      "sizes": {
+        "large": {
+          "h": 1470,
+          "resize": "fit",
+          "w": 1230
+        },
+        "medium": {
+          "h": 1200,
+          "resize": "fit",
+          "w": 1004
+        },
+        "small": {
+          "h": 680,
+          "resize": "fit",
+          "w": 569
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/qvGbDAzr9C"
+    },
+    {
+      "display_url": "pic.x.com/qvGbDAzr9C",
+      "expanded_url": "https://x.com/TradercBTC/status/2080847404451188968/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        143,
+        166
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HOCm_2ca8AAsP7t.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1514,
+            "w": 2704,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1548,
+            "w": 1548,
+            "x": 104,
+            "y": 0
+          },
+          {
+            "h": 1548,
+            "w": 1358,
+            "x": 199,
+            "y": 0
+          },
+          {
+            "h": 1548,
+            "w": 774,
+            "x": 491,
+            "y": 0
+          },
+          {
+            "h": 1548,
+            "w": 2704,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1548,
+        "width": 2704
+      },
+      "sizes": {
+        "large": {
+          "h": 1172,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 687,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 389,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/qvGbDAzr9C"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 689,
+          "w": 1230,
+          "x": 0,
+          "y": 59
+        },
+        {
+          "h": 1230,
+          "w": 1230,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1402,
+          "w": 1230,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1470,
+          "w": 735,
+          "x": 257,
+          "y": 0
+        },
+        {
+          "h": 1470,
+          "w": 1230,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2080847404451188968/photo/1",
+      "url": "https://pbs.twimg.com/media/HOCm1Q0bAAACOJs.png",
+      "width": 1230,
+      "height": 1470
+    },
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1514,
+          "w": 2704,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1548,
+          "w": 1548,
+          "x": 104,
+          "y": 0
+        },
+        {
+          "h": 1548,
+          "w": 1358,
+          "x": 199,
+          "y": 0
+        },
+        {
+          "h": 1548,
+          "w": 774,
+          "x": 491,
+          "y": 0
+        },
+        {
+          "h": 1548,
+          "w": 2704,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2080847404451188968/photo/1",
+      "url": "https://pbs.twimg.com/media/HOCm_2ca8AAsP7t.jpg",
+      "width": 2704,
+      "height": 1548
+    }
+  ],
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "favorite_count": 54,
+    "lang": "zh",
+    "reply_count": 3,
+    "retweet_count": 14,
+    "created_at": "2026-06-26T09:45:25.000Z",
+    "display_text_range": [
+      0,
+      119
+    ],
+    "entities": {},
+    "id_str": "2070443303582212398",
+    "text": "聊聊存储\n\n黄金和石油我们大概研究了一下。\n\n黄金和石油的逻辑相对比较简单，但我对石油其实没太大兴趣。因为原油这个东西需要长期跟踪\n\n之前在 62 的位置，我们一起做多过石油，中间到 74 左右就卖飞了，但当时更多是按照技术面驱动来做的。",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2070443303582212398"
+      ],
+      "editable_until_msecs": "1782470725000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": true,
+  "isStaleEdit": false,
+  "previous_counts": {
+    "favorite_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+  },
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDgwODQ3NDA0Mzg4MjA0NTQ0"
+  }
+}

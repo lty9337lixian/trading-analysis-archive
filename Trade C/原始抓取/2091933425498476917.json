@@ -1,0 +1,76 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "login": {
+    "provider": "x",
+    "state": "unknown"
+  },
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://abs.twimg.com/finance/v1/crypto/injective-protocol/native.png",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HQgKWrJakAA7HlI.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2091933425498476917/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2091933425498476917/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://abs.twimg.com/finance/v1/crypto/injective-protocol/native.png",
+        "localPath": "2091933425498476917/imgs/img-002-native.png",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2091933425498476917/imgs/img-002-native.png",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HQgKWrJakAA7HlI.jpg:large",
+        "localPath": "2091933425498476917/imgs/img-003-HQgKWrJakAA7HlI-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2091933425498476917/imgs/img-003-HQgKWrJakAA7HlI-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 3,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2091933425498476917/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2091933425498476917",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2091933425498476917",
+    "title": "trader-c on X: \"只要不是普涨的环境，一定要做结构好的，表现强势的\n\n在市场上一枝独秀，自然会引来资金的。\n\n明天发完整的复盘 $INJ https://t.co/Fv51vm9t\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-24T16:59:29.000Z",
+    "summary": "只要不是普涨的环境，一定要做结构好的，表现强势的\n\n在市场上一枝独秀，自然会引来资金的。\n\n明天发完整的复盘 $INJ https://t.co/Fv51vm9t",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HQgKWrJakAA7HlI.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:40:52.105Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n只要不是普涨的环境，一定要做结构好的，表现强势的 在市场上一枝独秀，自然会引来资金的。 明天发完整的复盘 [$INJ](https://x.com/search?q=%24INJ%20OR%20injective-protocol%3Anative&src=smarttag_click)\n\n- [![](https://abs.twimg.com/finance/v1/crypto/injective-protocol/native.png)\n\tInjective\n\tINJ\n\tUS$5.03\n\t+4.98%\n\t](https://x.com/search?q=%24INJ%20OR%20injective-protocol%3Anative&src=typeahead_click)\n\n[0:59 · 2026年8月25日](https://x.com/TradercBTC/status/2091933425498476917) [1272Views](https://x.com/TradercBTC/status/2091933425498476917)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2091933425498476917"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"只要不是普涨的环境，一定要做结构好的，表现强势的\n  \n  在市场上一枝独秀，自然会引来资金的。\n  \n  明天发完整的复盘 $INJ https://t.co/Fv51vm9t\" / X\nurl: \"https://x.com/TradercBTC/status/2091933425498476917\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2091933425498476917\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2091933425498476917/imgs/img-003-HQgKWrJakAA7HlI-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-24T16:59:29.000Z\"\nsummary: |-\n  只要不是普涨的环境，一定要做结构好的，表现强势的\n  \n  在市场上一枝独秀，自然会引来资金的。\n  \n  明天发完整的复盘 $INJ https://t.co/Fv51vm9t\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:40:52.105Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"只要不是普涨的环境，一定要做结构好的，表现强势的\n\n在市场上一枝独秀，自然会引来资金的。\n\n明天发完整的复盘 $INJ https://t.co/Fv51vm9t\" / X\n\n[![@TradercBTC](2091933425498476917/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n只要不是普涨的环境，一定要做结构好的，表现强势的 在市场上一枝独秀，自然会引来资金的。 明天发完整的复盘 [$INJ](https://x.com/search?q=%24INJ%20OR%20injective-protocol%3Anative&src=smarttag_click)\n\n- [![](2091933425498476917/imgs/img-002-native.png)\n\tInjective\n\tINJ\n\tUS$5.03\n\t+4.98%\n\t](https://x.com/search?q=%24INJ%20OR%20injective-protocol%3Anative&src=typeahead_click)\n\n[0:59 · 2026年8月25日](https://x.com/TradercBTC/status/2091933425498476917) [1272Views](https://x.com/TradercBTC/status/2091933425498476917)\n\nOnly some accounts can reply."
+}

@@ -1,0 +1,223 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 12,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-02-02T16:07:24.000Z",
+  "display_text_range": [
+    0,
+    94
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/lB2w7ecSSm",
+        "expanded_url": "https://x.com/TradercBTC/status/2018355579639808319/photo/1",
+        "indices": [
+          95,
+          118
+        ],
+        "url": "https://t.co/lB2w7ecSSm"
+      }
+    ],
+    "symbols": [
+      {
+        "indices": [
+          0,
+          5
+        ],
+        "text": "GOLD"
+      }
+    ]
+  },
+  "id_str": "2018355579639808319",
+  "text": "$GOLD 黄金的短线结构走了一波回调\n\n但是15min短暂回调的上升结构被打破了\n\n但是这地下这个位置是上一波上涨的顶点，支撑还是蛮强的\n\n一次性跌破的可能性不大，大概率在这上下震荡一次 https://t.co/lB2w7ecSSm",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2018355579639808319"
+    ],
+    "editable_until_msecs": "1770052044000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/lB2w7ecSSm",
+      "expanded_url": "https://x.com/TradercBTC/status/2018355579639808319/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        95,
+        118
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HAKjGxzakAAQjth.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1832,
+            "w": 3271,
+            "x": 69,
+            "y": 0
+          },
+          {
+            "h": 1832,
+            "w": 1832,
+            "x": 788,
+            "y": 0
+          },
+          {
+            "h": 1832,
+            "w": 1607,
+            "x": 901,
+            "y": 0
+          },
+          {
+            "h": 1832,
+            "w": 916,
+            "x": 1246,
+            "y": 0
+          },
+          {
+            "h": 1832,
+            "w": 3588,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1832,
+        "width": 3588
+      },
+      "sizes": {
+        "large": {
+          "h": 1046,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 613,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 347,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/lB2w7ecSSm"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1832,
+          "w": 3271,
+          "x": 69,
+          "y": 0
+        },
+        {
+          "h": 1832,
+          "w": 1832,
+          "x": 788,
+          "y": 0
+        },
+        {
+          "h": 1832,
+          "w": 1607,
+          "x": 901,
+          "y": 0
+        },
+        {
+          "h": 1832,
+          "w": 916,
+          "x": 1246,
+          "y": 0
+        },
+        {
+          "h": 1832,
+          "w": 3588,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2018355579639808319/photo/1",
+      "url": "https://pbs.twimg.com/media/HAKjGxzakAAQjth.jpg",
+      "width": 3588,
+      "height": 1832
+    }
+  ],
+  "conversation_count": 1,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "favorite_count": 1,
+    "in_reply_to_screen_name": "TradercBTC",
+    "in_reply_to_status_id_str": "2018282371846733929",
+    "in_reply_to_user_id_str": "1921065617479921670",
+    "lang": "ja",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "created_at": "2026-02-02T16:02:47.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1921065617479921670",
+          "indices": [
+            0,
+            11
+          ],
+          "name": "trader-c",
+          "screen_name": "TradercBTC"
+        }
+      ]
+    },
+    "id_str": "2018354418010497327",
+    "text": "@TradercBTC 黄金要暴跌了",
+    "user": {
+      "id_str": "1690816174790156288",
+      "name": "小币.eth",
+      "screen_name": "Amanda0xEth",
+      "is_blue_verified": false,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1706629629220737024/N3fiqQ6J_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2018354418010497327"
+      ],
+      "editable_until_msecs": "1770051767000",
+      "edits_remaining": "5",
+      "is_edit_eligible": false
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

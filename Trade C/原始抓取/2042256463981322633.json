@@ -1,0 +1,55 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2042256463981322633/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2042256463981322633/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2042256463981322633/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2042256463981322633",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2042256463981322633",
+    "title": "trader-c on X: \"@yehuxinyu184337 每笔固定保护亏损在5k\n\n每笔盈利目标在2w到5w左右\n\n十笔里面大概5笔小赚小亏，2笔止损，三笔差不多盈利到目标\n\n这是我理解的风控能力，回撤小\n\n我打了半天字，我不知道如何形容或者说表达出你说《回撤小，赚的也慢》\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-04-09T15:00:58.000Z",
+    "summary": "@yehuxinyu184337 每笔固定保护亏损在5k\n\n每笔盈利目标在2w到5w左右\n\n十笔里面大概5笔小赚小亏，2笔止损，三笔差不多盈利到目标\n\n这是我理解的风控能力，回撤小\n\n我打了半天字，我不知道如何形容或者说表达出你说《回撤小，赚的也慢》",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:00:02.544Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t每笔固定保护亏损在5k 每笔盈利目标在2w到5w左右 十笔里面大概5笔小赚小亏，2笔止损，三笔差不多盈利到目标 这是我理解的风控能力，回撤小 我打了半天字，我不知道如何形容或者说表达出你说《回撤小，赚的也慢》\n\t[23:00 · 2026年4月9日](https://x.com/TradercBTC/status/2042256463981322633) [4157Views](https://x.com/TradercBTC/status/2042256463981322633)\n\t[4](https://x.com/i/status/2042256463981322633)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2042256463981322633"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"@yehuxinyu184337 每笔固定保护亏损在5k\n  \n  每笔盈利目标在2w到5w左右\n  \n  十笔里面大概5笔小赚小亏，2笔止损，三笔差不多盈利到目标\n  \n  这是我理解的风控能力，回撤小\n  \n  我打了半天字，我不知道如何形容或者说表达出你说《回撤小，赚的也慢》\" / X\nurl: \"https://x.com/TradercBTC/status/2042256463981322633\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2042256463981322633\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2042256463981322633/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-04-09T15:00:58.000Z\"\nsummary: |-\n  @yehuxinyu184337 每笔固定保护亏损在5k\n  \n  每笔盈利目标在2w到5w左右\n  \n  十笔里面大概5笔小赚小亏，2笔止损，三笔差不多盈利到目标\n  \n  这是我理解的风控能力，回撤小\n  \n  我打了半天字，我不知道如何形容或者说表达出你说《回撤小，赚的也慢》\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:00:02.544Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"@yehuxinyu184337 每笔固定保护亏损在5k\n\n每笔盈利目标在2w到5w左右\n\n十笔里面大概5笔小赚小亏，2笔止损，三笔差不多盈利到目标\n\n这是我理解的风控能力，回撤小\n\n我打了半天字，我不知道如何形容或者说表达出你说《回撤小，赚的也慢》\" / X\n\n- [![@TradercBTC](2042256463981322633/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t每笔固定保护亏损在5k 每笔盈利目标在2w到5w左右 十笔里面大概5笔小赚小亏，2笔止损，三笔差不多盈利到目标 这是我理解的风控能力，回撤小 我打了半天字，我不知道如何形容或者说表达出你说《回撤小，赚的也慢》\n\t[23:00 · 2026年4月9日](https://x.com/TradercBTC/status/2042256463981322633) [4157Views](https://x.com/TradercBTC/status/2042256463981322633)\n\t[4](https://x.com/i/status/2042256463981322633)"
+}

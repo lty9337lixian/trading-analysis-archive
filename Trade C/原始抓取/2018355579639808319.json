@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HAKjGxzakAAQjth.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2018355579639808319/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2018355579639808319/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HAKjGxzakAAQjth.jpg:large",
+        "localPath": "2018355579639808319/imgs/img-002-HAKjGxzakAAQjth-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2018355579639808319/imgs/img-002-HAKjGxzakAAQjth-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2018355579639808319/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2018355579639808319",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2018355579639808319",
+    "title": "trader-c on X: \"$GOLD 黄金的短线结构走了一波回调\n\n但是15min短暂回调的上升结构被打破了\n\n但是这地下这个位置是上一波上涨的顶点，支撑还是蛮强的\n\n一次性跌破的可能性不大，大概率在这上下震荡一次\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-02T16:07:24.000Z",
+    "summary": "$GOLD 黄金的短线结构走了一波回调\n\n但是15min短暂回调的上升结构被打破了\n\n但是这地下这个位置是上一波上涨的顶点，支撑还是蛮强的\n\n一次性跌破的可能性不大，大概率在这上下震荡一次",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HAKjGxzakAAQjth.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:07:44.306Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[$GOLD](https://x.com/search?q=$GOLD) 黄金的短线结构走了一波回调 但是15min短暂回调的上升结构被打破了 但是这地下这个位置是上一波上涨的顶点，支撑还是蛮强的 一次性跌破的可能性不大，大概率在这上下震荡一次\n\n[0:07 · 2026年2月3日](https://x.com/TradercBTC/status/2018355579639808319) [7603Views](https://x.com/TradercBTC/status/2018355579639808319)\n\n[1](https://x.com/i/status/2018355579639808319)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2018355579639808319"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"$GOLD 黄金的短线结构走了一波回调\n  \n  但是15min短暂回调的上升结构被打破了\n  \n  但是这地下这个位置是上一波上涨的顶点，支撑还是蛮强的\n  \n  一次性跌破的可能性不大，大概率在这上下震荡一次\" / X\nurl: \"https://x.com/TradercBTC/status/2018355579639808319\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2018355579639808319\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2018355579639808319/imgs/img-002-HAKjGxzakAAQjth-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-02T16:07:24.000Z\"\nsummary: |-\n  $GOLD 黄金的短线结构走了一波回调\n  \n  但是15min短暂回调的上升结构被打破了\n  \n  但是这地下这个位置是上一波上涨的顶点，支撑还是蛮强的\n  \n  一次性跌破的可能性不大，大概率在这上下震荡一次\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:07:44.306Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"$GOLD 黄金的短线结构走了一波回调\n\n但是15min短暂回调的上升结构被打破了\n\n但是这地下这个位置是上一波上涨的顶点，支撑还是蛮强的\n\n一次性跌破的可能性不大，大概率在这上下震荡一次\" / X\n\n[![@TradercBTC](2018355579639808319/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[$GOLD](https://x.com/search?q=$GOLD) 黄金的短线结构走了一波回调 但是15min短暂回调的上升结构被打破了 但是这地下这个位置是上一波上涨的顶点，支撑还是蛮强的 一次性跌破的可能性不大，大概率在这上下震荡一次\n\n[0:07 · 2026年2月3日](https://x.com/TradercBTC/status/2018355579639808319) [7603Views](https://x.com/TradercBTC/status/2018355579639808319)\n\n[1](https://x.com/i/status/2018355579639808319)"
+}

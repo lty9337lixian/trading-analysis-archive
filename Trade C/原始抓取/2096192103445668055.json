@@ -1,0 +1,59 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "login": {
+    "provider": "x",
+    "state": "unknown"
+  },
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2096192103445668055/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2096192103445668055/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2096192103445668055/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2096192103445668055",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2096192103445668055",
+    "title": "trader-c on X: \"统计一下，上周\n\n错了闪迪，SOL1R，黄金0.7R，BTC有个0.3R\n\nCRCL：5R，黄金：27R，纳指：2R\n\n因为没有坚定执行计划导致BTC：4R+3R，SOL：2R\n\n（woc我也没做多少交易啊，为什么花我那么长时间，看来要好好规划一下交易时间了）\n\n（好像也不对，上周也没花多少时间，都在搞其他东西，还有一天纯纯在外面）\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-09-05T11:01:57.000Z",
+    "summary": "统计一下，上周\n\n错了闪迪，SOL1R，黄金0.7R，BTC有个0.3R\n\nCRCL：5R，黄金：27R，纳指：2R\n\n因为没有坚定执行计划导致BTC：4R+3R，SOL：2R\n\n（woc我也没做多少交易啊，为什么花我那么长时间，看来要好好规划一下交易时间了）\n\n（好像也不对，上周也没花多少时间，都在搞其他东西，还有一天纯纯在外面）",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:37:43.587Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n统计一下，上周 错了闪迪，SOL1R，黄金0.7R，BTC有个0.3R CRCL：5R，黄金：27R，纳指：2R 因为没有坚定执行计划导致BTC：4R+3R，SOL：2R （woc我也没做多少交易啊，为什么花我那么长时间，看来要好好规划一下交易时间了） （好像也不对，上周也没花多少时间，都在搞其他东西，还有一天纯纯在外面）\n\n[19:01 · 2026年9月5日](https://x.com/TradercBTC/status/2096192103445668055) [1450Views](https://x.com/TradercBTC/status/2096192103445668055)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2096192103445668055"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"统计一下，上周\n  \n  错了闪迪，SOL1R，黄金0.7R，BTC有个0.3R\n  \n  CRCL：5R，黄金：27R，纳指：2R\n  \n  因为没有坚定执行计划导致BTC：4R+3R，SOL：2R\n  \n  （woc我也没做多少交易啊，为什么花我那么长时间，看来要好好规划一下交易时间了）\n  \n  （好像也不对，上周也没花多少时间，都在搞其他东西，还有一天纯纯在外面）\" / X\nurl: \"https://x.com/TradercBTC/status/2096192103445668055\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2096192103445668055\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2096192103445668055/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-09-05T11:01:57.000Z\"\nsummary: |-\n  统计一下，上周\n  \n  错了闪迪，SOL1R，黄金0.7R，BTC有个0.3R\n  \n  CRCL：5R，黄金：27R，纳指：2R\n  \n  因为没有坚定执行计划导致BTC：4R+3R，SOL：2R\n  \n  （woc我也没做多少交易啊，为什么花我那么长时间，看来要好好规划一下交易时间了）\n  \n  （好像也不对，上周也没花多少时间，都在搞其他东西，还有一天纯纯在外面）\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:37:43.587Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"统计一下，上周\n\n错了闪迪，SOL1R，黄金0.7R，BTC有个0.3R\n\nCRCL：5R，黄金：27R，纳指：2R\n\n因为没有坚定执行计划导致BTC：4R+3R，SOL：2R\n\n（woc我也没做多少交易啊，为什么花我那么长时间，看来要好好规划一下交易时间了）\n\n（好像也不对，上周也没花多少时间，都在搞其他东西，还有一天纯纯在外面）\" / X\n\n[![@TradercBTC](2096192103445668055/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n统计一下，上周 错了闪迪，SOL1R，黄金0.7R，BTC有个0.3R CRCL：5R，黄金：27R，纳指：2R 因为没有坚定执行计划导致BTC：4R+3R，SOL：2R （woc我也没做多少交易啊，为什么花我那么长时间，看来要好好规划一下交易时间了） （好像也不对，上周也没花多少时间，都在搞其他东西，还有一天纯纯在外面）\n\n[19:01 · 2026年9月5日](https://x.com/TradercBTC/status/2096192103445668055) [1450Views](https://x.com/TradercBTC/status/2096192103445668055)\n\nOnly some accounts can reply."
+}

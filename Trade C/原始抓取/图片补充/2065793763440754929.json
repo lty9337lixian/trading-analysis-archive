@@ -1,0 +1,40 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 44,
+  "lang": "zh",
+  "created_at": "2026-06-13T13:49:48.000Z",
+  "display_text_range": [
+    0,
+    141
+  ],
+  "entities": {},
+  "id_str": "2065793763440754929",
+  "text": "关于做日内黄金的一些想法：\n\n简单分为高波动日和低波动日\n\n高波动大概150到200点\n\n低波动大概80到120点\n\n所以基础目标应该是40到50点，高波动日更高，止损是20点到30点。\n\n一般分为伦敦盘和美盘，机会基本在这两个\n\n美盘的波动太高，伦敦盘日内效果会更好，时间也很友好",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2065793763440754929"
+    ],
+    "editable_until_msecs": "1781362188000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 1,
+  "news_action_type": "conversation",
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDY1NzkzNzYzMzA2NTA0MTky"
+  }
+}

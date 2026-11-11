@@ -1,0 +1,53 @@
+[info] Loading https://x.com/TradercBTC/status/2018169040892834251 with generic adapter
+[info] Downloaded 1 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2018169040892834251.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/card_img/2096048799139688448/OJDMXamR?format=jpg&name=orig",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/card_img/2096048799139688448/OJDMXamR?format=jpg&name=orig",
+        "localPath": "2018169040892834251/imgs/img-001-OJDMXamR.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2018169040892834251/imgs/img-001-OJDMXamR.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2018169040892834251/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2018169040892834251",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2018169040892834251",
+    "title": "trader-c on X: \"市场完美验证了我们在1.25那期视频里分析里大周期，市场处于一个价格震荡，oi持续增加，可能会面临连环清算的分析\n\n【2月2日复盘我们是如何跟随BTC大跌的操作，以及大跌之后如何看待市场？】 https://t.co/w1uvLRsSDG\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-02T03:46:09.000Z",
+    "summary": "市场完美验证了我们在1.25那期视频里分析里大周期，市场处于一个价格震荡，oi持续增加，可能会面临连环清算的分析\n\n【2月2日复盘我们是如何跟随BTC大跌的操作，以及大跌之后如何看待市场？】 https://t.co/w1uvLRsSDG",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/card_img/2096048799139688448/OJDMXamR?format=jpg&name=orig",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:54:08.691Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "2月2日复盘我们是如何跟随BTC大跌的操作，以及大跌之后如何看待市场？, 视频播放量 125、弹幕量 2、点赞数 12、投硬币枚数 10、收藏人数 4、转发人数 1, 视频作者 trader-c, 作者简介 这是一个 半退休trader 喜欢吐槽装逼和妹子 ，相关视频：98胜率，100收益率！两个TradingView热门指标组合，我直接接入知行量化自动开单实测！收益猛如虎，【trader-..."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2018169040892834251"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"市场完美验证了我们在1.25那期视频里分析里大周期，市场处于一个价格震荡，oi持续增加，可能会面临连环清算的分析\n  \n  【2月2日复盘我们是如何跟随BTC大跌的操作，以及大跌之后如何看待市场？】 https://t.co/w1uvLRsSDG\" / X\nurl: \"https://x.com/TradercBTC/status/2018169040892834251\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2018169040892834251\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2018169040892834251/imgs/img-001-OJDMXamR.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-02T03:46:09.000Z\"\nsummary: |-\n  市场完美验证了我们在1.25那期视频里分析里大周期，市场处于一个价格震荡，oi持续增加，可能会面临连环清算的分析\n  \n  【2月2日复盘我们是如何跟随BTC大跌的操作，以及大跌之后如何看待市场？】 https://t.co/w1uvLRsSDG\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:54:08.691Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"市场完美验证了我们在1.25那期视频里分析里大周期，市场处于一个价格震荡，oi持续增加，可能会面临连环清算的分析\n\n【2月2日复盘我们是如何跟随BTC大跌的操作，以及大跌之后如何看待市场？】 https://t.co/w1uvLRsSDG\" / X\n\n2月2日复盘我们是如何跟随BTC大跌的操作，以及大跌之后如何看待市场？, 视频播放量 125、弹幕量 2、点赞数 12、投硬币枚数 10、收藏人数 4、转发人数 1, 视频作者 trader-c, 作者简介 这是一个 半退休trader 喜欢吐槽装逼和妹子 ，相关视频：98胜率，100收益率！两个TradingView热门指标组合，我直接接入知行量化自动开单实测！收益猛如虎，【trader-..."
+}

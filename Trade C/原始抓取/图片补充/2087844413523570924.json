@@ -1,0 +1,73 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 26,
+  "lang": "zh",
+  "created_at": "2026-08-13T10:11:13.000Z",
+  "display_text_range": [
+    0,
+    142
+  ],
+  "entities": {},
+  "id_str": "2087844413523570924",
+  "text": "刚才那本书的作者把技术分析定义为：\n\n对价格、成交量、市场宽度和未平仓合约进行系统化评估，以预测未来价格运动。\n\n作者认为技术分析最重要的核心不是“预测”二字，而是：\n系统化。\n\n即决策规则应事先形成；规则应清晰；规则应尽可能完整；规则适用于明确的未来周期；方法可以简单，也可以复杂。",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2087844413523570924"
+    ],
+    "editable_until_msecs": "1786619473000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 1,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "favorite_count": 3,
+    "lang": "zh",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "created_at": "2026-08-13T10:00:14.000Z",
+    "display_text_range": [
+      0,
+      136
+    ],
+    "entities": {},
+    "id_str": "2087841651150475648",
+    "text": "我现在特别想和人讨论中国A股是否适用于普遍的技术分析。\n\n从我自己的理解，技术分析既然代表了市场多空双方，那么任何市场都能使用；\n\n但是，大A两个“独门绝技”狠狠干扰了K线等指标：\n1.万恶的T+1\n2.涨跌停限制\n\nT+1让日内交易者和一般短线用户直接从物理层面被阉割，",
+    "user": {
+      "id_str": "1465366125797990403",
+      "name": "🐯 Megazzz 🐏",
+      "screen_name": "liuw0718",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2090713606623256576/IzYTtoF7_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2087841651150475648"
+      ],
+      "editable_until_msecs": "1786618814000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDg3ODQ0NDEzNDgxNjE1MzYw"
+  }
+}

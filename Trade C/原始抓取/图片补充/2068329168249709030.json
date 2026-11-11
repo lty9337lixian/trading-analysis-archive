@@ -1,0 +1,40 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 49,
+  "lang": "zh",
+  "created_at": "2026-06-20T13:44:36.000Z",
+  "display_text_range": [
+    0,
+    128
+  ],
+  "entities": {},
+  "id_str": "2068329168249709030",
+  "text": "一个新手交易者最应该做的，不是“尽快赚钱”。\n\n而是用最低成本进入真实市场，建立一套“实践—反馈—复盘—能力升级”的交易闭环。\n\n这是核心。\n\n新手交易员最大的错误有两个：\n\n第一种，是一上来就实盘猛干。\n\n觉得交易是练出来的，亏钱是学费，市场会教育自己。",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2068329168249709030"
+    ],
+    "editable_until_msecs": "1781966676000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 1,
+  "news_action_type": "conversation",
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDY4MzI5MTY4MjAzNTU4OTEy"
+  }
+}

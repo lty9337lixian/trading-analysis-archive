@@ -1,0 +1,349 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 15,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-08-27T03:32:43.000Z",
+  "display_text_range": [
+    0,
+    88
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/hRKv9xxlNq",
+        "expanded_url": "https://x.com/TradercBTC/status/2092817558701584650/photo/1",
+        "indices": [
+          89,
+          112
+        ],
+        "url": "https://t.co/hRKv9xxlNq"
+      }
+    ]
+  },
+  "id_str": "2092817558701584650",
+  "text": "人在 X 国，刚下飞机。谢邀，不是什么大佬。\n\nBTC 走完一波力度很强的上涨，这一轮和上一轮行情之间留下了比较大的上涨缺口，到现在还没有回补的迹象，这本身就代表上涨动能很强。 https://t.co/hRKv9xxlNq",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2092817558701584650"
+    ],
+    "editable_until_msecs": "1787805163000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/hRKv9xxlNq",
+      "expanded_url": "https://x.com/TradercBTC/status/2092817558701584650/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        89,
+        112
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HQss-Jja8AAT2Jg.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1635,
+            "w": 2920,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1656,
+            "w": 1656,
+            "x": 1143,
+            "y": 0
+          },
+          {
+            "h": 1656,
+            "w": 1453,
+            "x": 1245,
+            "y": 0
+          },
+          {
+            "h": 1656,
+            "w": 828,
+            "x": 1557,
+            "y": 0
+          },
+          {
+            "h": 1656,
+            "w": 2920,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1656,
+        "width": 2920
+      },
+      "sizes": {
+        "large": {
+          "h": 1161,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 681,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 386,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/hRKv9xxlNq"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1635,
+          "w": 2920,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1656,
+          "w": 1656,
+          "x": 1143,
+          "y": 0
+        },
+        {
+          "h": 1656,
+          "w": 1453,
+          "x": 1245,
+          "y": 0
+        },
+        {
+          "h": 1656,
+          "w": 828,
+          "x": 1557,
+          "y": 0
+        },
+        {
+          "h": 1656,
+          "w": 2920,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2092817558701584650/photo/1",
+      "url": "https://pbs.twimg.com/media/HQss-Jja8AAT2Jg.jpg",
+      "width": 2920,
+      "height": 1656
+    }
+  ],
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "conversation_control": {
+      "policy": "Verified"
+    },
+    "favorite_count": 7,
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "reply_count": 2,
+    "retweet_count": 1,
+    "created_at": "2026-08-27T03:02:12.000Z",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "entities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/uzKn0cfr2V",
+          "expanded_url": "https://x.com/TradercBTC/status/2092809879740363215/photo/1",
+          "indices": [
+            74,
+            97
+          ],
+          "url": "https://t.co/uzKn0cfr2V"
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [
+            5,
+            9
+          ],
+          "text": "BTC"
+        }
+      ]
+    },
+    "id_str": "2092809879740363215",
+    "text": "这糟糕的 $BTC\n\n有没有技术大佬解读一下\n\n这是个什么情况，又像涨的又像跌的\n\n做多的话，怕一根针给断头了\n\n做空的话，怕这里稳住爆拉了。。。 https://t.co/uzKn0cfr2V",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2092809879740363215"
+      ],
+      "editable_until_msecs": "1787803332000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "mediaDetails": [
+      {
+        "display_url": "pic.x.com/uzKn0cfr2V",
+        "expanded_url": "https://x.com/TradercBTC/status/2092809879740363215/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "indices": [
+          74,
+          97
+        ],
+        "media_url_https": "https://pbs.twimg.com/media/HQsnKC5bIAANj9Q.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1607,
+              "w": 2870,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1618,
+              "w": 1618,
+              "x": 1128,
+              "y": 0
+            },
+            {
+              "h": 1618,
+              "w": 1419,
+              "x": 1228,
+              "y": 0
+            },
+            {
+              "h": 1618,
+              "w": 809,
+              "x": 1533,
+              "y": 0
+            },
+            {
+              "h": 1618,
+              "w": 2870,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1618,
+          "width": 2870
+        },
+        "sizes": {
+          "large": {
+            "h": 1155,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 677,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/uzKn0cfr2V"
+      }
+    ],
+    "photos": [
+      {
+        "backgroundColor": {
+          "red": 204,
+          "green": 214,
+          "blue": 221
+        },
+        "cropCandidates": [
+          {
+            "h": 1607,
+            "w": 2870,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1618,
+            "w": 1618,
+            "x": 1128,
+            "y": 0
+          },
+          {
+            "h": 1618,
+            "w": 1419,
+            "x": 1228,
+            "y": 0
+          },
+          {
+            "h": 1618,
+            "w": 809,
+            "x": 1533,
+            "y": 0
+          },
+          {
+            "h": 1618,
+            "w": 2870,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "expandedUrl": "https://x.com/TradercBTC/status/2092809879740363215/photo/1",
+        "url": "https://pbs.twimg.com/media/HQsnKC5bIAANj9Q.jpg",
+        "width": 2870,
+        "height": 1618
+      }
+    ],
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDkyODE3NTU4NjIxODM5MzYw"
+  }
+}

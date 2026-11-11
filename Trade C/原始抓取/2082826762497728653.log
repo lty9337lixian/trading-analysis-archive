@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2082826762497728653 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2082826762497728653.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HOevFvbbUAAVXir.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2082826762497728653/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2082826762497728653/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HOevFvbbUAAVXir.jpg:large",
+        "localPath": "2082826762497728653/imgs/img-002-HOevFvbbUAAVXir-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2082826762497728653/imgs/img-002-HOevFvbbUAAVXir-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2082826762497728653/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2082826762497728653",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2082826762497728653",
+    "title": "trader-c on X: \"黄金\n\n这么说吧\n\n下午进了两层多单，然后走掉了，发现不对劲，又进去了两层\n\n然后一层止损放震荡底部，被打掉了\n\n磨损了总共30点\n\n这一层刚好赚回来30个点。。。\n\n今天就只有纳指的10个点的利润。。。。。。。\n\n哎，当时第一次进去的时候就失了智了，要么就不要移动止损，要么就找一个好位置，坚定一下。。。。太蠢了这个操作\n\n好歹是后面又坚定地追回去了，然后那个减仓，因为要出去吃饭了，减仓那个位置设置的不合理。。。\n\n总的来说因为弱智操作没赚到=亏了80个点。。。。\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-07-30T13:52:51.000Z",
+    "summary": "黄金\n\n这么说吧\n\n下午进了两层多单，然后走掉了，发现不对劲，又进去了两层\n\n然后一层止损放震荡底部，被打掉了\n\n磨损了总共30点\n\n这一层刚好赚回来30个点。。。\n\n今天就只有纳指的10个点的利润。。。。。。。\n\n哎，当时第一次进去的时候就失了智了，要么就不要移动止损，要么就找一个好位置，坚定一下。。。。太蠢了这个操作\n\n好歹是后面又坚定地追回去了，然后那个减仓，因为要出去吃饭了，减仓那个位置设置的不合理。。。\n\n总的来说因为弱智操作没赚到=亏了80个点。。。。",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HOevFvbbUAAVXir.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:04:36.078Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n黄金 这么说吧 下午进了两层多单，然后走掉了，发现不对劲，又进去了两层 然后一层止损放震荡底部，被打掉了 磨损了总共30点 这一层刚好赚回来30个点。。。 今天就只有纳指的10个点的利润。。。。。。。 哎，当时第一次进去的时候就失了智了，要么就不要移动止损，要么就找一个好位置，坚定一下。。。。太蠢了这个操作 好歹是后面又坚定地追回去了，然后那个减仓，因为要出去吃饭了，减仓那个位置设置的不合理。。。 总的来说因为弱智操作没赚到=亏了80个点。。。。\n\n[21:52 · 2026年7月30日](https://x.com/TradercBTC/status/2082826762497728653) [7068Views](https://x.com/TradercBTC/status/2082826762497728653)\n\n[1](https://x.com/i/status/2082826762497728653)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2082826762497728653"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"黄金\n  \n  这么说吧\n  \n  下午进了两层多单，然后走掉了，发现不对劲，又进去了两层\n  \n  然后一层止损放震荡底部，被打掉了\n  \n  磨损了总共30点\n  \n  这一层刚好赚回来30个点。。。\n  \n  今天就只有纳指的10个点的利润。。。。。。。\n  \n  哎，当时第一次进去的时候就失了智了，要么就不要移动止损，要么就找一个好位置，坚定一下。。。。太蠢了这个操作\n  \n  好歹是后面又坚定地追回去了，然后那个减仓，因为要出去吃饭了，减仓那个位置设置的不合理。。。\n  \n  总的来说因为弱智操作没赚到=亏了80个点。。。。\" / X\nurl: \"https://x.com/TradercBTC/status/2082826762497728653\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2082826762497728653\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2082826762497728653/imgs/img-002-HOevFvbbUAAVXir-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-07-30T13:52:51.000Z\"\nsummary: |-\n  黄金\n  \n  这么说吧\n  \n  下午进了两层多单，然后走掉了，发现不对劲，又进去了两层\n  \n  然后一层止损放震荡底部，被打掉了\n  \n  磨损了总共30点\n  \n  这一层刚好赚回来30个点。。。\n  \n  今天就只有纳指的10个点的利润。。。。。。。\n  \n  哎，当时第一次进去的时候就失了智了，要么就不要移动止损，要么就找一个好位置，坚定一下。。。。太蠢了这个操作\n  \n  好歹是后面又坚定地追回去了，然后那个减仓，因为要出去吃饭了，减仓那个位置设置的不合理。。。\n  \n  总的来说因为弱智操作没赚到=亏了80个点。。。。\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:04:36.078Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"黄金\n\n这么说吧\n\n下午进了两层多单，然后走掉了，发现不对劲，又进去了两层\n\n然后一层止损放震荡底部，被打掉了\n\n磨损了总共30点\n\n这一层刚好赚回来30个点。。。\n\n今天就只有纳指的10个点的利润。。。。。。。\n\n哎，当时第一次进去的时候就失了智了，要么就不要移动止损，要么就找一个好位置，坚定一下。。。。太蠢了这个操作\n\n好歹是后面又坚定地追回去了，然后那个减仓，因为要出去吃饭了，减仓那个位置设置的不合理。。。\n\n总的来说因为弱智操作没赚到=亏了80个点。。。。\" / X\n\n[![@TradercBTC](2082826762497728653/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n黄金 这么说吧 下午进了两层多单，然后走掉了，发现不对劲，又进去了两层 然后一层止损放震荡底部，被打掉了 磨损了总共30点 这一层刚好赚回来30个点。。。 今天就只有纳指的10个点的利润。。。。。。。 哎，当时第一次进去的时候就失了智了，要么就不要移动止损，要么就找一个好位置，坚定一下。。。。太蠢了这个操作 好歹是后面又坚定地追回去了，然后那个减仓，因为要出去吃饭了，减仓那个位置设置的不合理。。。 总的来说因为弱智操作没赚到=亏了80个点。。。。\n\n[21:52 · 2026年7月30日](https://x.com/TradercBTC/status/2082826762497728653) [7068Views](https://x.com/TradercBTC/status/2082826762497728653)\n\n[1](https://x.com/i/status/2082826762497728653)\n\nOnly some accounts can reply."
+}

@@ -1,0 +1,73 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/G_tltTFXMAAdEs-.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/G_p8hHBWMAADob0?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/G_tltTFXMAAdEs-.jpg:large",
+        "localPath": "2016318993217536255/imgs/img-001-G_tltTFXMAAdEs-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2016318993217536255/imgs/img-001-G_tltTFXMAAdEs-jpg-large.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2016318993217536255/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2016318993217536255/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/G_p8hHBWMAADob0?format=webp&name=medium",
+        "localPath": "2016318993217536255/imgs/img-003-G_p8hHBWMAADob0.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2016318993217536255/imgs/img-003-G_p8hHBWMAADob0.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 3,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2016318993217536255/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2016318993217536255",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2016318993217536255",
+    "title": "trader-c on X: \"$BTC morning （woc，gm打多了，刚才发现morning不回拼了，我以为我没睡醒） 还不错，睡起来看到我们最想看到的走势出现，一根大阳k的突破，后续的追随也不是很糟糕，没有被打回区间 从k线上看，昨天还是画了几次门，画门的下跌成交量也很高 我们能看出有一部分卖方资金是真的想把价格打下去，但是他们失败了 这种真金白银，还是在美区流动性走出来的买方力量，可靠程度是非常高的 按照我们的计划稳步推进即可，昨天我们打的底仓已经有利润了，这对后续的操作有很大的帮助 cheers🍺\"",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-01-28T01:14:44.000Z",
+    "summary": "$BTC morning （woc，gm打多了，刚才发现morning不回拼了，我以为我没睡醒）\n\n还不错，睡起来看到我们最想看到的走势出现，一根大阳k的突破，后续的追随也不是很糟糕，没有被打回区间\n\n从k线上看，昨天还是画了几次门，画门的下跌成交量也很高\n\n我们能看出有一部分卖方资金是真的想把价格打下去，但是他们失败了\n\n这种真金白银，还是在美区流动性走出来的买方力量，可靠程度是非常高的\n\n按照我们的计划稳步推进即可，昨天我们打的底仓已经有利润了，这对后续的操作有很大的帮助\n\ncheers🍺",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/G_tltTFXMAAdEs-.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:43:57.920Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[$BTC](https://x.com/search?q=$BTC) morning （woc，gm打多了，刚才发现morning不回拼了，我以为我没睡醒） 还不错，睡起来看到我们最想看到的走势出现，一根大阳k的突破，后续的追随也不是很糟糕，没有被打回区间 从k线上看，昨天还是画了几次门，画门的下跌成交量也很高 我们能看出有一部分卖方资金是真的想把价格打下去，但是他们失败了 这种真金白银，还是在美区流动性走出来的买方力量，可靠程度是非常高的 按照我们的计划稳步推进即可，昨天我们打的底仓已经有利润了，这对后续的操作有很大的帮助 cheers🍺\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[1月27日](https://x.com/TradercBTC/status/2016062589973762357)\n\n持续更新 [$BTC](https://x.com/search?q=$BTC) 昨天晚上波动巨大，来回画门 形成的原因是因为背后买卖双方的大资金在这里产生了分歧 他们用资金来测试市场的供应和需求 很明显，在一阵插针行情之后，价格继续向上 1h级别已经产生了HH和HL，但是我们没有看到结构的突破\n\n[![](https://pbs.twimg.com/media/G_p8hHBWMAADob0?format=webp&name=medium)](https://x.com/TradercBTC/status/2016062589973762357/photo/1)\n\n[9:14 · 2026年1月28日](https://x.com/TradercBTC/status/2016318993217536255)[5507Views](https://x.com/TradercBTC/status/2016318993217536255)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2016318993217536255"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"$BTC morning （woc，gm打多了，刚才发现morning不回拼了，我以为我没睡醒） 还不错，睡起来看到我们最想看到的走势出现，一根大阳k的突破，后续的追随也不是很糟糕，没有被打回区间 从k线上看，昨天还是画了几次门，画门的下跌成交量也很高 我们能看出有一部分卖方资金是真的想把价格打下去，但是他们失败了 这种真金白银，还是在美区流动性走出来的买方力量，可靠程度是非常高的 按照我们的计划稳步推进即可，昨天我们打的底仓已经有利润了，这对后续的操作有很大的帮助 cheers🍺\\\"\"\nurl: \"https://x.com/TradercBTC/status/2016318993217536255\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2016318993217536255\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2016318993217536255/imgs/img-001-G_tltTFXMAAdEs-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-01-28T01:14:44.000Z\"\nsummary: |-\n  $BTC morning （woc，gm打多了，刚才发现morning不回拼了，我以为我没睡醒）\n  \n  还不错，睡起来看到我们最想看到的走势出现，一根大阳k的突破，后续的追随也不是很糟糕，没有被打回区间\n  \n  从k线上看，昨天还是画了几次门，画门的下跌成交量也很高\n  \n  我们能看出有一部分卖方资金是真的想把价格打下去，但是他们失败了\n  \n  这种真金白银，还是在美区流动性走出来的买方力量，可靠程度是非常高的\n  \n  按照我们的计划稳步推进即可，昨天我们打的底仓已经有利润了，这对后续的操作有很大的帮助\n  \n  cheers🍺\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:43:57.920Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"$BTC morning （woc，gm打多了，刚才发现morning不回拼了，我以为我没睡醒） 还不错，睡起来看到我们最想看到的走势出现，一根大阳k的突破，后续的追随也不是很糟糕，没有被打回区间 从k线上看，昨天还是画了几次门，画门的下跌成交量也很高 我们能看出有一部分卖方资金是真的想把价格打下去，但是他们失败了 这种真金白银，还是在美区流动性走出来的买方力量，可靠程度是非常高的 按照我们的计划稳步推进即可，昨天我们打的底仓已经有利润了，这对后续的操作有很大的帮助 cheers🍺\"\n\n[![@TradercBTC](2016318993217536255/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[$BTC](https://x.com/search?q=$BTC) morning （woc，gm打多了，刚才发现morning不回拼了，我以为我没睡醒） 还不错，睡起来看到我们最想看到的走势出现，一根大阳k的突破，后续的追随也不是很糟糕，没有被打回区间 从k线上看，昨天还是画了几次门，画门的下跌成交量也很高 我们能看出有一部分卖方资金是真的想把价格打下去，但是他们失败了 这种真金白银，还是在美区流动性走出来的买方力量，可靠程度是非常高的 按照我们的计划稳步推进即可，昨天我们打的底仓已经有利润了，这对后续的操作有很大的帮助 cheers🍺\n\n[![@TradercBTC](2016318993217536255/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[1月27日](https://x.com/TradercBTC/status/2016062589973762357)\n\n持续更新 [$BTC](https://x.com/search?q=$BTC) 昨天晚上波动巨大，来回画门 形成的原因是因为背后买卖双方的大资金在这里产生了分歧 他们用资金来测试市场的供应和需求 很明显，在一阵插针行情之后，价格继续向上 1h级别已经产生了HH和HL，但是我们没有看到结构的突破\n\n[![](2016318993217536255/imgs/img-003-G_p8hHBWMAADob0.webp)](https://x.com/TradercBTC/status/2016062589973762357/photo/1)\n\n[9:14 · 2026年1月28日](https://x.com/TradercBTC/status/2016318993217536255)[5507Views](https://x.com/TradercBTC/status/2016318993217536255)"
+}

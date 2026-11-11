@@ -1,0 +1,76 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 90,
+  "lang": "zh",
+  "created_at": "2026-08-13T08:27:09.000Z",
+  "display_text_range": [
+    0,
+    137
+  ],
+  "entities": {},
+  "id_str": "2087818223932625359",
+  "text": "如果我要做程序化交易或者指标信号辅助\n\n我们大概将完整系统分成五层：\n\n第一层：市场状态\n\n回答：是否存在方向？方向运动是否有效率？波动率处于高位还是低位？噪声是否过大？流动性是否足够？\n\n第二层：交易方向与机会\n\n回答：做多、做空还是不交易？是趋势延续、突破还是均值回归？",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2087818223932625359"
+    ],
+    "editable_until_msecs": "1786613229000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "conversation_control": {
+      "policy": "Verified"
+    },
+    "favorite_count": 1060,
+    "lang": "zh",
+    "reply_count": 11,
+    "retweet_count": 178,
+    "created_at": "2026-08-13T08:23:44.000Z",
+    "display_text_range": [
+      0,
+      120
+    ],
+    "entities": {},
+    "id_str": "2087817364402504074",
+    "text": "《Trading Systems and Methods》这书太tm顶级了\n\n如何成为一名优秀的交易员\n\n把这本书啃透了就是专家了\n\n涵盖的太tm广泛了，woc\n\n其中的程序化的部分直接把我之前一些直觉性的想法实现了，牛逼\n\n就是太tm多了",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2087817364402504074"
+      ],
+      "editable_until_msecs": "1786613024000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDg3ODE4MjIzODY1NDc5MTY4"
+  }
+}

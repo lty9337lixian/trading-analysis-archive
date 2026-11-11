@@ -1,0 +1,98 @@
+[info] Loading https://x.com/TradercBTC/status/2088521445160910853 with generic adapter
+[info] Downloaded 5 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2088521445160910853.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HPvqYTCaEAA1MUy.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HPvqq3gacAAlQY3?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HPvj7tDaEAIaXjN?format=webp&name=small",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HPvkA7aaAAA0oMb?format=webp&name=small",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/HPvqYTCaEAA1MUy.jpg:large",
+        "localPath": "2088521445160910853/imgs/img-001-HPvqYTCaEAA1MUy-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2088521445160910853/imgs/img-001-HPvqYTCaEAA1MUy-jpg-large.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2088521445160910853/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2088521445160910853/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HPvqq3gacAAlQY3?format=webp&name=medium",
+        "localPath": "2088521445160910853/imgs/img-003-HPvqq3gacAAlQY3.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2088521445160910853/imgs/img-003-HPvqq3gacAAlQY3.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HPvj7tDaEAIaXjN?format=webp&name=small",
+        "localPath": "2088521445160910853/imgs/img-004-HPvj7tDaEAIaXjN.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2088521445160910853/imgs/img-004-HPvj7tDaEAIaXjN.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HPvkA7aaAAA0oMb?format=webp&name=small",
+        "localPath": "2088521445160910853/imgs/img-005-HPvkA7aaAAA0oMb.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2088521445160910853/imgs/img-005-HPvkA7aaAAA0oMb.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 5,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2088521445160910853/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2088521445160910853",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2088521445160910853",
+    "title": "trader-c on X: \"$LINK 我的市场观察和具体交易策略： 我认为我能接受成本在9.237，止损在5%以内，如果目标顺利，按照日线级别的目标位，潜在利润有15% 因为根据日线级别制定的交易思路，所以按照1H级别来寻找入场点位🤔 做出决定之后，确定最大损失和风险可控 开始执行\"",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-15T07:01:30.000Z",
+    "summary": "$LINK 我的市场观察和具体交易策略：\n\n我认为我能接受成本在9.237，止损在5%以内，如果目标顺利，按照日线级别的目标位，潜在利润有15%\n\n因为根据日线级别制定的交易思路，所以按照1H级别来寻找入场点位🤔\n\n做出决定之后，确定最大损失和风险可控\n\n开始执行",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HPvqYTCaEAA1MUy.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:05:37.033Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[$LINK](https://x.com/search?q=$LINK) 我的市场观察和具体交易策略： 我认为我能接受成本在9.237，止损在5%以内，如果目标顺利，按照日线级别的目标位，潜在利润有15% 因为根据日线级别制定的交易思路，所以按照1H级别来寻找入场点位🤔 做出决定之后，确定最大损失和风险可控 开始执行\n\n[![](https://pbs.twimg.com/media/HPvqq3gacAAlQY3?format=webp&name=medium)](https://x.com/TradercBTC/status/2088521445160910853/photo/2)\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[8月15日](https://x.com/TradercBTC/status/2088513926900392445)\n\n币圈假突破是在太多 如果真的有一个币要涨，我认为一定是 发生突破这个事件——站稳——再推动 比如LINK，我周五做WLD和LDO的错误点在于我没有等确定 币和纳指黄金的流动性和玩家结构是完全不一样的\n\n[![](https://pbs.twimg.com/media/HPvj7tDaEAIaXjN?format=webp&name=small)](https://x.com/TradercBTC/status/2088513926900392445/photo/1)\n\n[![](https://pbs.twimg.com/media/HPvkA7aaAAA0oMb?format=webp&name=small)](https://x.com/TradercBTC/status/2088513926900392445/photo/2)\n\n[15:01 · 2026年8月15日](https://x.com/TradercBTC/status/2088521445160910853)[3870Views](https://x.com/TradercBTC/status/2088521445160910853)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2088521445160910853"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"$LINK 我的市场观察和具体交易策略： 我认为我能接受成本在9.237，止损在5%以内，如果目标顺利，按照日线级别的目标位，潜在利润有15% 因为根据日线级别制定的交易思路，所以按照1H级别来寻找入场点位🤔 做出决定之后，确定最大损失和风险可控 开始执行\\\"\"\nurl: \"https://x.com/TradercBTC/status/2088521445160910853\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2088521445160910853\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2088521445160910853/imgs/img-001-HPvqYTCaEAA1MUy-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-15T07:01:30.000Z\"\nsummary: |-\n  $LINK 我的市场观察和具体交易策略：\n  \n  我认为我能接受成本在9.237，止损在5%以内，如果目标顺利，按照日线级别的目标位，潜在利润有15%\n  \n  因为根据日线级别制定的交易思路，所以按照1H级别来寻找入场点位🤔\n  \n  做出决定之后，确定最大损失和风险可控\n  \n  开始执行\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:05:37.033Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"$LINK 我的市场观察和具体交易策略： 我认为我能接受成本在9.237，止损在5%以内，如果目标顺利，按照日线级别的目标位，潜在利润有15% 因为根据日线级别制定的交易思路，所以按照1H级别来寻找入场点位🤔 做出决定之后，确定最大损失和风险可控 开始执行\"\n\n[![@TradercBTC](2088521445160910853/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[$LINK](https://x.com/search?q=$LINK) 我的市场观察和具体交易策略： 我认为我能接受成本在9.237，止损在5%以内，如果目标顺利，按照日线级别的目标位，潜在利润有15% 因为根据日线级别制定的交易思路，所以按照1H级别来寻找入场点位🤔 做出决定之后，确定最大损失和风险可控 开始执行\n\n[![](2088521445160910853/imgs/img-003-HPvqq3gacAAlQY3.webp)](https://x.com/TradercBTC/status/2088521445160910853/photo/2)\n\n[![@TradercBTC](2088521445160910853/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[8月15日](https://x.com/TradercBTC/status/2088513926900392445)\n\n币圈假突破是在太多 如果真的有一个币要涨，我认为一定是 发生突破这个事件——站稳——再推动 比如LINK，我周五做WLD和LDO的错误点在于我没有等确定 币和纳指黄金的流动性和玩家结构是完全不一样的\n\n[![](2088521445160910853/imgs/img-004-HPvj7tDaEAIaXjN.webp)](https://x.com/TradercBTC/status/2088513926900392445/photo/1)\n\n[![](2088521445160910853/imgs/img-005-HPvkA7aaAAA0oMb.webp)](https://x.com/TradercBTC/status/2088513926900392445/photo/2)\n\n[15:01 · 2026年8月15日](https://x.com/TradercBTC/status/2088521445160910853)[3870Views](https://x.com/TradercBTC/status/2088521445160910853)\n\nOnly some accounts can reply."
+}

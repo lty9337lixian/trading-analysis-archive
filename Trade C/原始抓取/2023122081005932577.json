@@ -1,0 +1,55 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2023122081005932577/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2023122081005932577/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2023122081005932577/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2023122081005932577",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2023122081005932577",
+    "title": "trader-c on X: \"很棒的策略，很优质的博主\n\n我认为每一个优秀的交易员都要学习这种相对强弱关系思维\n\n同理你可以用作在a股里\n\n以下是个人对内容的简要整理：\n\n1️⃣核心概念：\n板块轮动优先：不是先看个股形态，而是先看哪个板块在吸纳资金\n\n11个板块ETF：使用SPDR板块ETF作为工具\n\n相对强度排名：4周和12周的相对强度对比\n\nStage分析：寻找长期基础（Stage 1 bases）\n\n多时间框架分析：周线选股，日线入场\n\n风险收益比：5-10倍的风险收益比\n\n2️⃣操作流程：\n每周日回顾11个板块ETF\n按相对强度排名（对比SPY和QQQ）\n关注前3名，避开后3名\n在… / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-15T19:47:46.000Z",
+    "summary": "很棒的策略，很优质的博主\n\n我认为每一个优秀的交易员都要学习这种相对强弱关系思维\n\n同理你可以用作在a股里\n\n以下是个人对内容的简要整理：\n\n1️⃣核心概念：\n板块轮动优先：不是先看个股形态，而是先看哪个板块在吸纳资金\n\n11个板块ETF：使用SPDR板块ETF作为工具\n\n相对强度排名：4周和12周的相对强度对比\n\nStage分析：寻找长期基础（Stage 1 bases）\n\n多时间框架分析：周线选股，日线入场\n\n风险收益比：5-10倍的风险收益比\n\n2️⃣操作流程：\n每周日回顾11个板块ETF\n按相对强度排名（对比SPY和QQQ）\n关注前3名，避开后3名\n在领先板块中寻找有大基础的个股\n等…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:58:11.580Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t很棒的策略，很优质的博主 我认为每一个优秀的交易员都要学习这种相对强弱关系思维 同理你可以用作在a股里 以下是个人对内容的简要整理： 1️⃣核心概念： 板块轮动优先：不是先看个股形态，而是先看哪个板块在吸纳资金 11个板块ETF：使用SPDR板块ETF作为工具 相对强度排名：4周和12周的相对强度对比 Stage分析：寻找长期基础（Stage 1 bases） 多时间框架分析：周线选股，日线入场 风险收益比：5-10倍的风险收益比 2️⃣操作流程： 每周日回顾11个板块ETF 按相对强度排名（对比SPY和QQQ） 关注前3名，避开后3名 在领先板块中寻找有大基础的个股 等待日线图收紧后入场\n\t[3:47 · 2026年2月16日](https://x.com/TradercBTC/status/2023122081005932577) [15.3万Views](https://x.com/TradercBTC/status/2023122081005932577)\n\t[6](https://x.com/i/status/2023122081005932577)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2023122081005932577"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"很棒的策略，很优质的博主\n  \n  我认为每一个优秀的交易员都要学习这种相对强弱关系思维\n  \n  同理你可以用作在a股里\n  \n  以下是个人对内容的简要整理：\n  \n  1️⃣核心概念：\n  板块轮动优先：不是先看个股形态，而是先看哪个板块在吸纳资金\n  \n  11个板块ETF：使用SPDR板块ETF作为工具\n  \n  相对强度排名：4周和12周的相对强度对比\n  \n  Stage分析：寻找长期基础（Stage 1 bases）\n  \n  多时间框架分析：周线选股，日线入场\n  \n  风险收益比：5-10倍的风险收益比\n  \n  2️⃣操作流程：\n  每周日回顾11个板块ETF\n  按相对强度排名（对比SPY和QQQ）\n  关注前3名，避开后3名\n  在… / X\nurl: \"https://x.com/TradercBTC/status/2023122081005932577\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2023122081005932577\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2023122081005932577/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-15T19:47:46.000Z\"\nsummary: |-\n  很棒的策略，很优质的博主\n  \n  我认为每一个优秀的交易员都要学习这种相对强弱关系思维\n  \n  同理你可以用作在a股里\n  \n  以下是个人对内容的简要整理：\n  \n  1️⃣核心概念：\n  板块轮动优先：不是先看个股形态，而是先看哪个板块在吸纳资金\n  \n  11个板块ETF：使用SPDR板块ETF作为工具\n  \n  相对强度排名：4周和12周的相对强度对比\n  \n  Stage分析：寻找长期基础（Stage 1 bases）\n  \n  多时间框架分析：周线选股，日线入场\n  \n  风险收益比：5-10倍的风险收益比\n  \n  2️⃣操作流程：\n  每周日回顾11个板块ETF\n  按相对强度排名（对比SPY和QQQ）\n  关注前3名，避开后3名\n  在领先板块中寻找有大基础的个股\n  等…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:58:11.580Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"很棒的策略，很优质的博主\n\n我认为每一个优秀的交易员都要学习这种相对强弱关系思维\n\n同理你可以用作在a股里\n\n以下是个人对内容的简要整理：\n\n1️⃣核心概念：\n板块轮动优先：不是先看个股形态，而是先看哪个板块在吸纳资金\n\n11个板块ETF：使用SPDR板块ETF作为工具\n\n相对强度排名：4周和12周的相对强度对比\n\nStage分析：寻找长期基础（Stage 1 bases）\n\n多时间框架分析：周线选股，日线入场\n\n风险收益比：5-10倍的风险收益比\n\n2️⃣操作流程：\n每周日回顾11个板块ETF\n按相对强度排名（对比SPY和QQQ）\n关注前3名，避开后3名\n在… / X\n\n- [![@TradercBTC](2023122081005932577/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t很棒的策略，很优质的博主 我认为每一个优秀的交易员都要学习这种相对强弱关系思维 同理你可以用作在a股里 以下是个人对内容的简要整理： 1️⃣核心概念： 板块轮动优先：不是先看个股形态，而是先看哪个板块在吸纳资金 11个板块ETF：使用SPDR板块ETF作为工具 相对强度排名：4周和12周的相对强度对比 Stage分析：寻找长期基础（Stage 1 bases） 多时间框架分析：周线选股，日线入场 风险收益比：5-10倍的风险收益比 2️⃣操作流程： 每周日回顾11个板块ETF 按相对强度排名（对比SPY和QQQ） 关注前3名，避开后3名 在领先板块中寻找有大基础的个股 等待日线图收紧后入场\n\t[3:47 · 2026年2月16日](https://x.com/TradercBTC/status/2023122081005932577) [15.3万Views](https://x.com/TradercBTC/status/2023122081005932577)\n\t[6](https://x.com/i/status/2023122081005932577)"
+}

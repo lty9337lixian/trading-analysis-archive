@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2080119602919637453 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2080119602919637453.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HN4RYa9bMAAo1jI.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2080119602919637453/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2080119602919637453/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HN4RYa9bMAAo1jI.jpg:large",
+        "localPath": "2080119602919637453/imgs/img-002-HN4RYa9bMAAo1jI-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2080119602919637453/imgs/img-002-HN4RYa9bMAAo1jI-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2080119602919637453/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2080119602919637453",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2080119602919637453",
+    "title": "trader-c on X: \"我就知道昨天没有阳k作为跟随，这就是下跌趋势中的\n\n昨天没有阳k作为跟随，这就是下跌趋势中的反弹，而不是得到支撑修复\n\n今天果然跌下来了\n\n纯纯套人进去，还好跑得快，今天要是反包不了，就正式形成M顶反转➕N字下跌结构了。。。。\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-07-23T02:35:34.000Z",
+    "summary": "我就知道昨天没有阳k作为跟随，这就是下跌趋势中的\n\n昨天没有阳k作为跟随，这就是下跌趋势中的反弹，而不是得到支撑修复\n\n今天果然跌下来了\n\n纯纯套人进去，还好跑得快，今天要是反包不了，就正式形成M顶反转➕N字下跌结构了。。。。",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HN4RYa9bMAAo1jI.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:03:36.125Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t我就知道昨天没有阳k作为跟随，这就是下跌趋势中的 昨天没有阳k作为跟随，这就是下跌趋势中的反弹，而不是得到支撑修复 今天果然跌下来了 纯纯套人进去，还好跑得快，今天要是反包不了，就正式形成M顶反转➕N字下跌结构了。。。。\n\t[10:35 · 2026年7月23日](https://x.com/TradercBTC/status/2080119602919637453) [2375Views](https://x.com/TradercBTC/status/2080119602919637453)\n\tOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2080119602919637453"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"我就知道昨天没有阳k作为跟随，这就是下跌趋势中的\n  \n  昨天没有阳k作为跟随，这就是下跌趋势中的反弹，而不是得到支撑修复\n  \n  今天果然跌下来了\n  \n  纯纯套人进去，还好跑得快，今天要是反包不了，就正式形成M顶反转➕N字下跌结构了。。。。\" / X\nurl: \"https://x.com/TradercBTC/status/2080119602919637453\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2080119602919637453\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2080119602919637453/imgs/img-002-HN4RYa9bMAAo1jI-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-07-23T02:35:34.000Z\"\nsummary: |-\n  我就知道昨天没有阳k作为跟随，这就是下跌趋势中的\n  \n  昨天没有阳k作为跟随，这就是下跌趋势中的反弹，而不是得到支撑修复\n  \n  今天果然跌下来了\n  \n  纯纯套人进去，还好跑得快，今天要是反包不了，就正式形成M顶反转➕N字下跌结构了。。。。\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:03:36.125Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"我就知道昨天没有阳k作为跟随，这就是下跌趋势中的\n\n昨天没有阳k作为跟随，这就是下跌趋势中的反弹，而不是得到支撑修复\n\n今天果然跌下来了\n\n纯纯套人进去，还好跑得快，今天要是反包不了，就正式形成M顶反转➕N字下跌结构了。。。。\" / X\n\n- [![@TradercBTC](2080119602919637453/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t我就知道昨天没有阳k作为跟随，这就是下跌趋势中的 昨天没有阳k作为跟随，这就是下跌趋势中的反弹，而不是得到支撑修复 今天果然跌下来了 纯纯套人进去，还好跑得快，今天要是反包不了，就正式形成M顶反转➕N字下跌结构了。。。。\n\t[10:35 · 2026年7月23日](https://x.com/TradercBTC/status/2080119602919637453) [2375Views](https://x.com/TradercBTC/status/2080119602919637453)\n\tOnly some accounts can reply."
+}

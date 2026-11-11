@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2053749745483694516 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2053749745483694516.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HIBiXmPbMAA5Kl8.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2053749745483694516/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2053749745483694516/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HIBiXmPbMAA5Kl8.jpg:large",
+        "localPath": "2053749745483694516/imgs/img-002-HIBiXmPbMAA5Kl8-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2053749745483694516/imgs/img-002-HIBiXmPbMAA5Kl8-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2053749745483694516/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2053749745483694516",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2053749745483694516",
+    "title": "trader-c on X: \"woc\n\n果然是tmd垃圾，第一波我还赚了，第二波做的突破，把第一波的当止损走了，还亏一点手续费\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-05-11T08:11:10.000Z",
+    "summary": "woc\n\n果然是tmd垃圾，第一波我还赚了，第二波做的突破，把第一波的当止损走了，还亏一点手续费",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HIBiXmPbMAA5Kl8.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:01:26.708Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\nwoc 果然是tmd垃圾，第一波我还赚了，第二波做的突破，把第一波的当止损走了，还亏一点手续费\n\n[16:11 · 2026年5月11日](https://x.com/TradercBTC/status/2053749745483694516) [2418Views](https://x.com/TradercBTC/status/2053749745483694516)\n\n[1](https://x.com/i/status/2053749745483694516)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2053749745483694516"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"woc\n  \n  果然是tmd垃圾，第一波我还赚了，第二波做的突破，把第一波的当止损走了，还亏一点手续费\" / X\nurl: \"https://x.com/TradercBTC/status/2053749745483694516\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2053749745483694516\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2053749745483694516/imgs/img-002-HIBiXmPbMAA5Kl8-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-05-11T08:11:10.000Z\"\nsummary: |-\n  woc\n  \n  果然是tmd垃圾，第一波我还赚了，第二波做的突破，把第一波的当止损走了，还亏一点手续费\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:01:26.708Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"woc\n\n果然是tmd垃圾，第一波我还赚了，第二波做的突破，把第一波的当止损走了，还亏一点手续费\" / X\n\n[![@TradercBTC](2053749745483694516/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\nwoc 果然是tmd垃圾，第一波我还赚了，第二波做的突破，把第一波的当止损走了，还亏一点手续费\n\n[16:11 · 2026年5月11日](https://x.com/TradercBTC/status/2053749745483694516) [2418Views](https://x.com/TradercBTC/status/2053749745483694516)\n\n[1](https://x.com/i/status/2053749745483694516)"
+}

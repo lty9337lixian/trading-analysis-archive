@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2091760369639535047 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2091760369639535047.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HQdsxFmbgAEv8_E.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2091760369639535047/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2091760369639535047/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HQdsxFmbgAEv8_E.jpg:large",
+        "localPath": "2091760369639535047/imgs/img-002-HQdsxFmbgAEv8_E-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2091760369639535047/imgs/img-002-HQdsxFmbgAEv8_E-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2091760369639535047/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2091760369639535047",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2091760369639535047",
+    "title": "trader-c on X: \"看了一下，很多的币种现在的情况都是在调整\n\n以ADA举例，短期面临着回调，但是在4小时级别上，它底下有一个明确的一个支撑位，大多数品种都是这样，短期它应该是要向下测试的，也就是它极有可能去向下产生一个跌破的事件\n\n然后呢，我们需要观察的就是，如果它发生了这个向下跌破的这个事件，发生了这个事件之后，市场的反应是怎么样的？\n\n因此我们的预期假设它走了绿色，向下跌破后，我们后续的反应是它无法收回支撑区间，市场趋势可能要反转。\n\n但如果它发生黑色跌破事件后很快收回来，我们认为动能仍然可以持续，因为原来的趋势经过测试，说明强度是在线的。\n\n当然最好的情况还是不要发生跌破… / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-24T05:31:49.000Z",
+    "summary": "看了一下，很多的币种现在的情况都是在调整\n\n以ADA举例，短期面临着回调，但是在4小时级别上，它底下有一个明确的一个支撑位，大多数品种都是这样，短期它应该是要向下测试的，也就是它极有可能去向下产生一个跌破的事件\n\n然后呢，我们需要观察的就是，如果它发生了这个向下跌破的这个事件，发生了这个事件之后，市场的反应是怎么样的？\n\n因此我们的预期假设它走了绿色，向下跌破后，我们后续的反应是它无法收回支撑区间，市场趋势可能要反转。\n\n但如果它发生黑色跌破事件后很快收回来，我们认为动能仍然可以持续，因为原来的趋势经过测试，说明强度是在线的。\n\n当然最好的情况还是不要发生跌破事件，继续往上，强度肯定最高，但…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HQdsxFmbgAEv8_E.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:06:15.266Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t看了一下，很多的币种现在的情况都是在调整 以ADA举例，短期面临着回调，但是在4小时级别上，它底下有一个明确的一个支撑位，大多数品种都是这样，短期它应该是要向下测试的，也就是它极有可能去向下产生一个跌破的事件 然后呢，我们需要观察的就是，如果它发生了这个向下跌破的这个事件，发生了这个事件之后，市场的反应是怎么样的？ 因此我们的预期假设它走了绿色，向下跌破后，我们后续的反应是它无法收回支撑区间，市场趋势可能要反转。 但如果它发生黑色跌破事件后很快收回来，我们认为动能仍然可以持续，因为原来的趋势经过测试，说明强度是在线的。 当然最好的情况还是不要发生跌破事件，继续往上，强度肯定最高，但是目前看来不一定 基于这个思路，我们在回调的时候，我们就不要轻易地去进入市场，然后为接下来的行情做准备。比如说挑选一些币种，制定一些计划。 不过这些计划可能是我们制定好之后，可能要一段时间之后，他才会到我们的位置，我们才会开始执行。这一段时间我们是保持着一个观察的状态。 当然除了自己目前手上持有的一些，保持移动止损的基础上，去观察。\n\t[13:31 · 2026年8月24日](https://x.com/TradercBTC/status/2091760369639535047) [6886Views](https://x.com/TradercBTC/status/2091760369639535047)\n\tOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2091760369639535047"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"看了一下，很多的币种现在的情况都是在调整\n  \n  以ADA举例，短期面临着回调，但是在4小时级别上，它底下有一个明确的一个支撑位，大多数品种都是这样，短期它应该是要向下测试的，也就是它极有可能去向下产生一个跌破的事件\n  \n  然后呢，我们需要观察的就是，如果它发生了这个向下跌破的这个事件，发生了这个事件之后，市场的反应是怎么样的？\n  \n  因此我们的预期假设它走了绿色，向下跌破后，我们后续的反应是它无法收回支撑区间，市场趋势可能要反转。\n  \n  但如果它发生黑色跌破事件后很快收回来，我们认为动能仍然可以持续，因为原来的趋势经过测试，说明强度是在线的。\n  \n  当然最好的情况还是不要发生跌破… / X\nurl: \"https://x.com/TradercBTC/status/2091760369639535047\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2091760369639535047\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2091760369639535047/imgs/img-002-HQdsxFmbgAEv8_E-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-24T05:31:49.000Z\"\nsummary: |-\n  看了一下，很多的币种现在的情况都是在调整\n  \n  以ADA举例，短期面临着回调，但是在4小时级别上，它底下有一个明确的一个支撑位，大多数品种都是这样，短期它应该是要向下测试的，也就是它极有可能去向下产生一个跌破的事件\n  \n  然后呢，我们需要观察的就是，如果它发生了这个向下跌破的这个事件，发生了这个事件之后，市场的反应是怎么样的？\n  \n  因此我们的预期假设它走了绿色，向下跌破后，我们后续的反应是它无法收回支撑区间，市场趋势可能要反转。\n  \n  但如果它发生黑色跌破事件后很快收回来，我们认为动能仍然可以持续，因为原来的趋势经过测试，说明强度是在线的。\n  \n  当然最好的情况还是不要发生跌破事件，继续往上，强度肯定最高，但…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:06:15.266Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"看了一下，很多的币种现在的情况都是在调整\n\n以ADA举例，短期面临着回调，但是在4小时级别上，它底下有一个明确的一个支撑位，大多数品种都是这样，短期它应该是要向下测试的，也就是它极有可能去向下产生一个跌破的事件\n\n然后呢，我们需要观察的就是，如果它发生了这个向下跌破的这个事件，发生了这个事件之后，市场的反应是怎么样的？\n\n因此我们的预期假设它走了绿色，向下跌破后，我们后续的反应是它无法收回支撑区间，市场趋势可能要反转。\n\n但如果它发生黑色跌破事件后很快收回来，我们认为动能仍然可以持续，因为原来的趋势经过测试，说明强度是在线的。\n\n当然最好的情况还是不要发生跌破… / X\n\n- [![@TradercBTC](2091760369639535047/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t看了一下，很多的币种现在的情况都是在调整 以ADA举例，短期面临着回调，但是在4小时级别上，它底下有一个明确的一个支撑位，大多数品种都是这样，短期它应该是要向下测试的，也就是它极有可能去向下产生一个跌破的事件 然后呢，我们需要观察的就是，如果它发生了这个向下跌破的这个事件，发生了这个事件之后，市场的反应是怎么样的？ 因此我们的预期假设它走了绿色，向下跌破后，我们后续的反应是它无法收回支撑区间，市场趋势可能要反转。 但如果它发生黑色跌破事件后很快收回来，我们认为动能仍然可以持续，因为原来的趋势经过测试，说明强度是在线的。 当然最好的情况还是不要发生跌破事件，继续往上，强度肯定最高，但是目前看来不一定 基于这个思路，我们在回调的时候，我们就不要轻易地去进入市场，然后为接下来的行情做准备。比如说挑选一些币种，制定一些计划。 不过这些计划可能是我们制定好之后，可能要一段时间之后，他才会到我们的位置，我们才会开始执行。这一段时间我们是保持着一个观察的状态。 当然除了自己目前手上持有的一些，保持移动止损的基础上，去观察。\n\t[13:31 · 2026年8月24日](https://x.com/TradercBTC/status/2091760369639535047) [6886Views](https://x.com/TradercBTC/status/2091760369639535047)\n\tOnly some accounts can reply."
+}

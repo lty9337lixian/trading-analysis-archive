@@ -1,0 +1,57 @@
+{
+  "date": "2026-09-05",
+  "initial": [
+    [
+      "01",
+      "价格行为学先导篇",
+      "Edit only the top-left trend diagram annotations and lower-left formula caption, preserve other design. The rising trend should clearly mark two successive PEAKS as 高点1 and 更高高点, and two successive TROUGHS as 低点1 and 更高低点; leader lines must touch exactly the corresponding peak/trough. Remove existing ambiguous labels 高高点 高低点 更高低点 and existing misplaced dashed guides. Four new short labels only, no crowding. In formula panel add small clear note: 亏损取正值；成本勿重复扣除. Keep formula and all other artwork identical."
+    ],
+    [
+      "02",
+      "通道篇",
+      "Correct three specific errors, retain style and other content. Top-right fourth column 计划 currently depicts an ASCENDING channel but lesson is rebound within DESCENDING channel: redraw parallel descending boundaries with a rebound from lower boundary to upper, label 局部反弹目标. Third column replace 顺势跟随多头 with 观察局部多头跟随, because countertrend rebound is not aligned with larger downtrend. Lower-left paragraph replace with: 若跌破本次反弹所依赖的防守低点，多单假设失效。按预设规则退出，不据此断言后续方向。 Label red dotted horizontal line 本次防守低点. Remove assertion probability increases. Preserve all other elements."
+    ],
+    [
+      "04",
+      "突破单和移动止损篇",
+      "Correct ONLY top-right trailing-stop chart. Gold staircase currently increments between structural confirmations without basis. Redraw so there is an initial flat protective stop then exactly FOUR upward vertical adjustments, each occurring only slightly to the RIGHT of each circled swing low after visible upward price rebound confirms that low. Each new flat gold segment lies below the associated confirmed swing low; no extra steps between confirmations. Add short note 等低点确认后再上移. Replace 不把止损放在价格上方 with 多单卖出止损位于现价下方 to clarify scope. Replace 趋势向上，止损也向上 with 新低点确认后，止损只上移不下调. Keep other panels unchanged."
+    ],
+    [
+      "05",
+      "支撑和阻力篇",
+      "Correct two graph/label contradictions. MAIN chart: former green support band and later pink resistance band MUST have exactly same upper and lower y coordinates, continuous role-reversal zone; raise retest candle high to enter underside of that same pink band before rejecting down. Bottom-middle card currently shows lower rally highs testing RESISTANCE but text says repeated support bounces: redraw as repeated tests of a FLAT GREEN SUPPORT BAND at bottom, four roughly equal troughs touch band, rebound peaks progressively LOWER left to right. Label four rebounds 反弹较强 / 反弹减弱 / 反弹更弱 / 反弹很小. Caption exact: 反复测试且反弹减弱，需警惕支撑失效；并非必然跌破。 All arrows correspond to trough and rebound sequence, no upper red resistance band in this card. Keep remaining layout and text unchanged."
+    ],
+    [
+      "06",
+      "MM篇",
+      "Correct geometric accuracy of BOTH large charts, preserve all words/formulas/examples. LEFT price scale must be LINEAR: put A100 at y550, C106 at y442, B110 at y370, T116 at y262 (local approximate y in image); thus vertical A→B equals vertical C→T, both 10 units. Label all guides and points precisely. RIGHT scale linear too: 100 at y550,110 at y410,120 at y270, equal 10-unit height increments. Draw an additional double-headed H=10 dimension arrow from upper boundary110 to target120, not just inside the box. Blue explanatory arrow 从上边界110向上量H must point exactly to the 110 boundary projection anchor, NOT a candle above boundary. No other diagram changes, do not add prices. Keep 数值仅为画法示例."
+    ],
+    [
+      "07",
+      "反转篇",
+      "Correct lower-left 横盘 outcome miniature: it currently ends in a downward arrow outside the dashed range which contradicts sideways. Replace ONLY that miniature ending with oscillations remaining INSIDE the range and a small horizontal rightward arrow inside it. Main lower-middle cartoon monitor: diagonal red downward arrow currently points into steaming cup; shorten arrow to remain fully inside monitor. All other chart structures and labels remain unchanged. Ensure both neckline labels read exactly 颈线 (not 颁线)."
+    ],
+    [
+      "08",
+      "缺口篇",
+      "Correct contradictions while preserving layout. Top-right panel titled 反复回补：观察震荡 must end with continued zigzag INSIDE its horizontal range, ending horizontal right arrow, NOT a downward breakout outside. Bottom-left bull and bear have swapped directional dialogue: BULL left bubble exact 这里可能回升，多头能否收回区域？ BEAR right bubble exact 回抽尚未收回，空头能否继续推进？ Keep header 谁的推进更能维持，谁更占优 and 被套是解释模型，不是仓位事实. Bottom-right 反击 diagram currently briefly crosses shaded zone but says cannot reclaim; redraw rally peak BELOW zone underside with gap, then downward rejection, no crossing. Other words and images unchanged."
+    ]
+  ],
+  "additional": {
+    "stop": "Correct ONLY upper-right trailing stop chart, preserve all other content. Its gold stop steps currently jump exactly at swing LOW time, implying hindsight. Shift each gold vertical riser 25 pixels RIGHT of its corresponding circled low. Keep gold stop price levels same. Dashed connector from each price low should go diagonally down-right to shifted gold riser, showing relationship without implying simultaneous adjustment. Four gold rises occur only after price visibly rebounds and confirms each low. Keep stop line below price throughout. Preserve all Chinese text.",
+    "mm_attempt": "Edit only the two upper charts. They contain incorrect numeric spacing. Redraw their geometry rigorously: left chart use a linear vertical price scale with A=100 at y=570, C=106 at y=462, B=110 at y=390, T=116 at y=282. Horizontal dashed lines and every corresponding marker must be on those exact levels. Thus AB vertical rise and CT vertical rise both exactly180px. B to C is72px down. Keep labels readable, remove conflicting old lines. Right chart: lower100 y=570, upper110 y=425, target120 y=280. Two H=10 vertical dimension arrows MUST have identical145px length. The callout '从上边界110向上量H' must point exactly to the horizontal110 boundary (y425), NOT to a candle above it. Preserve all remaining typography, content, style, panels. Geometry accuracy is critical.",
+    "mm_final": "Replace BOTH upper plotting panels entirely with clean mathematical educational diagrams that cannot be mistaken for scaled price charts. Keep title, entire bottom half and style. Left panel title '1 推动段等距', formula 'T = C + (B − A)'. Under it draw TWO IDENTICAL vertical ruler bars side by side, exactly equal height: first labelled '原推动段 B−A', second labelled '从C投射同等距离'. No price chart, no candles, no axes, no numeric tick labels. Under the bars add a clearly typeset example card: '示例：A=100，B=110，C=106' and '推动距离=10，目标T=116'. Right panel title '2 箱体向上突破', formula '目标 = 上边界 + H'. Diagram use THREE equally spaced horizontal lines, lower labelled '下边界', middle '上边界', upper '参考目标'; shade rectangle between lower and middle. Place two equal-length double-headed arrows between adjacent lines, BOTH labelled 'H'. No candles, no other arrow or callout. Example card below: '示例：下边界100，上边界110' and 'H=10，参考目标=120'. Remove ALL old chart numbers and pixel-coordinate labels. All Chinese exact, clean and readable. This replacement must be simple and mathematically accurate; don't preserve any old geometry."
+  },
+  "final_images": [
+    {
+      "id": "04",
+      "name": "突破单和移动止损篇",
+      "src": "/Users/lu/.codex/generated_images/01a0714c-0db6-7233-a530-a5be2b0fc0ff/exec-5f7e44bd-a3a4-439e-b651-342d99d6914e.png"
+    },
+    {
+      "id": "06",
+      "name": "MM篇",
+      "src": "/Users/lu/.codex/generated_images/01a0714c-0db6-7233-a530-a5be2b0fc0ff/exec-8c94b22a-a4e2-40ec-ba68-01b13288ccf3.png"
+    }
+  ]
+}

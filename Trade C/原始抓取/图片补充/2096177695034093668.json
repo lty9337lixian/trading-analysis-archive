@@ -1,0 +1,172 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 13,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-09-05T10:04:42.000Z",
+  "display_text_range": [
+    0,
+    112
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/BLYHJ7zP7H",
+        "expanded_url": "https://x.com/TradercBTC/status/2096177695034093668/photo/1",
+        "indices": [
+          113,
+          136
+        ],
+        "url": "https://t.co/BLYHJ7zP7H"
+      }
+    ]
+  },
+  "id_str": "2096177695034093668",
+  "text": "复盘$BTC \n\n上周有两笔非常好的机会\n\n实际上我们当时建仓也是非常好的机会。\n\n但是我完美踏空\n\n第一个问题在于：没有接受不确定性，这是核心，我在早晨没有清晰的时候看了盘，恐惧损失，提前走掉，这是没有执行自己的交易计划。 https://t.co/BLYHJ7zP7H",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2096177695034093668"
+    ],
+    "editable_until_msecs": "1788606282000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/BLYHJ7zP7H",
+      "expanded_url": "https://x.com/TradercBTC/status/2096177695034093668/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        113,
+        136
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HRccgY1agAA6mG5.png",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1396,
+            "w": 2493,
+            "x": 213,
+            "y": 0
+          },
+          {
+            "h": 1396,
+            "w": 1396,
+            "x": 1310,
+            "y": 0
+          },
+          {
+            "h": 1396,
+            "w": 1225,
+            "x": 1481,
+            "y": 0
+          },
+          {
+            "h": 1396,
+            "w": 698,
+            "x": 2008,
+            "y": 0
+          },
+          {
+            "h": 1396,
+            "w": 2706,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1396,
+        "width": 2706
+      },
+      "sizes": {
+        "large": {
+          "h": 1057,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 619,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 351,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/BLYHJ7zP7H"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1396,
+          "w": 2493,
+          "x": 213,
+          "y": 0
+        },
+        {
+          "h": 1396,
+          "w": 1396,
+          "x": 1310,
+          "y": 0
+        },
+        {
+          "h": 1396,
+          "w": 1225,
+          "x": 1481,
+          "y": 0
+        },
+        {
+          "h": 1396,
+          "w": 698,
+          "x": 2008,
+          "y": 0
+        },
+        {
+          "h": 1396,
+          "w": 2706,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2096177695034093668/photo/1",
+      "url": "https://pbs.twimg.com/media/HRccgY1agAA6mG5.png",
+      "width": 2706,
+      "height": 1396
+    }
+  ],
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDk2MTc3Njk0OTc5NTUxMjMy"
+  }
+}

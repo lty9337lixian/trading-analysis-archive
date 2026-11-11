@@ -1,0 +1,62 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 69,
+  "lang": "zxx",
+  "possibly_sensitive": false,
+  "created_at": "2026-04-12T08:41:46.000Z",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2043…",
+        "expanded_url": "http://x.com/i/article/2043245883366760448",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/IT7PesWVYD"
+      }
+    ]
+  },
+  "id_str": "2043248195095183362",
+  "text": "https://t.co/IT7PesWVYD",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2043248195095183362"
+    ],
+    "editable_until_msecs": "1775986906000",
+    "edits_remaining": "5",
+    "is_edit_eligible": false
+  },
+  "conversation_count": 10,
+  "news_action_type": "conversation",
+  "article": {
+    "cover_media": {
+      "id": "QXBpTWVkaWE6DAAFCgABHFsR1BIb0AAKAAIaqP8AOBtwBgAA",
+      "media_info": {
+        "__typename": "ApiImage",
+        "original_img_height": 656,
+        "original_img_url": "https://pbs.twimg.com/media/HFsR1BIb0AACz4M.jpg",
+        "original_img_width": 1640
+      }
+    },
+    "id": "QXJ0aWNsZUVudGl0eToyMDQzMjQ1ODgzMzY2NzYwNDQ4",
+    "preview_text": "你能说出什么，决定了你能看见什么。你能看见什么，决定了你能做到什么。\n大多数人以为交易靠的是盘感、信息、胆量。这是底下真正的结构。\n庖丁解牛\n庄子讲了一个故事。两千三百年了，没有人讲得更精确。",
+    "rest_id": "2043245883366760448",
+    "title": "说不出口，就无法交易"
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

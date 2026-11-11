@@ -1,0 +1,337 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 2,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-08-18T21:00:57.000Z",
+  "display_text_range": [
+    0,
+    73
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/G0r10C5BVX",
+        "expanded_url": "https://x.com/TradercBTC/status/2089819864898924694/photo/1",
+        "indices": [
+          73,
+          96
+        ],
+        "url": "https://t.co/G0r10C5BVX"
+      }
+    ]
+  },
+  "id_str": "2089819864898924694",
+  "text": "心碎💔\n\n今天黄金完整的操作\n\n第二部分差3个点就进了，血亏40点，结构底下支撑的多单进去还亏15个\n\n最后的空单把多单的止损打回来了。。。。。 https://t.co/G0r10C5BVX",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2089819864898924694"
+    ],
+    "editable_until_msecs": "1787090457000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/G0r10C5BVX",
+      "expanded_url": "https://x.com/TradercBTC/status/2089819864898924694/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        73,
+        96
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HQCHxgcaoAAiVhD.png",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 785,
+            "w": 1402,
+            "x": 0,
+            "y": 133
+          },
+          {
+            "h": 1242,
+            "w": 1242,
+            "x": 115,
+            "y": 0
+          },
+          {
+            "h": 1242,
+            "w": 1089,
+            "x": 192,
+            "y": 0
+          },
+          {
+            "h": 1242,
+            "w": 621,
+            "x": 426,
+            "y": 0
+          },
+          {
+            "h": 1242,
+            "w": 1402,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1242,
+        "width": 1402
+      },
+      "sizes": {
+        "large": {
+          "h": 1242,
+          "resize": "fit",
+          "w": 1402
+        },
+        "medium": {
+          "h": 1063,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 602,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/G0r10C5BVX"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 785,
+          "w": 1402,
+          "x": 0,
+          "y": 133
+        },
+        {
+          "h": 1242,
+          "w": 1242,
+          "x": 115,
+          "y": 0
+        },
+        {
+          "h": 1242,
+          "w": 1089,
+          "x": 192,
+          "y": 0
+        },
+        {
+          "h": 1242,
+          "w": 621,
+          "x": 426,
+          "y": 0
+        },
+        {
+          "h": 1242,
+          "w": 1402,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2089819864898924694/photo/1",
+      "url": "https://pbs.twimg.com/media/HQCHxgcaoAAiVhD.png",
+      "width": 1402,
+      "height": 1242
+    }
+  ],
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "conversation_control": {
+      "policy": "Verified"
+    },
+    "favorite_count": 3,
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "created_at": "2026-08-18T15:02:37.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "entities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/XStn8Scl97",
+          "expanded_url": "https://x.com/TradercBTC/status/2089729687685882123/photo/1",
+          "indices": [
+            37,
+            60
+          ],
+          "url": "https://t.co/XStn8Scl97"
+        }
+      ]
+    },
+    "id_str": "2089729687685882123",
+    "text": "心碎了\n\n挂的4065的黄金空，插针差了3个点\n\n不然这会40个点盈利了 https://t.co/XStn8Scl97",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2089729687685882123"
+      ],
+      "editable_until_msecs": "1787068957000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "mediaDetails": [
+      {
+        "display_url": "pic.x.com/XStn8Scl97",
+        "expanded_url": "https://x.com/TradercBTC/status/2089729687685882123/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "indices": [
+          37,
+          60
+        ],
+        "media_url_https": "https://pbs.twimg.com/media/HQA19SxaYAAAHu-.png",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 588,
+              "w": 1050,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 588,
+              "w": 588,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 588,
+              "w": 516,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 588,
+              "w": 294,
+              "x": 31,
+              "y": 0
+            },
+            {
+              "h": 588,
+              "w": 1424,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 588,
+          "width": 1424
+        },
+        "sizes": {
+          "large": {
+            "h": 588,
+            "resize": "fit",
+            "w": 1424
+          },
+          "medium": {
+            "h": 496,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 281,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/XStn8Scl97"
+      }
+    ],
+    "photos": [
+      {
+        "backgroundColor": {
+          "red": 204,
+          "green": 214,
+          "blue": 221
+        },
+        "cropCandidates": [
+          {
+            "h": 588,
+            "w": 1050,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 588,
+            "w": 588,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 588,
+            "w": 516,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 588,
+            "w": 294,
+            "x": 31,
+            "y": 0
+          },
+          {
+            "h": 588,
+            "w": 1424,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "expandedUrl": "https://x.com/TradercBTC/status/2089729687685882123/photo/1",
+        "url": "https://pbs.twimg.com/media/HQA19SxaYAAAHu-.png",
+        "width": 1424,
+        "height": 588
+      }
+    ],
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

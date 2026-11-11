@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HRNPGwkaEAAaYN0.png:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2095105306040897680/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2095105306040897680/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HRNPGwkaEAAaYN0.png:large",
+        "localPath": "2095105306040897680/imgs/img-002-HRNPGwkaEAAaYN0-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2095105306040897680/imgs/img-002-HRNPGwkaEAAaYN0-png-large.png",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2095105306040897680/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2095105306040897680",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2095105306040897680",
+    "title": "trader-c on X: \"BTC的结构非常清晰\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-09-02T11:03:24.000Z",
+    "summary": "BTC的结构非常清晰",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HRNPGwkaEAAaYN0.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:06:49.090Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[9月1日](https://x.com/TradercBTC/status/2094910742348873822)\n\n我服了，这傻逼BTC，本来79100开的非常完美 结果拉回去我给跑了，甚至都没出发止损 哎被自己傻逼刀了 SOL今天睡觉前想着跌破了指标的阻力，要不要进去做个空 最后看BTC走的一般犹豫了，哎在黄金上我肯定果断就空了 BTC止损也亏不了几个钱，SOL也是 咋就没做呢。。。。哎傻逼了"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2095105306040897680"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"BTC的结构非常清晰\\\" / X\"\nurl: \"https://x.com/TradercBTC/status/2095105306040897680\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2095105306040897680\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2095105306040897680/imgs/img-002-HRNPGwkaEAAaYN0-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-09-02T11:03:24.000Z\"\nsummary: \"BTC的结构非常清晰\"\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:06:49.090Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"BTC的结构非常清晰\" / X\n\n[![@TradercBTC](2095105306040897680/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[9月1日](https://x.com/TradercBTC/status/2094910742348873822)\n\n我服了，这傻逼BTC，本来79100开的非常完美 结果拉回去我给跑了，甚至都没出发止损 哎被自己傻逼刀了 SOL今天睡觉前想着跌破了指标的阻力，要不要进去做个空 最后看BTC走的一般犹豫了，哎在黄金上我肯定果断就空了 BTC止损也亏不了几个钱，SOL也是 咋就没做呢。。。。哎傻逼了"
+}

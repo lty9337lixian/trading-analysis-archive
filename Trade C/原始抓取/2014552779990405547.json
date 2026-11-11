@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/G_UgyZFbAAAiUoi.png:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2014552779990405547/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2014552779990405547/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/G_UgyZFbAAAiUoi.png:large",
+        "localPath": "2014552779990405547/imgs/img-002-G_UgyZFbAAAiUoi-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2014552779990405547/imgs/img-002-G_UgyZFbAAAiUoi-png-large.png",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2014552779990405547/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2014552779990405547",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2014552779990405547",
+    "title": "trader-c on X: \"$BTC 15min二推没有创造新高，反正不是很妙\n\n这个走势只能打5分，止损一移动在二推的地步了\n\n三推要是不来大阳线突破，就离场了\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-01-23T04:16:25.000Z",
+    "summary": "$BTC 15min二推没有创造新高，反正不是很妙\n\n这个走势只能打5分，止损一移动在二推的地步了\n\n三推要是不来大阳线突破，就离场了",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/G_UgyZFbAAAiUoi.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:54:51.990Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[$BTC](https://x.com/search?q=$BTC) 15min二推没有创造新高，反正不是很妙 这个走势只能打5分，止损一移动在二推的地步了 三推要是不来大阳线突破，就离场了\n\n[$LINK](https://x.com/search?q=$LINK) 15min出现结构破坏，希望来一个真突破，至少上去让我移动一下止损线 [$BTC](https://x.com/search?q=$BTC) 回补了FVG，但我还是比较悲观的，目前先以震荡区间对待吧，区间底部到区间顶部，然后再看突破力度\n\n[12:16 · 2026年1月23日](https://x.com/TradercBTC/status/2014552779990405547) [1379Views](https://x.com/TradercBTC/status/2014552779990405547)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2014552779990405547"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"$BTC 15min二推没有创造新高，反正不是很妙\n  \n  这个走势只能打5分，止损一移动在二推的地步了\n  \n  三推要是不来大阳线突破，就离场了\" / X\nurl: \"https://x.com/TradercBTC/status/2014552779990405547\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2014552779990405547\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2014552779990405547/imgs/img-002-G_UgyZFbAAAiUoi-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-01-23T04:16:25.000Z\"\nsummary: |-\n  $BTC 15min二推没有创造新高，反正不是很妙\n  \n  这个走势只能打5分，止损一移动在二推的地步了\n  \n  三推要是不来大阳线突破，就离场了\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:54:51.990Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"$BTC 15min二推没有创造新高，反正不是很妙\n\n这个走势只能打5分，止损一移动在二推的地步了\n\n三推要是不来大阳线突破，就离场了\" / X\n\n[![@TradercBTC](2014552779990405547/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[$BTC](https://x.com/search?q=$BTC) 15min二推没有创造新高，反正不是很妙 这个走势只能打5分，止损一移动在二推的地步了 三推要是不来大阳线突破，就离场了\n\n[$LINK](https://x.com/search?q=$LINK) 15min出现结构破坏，希望来一个真突破，至少上去让我移动一下止损线 [$BTC](https://x.com/search?q=$BTC) 回补了FVG，但我还是比较悲观的，目前先以震荡区间对待吧，区间底部到区间顶部，然后再看突破力度\n\n[12:16 · 2026年1月23日](https://x.com/TradercBTC/status/2014552779990405547) [1379Views](https://x.com/TradercBTC/status/2014552779990405547)"
+}

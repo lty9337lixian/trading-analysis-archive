@@ -1,0 +1,210 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 29,
+  "lang": "zh",
+  "created_at": "2026-02-15T19:57:30.000Z",
+  "display_text_range": [
+    0,
+    135
+  ],
+  "entities": {},
+  "id_str": "2023124529716109450",
+  "text": "衍生一下\n\n你应该对你的交易系统里每个概念都进行精准的定义\n\n如果你不清楚“支撑”的定义\n\n如果你不清楚“止跌”的定义\n\n如果你不清楚“反转”的定义\n\n如果你不清楚“周期”的定义\n\n如果你不清楚“结构”的定义\n\n如果你不清楚“管理订单”的定义\n\n你怎么可能会做好交易呢？",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "initial_tweet_id": "2023124408941031746",
+    "edit_tweet_ids": [
+      "2023124408941031746",
+      "2023124529716109450"
+    ],
+    "editable_until_msecs": "1771189021000",
+    "edits_remaining": "4",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 1,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "favorite_count": 10,
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "created_at": "2026-02-15T14:20:48.000Z",
+    "display_text_range": [
+      0,
+      115
+    ],
+    "entities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/s5csi7tmPn",
+          "expanded_url": "https://x.com/TradercBTC/status/2023039798081171711/photo/1",
+          "indices": [
+            116,
+            139
+          ],
+          "url": "https://t.co/s5csi7tmPn"
+        }
+      ]
+    },
+    "id_str": "2023039798081171711",
+    "text": "看到这句话，忽然想到栋哥的一些内容\n\n栋哥在不断实践的过程中，对很多传统意义上的名词进行了现代化结构\n\n或者不应该这么说，是对一些我们习以为常的，但是范围很模糊的词进行了精准的定义\n\n然后发现很多名词，以前和现在的意思是发生了改变 https://t.co/s5csi7tmPn",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2023039798081171711"
+      ],
+      "editable_until_msecs": "1771168848000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "mediaDetails": [
+      {
+        "display_url": "pic.x.com/s5csi7tmPn",
+        "expanded_url": "https://x.com/TradercBTC/status/2023039798081171711/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "indices": [
+          116,
+          139
+        ],
+        "media_url_https": "https://pbs.twimg.com/media/HBNFJJqakAAv6UU.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 706,
+              "w": 1260,
+              "x": 0,
+              "y": 55
+            },
+            {
+              "h": 916,
+              "w": 916,
+              "x": 13,
+              "y": 0
+            },
+            {
+              "h": 916,
+              "w": 804,
+              "x": 69,
+              "y": 0
+            },
+            {
+              "h": 916,
+              "w": 458,
+              "x": 242,
+              "y": 0
+            },
+            {
+              "h": 916,
+              "w": 1260,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 916,
+          "width": 1260
+        },
+        "sizes": {
+          "large": {
+            "h": 916,
+            "resize": "fit",
+            "w": 1260
+          },
+          "medium": {
+            "h": 872,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 494,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/s5csi7tmPn"
+      }
+    ],
+    "photos": [
+      {
+        "backgroundColor": {
+          "red": 204,
+          "green": 214,
+          "blue": 221
+        },
+        "cropCandidates": [
+          {
+            "h": 706,
+            "w": 1260,
+            "x": 0,
+            "y": 55
+          },
+          {
+            "h": 916,
+            "w": 916,
+            "x": 13,
+            "y": 0
+          },
+          {
+            "h": 916,
+            "w": 804,
+            "x": 69,
+            "y": 0
+          },
+          {
+            "h": 916,
+            "w": 458,
+            "x": 242,
+            "y": 0
+          },
+          {
+            "h": 916,
+            "w": 1260,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "expandedUrl": "https://x.com/TradercBTC/status/2023039798081171711/photo/1",
+        "url": "https://pbs.twimg.com/media/HBNFJJqakAAv6UU.jpg",
+        "width": 1260,
+        "height": 916
+      }
+    ],
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": true,
+  "isStaleEdit": false,
+  "previous_counts": {
+    "favorite_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+  },
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDIzMTI0NTI5NjY1NzQ4OTky"
+  }
+}

@@ -1,0 +1,63 @@
+[info] Loading https://x.com/TradercBTC/status/2027225076945621378 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2027225076945621378.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2027225076945621378/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2027225076945621378/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "localPath": "2027225076945621378/imgs/img-002-image.png",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2027225076945621378/imgs/img-002-image.png",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2027225076945621378/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2027225076945621378",
+    "canonicalUrl": "https://x.com/i/status/2027225076945621378",
+    "title": "X on X / X",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-27T03:31:37.021Z",
+    "summary": "X on X",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:58:59.619Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n在 [$BTC](https://x.com/search?q=$BTC) 的周线划分了一个下降通道 下降通道50%中间那是一个强弱分界线 它提醒我，如果你想要做多，起码等到周线回归到上半部分 如果价格一直维持在下跌通道的下沿，说明多头的买盘没有能力把控战场。\n\n[11:31 · 2026年2月27日](https://x.com/TradercBTC/status/2027225076945621378) [1.3万Views](https://x.com/TradercBTC/status/2027225076945621378)\n\n[3](https://x.com/i/status/2027225076945621378)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2027225076945621378"
+  },
+  "markdown": "---\ntitle: \"X on X / X\"\nurl: \"https://x.com/i/status/2027225076945621378\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2027225076945621378\"\ncoverImage: \"2027225076945621378/imgs/img-002-image.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-27T03:31:37.021Z\"\nsummary: \"X on X\"\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:58:59.619Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# X on X / X\n\n[![@TradercBTC](2027225076945621378/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n在 [$BTC](https://x.com/search?q=$BTC) 的周线划分了一个下降通道 下降通道50%中间那是一个强弱分界线 它提醒我，如果你想要做多，起码等到周线回归到上半部分 如果价格一直维持在下跌通道的下沿，说明多头的买盘没有能力把控战场。\n\n[11:31 · 2026年2月27日](https://x.com/TradercBTC/status/2027225076945621378) [1.3万Views](https://x.com/TradercBTC/status/2027225076945621378)\n\n[3](https://x.com/i/status/2027225076945621378)"
+}

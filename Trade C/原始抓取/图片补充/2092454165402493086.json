@@ -1,0 +1,65 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 14,
+  "lang": "zxx",
+  "possibly_sensitive": false,
+  "created_at": "2026-08-26T03:28:43.000Z",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2092…",
+        "expanded_url": "https://x.com/i/article/2092433543280705536",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/md3fTAbFZ6"
+      }
+    ]
+  },
+  "id_str": "2092454165402493086",
+  "text": "https://t.co/md3fTAbFZ6",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2092454165402493086"
+    ],
+    "editable_until_msecs": "1787718523000",
+    "edits_remaining": "5",
+    "is_edit_eligible": false
+  },
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "article": {
+    "cover_media": {
+      "id": "QXBpTWVkaWE6DAAFCgABHQnm+8maQAAKAAIaqP8AOBtwBgAA",
+      "media_info": {
+        "__typename": "ApiImage",
+        "original_img_height": 1069,
+        "original_img_url": "https://pbs.twimg.com/media/HQnm-8maQAAeeFg.jpg",
+        "original_img_width": 2672
+      }
+    },
+    "id": "QXJ0aWNsZUVudGl0eToyMDkyNDMzNTQzMjgwNzA1NTM2",
+    "preview_text": "原本预期能撸十套宝格丽，结果行情币预期的短了一些，一个插针把梦干碎了，有一些没有反应过来，顺便测试bo的暴击浪费了一些精力",
+    "rest_id": "2092433543280705536",
+    "title": "复盘普涨山寨（上）"
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

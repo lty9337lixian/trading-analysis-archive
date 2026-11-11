@@ -1,0 +1,166 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 72,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-04-25T04:42:55.000Z",
+  "display_text_range": [
+    0,
+    112
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/mk9het6VFV",
+        "expanded_url": "https://x.com/TradercBTC/status/2047899128664080689/photo/1",
+        "indices": [
+          113,
+          136
+        ],
+        "url": "https://t.co/mk9het6VFV"
+      }
+    ]
+  },
+  "id_str": "2047899128664080689",
+  "text": "真的不觉得会这一种模式就足够了吗？\n\n不管你用什么理论，研究透这个模式的原理就足够了吧\n\n动能减弱，反转结构突破，后续不管是震荡还是反转，起码有一波\n\n一个三推反转➕MSS\n\n大部分都是右下角的变式\n\n比如昨天的GC。。。。 https://t.co/mk9het6VFV",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2047899128664080689"
+    ],
+    "editable_until_msecs": "1777095775000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/mk9het6VFV",
+      "expanded_url": "https://x.com/TradercBTC/status/2047899128664080689/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        113,
+        136
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HGuYdQmaUAEWQtd.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1414,
+            "w": 2525,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1414,
+            "w": 1414,
+            "x": 303,
+            "y": 0
+          },
+          {
+            "h": 1414,
+            "w": 1240,
+            "x": 390,
+            "y": 0
+          },
+          {
+            "h": 1414,
+            "w": 707,
+            "x": 657,
+            "y": 0
+          },
+          {
+            "h": 1414,
+            "w": 2698,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1414,
+        "width": 2698
+      },
+      "sizes": {
+        "large": {
+          "h": 1073,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 629,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 356,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/mk9het6VFV"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1414,
+          "w": 2525,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1414,
+          "w": 1414,
+          "x": 303,
+          "y": 0
+        },
+        {
+          "h": 1414,
+          "w": 1240,
+          "x": 390,
+          "y": 0
+        },
+        {
+          "h": 1414,
+          "w": 707,
+          "x": 657,
+          "y": 0
+        },
+        {
+          "h": 1414,
+          "w": 2698,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2047899128664080689/photo/1",
+      "url": "https://pbs.twimg.com/media/HGuYdQmaUAEWQtd.jpg",
+      "width": 2698,
+      "height": 1414
+    }
+  ],
+  "conversation_count": 3,
+  "news_action_type": "conversation",
+  "isEdited": false,
+  "isStaleEdit": false
+}

@@ -1,0 +1,73 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HQNM5ULaoAAsL5_.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HQNKif8bEAA1Adk?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/HQNM5ULaoAAsL5_.jpg:large",
+        "localPath": "2090599338737279300/imgs/img-001-HQNM5ULaoAAsL5_-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2090599338737279300/imgs/img-001-HQNM5ULaoAAsL5_-jpg-large.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2090599338737279300/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2090599338737279300/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HQNKif8bEAA1Adk?format=webp&name=medium",
+        "localPath": "2090599338737279300/imgs/img-003-HQNKif8bEAA1Adk.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2090599338737279300/imgs/img-003-HQNKif8bEAA1Adk.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 3,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2090599338737279300/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2090599338737279300",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2090599338737279300",
+    "title": "trader-c on X: \"$FARTCOIN:15m发生再推动失败，没有创造新高，进入回调推修正，我们期待看到的是一个健康回调的修正 如果市场发生跌破支撑，但是市场拒绝下方的价格拉回，这是一个入场的好机会，就和昨天的日内黄金一样，发生跌破支撑位，市场拒绝，拉回支撑位的完整价格行为表现 更为强势的表现是在支撑位就收到支撑，价格保持在回调箱体的上方，逐渐抬高底部，收敛突破，就和之前推文里，推友发布的书中案例和BTC一样 证伪条件是跌破支撑位且无法收回，那就是一个不健康的回调，可能发生下跌，修正，下跌再推动，形成反转结构\"",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-21T00:38:18.000Z",
+    "summary": "$FARTCOIN:15m发生再推动失败，没有创造新高，进入回调推修正，我们期待看到的是一个健康回调的修正 \n\n如果市场发生跌破支撑，但是市场拒绝下方的价格拉回，这是一个入场的好机会，就和昨天的日内黄金一样，发生跌破支撑位，市场拒绝，拉回支撑位的完整价格行为表现 \n\n更为强势的表现是在支撑位就收到支撑，价格保持在回调箱体的上方，逐渐抬高底部，收敛突破，就和之前推文里，推友发布的书中案例和BTC一样 \n\n证伪条件是跌破支撑位且无法收回，那就是一个不健康的回调，可能发生下跌，修正，下跌再推动，形成反转结构",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HQNM5ULaoAAsL5_.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:05:58.279Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[$FARTCOIN](https://x.com/search?q=$FARTCOIN):15m发生再推动失败，没有创造新高，进入回调推修正，我们期待看到的是一个健康回调的修正 如果市场发生跌破支撑，但是市场拒绝下方的价格拉回，这是一个入场的好机会，就和昨天的日内黄金一样，发生跌破支撑位，市场拒绝，拉回支撑位的完整价格行为表现 更为强势的表现是在支撑位就收到支撑，价格保持在回调箱体的上方，逐渐抬高底部，收敛突破，就和之前推文里，推友发布的书中案例和BTC一样 证伪条件是跌破支撑位且无法收回，那就是一个不健康的回调，可能发生下跌，修正，下跌再推动，形成反转结构\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[8月21日](https://x.com/TradercBTC/status/2090596997195878845)\n\n[$FARTCOIN](https://x.com/search?q=$FARTCOIN) 非常典型的价格趋势突破 发生突破事件，发生回调腿修正，市场接受突破后的价格，发生第二波推动推进行再推动 可以继续围绕关键位置做日内\n\n[![](https://pbs.twimg.com/media/HQNKif8bEAA1Adk?format=webp&name=medium)](https://x.com/TradercBTC/status/2090596997195878845/photo/1)\n\n[8:38 · 2026年8月21日](https://x.com/TradercBTC/status/2090599338737279300)[4080Views](https://x.com/TradercBTC/status/2090599338737279300)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2090599338737279300"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"$FARTCOIN:15m发生再推动失败，没有创造新高，进入回调推修正，我们期待看到的是一个健康回调的修正 如果市场发生跌破支撑，但是市场拒绝下方的价格拉回，这是一个入场的好机会，就和昨天的日内黄金一样，发生跌破支撑位，市场拒绝，拉回支撑位的完整价格行为表现 更为强势的表现是在支撑位就收到支撑，价格保持在回调箱体的上方，逐渐抬高底部，收敛突破，就和之前推文里，推友发布的书中案例和BTC一样 证伪条件是跌破支撑位且无法收回，那就是一个不健康的回调，可能发生下跌，修正，下跌再推动，形成反转结构\\\"\"\nurl: \"https://x.com/TradercBTC/status/2090599338737279300\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2090599338737279300\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2090599338737279300/imgs/img-001-HQNM5ULaoAAsL5_-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-21T00:38:18.000Z\"\nsummary: |-\n  $FARTCOIN:15m发生再推动失败，没有创造新高，进入回调推修正，我们期待看到的是一个健康回调的修正 \n  \n  如果市场发生跌破支撑，但是市场拒绝下方的价格拉回，这是一个入场的好机会，就和昨天的日内黄金一样，发生跌破支撑位，市场拒绝，拉回支撑位的完整价格行为表现 \n  \n  更为强势的表现是在支撑位就收到支撑，价格保持在回调箱体的上方，逐渐抬高底部，收敛突破，就和之前推文里，推友发布的书中案例和BTC一样 \n  \n  证伪条件是跌破支撑位且无法收回，那就是一个不健康的回调，可能发生下跌，修正，下跌再推动，形成反转结构\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:05:58.279Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"$FARTCOIN:15m发生再推动失败，没有创造新高，进入回调推修正，我们期待看到的是一个健康回调的修正 如果市场发生跌破支撑，但是市场拒绝下方的价格拉回，这是一个入场的好机会，就和昨天的日内黄金一样，发生跌破支撑位，市场拒绝，拉回支撑位的完整价格行为表现 更为强势的表现是在支撑位就收到支撑，价格保持在回调箱体的上方，逐渐抬高底部，收敛突破，就和之前推文里，推友发布的书中案例和BTC一样 证伪条件是跌破支撑位且无法收回，那就是一个不健康的回调，可能发生下跌，修正，下跌再推动，形成反转结构\"\n\n[![@TradercBTC](2090599338737279300/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[$FARTCOIN](https://x.com/search?q=$FARTCOIN):15m发生再推动失败，没有创造新高，进入回调推修正，我们期待看到的是一个健康回调的修正 如果市场发生跌破支撑，但是市场拒绝下方的价格拉回，这是一个入场的好机会，就和昨天的日内黄金一样，发生跌破支撑位，市场拒绝，拉回支撑位的完整价格行为表现 更为强势的表现是在支撑位就收到支撑，价格保持在回调箱体的上方，逐渐抬高底部，收敛突破，就和之前推文里，推友发布的书中案例和BTC一样 证伪条件是跌破支撑位且无法收回，那就是一个不健康的回调，可能发生下跌，修正，下跌再推动，形成反转结构\n\n[![@TradercBTC](2090599338737279300/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[8月21日](https://x.com/TradercBTC/status/2090596997195878845)\n\n[$FARTCOIN](https://x.com/search?q=$FARTCOIN) 非常典型的价格趋势突破 发生突破事件，发生回调腿修正，市场接受突破后的价格，发生第二波推动推进行再推动 可以继续围绕关键位置做日内\n\n[![](2090599338737279300/imgs/img-003-HQNKif8bEAA1Adk.webp)](https://x.com/TradercBTC/status/2090596997195878845/photo/1)\n\n[8:38 · 2026年8月21日](https://x.com/TradercBTC/status/2090599338737279300)[4080Views](https://x.com/TradercBTC/status/2090599338737279300)\n\nOnly some accounts can reply."
+}

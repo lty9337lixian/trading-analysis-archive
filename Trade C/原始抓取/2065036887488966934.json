@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HKh77OxbAAEFNqg.png:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2065036887488966934/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2065036887488966934/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HKh77OxbAAEFNqg.png:large",
+        "localPath": "2065036887488966934/imgs/img-002-HKh77OxbAAEFNqg-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2065036887488966934/imgs/img-002-HKh77OxbAAEFNqg-png-large.png",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2065036887488966934/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2065036887488966934",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2065036887488966934",
+    "title": "trader-c on X: \"所以止损真的不能太小\n\n这要是看1min和5min，我这会又亏钱了。。。。\n\n我对日内的理解还是有些不到位\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-06-11T11:42:15.000Z",
+    "summary": "所以止损真的不能太小\n\n这要是看1min和5min，我这会又亏钱了。。。。\n\n我对日内的理解还是有些不到位",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HKh77OxbAAEFNqg.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:01:59.645Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n所以止损真的不能太小 这要是看1min和5min，我这会又亏钱了。。。。 我对日内的理解还是有些不到位\n\nReplying to [@Yashiine001](https://x.com/Yashiine001)\n\n日内：少看1min 以15min结构为主 然后止损拉大，止损不能放太小啊，这玩意太容易插针了，以插针为主。 以及我感觉日内其实波动差不多在100点左右，也就是尽量找反转的时候，看看日线从哪里开始的，就按照最高点最低点减去已经走的，基本上就是你能吃到的\n\n[19:42 · 2026年6月11日](https://x.com/TradercBTC/status/2065036887488966934) [2862Views](https://x.com/TradercBTC/status/2065036887488966934)\n\n[3](https://x.com/i/status/2065036887488966934)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2065036887488966934"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"所以止损真的不能太小\n  \n  这要是看1min和5min，我这会又亏钱了。。。。\n  \n  我对日内的理解还是有些不到位\" / X\nurl: \"https://x.com/TradercBTC/status/2065036887488966934\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2065036887488966934\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2065036887488966934/imgs/img-002-HKh77OxbAAEFNqg-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-06-11T11:42:15.000Z\"\nsummary: |-\n  所以止损真的不能太小\n  \n  这要是看1min和5min，我这会又亏钱了。。。。\n  \n  我对日内的理解还是有些不到位\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:01:59.645Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"所以止损真的不能太小\n\n这要是看1min和5min，我这会又亏钱了。。。。\n\n我对日内的理解还是有些不到位\" / X\n\n[![@TradercBTC](2065036887488966934/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n所以止损真的不能太小 这要是看1min和5min，我这会又亏钱了。。。。 我对日内的理解还是有些不到位\n\nReplying to [@Yashiine001](https://x.com/Yashiine001)\n\n日内：少看1min 以15min结构为主 然后止损拉大，止损不能放太小啊，这玩意太容易插针了，以插针为主。 以及我感觉日内其实波动差不多在100点左右，也就是尽量找反转的时候，看看日线从哪里开始的，就按照最高点最低点减去已经走的，基本上就是你能吃到的\n\n[19:42 · 2026年6月11日](https://x.com/TradercBTC/status/2065036887488966934) [2862Views](https://x.com/TradercBTC/status/2065036887488966934)\n\n[3](https://x.com/i/status/2065036887488966934)"
+}

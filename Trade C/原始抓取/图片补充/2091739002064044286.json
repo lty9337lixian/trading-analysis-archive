@@ -1,0 +1,40 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 13,
+  "lang": "zh",
+  "created_at": "2026-08-24T04:06:55.000Z",
+  "display_text_range": [
+    0,
+    98
+  ],
+  "entities": {},
+  "id_str": "2091739002064044286",
+  "text": "实际上对我们现在来说，回调其实就是买入的机会\n\n目前在大级别的情况没有走坏的情况下，\n\n回调就是给我们机会，我们可以去寻找相对抗跌并且结构比较好的一些币种，在回调的时候，可以在我们满意的位置去买入",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2091739002064044286"
+    ],
+    "editable_until_msecs": "1787548015000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDkxNzM5MDAyMDI2MjcwNzIw"
+  }
+}

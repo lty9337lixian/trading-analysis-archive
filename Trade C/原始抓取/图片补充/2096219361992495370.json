@@ -1,0 +1,169 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 2,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-09-05T12:50:16.000Z",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/G22YWoktfY",
+        "expanded_url": "https://x.com/TradercBTC/status/2096219361992495370/photo/1",
+        "indices": [
+          24,
+          47
+        ],
+        "url": "https://t.co/G22YWoktfY"
+      }
+    ]
+  },
+  "id_str": "2096219361992495370",
+  "text": "从日线来看SOL，市场接受了上一个被突破的位置 https://t.co/G22YWoktfY",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2096219361992495370"
+    ],
+    "editable_until_msecs": "1788616216000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/G22YWoktfY",
+      "expanded_url": "https://x.com/TradercBTC/status/2096219361992495370/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        24,
+        47
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HRdD40CbwAArcQ2.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1135,
+            "w": 2026,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1378,
+            "w": 1378,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1378,
+            "w": 1209,
+            "x": 53,
+            "y": 0
+          },
+          {
+            "h": 1378,
+            "w": 689,
+            "x": 313,
+            "y": 0
+          },
+          {
+            "h": 1378,
+            "w": 2026,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1378,
+        "width": 2026
+      },
+      "sizes": {
+        "large": {
+          "h": 1378,
+          "resize": "fit",
+          "w": 2026
+        },
+        "medium": {
+          "h": 816,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 463,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/G22YWoktfY"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1135,
+          "w": 2026,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1378,
+          "w": 1378,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1378,
+          "w": 1209,
+          "x": 53,
+          "y": 0
+        },
+        {
+          "h": 1378,
+          "w": 689,
+          "x": 313,
+          "y": 0
+        },
+        {
+          "h": 1378,
+          "w": 2026,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2096219361992495370/photo/1",
+      "url": "https://pbs.twimg.com/media/HRdD40CbwAArcQ2.jpg",
+      "width": 2026,
+      "height": 1378
+    }
+  ],
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "isEdited": false,
+  "isStaleEdit": false
+}

@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2085632732999414144 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2085632732999414144.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HPGmii9bQAAxwCC.png:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2085632732999414144/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2085632732999414144/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HPGmii9bQAAxwCC.png:large",
+        "localPath": "2085632732999414144/imgs/img-002-HPGmii9bQAAxwCC-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2085632732999414144/imgs/img-002-HPGmii9bQAAxwCC-png-large.png",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2085632732999414144/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2085632732999414144",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2085632732999414144",
+    "title": "trader-c on X: \"1:静下心来\n\n2:熟悉品种的场域规则\n\n3:观察供需关系\n\n4:定风险，执行\n\n完整思路：1:以60点为一天行情的基准，过去几天黄金震荡都是80点，趋势更多。\n\n一般来说一波15m的行情在40点\n\n基于此两点，作为止盈基准。\n\n2：画出日线，1H，15m的支撑阻力，观察供需。\n\n观察到，突破了1H支撑阻力互换，测试，拉回。确定供需关系。\n\n进行测量，最低点到入场位上涨30点，按照上面的思路，综合起来。\n\n3:考虑黄金场域的规则和波动结合目标阻力位，制定止盈位置。\n\n入场执行，4r。\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-07T07:42:47.000Z",
+    "summary": "1:静下心来\n\n2:熟悉品种的场域规则\n\n3:观察供需关系\n\n4:定风险，执行\n\n完整思路：1:以60点为一天行情的基准，过去几天黄金震荡都是80点，趋势更多。\n\n一般来说一波15m的行情在40点\n\n基于此两点，作为止盈基准。\n\n2：画出日线，1H，15m的支撑阻力，观察供需。\n\n观察到，突破了1H支撑阻力互换，测试，拉回。确定供需关系。\n\n进行测量，最低点到入场位上涨30点，按照上面的思路，综合起来。\n\n3:考虑黄金场域的规则和波动结合目标阻力位，制定止盈位置。\n\n入场执行，4r。",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HPGmii9bQAAxwCC.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:04:36.962Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t1:静下心来 2:熟悉品种的场域规则 3:观察供需关系 4:定风险，执行 完整思路：1:以60点为一天行情的基准，过去几天黄金震荡都是80点，趋势更多。 一般来说一波15m的行情在40点 基于此两点，作为止盈基准。 2：画出日线，1H，15m的支撑阻力，观察供需。 观察到，突破了1H支撑阻力互换，测试，拉回。确定供需关系。 进行测量，最低点到入场位上涨30点，按照上面的思路，综合起来。 3:考虑黄金场域的规则和波动结合目标阻力位，制定止盈位置。 入场执行，4r。\n\t[15:42 · 2026年8月7日](https://x.com/TradercBTC/status/2085632732999414144) [5829Views](https://x.com/TradercBTC/status/2085632732999414144)\n\t[1](https://x.com/i/status/2085632732999414144)\n\tOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2085632732999414144"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"1:静下心来\n  \n  2:熟悉品种的场域规则\n  \n  3:观察供需关系\n  \n  4:定风险，执行\n  \n  完整思路：1:以60点为一天行情的基准，过去几天黄金震荡都是80点，趋势更多。\n  \n  一般来说一波15m的行情在40点\n  \n  基于此两点，作为止盈基准。\n  \n  2：画出日线，1H，15m的支撑阻力，观察供需。\n  \n  观察到，突破了1H支撑阻力互换，测试，拉回。确定供需关系。\n  \n  进行测量，最低点到入场位上涨30点，按照上面的思路，综合起来。\n  \n  3:考虑黄金场域的规则和波动结合目标阻力位，制定止盈位置。\n  \n  入场执行，4r。\" / X\nurl: \"https://x.com/TradercBTC/status/2085632732999414144\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2085632732999414144\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2085632732999414144/imgs/img-002-HPGmii9bQAAxwCC-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-07T07:42:47.000Z\"\nsummary: |-\n  1:静下心来\n  \n  2:熟悉品种的场域规则\n  \n  3:观察供需关系\n  \n  4:定风险，执行\n  \n  完整思路：1:以60点为一天行情的基准，过去几天黄金震荡都是80点，趋势更多。\n  \n  一般来说一波15m的行情在40点\n  \n  基于此两点，作为止盈基准。\n  \n  2：画出日线，1H，15m的支撑阻力，观察供需。\n  \n  观察到，突破了1H支撑阻力互换，测试，拉回。确定供需关系。\n  \n  进行测量，最低点到入场位上涨30点，按照上面的思路，综合起来。\n  \n  3:考虑黄金场域的规则和波动结合目标阻力位，制定止盈位置。\n  \n  入场执行，4r。\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:04:36.962Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"1:静下心来\n\n2:熟悉品种的场域规则\n\n3:观察供需关系\n\n4:定风险，执行\n\n完整思路：1:以60点为一天行情的基准，过去几天黄金震荡都是80点，趋势更多。\n\n一般来说一波15m的行情在40点\n\n基于此两点，作为止盈基准。\n\n2：画出日线，1H，15m的支撑阻力，观察供需。\n\n观察到，突破了1H支撑阻力互换，测试，拉回。确定供需关系。\n\n进行测量，最低点到入场位上涨30点，按照上面的思路，综合起来。\n\n3:考虑黄金场域的规则和波动结合目标阻力位，制定止盈位置。\n\n入场执行，4r。\" / X\n\n- [![@TradercBTC](2085632732999414144/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t1:静下心来 2:熟悉品种的场域规则 3:观察供需关系 4:定风险，执行 完整思路：1:以60点为一天行情的基准，过去几天黄金震荡都是80点，趋势更多。 一般来说一波15m的行情在40点 基于此两点，作为止盈基准。 2：画出日线，1H，15m的支撑阻力，观察供需。 观察到，突破了1H支撑阻力互换，测试，拉回。确定供需关系。 进行测量，最低点到入场位上涨30点，按照上面的思路，综合起来。 3:考虑黄金场域的规则和波动结合目标阻力位，制定止盈位置。 入场执行，4r。\n\t[15:42 · 2026年8月7日](https://x.com/TradercBTC/status/2085632732999414144) [5829Views](https://x.com/TradercBTC/status/2085632732999414144)\n\t[1](https://x.com/i/status/2085632732999414144)\n\tOnly some accounts can reply."
+}

@@ -1,0 +1,205 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 16,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-08-17T01:29:10.000Z",
+  "display_text_range": [
+    0,
+    41
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/4338uNQjoB",
+        "expanded_url": "https://x.com/TradercBTC/status/2089162586390692139/photo/1",
+        "indices": [
+          42,
+          65
+        ],
+        "url": "https://t.co/4338uNQjoB"
+      }
+    ]
+  },
+  "id_str": "2089162586390692139",
+  "text": "黄金开门红\n\n和昨天复盘的一样，在这里押注上涨延续\n\n止损15点，30点止盈，2R https://t.co/4338uNQjoB",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2089162586390692139"
+    ],
+    "editable_until_msecs": "1786933750000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/4338uNQjoB",
+      "expanded_url": "https://x.com/TradercBTC/status/2089162586390692139/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        42,
+        65
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HP4yKFPaEAAskty.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1144,
+            "w": 2042,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1268,
+            "w": 1268,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1268,
+            "w": 1112,
+            "x": 4,
+            "y": 0
+          },
+          {
+            "h": 1268,
+            "w": 634,
+            "x": 243,
+            "y": 0
+          },
+          {
+            "h": 1268,
+            "w": 2042,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1268,
+        "width": 2042
+      },
+      "sizes": {
+        "large": {
+          "h": 1268,
+          "resize": "fit",
+          "w": 2042
+        },
+        "medium": {
+          "h": 745,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 422,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/4338uNQjoB"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1144,
+          "w": 2042,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1268,
+          "w": 1268,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1268,
+          "w": 1112,
+          "x": 4,
+          "y": 0
+        },
+        {
+          "h": 1268,
+          "w": 634,
+          "x": 243,
+          "y": 0
+        },
+        {
+          "h": 1268,
+          "w": 2042,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2089162586390692139/photo/1",
+      "url": "https://pbs.twimg.com/media/HP4yKFPaEAAskty.jpg",
+      "width": 2042,
+      "height": 1268
+    }
+  ],
+  "conversation_count": 1,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "conversation_control": {
+      "policy": "Verified"
+    },
+    "favorite_count": 7,
+    "lang": "zh",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "created_at": "2026-08-16T10:20:25.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "entities": {},
+    "id_str": "2088933895849066898",
+    "text": "晚上直播复盘，下周市场的计划和分析，以及给你介绍我的一些新成果和经验\n\n大概回来之后10点，出去玩环球影城了",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2088933895849066898"
+      ],
+      "editable_until_msecs": "1786879225000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

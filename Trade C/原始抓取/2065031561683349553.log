@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2065031561683349553 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2065031561683349553.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HKh3JCtaIAAZ2VG.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2065031561683349553/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2065031561683349553/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HKh3JCtaIAAZ2VG.jpg:large",
+        "localPath": "2065031561683349553/imgs/img-002-HKh3JCtaIAAZ2VG-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2065031561683349553/imgs/img-002-HKh3JCtaIAAZ2VG-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2065031561683349553/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2065031561683349553",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2065031561683349553",
+    "title": "trader-c on X: \"日内：少看1min\n\n以15min结构为主\n\n然后止损拉大，止损不能放太小啊，这玩意太容易插针了，以插针为主。\n\n以及我感觉日内其实波动差不多在100点左右，也就是尽量找反转的时候，看看日线从哪里开始的，就按照最高点最低点减去已经走的，基本上就是你能吃到的\n\n这样的话，如果你能吃到的太少，这个位置就不划算，这是一个方法，但是没有验证\n\n说实话我今天做的太弱智了，很弱智，不过反映出来问题了，我再做做看看\n\n原本nq有两个好机会的，但是我没看\n\n再就是看盘时间太长了，情绪被控制了\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-06-11T11:21:05.000Z",
+    "summary": "日内：少看1min\n\n以15min结构为主\n\n然后止损拉大，止损不能放太小啊，这玩意太容易插针了，以插针为主。\n\n以及我感觉日内其实波动差不多在100点左右，也就是尽量找反转的时候，看看日线从哪里开始的，就按照最高点最低点减去已经走的，基本上就是你能吃到的\n\n这样的话，如果你能吃到的太少，这个位置就不划算，这是一个方法，但是没有验证\n\n说实话我今天做的太弱智了，很弱智，不过反映出来问题了，我再做做看看\n\n原本nq有两个好机会的，但是我没看\n\n再就是看盘时间太长了，情绪被控制了",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HKh3JCtaIAAZ2VG.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:01:54.239Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t日内：少看1min 以15min结构为主 然后止损拉大，止损不能放太小啊，这玩意太容易插针了，以插针为主。 以及我感觉日内其实波动差不多在100点左右，也就是尽量找反转的时候，看看日线从哪里开始的，就按照最高点最低点减去已经走的，基本上就是你能吃到的 这样的话，如果你能吃到的太少，这个位置就不划算，这是一个方法，但是没有验证 说实话我今天做的太弱智了，很弱智，不过反映出来问题了，我再做做看看 原本nq有两个好机会的，但是我没看 再就是看盘时间太长了，情绪被控制了\n\t[19:21 · 2026年6月11日](https://x.com/TradercBTC/status/2065031561683349553) [7998Views](https://x.com/TradercBTC/status/2065031561683349553)\n\t[1](https://x.com/i/status/2065031561683349553)\n\tOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2065031561683349553"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"日内：少看1min\n  \n  以15min结构为主\n  \n  然后止损拉大，止损不能放太小啊，这玩意太容易插针了，以插针为主。\n  \n  以及我感觉日内其实波动差不多在100点左右，也就是尽量找反转的时候，看看日线从哪里开始的，就按照最高点最低点减去已经走的，基本上就是你能吃到的\n  \n  这样的话，如果你能吃到的太少，这个位置就不划算，这是一个方法，但是没有验证\n  \n  说实话我今天做的太弱智了，很弱智，不过反映出来问题了，我再做做看看\n  \n  原本nq有两个好机会的，但是我没看\n  \n  再就是看盘时间太长了，情绪被控制了\" / X\nurl: \"https://x.com/TradercBTC/status/2065031561683349553\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2065031561683349553\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2065031561683349553/imgs/img-002-HKh3JCtaIAAZ2VG-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-06-11T11:21:05.000Z\"\nsummary: |-\n  日内：少看1min\n  \n  以15min结构为主\n  \n  然后止损拉大，止损不能放太小啊，这玩意太容易插针了，以插针为主。\n  \n  以及我感觉日内其实波动差不多在100点左右，也就是尽量找反转的时候，看看日线从哪里开始的，就按照最高点最低点减去已经走的，基本上就是你能吃到的\n  \n  这样的话，如果你能吃到的太少，这个位置就不划算，这是一个方法，但是没有验证\n  \n  说实话我今天做的太弱智了，很弱智，不过反映出来问题了，我再做做看看\n  \n  原本nq有两个好机会的，但是我没看\n  \n  再就是看盘时间太长了，情绪被控制了\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:01:54.239Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"日内：少看1min\n\n以15min结构为主\n\n然后止损拉大，止损不能放太小啊，这玩意太容易插针了，以插针为主。\n\n以及我感觉日内其实波动差不多在100点左右，也就是尽量找反转的时候，看看日线从哪里开始的，就按照最高点最低点减去已经走的，基本上就是你能吃到的\n\n这样的话，如果你能吃到的太少，这个位置就不划算，这是一个方法，但是没有验证\n\n说实话我今天做的太弱智了，很弱智，不过反映出来问题了，我再做做看看\n\n原本nq有两个好机会的，但是我没看\n\n再就是看盘时间太长了，情绪被控制了\" / X\n\n- [![@TradercBTC](2065031561683349553/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t日内：少看1min 以15min结构为主 然后止损拉大，止损不能放太小啊，这玩意太容易插针了，以插针为主。 以及我感觉日内其实波动差不多在100点左右，也就是尽量找反转的时候，看看日线从哪里开始的，就按照最高点最低点减去已经走的，基本上就是你能吃到的 这样的话，如果你能吃到的太少，这个位置就不划算，这是一个方法，但是没有验证 说实话我今天做的太弱智了，很弱智，不过反映出来问题了，我再做做看看 原本nq有两个好机会的，但是我没看 再就是看盘时间太长了，情绪被控制了\n\t[19:21 · 2026年6月11日](https://x.com/TradercBTC/status/2065031561683349553) [7998Views](https://x.com/TradercBTC/status/2065031561683349553)\n\t[1](https://x.com/i/status/2065031561683349553)\n\tOnly some accounts can reply."
+}

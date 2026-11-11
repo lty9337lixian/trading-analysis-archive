@@ -1,0 +1,172 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 16,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-09-02T10:54:12.000Z",
+  "display_text_range": [
+    0,
+    113
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/vUxBLx0Vxv",
+        "expanded_url": "https://x.com/TradercBTC/status/2095102989807845407/photo/1",
+        "indices": [
+          114,
+          137
+        ],
+        "url": "https://t.co/vUxBLx0Vxv"
+      }
+    ]
+  },
+  "id_str": "2095102989807845407",
+  "text": "开始复盘，将这一段SOL的行情分为两部分\n\n第一部分有一个比较好的入场时机，是因为我们在4小时的图表上看到他第一次突破9697这个阻力位置，然后市场回落到阻力位去测试，也就是我们第一个红色框框的位置，\n\n在那里，市场没有跌下来 https://t.co/vUxBLx0Vxv",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2095102989807845407"
+    ],
+    "editable_until_msecs": "1788350052000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/vUxBLx0Vxv",
+      "expanded_url": "https://x.com/TradercBTC/status/2095102989807845407/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        114,
+        137
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HRNM3mXbAAA28Un.png",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1400,
+            "w": 2500,
+            "x": 170,
+            "y": 0
+          },
+          {
+            "h": 1400,
+            "w": 1400,
+            "x": 1270,
+            "y": 0
+          },
+          {
+            "h": 1400,
+            "w": 1228,
+            "x": 1442,
+            "y": 0
+          },
+          {
+            "h": 1400,
+            "w": 700,
+            "x": 1970,
+            "y": 0
+          },
+          {
+            "h": 1400,
+            "w": 2670,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1400,
+        "width": 2670
+      },
+      "sizes": {
+        "large": {
+          "h": 1074,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 629,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 357,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/vUxBLx0Vxv"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1400,
+          "w": 2500,
+          "x": 170,
+          "y": 0
+        },
+        {
+          "h": 1400,
+          "w": 1400,
+          "x": 1270,
+          "y": 0
+        },
+        {
+          "h": 1400,
+          "w": 1228,
+          "x": 1442,
+          "y": 0
+        },
+        {
+          "h": 1400,
+          "w": 700,
+          "x": 1970,
+          "y": 0
+        },
+        {
+          "h": 1400,
+          "w": 2670,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2095102989807845407/photo/1",
+      "url": "https://pbs.twimg.com/media/HRNM3mXbAAA28Un.png",
+      "width": 2670,
+      "height": 1400
+    }
+  ],
+  "conversation_count": 2,
+  "news_action_type": "conversation",
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDk1MTAyOTg5NzQ0ODk4MDQ4"
+  }
+}

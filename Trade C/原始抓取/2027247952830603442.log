@@ -1,0 +1,58 @@
+[info] Loading https://x.com/TradercBTC/status/2027247952830603442 with generic adapter
+[info] Downloaded 1 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2027247952830603442.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2027247952830603442/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2027247952830603442/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2027247952830603442/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2027247952830603442",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2027247952830603442",
+    "title": "trader-c on X: \"拉拢关系从小事开始，建仓也要从试探性买入开始。\n\n我对金字塔加仓的理解是，当你对某只股票产生兴趣时，不要一次性建立大仓位，而应该先买入少量试探。\n\n有了持仓之后，你会自然而然地更加关注这只股票，随着了解的深入和走势的验证，再逐步加仓。\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-27T05:02:31.000Z",
+    "summary": "拉拢关系从小事开始，建仓也要从试探性买入开始。\n\n我对金字塔加仓的理解是，当你对某只股票产生兴趣时，不要一次性建立大仓位，而应该先买入少量试探。\n\n有了持仓之后，你会自然而然地更加关注这只股票，随着了解的深入和走势的验证，再逐步加仓。",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:59:06.769Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t拉拢关系从小事开始，建仓也要从试探性买入开始。 我对金字塔加仓的理解是，当你对某只股票产生兴趣时，不要一次性建立大仓位，而应该先买入少量试探。 有了持仓之后，你会自然而然地更加关注这只股票，随着了解的深入和走势的验证，再逐步加仓。\n\t[13:02 · 2026年2月27日](https://x.com/TradercBTC/status/2027247952830603442) [1512Views](https://x.com/TradercBTC/status/2027247952830603442)\n\t[1](https://x.com/i/status/2027247952830603442)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2027247952830603442"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"拉拢关系从小事开始，建仓也要从试探性买入开始。\n  \n  我对金字塔加仓的理解是，当你对某只股票产生兴趣时，不要一次性建立大仓位，而应该先买入少量试探。\n  \n  有了持仓之后，你会自然而然地更加关注这只股票，随着了解的深入和走势的验证，再逐步加仓。\" / X\nurl: \"https://x.com/TradercBTC/status/2027247952830603442\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2027247952830603442\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2027247952830603442/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-27T05:02:31.000Z\"\nsummary: |-\n  拉拢关系从小事开始，建仓也要从试探性买入开始。\n  \n  我对金字塔加仓的理解是，当你对某只股票产生兴趣时，不要一次性建立大仓位，而应该先买入少量试探。\n  \n  有了持仓之后，你会自然而然地更加关注这只股票，随着了解的深入和走势的验证，再逐步加仓。\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:59:06.769Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"拉拢关系从小事开始，建仓也要从试探性买入开始。\n\n我对金字塔加仓的理解是，当你对某只股票产生兴趣时，不要一次性建立大仓位，而应该先买入少量试探。\n\n有了持仓之后，你会自然而然地更加关注这只股票，随着了解的深入和走势的验证，再逐步加仓。\" / X\n\n- [![@TradercBTC](2027247952830603442/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t拉拢关系从小事开始，建仓也要从试探性买入开始。 我对金字塔加仓的理解是，当你对某只股票产生兴趣时，不要一次性建立大仓位，而应该先买入少量试探。 有了持仓之后，你会自然而然地更加关注这只股票，随着了解的深入和走势的验证，再逐步加仓。\n\t[13:02 · 2026年2月27日](https://x.com/TradercBTC/status/2027247952830603442) [1512Views](https://x.com/TradercBTC/status/2027247952830603442)\n\t[1](https://x.com/i/status/2027247952830603442)"
+}

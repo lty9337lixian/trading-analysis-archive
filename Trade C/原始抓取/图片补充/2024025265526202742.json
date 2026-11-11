@@ -1,0 +1,230 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 23,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-02-18T07:36:42.000Z",
+  "display_text_range": [
+    0,
+    112
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/FYv6fO9jDY",
+        "expanded_url": "https://x.com/TradercBTC/status/2024025265526202742/photo/1",
+        "indices": [
+          113,
+          136
+        ],
+        "url": "https://t.co/FYv6fO9jDY"
+      }
+    ]
+  },
+  "id_str": "2024025265526202742",
+  "text": "VWAP在我这里的作用是判断某一个时间段是由买盘还是卖盘对市场的统治力更强\n\n在某个时间段内，如果价格大部分时间在VWAP上方且偏离较大，代表着普遍是“愿意以高于平均成本的价格买入的人更多”，可以理解为买盘更主动，偏多主导。 https://t.co/FYv6fO9jDY",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2024025265526202742"
+    ],
+    "editable_until_msecs": "1771403802000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/FYv6fO9jDY",
+      "expanded_url": "https://x.com/TradercBTC/status/2024025265526202742/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        113,
+        136
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HBbH1SLbcAAv21j.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1513,
+            "w": 2702,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1586,
+            "w": 1586,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1586,
+            "w": 1391,
+            "x": 47,
+            "y": 0
+          },
+          {
+            "h": 1586,
+            "w": 793,
+            "x": 346,
+            "y": 0
+          },
+          {
+            "h": 1586,
+            "w": 2702,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1586,
+        "width": 2702
+      },
+      "sizes": {
+        "large": {
+          "h": 1202,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 704,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 399,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/FYv6fO9jDY"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1513,
+          "w": 2702,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1586,
+          "w": 1586,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1586,
+          "w": 1391,
+          "x": 47,
+          "y": 0
+        },
+        {
+          "h": 1586,
+          "w": 793,
+          "x": 346,
+          "y": 0
+        },
+        {
+          "h": 1586,
+          "w": 2702,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2024025265526202742/photo/1",
+      "url": "https://pbs.twimg.com/media/HBbH1SLbcAAv21j.jpg",
+      "width": 2702,
+      "height": 1586
+    }
+  ],
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "favorite_count": 547,
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "reply_count": 8,
+    "retweet_count": 69,
+    "created_at": "2026-02-17T23:57:37.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2023…",
+          "expanded_url": "http://x.com/i/article/2023907920040370176",
+          "indices": [
+            0,
+            23
+          ],
+          "url": "https://t.co/u3BsXW67cw"
+        }
+      ]
+    },
+    "id_str": "2023909732504006758",
+    "text": "https://t.co/u3BsXW67cw",
+    "user": {
+      "id_str": "1276006456400084994",
+      "name": "Vinod",
+      "screen_name": "BoxTraderVK",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1827384638924582914/mZ-ORTxU_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2023909732504006758"
+      ],
+      "editable_until_msecs": "1771376257000",
+      "edits_remaining": "5",
+      "is_edit_eligible": false
+    },
+    "article": {
+      "cover_media": {
+        "id": "QXBpTWVkaWE6DAAFCgABHBZfJMjacAAKAAIRtUkcjNUAAgAA",
+        "media_info": {
+          "__typename": "ApiImage",
+          "original_img_height": 410,
+          "original_img_url": "https://pbs.twimg.com/media/HBZfJMjacAAWlH3.jpg",
+          "original_img_width": 1024
+        }
+      },
+      "id": "QXJ0aWNsZUVudGl0eToyMDIzOTA3OTIwMDQwMzcwMTc2",
+      "preview_text": "🧵 How Qullamaggie Made Millions Using ONE Intraday Indicator\nMost traders treat their charts like a crime scene—messy, cluttered, and confusing.\nThey layer RSI on top of MACD on top of Bollinger",
+      "rest_id": "2023907920040370176",
+      "title": "How Qullamaggie Uses VWAP:  How to Short Stocks - Set up & Tools"
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDI0MDI1MjY1NDY3NTE4OTc3"
+  }
+}

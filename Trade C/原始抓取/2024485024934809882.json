@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HBhpGyfbUAUhp37.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2024485024934809882/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2024485024934809882/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HBhpGyfbUAUhp37.jpg:large",
+        "localPath": "2024485024934809882/imgs/img-002-HBhpGyfbUAUhp37-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2024485024934809882/imgs/img-002-HBhpGyfbUAUhp37-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2024485024934809882/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2024485024934809882",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2024485024934809882",
+    "title": "trader-c on X: \"关于 $NQ ，就LTF而言，vegas显示它明显处于下降趋势\n\n但是我们从结构上来说，虽然出现了LL和LH，上次的低点和这次低点中间空间上几乎相等\n\n也就是这一次下跌没有从价格上拉开间距，而第一次的低点和第二次的低点之间价格上间距很大\n\n这就是有点问题了，我们认为这是一种背离\n\n就好像第一次下跌1%，第二次下跌10%，第三次下跌0.5%\n\n给人的感觉就是中间那一段就是抛售高潮了\n\n如果今天形成图二橙色这种HL，就构成了一个潜在的w底的反转形态\n\n短期上纳指可能会进入上涨趋势\n\n等待今天的开盘。\n\n（如果真的是这样，我要抄一些微软了！！！）\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-19T14:03:37.000Z",
+    "summary": "关于 $NQ ，就LTF而言，vegas显示它明显处于下降趋势\n\n但是我们从结构上来说，虽然出现了LL和LH，上次的低点和这次低点中间空间上几乎相等\n\n也就是这一次下跌没有从价格上拉开间距，而第一次的低点和第二次的低点之间价格上间距很大\n\n这就是有点问题了，我们认为这是一种背离\n\n就好像第一次下跌1%，第二次下跌10%，第三次下跌0.5%\n\n给人的感觉就是中间那一段就是抛售高潮了\n\n如果今天形成图二橙色这种HL，就构成了一个潜在的w底的反转形态\n\n短期上纳指可能会进入上涨趋势\n\n等待今天的开盘。\n\n（如果真的是这样，我要抄一些微软了！！！）",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HBhpGyfbUAUhp37.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:58:29.286Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n关于 [$NQ](https://x.com/search?q=$NQ) ，就LTF而言，vegas显示它明显处于下降趋势 但是我们从结构上来说，虽然出现了LL和LH，上次的低点和这次低点中间空间上几乎相等 也就是这一次下跌没有从价格上拉开间距，而第一次的低点和第二次的低点之间价格上间距很大 这就是有点问题了，我们认为这是一种背离 就好像第一次下跌1%，第二次下跌10%，第三次下跌0.5% 给人的感觉就是中间那一段就是抛售高潮了 如果今天形成图二橙色这种HL，就构成了一个潜在的w底的反转形态 短期上纳指可能会进入上涨趋势 等待今天的开盘。 （如果真的是这样，我要抄一些微软了！！！）\n\n[22:03 · 2026年2月19日](https://x.com/TradercBTC/status/2024485024934809882) [1264Views](https://x.com/TradercBTC/status/2024485024934809882)\n\n[1](https://x.com/i/status/2024485024934809882)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2024485024934809882"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"关于 $NQ ，就LTF而言，vegas显示它明显处于下降趋势\n  \n  但是我们从结构上来说，虽然出现了LL和LH，上次的低点和这次低点中间空间上几乎相等\n  \n  也就是这一次下跌没有从价格上拉开间距，而第一次的低点和第二次的低点之间价格上间距很大\n  \n  这就是有点问题了，我们认为这是一种背离\n  \n  就好像第一次下跌1%，第二次下跌10%，第三次下跌0.5%\n  \n  给人的感觉就是中间那一段就是抛售高潮了\n  \n  如果今天形成图二橙色这种HL，就构成了一个潜在的w底的反转形态\n  \n  短期上纳指可能会进入上涨趋势\n  \n  等待今天的开盘。\n  \n  （如果真的是这样，我要抄一些微软了！！！）\" / X\nurl: \"https://x.com/TradercBTC/status/2024485024934809882\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2024485024934809882\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2024485024934809882/imgs/img-002-HBhpGyfbUAUhp37-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-19T14:03:37.000Z\"\nsummary: |-\n  关于 $NQ ，就LTF而言，vegas显示它明显处于下降趋势\n  \n  但是我们从结构上来说，虽然出现了LL和LH，上次的低点和这次低点中间空间上几乎相等\n  \n  也就是这一次下跌没有从价格上拉开间距，而第一次的低点和第二次的低点之间价格上间距很大\n  \n  这就是有点问题了，我们认为这是一种背离\n  \n  就好像第一次下跌1%，第二次下跌10%，第三次下跌0.5%\n  \n  给人的感觉就是中间那一段就是抛售高潮了\n  \n  如果今天形成图二橙色这种HL，就构成了一个潜在的w底的反转形态\n  \n  短期上纳指可能会进入上涨趋势\n  \n  等待今天的开盘。\n  \n  （如果真的是这样，我要抄一些微软了！！！）\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:58:29.286Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"关于 $NQ ，就LTF而言，vegas显示它明显处于下降趋势\n\n但是我们从结构上来说，虽然出现了LL和LH，上次的低点和这次低点中间空间上几乎相等\n\n也就是这一次下跌没有从价格上拉开间距，而第一次的低点和第二次的低点之间价格上间距很大\n\n这就是有点问题了，我们认为这是一种背离\n\n就好像第一次下跌1%，第二次下跌10%，第三次下跌0.5%\n\n给人的感觉就是中间那一段就是抛售高潮了\n\n如果今天形成图二橙色这种HL，就构成了一个潜在的w底的反转形态\n\n短期上纳指可能会进入上涨趋势\n\n等待今天的开盘。\n\n（如果真的是这样，我要抄一些微软了！！！）\" / X\n\n[![@TradercBTC](2024485024934809882/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n关于 [$NQ](https://x.com/search?q=$NQ) ，就LTF而言，vegas显示它明显处于下降趋势 但是我们从结构上来说，虽然出现了LL和LH，上次的低点和这次低点中间空间上几乎相等 也就是这一次下跌没有从价格上拉开间距，而第一次的低点和第二次的低点之间价格上间距很大 这就是有点问题了，我们认为这是一种背离 就好像第一次下跌1%，第二次下跌10%，第三次下跌0.5% 给人的感觉就是中间那一段就是抛售高潮了 如果今天形成图二橙色这种HL，就构成了一个潜在的w底的反转形态 短期上纳指可能会进入上涨趋势 等待今天的开盘。 （如果真的是这样，我要抄一些微软了！！！）\n\n[22:03 · 2026年2月19日](https://x.com/TradercBTC/status/2024485024934809882) [1264Views](https://x.com/TradercBTC/status/2024485024934809882)\n\n[1](https://x.com/i/status/2024485024934809882)"
+}

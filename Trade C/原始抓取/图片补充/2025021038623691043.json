@@ -1,0 +1,177 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 45,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-02-21T01:33:33.000Z",
+  "display_text_range": [
+    0,
+    138
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/FE6bmiTKuE",
+        "expanded_url": "https://x.com/TradercBTC/status/2025021038623691043/photo/1",
+        "indices": [
+          139,
+          162
+        ],
+        "url": "https://t.co/FE6bmiTKuE"
+      }
+    ]
+  },
+  "id_str": "2025021038623691043",
+  "text": "我以前一直对结构高低点有些疑惑\n\n更高的高点和更低的低点，大多数的时候发现会很标准\n\n但是当行情走的不是很干净的时候，也就是分歧加剧的时候\n\n会发现结构高低点反而成为了假突破猎取流动性的工具\n\n这时候会很痛苦\n\n最后我忽然想了一下，结构高低点的作用本质上是支撑和阻力位不断下移 https://t.co/FE6bmiTKuE",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "initial_tweet_id": "2025020859476594913",
+    "edit_tweet_ids": [
+      "2025020859476594913",
+      "2025021038623691043"
+    ],
+    "editable_until_msecs": "1771641170000",
+    "edits_remaining": "4",
+    "is_edit_eligible": false
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/FE6bmiTKuE",
+      "expanded_url": "https://x.com/TradercBTC/status/2025021038623691043/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        139,
+        162
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HBpQGf1bgAMG2GF.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1330,
+            "w": 2375,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1330,
+            "w": 1330,
+            "x": 472,
+            "y": 0
+          },
+          {
+            "h": 1330,
+            "w": 1167,
+            "x": 554,
+            "y": 0
+          },
+          {
+            "h": 1330,
+            "w": 665,
+            "x": 805,
+            "y": 0
+          },
+          {
+            "h": 1330,
+            "w": 2682,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1330,
+        "width": 2682
+      },
+      "sizes": {
+        "large": {
+          "h": 1016,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 595,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 337,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/FE6bmiTKuE"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1330,
+          "w": 2375,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1330,
+          "w": 1330,
+          "x": 472,
+          "y": 0
+        },
+        {
+          "h": 1330,
+          "w": 1167,
+          "x": 554,
+          "y": 0
+        },
+        {
+          "h": 1330,
+          "w": 665,
+          "x": 805,
+          "y": 0
+        },
+        {
+          "h": 1330,
+          "w": 2682,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2025021038623691043/photo/1",
+      "url": "https://pbs.twimg.com/media/HBpQGf1bgAMG2GF.jpg",
+      "width": 2682,
+      "height": 1330
+    }
+  ],
+  "conversation_count": 5,
+  "news_action_type": "conversation",
+  "isEdited": true,
+  "isStaleEdit": false,
+  "previous_counts": {
+    "favorite_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+  },
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDI1MDIxMDM4NTM1NjA2Mjcz"
+  }
+}

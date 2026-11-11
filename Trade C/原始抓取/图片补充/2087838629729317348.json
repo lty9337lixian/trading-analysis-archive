@@ -1,0 +1,40 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 142,
+  "lang": "zh",
+  "created_at": "2026-08-13T09:48:14.000Z",
+  "display_text_range": [
+    0,
+    133
+  ],
+  "entities": {},
+  "id_str": "2087838629729317348",
+  "text": "首先，程序化交易系统常见的由三种种类：趋势、动量和突破系统\n\n一般来说，这三类程序化交易或者对应的指标来说，通常使用固定参数\n\n但市场并不总处于同一种状态，有时方向清晰、噪声小，有时横向震荡、噪声大，有时波动突然扩张，有时波动持续收缩\n\n固定参数因此面临一个根本矛盾",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2087838629729317348"
+    ],
+    "editable_until_msecs": "1786618094000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 2,
+  "news_action_type": "conversation",
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDg3ODM4NjI5NjExOTMzNjk2"
+  }
+}

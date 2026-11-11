@@ -1,0 +1,73 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 10,
+  "lang": "zh",
+  "created_at": "2026-09-05T16:25:41.000Z",
+  "display_text_range": [
+    0,
+    111
+  ],
+  "entities": {},
+  "id_str": "2096273573623238881",
+  "text": "聊聊这个观点\n\n压榨该有的利润是正确的，但是我们一定面临一个问题，如何平衡好这中间的关系呢？\n\n按照文中的观点而言，就好像如果是扑克游戏，我知道如果我拿到了一副好牌，我要压榨出好牌该有的价值，拿到一副不好的牌则要控制好风险",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2096273573623238881"
+    ],
+    "editable_until_msecs": "1788629141000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "favorite_count": 497,
+    "lang": "en",
+    "reply_count": 29,
+    "retweet_count": 37,
+    "created_at": "2026-09-04T19:49:06.000Z",
+    "display_text_range": [
+      0,
+      274
+    ],
+    "entities": {},
+    "id_str": "2095962376671756598",
+    "text": "“No one ever went broke taking profits” can be a dangerous fallacy because it centers the exit on your entry price. It turns profit-taking into a psychological reward rather than a strategic forecast. You cut the asymmetric right tail and leave the left one intact.\n\nFor any",
+    "user": {
+      "id_str": "1292508532823252994",
+      "name": "Aporia",
+      "screen_name": "0xaporia",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1768251513825075200/ePZBrYMa_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2095962376671756598"
+      ],
+      "editable_until_msecs": "1788554946000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDk2MjczNTczNTE4Mzg1MTUy"
+  }
+}

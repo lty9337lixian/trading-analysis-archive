@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HHD7O46aYAA9ft2.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2049414564786458863/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2049414564786458863/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HHD7O46aYAA9ft2.jpg:large",
+        "localPath": "2049414564786458863/imgs/img-002-HHD7O46aYAA9ft2-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2049414564786458863/imgs/img-002-HHD7O46aYAA9ft2-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2049414564786458863/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2049414564786458863",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2049414564786458863",
+    "title": "trader-c on X: \"@evil96176865 是的，我分为两部分，第一段上涨很强劲，但是第二部分很明显成为宽通道，上涨的斜率减弱\n\n形成了一个m顶的背离，出现信号k之后就做空了\n\n有时候可以从入场的信号去看，强上涨入场信号比较少，弱上涨信号比较多\n\n这种情况目标就是前面的支撑阻力呼唤位，也就是宽通道的起点，同时也是15min的第一波MM位\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-04-29T09:04:43.000Z",
+    "summary": "@evil96176865 是的，我分为两部分，第一段上涨很强劲，但是第二部分很明显成为宽通道，上涨的斜率减弱\n\n形成了一个m顶的背离，出现信号k之后就做空了\n\n有时候可以从入场的信号去看，强上涨入场信号比较少，弱上涨信号比较多\n\n这种情况目标就是前面的支撑阻力呼唤位，也就是宽通道的起点，同时也是15min的第一波MM位",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HHD7O46aYAA9ft2.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:00:54.516Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t是的，我分为两部分，第一段上涨很强劲，但是第二部分很明显成为宽通道，上涨的斜率减弱 形成了一个m顶的背离，出现信号k之后就做空了 有时候可以从入场的信号去看，强上涨入场信号比较少，弱上涨信号比较多 这种情况目标就是前面的支撑阻力呼唤位，也就是宽通道的起点，同时也是15min的第一波MM位\n\t[17:04 · 2026年4月29日](https://x.com/TradercBTC/status/2049414564786458863) [672Views](https://x.com/TradercBTC/status/2049414564786458863)\n\t[2](https://x.com/i/status/2049414564786458863)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2049414564786458863"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"@evil96176865 是的，我分为两部分，第一段上涨很强劲，但是第二部分很明显成为宽通道，上涨的斜率减弱\n  \n  形成了一个m顶的背离，出现信号k之后就做空了\n  \n  有时候可以从入场的信号去看，强上涨入场信号比较少，弱上涨信号比较多\n  \n  这种情况目标就是前面的支撑阻力呼唤位，也就是宽通道的起点，同时也是15min的第一波MM位\" / X\nurl: \"https://x.com/TradercBTC/status/2049414564786458863\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2049414564786458863\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2049414564786458863/imgs/img-002-HHD7O46aYAA9ft2-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-04-29T09:04:43.000Z\"\nsummary: |-\n  @evil96176865 是的，我分为两部分，第一段上涨很强劲，但是第二部分很明显成为宽通道，上涨的斜率减弱\n  \n  形成了一个m顶的背离，出现信号k之后就做空了\n  \n  有时候可以从入场的信号去看，强上涨入场信号比较少，弱上涨信号比较多\n  \n  这种情况目标就是前面的支撑阻力呼唤位，也就是宽通道的起点，同时也是15min的第一波MM位\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:00:54.516Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"@evil96176865 是的，我分为两部分，第一段上涨很强劲，但是第二部分很明显成为宽通道，上涨的斜率减弱\n\n形成了一个m顶的背离，出现信号k之后就做空了\n\n有时候可以从入场的信号去看，强上涨入场信号比较少，弱上涨信号比较多\n\n这种情况目标就是前面的支撑阻力呼唤位，也就是宽通道的起点，同时也是15min的第一波MM位\" / X\n\n- [![@TradercBTC](2049414564786458863/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t是的，我分为两部分，第一段上涨很强劲，但是第二部分很明显成为宽通道，上涨的斜率减弱 形成了一个m顶的背离，出现信号k之后就做空了 有时候可以从入场的信号去看，强上涨入场信号比较少，弱上涨信号比较多 这种情况目标就是前面的支撑阻力呼唤位，也就是宽通道的起点，同时也是15min的第一波MM位\n\t[17:04 · 2026年4月29日](https://x.com/TradercBTC/status/2049414564786458863) [672Views](https://x.com/TradercBTC/status/2049414564786458863)\n\t[2](https://x.com/i/status/2049414564786458863)"
+}

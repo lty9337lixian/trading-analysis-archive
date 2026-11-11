@@ -1,0 +1,349 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 4,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-01-04T15:19:33.000Z",
+  "display_text_range": [
+    0,
+    117
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/OmLZWnpPZU",
+        "expanded_url": "https://x.com/TradercBTC/status/2007834289959043488/photo/1",
+        "indices": [
+          118,
+          141
+        ],
+        "url": "https://t.co/OmLZWnpPZU"
+      }
+    ],
+    "symbols": [
+      {
+        "indices": [
+          17,
+          21
+        ],
+        "text": "ETH"
+      }
+    ]
+  },
+  "id_str": "2007834289959043488",
+  "text": "原理上来说，当时在这个推文这做多 $ETH ，能收获8%的利润（实际上不止，大概率后面会继续上涨）\n\n但是有个很明显的问题，现在做多很磨人\n\n这就是为什么上一条推文我说更倾向于上面去做空\n\n做空及时反馈快。。。。\n\n做多的心理压力爆大 https://t.co/OmLZWnpPZU",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2007834289959043488"
+    ],
+    "editable_until_msecs": "1767543573000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/OmLZWnpPZU",
+      "expanded_url": "https://x.com/TradercBTC/status/2007834289959043488/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        118,
+        141
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/G91CNkFacAAy4mr.png",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1692,
+            "w": 3022,
+            "x": 0,
+            "y": 136
+          },
+          {
+            "h": 1920,
+            "w": 1920,
+            "x": 626,
+            "y": 0
+          },
+          {
+            "h": 1920,
+            "w": 1684,
+            "x": 744,
+            "y": 0
+          },
+          {
+            "h": 1920,
+            "w": 960,
+            "x": 1106,
+            "y": 0
+          },
+          {
+            "h": 1920,
+            "w": 3022,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1920,
+        "width": 3022
+      },
+      "sizes": {
+        "large": {
+          "h": 1301,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 762,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 432,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/OmLZWnpPZU"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1692,
+          "w": 3022,
+          "x": 0,
+          "y": 136
+        },
+        {
+          "h": 1920,
+          "w": 1920,
+          "x": 626,
+          "y": 0
+        },
+        {
+          "h": 1920,
+          "w": 1684,
+          "x": 744,
+          "y": 0
+        },
+        {
+          "h": 1920,
+          "w": 960,
+          "x": 1106,
+          "y": 0
+        },
+        {
+          "h": 1920,
+          "w": 3022,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2007834289959043488/photo/1",
+      "url": "https://pbs.twimg.com/media/G91CNkFacAAy4mr.png",
+      "width": 3022,
+      "height": 1920
+    }
+  ],
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "favorite_count": 9,
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "reply_count": 2,
+    "retweet_count": 2,
+    "created_at": "2025-12-24T10:32:01.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "entities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/pJ1wIAGxUs",
+          "expanded_url": "https://x.com/TradercBTC/status/2003775666832212049/photo/1",
+          "indices": [
+            136,
+            159
+          ],
+          "url": "https://t.co/pJ1wIAGxUs"
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [
+            0,
+            4
+          ],
+          "text": "ETH"
+        }
+      ]
+    },
+    "id_str": "2003775666832212049",
+    "text": "$ETH 有没有搞头\n\n从1H结构上来说，前一段下跌结构被打破了，形成了HH，如果这里稳住，形成HL，那就是新的上涨结构。\n\n基于此逻辑，买了一手多，进了30%。\n\n要是走的突破绿线回踩就再打70%\n\n止损我放箱体底部往下了，即使跌完再拉，我回头再接也行，反正仓位不重。 https://t.co/pJ1wIAGxUs",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2003775666832212049"
+      ],
+      "editable_until_msecs": "1766575921000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "mediaDetails": [
+      {
+        "display_url": "pic.x.com/pJ1wIAGxUs",
+        "expanded_url": "https://x.com/TradercBTC/status/2003775666832212049/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "indices": [
+          136,
+          159
+        ],
+        "media_url_https": "https://pbs.twimg.com/media/G87WlBfawAEkh9Y.png",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1546,
+              "w": 2760,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1634,
+              "w": 1634,
+              "x": 1126,
+              "y": 0
+            },
+            {
+              "h": 1634,
+              "w": 1433,
+              "x": 1327,
+              "y": 0
+            },
+            {
+              "h": 1634,
+              "w": 817,
+              "x": 1943,
+              "y": 0
+            },
+            {
+              "h": 1634,
+              "w": 2760,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1634,
+          "width": 2760
+        },
+        "sizes": {
+          "large": {
+            "h": 1212,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 710,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 403,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/pJ1wIAGxUs"
+      }
+    ],
+    "photos": [
+      {
+        "backgroundColor": {
+          "red": 204,
+          "green": 214,
+          "blue": 221
+        },
+        "cropCandidates": [
+          {
+            "h": 1546,
+            "w": 2760,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1634,
+            "w": 1634,
+            "x": 1126,
+            "y": 0
+          },
+          {
+            "h": 1634,
+            "w": 1433,
+            "x": 1327,
+            "y": 0
+          },
+          {
+            "h": 1634,
+            "w": 817,
+            "x": 1943,
+            "y": 0
+          },
+          {
+            "h": 1634,
+            "w": 2760,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "expandedUrl": "https://x.com/TradercBTC/status/2003775666832212049/photo/1",
+        "url": "https://pbs.twimg.com/media/G87WlBfawAEkh9Y.png",
+        "width": 2760,
+        "height": 1634
+      }
+    ],
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

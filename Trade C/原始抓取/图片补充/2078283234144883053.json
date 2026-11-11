@@ -1,0 +1,208 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 10,
+  "lang": "zh",
+  "created_at": "2026-07-18T00:58:30.000Z",
+  "display_text_range": [
+    0,
+    127
+  ],
+  "entities": {},
+  "id_str": "2078283234144883053",
+  "text": "如何思考市场与建立自己的认知框架\n\n介绍\n\n这份内容讨论的不是具体交易技术，而是如何形成一套能够持续分析市场、处理信息和产生独立判断的认知框架。\n\n理解市场需要同时处理三个问题：市场如何运行，自己如何受到偏见和情绪影响，以及如何从信息形成可以验证的判断。",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2078283234144883053"
+    ],
+    "editable_until_msecs": "1784339910000",
+    "edits_remaining": "5",
+    "is_edit_eligible": false
+  },
+  "conversation_count": 9,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "conversation_control": {
+      "policy": "Verified"
+    },
+    "favorite_count": 35,
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "reply_count": 1,
+    "retweet_count": 5,
+    "created_at": "2026-07-16T05:58:16.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "entities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/Vs6o0hV0GN",
+          "expanded_url": "https://x.com/TradercBTC/status/2077633896519536717/photo/1",
+          "indices": [
+            32,
+            55
+          ],
+          "url": "https://t.co/Vs6o0hV0GN"
+        }
+      ]
+    },
+    "id_str": "2077633896519536717",
+    "text": "一直懒得写教程\n\n这下把所有推文整出来，能直接干一个纯教程出来 https://t.co/Vs6o0hV0GN",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2077633896519536717"
+      ],
+      "editable_until_msecs": "1784185096000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "mediaDetails": [
+      {
+        "display_url": "pic.x.com/Vs6o0hV0GN",
+        "expanded_url": "https://x.com/TradercBTC/status/2077633896519536717/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "indices": [
+          32,
+          55
+        ],
+        "media_url_https": "https://pbs.twimg.com/media/HNU8u1MaYAAP9us.png",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 983,
+              "w": 1756,
+              "x": 0,
+              "y": 78
+            },
+            {
+              "h": 1084,
+              "w": 1084,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1084,
+              "w": 951,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1084,
+              "w": 542,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1084,
+              "w": 1756,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1084,
+          "width": 1756
+        },
+        "sizes": {
+          "large": {
+            "h": 1084,
+            "resize": "fit",
+            "w": 1756
+          },
+          "medium": {
+            "h": 741,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 420,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/Vs6o0hV0GN"
+      }
+    ],
+    "photos": [
+      {
+        "backgroundColor": {
+          "red": 204,
+          "green": 214,
+          "blue": 221
+        },
+        "cropCandidates": [
+          {
+            "h": 983,
+            "w": 1756,
+            "x": 0,
+            "y": 78
+          },
+          {
+            "h": 1084,
+            "w": 1084,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1084,
+            "w": 951,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1084,
+            "w": 542,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1084,
+            "w": 1756,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "expandedUrl": "https://x.com/TradercBTC/status/2077633896519536717/photo/1",
+        "url": "https://pbs.twimg.com/media/HNU8u1MaYAAP9us.png",
+        "width": 1756,
+        "height": 1084
+      }
+    ],
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDc4MjgzMjM0MDgxOTAyNTky"
+  }
+}

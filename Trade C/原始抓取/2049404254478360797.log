@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2049404254478360797 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2049404254478360797.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HHDxU6RagAAwKTs.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2049404254478360797/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2049404254478360797/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HHDxU6RagAAwKTs.jpg:large",
+        "localPath": "2049404254478360797/imgs/img-002-HHDxU6RagAAwKTs-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2049404254478360797/imgs/img-002-HHDxU6RagAAwKTs-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2049404254478360797/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2049404254478360797",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2049404254478360797",
+    "title": "trader-c on X: \"我计划做多 $BTC ，但是我担心在阻力位出现反应\n\n这个位置很不好\n\n因此我只能采用一般的仓位进行\n\n目标是前一段的MM\n\n因为1h级别的上涨从一个走势平缓的上涨变为走势陡峭的上涨，这表明动能在增强\n\n我想博弈一下这个过程\n\n如果在阻力位出现反应我就会移动保本，如果接下来三个小时出现空军的信号k，我也会离场，并等待二次测试，直到等到我看到市场的行动\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-04-29T08:23:45.000Z",
+    "summary": "我计划做多 $BTC ，但是我担心在阻力位出现反应\n\n这个位置很不好\n\n因此我只能采用一般的仓位进行\n\n目标是前一段的MM\n\n因为1h级别的上涨从一个走势平缓的上涨变为走势陡峭的上涨，这表明动能在增强\n\n我想博弈一下这个过程\n\n如果在阻力位出现反应我就会移动保本，如果接下来三个小时出现空军的信号k，我也会离场，并等待二次测试，直到等到我看到市场的行动",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HHDxU6RagAAwKTs.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:00:51.526Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t我计划做多 [$BTC](https://x.com/search?q=$BTC) ，但是我担心在阻力位出现反应 这个位置很不好 因此我只能采用一般的仓位进行 目标是前一段的MM 因为1h级别的上涨从一个走势平缓的上涨变为走势陡峭的上涨，这表明动能在增强 我想博弈一下这个过程 如果在阻力位出现反应我就会移动保本，如果接下来三个小时出现空军的信号k，我也会离场，并等待二次测试，直到等到我看到市场的行动\n\t[16:23 · 2026年4月29日](https://x.com/TradercBTC/status/2049404254478360797) [3767Views](https://x.com/TradercBTC/status/2049404254478360797)\n\t[4](https://x.com/i/status/2049404254478360797)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2049404254478360797"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"我计划做多 $BTC ，但是我担心在阻力位出现反应\n  \n  这个位置很不好\n  \n  因此我只能采用一般的仓位进行\n  \n  目标是前一段的MM\n  \n  因为1h级别的上涨从一个走势平缓的上涨变为走势陡峭的上涨，这表明动能在增强\n  \n  我想博弈一下这个过程\n  \n  如果在阻力位出现反应我就会移动保本，如果接下来三个小时出现空军的信号k，我也会离场，并等待二次测试，直到等到我看到市场的行动\" / X\nurl: \"https://x.com/TradercBTC/status/2049404254478360797\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2049404254478360797\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2049404254478360797/imgs/img-002-HHDxU6RagAAwKTs-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-04-29T08:23:45.000Z\"\nsummary: |-\n  我计划做多 $BTC ，但是我担心在阻力位出现反应\n  \n  这个位置很不好\n  \n  因此我只能采用一般的仓位进行\n  \n  目标是前一段的MM\n  \n  因为1h级别的上涨从一个走势平缓的上涨变为走势陡峭的上涨，这表明动能在增强\n  \n  我想博弈一下这个过程\n  \n  如果在阻力位出现反应我就会移动保本，如果接下来三个小时出现空军的信号k，我也会离场，并等待二次测试，直到等到我看到市场的行动\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:00:51.526Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"我计划做多 $BTC ，但是我担心在阻力位出现反应\n\n这个位置很不好\n\n因此我只能采用一般的仓位进行\n\n目标是前一段的MM\n\n因为1h级别的上涨从一个走势平缓的上涨变为走势陡峭的上涨，这表明动能在增强\n\n我想博弈一下这个过程\n\n如果在阻力位出现反应我就会移动保本，如果接下来三个小时出现空军的信号k，我也会离场，并等待二次测试，直到等到我看到市场的行动\" / X\n\n- [![@TradercBTC](2049404254478360797/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t我计划做多 [$BTC](https://x.com/search?q=$BTC) ，但是我担心在阻力位出现反应 这个位置很不好 因此我只能采用一般的仓位进行 目标是前一段的MM 因为1h级别的上涨从一个走势平缓的上涨变为走势陡峭的上涨，这表明动能在增强 我想博弈一下这个过程 如果在阻力位出现反应我就会移动保本，如果接下来三个小时出现空军的信号k，我也会离场，并等待二次测试，直到等到我看到市场的行动\n\t[16:23 · 2026年4月29日](https://x.com/TradercBTC/status/2049404254478360797) [3767Views](https://x.com/TradercBTC/status/2049404254478360797)\n\t[4](https://x.com/i/status/2049404254478360797)"
+}

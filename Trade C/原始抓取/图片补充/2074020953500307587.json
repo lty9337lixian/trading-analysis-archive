@@ -1,0 +1,37 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 8,
+  "lang": "zh",
+  "created_at": "2026-07-06T06:41:43.000Z",
+  "display_text_range": [
+    0,
+    75
+  ],
+  "entities": {},
+  "id_str": "2074020953500307587",
+  "text": "学习金融理论可以提高理解市场的能力，但它不是交易盈利的充分条件。\n\n交易盈利需要的是一套能在市场中产生正期望、控制风险、稳定执行、持续复盘的交易系统。",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2074020953500307587"
+    ],
+    "editable_until_msecs": "1783323703000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "isEdited": false,
+  "isStaleEdit": false
+}

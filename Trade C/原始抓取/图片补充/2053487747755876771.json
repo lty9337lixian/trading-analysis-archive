@@ -1,0 +1,317 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 23,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-05-10T14:50:05.000Z",
+  "display_text_range": [
+    0,
+    116
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/62u7r5QR8Z",
+        "expanded_url": "https://x.com/TradercBTC/status/2053487747755876771/photo/1",
+        "indices": [
+          116,
+          139
+        ],
+        "url": "https://t.co/62u7r5QR8Z"
+      }
+    ]
+  },
+  "id_str": "2053487747755876771",
+  "text": "还有一个定义就是\n\nA级的交易，你的不利波动应该是非常小的\n\n比如图一大约一天半的交易\n\n每笔的最大不利波动不超过400💲，好几笔都是0，进去就赚钱的这种\n\n仔细回想一下，你们做的很棒的单子，是不是进去就是朝着有利于你的方向移动的 https://t.co/62u7r5QR8Z",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2053487747755876771"
+    ],
+    "editable_until_msecs": "1778428205000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/62u7r5QR8Z",
+      "expanded_url": "https://x.com/TradercBTC/status/2053487747755876771/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        116,
+        139
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HH9zA2uaoAE0lyr.png",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1508,
+            "w": 2693,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1508,
+            "w": 1508,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1508,
+            "w": 1323,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1508,
+            "w": 754,
+            "x": 99,
+            "y": 0
+          },
+          {
+            "h": 1508,
+            "w": 2722,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1508,
+        "width": 2722
+      },
+      "sizes": {
+        "large": {
+          "h": 1135,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 665,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 377,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/62u7r5QR8Z"
+    },
+    {
+      "display_url": "pic.x.com/62u7r5QR8Z",
+      "expanded_url": "https://x.com/TradercBTC/status/2053487747755876771/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        116,
+        139
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HH9zRj5a0AAhCLo.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 660,
+            "w": 1178,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 832,
+            "w": 832,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 832,
+            "w": 730,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 832,
+            "w": 416,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 832,
+            "w": 1178,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 832,
+        "width": 1178
+      },
+      "sizes": {
+        "large": {
+          "h": 832,
+          "resize": "fit",
+          "w": 1178
+        },
+        "medium": {
+          "h": 832,
+          "resize": "fit",
+          "w": 1178
+        },
+        "small": {
+          "h": 480,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/62u7r5QR8Z"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1508,
+          "w": 2693,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1508,
+          "w": 1508,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1508,
+          "w": 1323,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1508,
+          "w": 754,
+          "x": 99,
+          "y": 0
+        },
+        {
+          "h": 1508,
+          "w": 2722,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2053487747755876771/photo/1",
+      "url": "https://pbs.twimg.com/media/HH9zA2uaoAE0lyr.png",
+      "width": 2722,
+      "height": 1508
+    },
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 660,
+          "w": 1178,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 832,
+          "w": 832,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 832,
+          "w": 730,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 832,
+          "w": 416,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 832,
+          "w": 1178,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2053487747755876771/photo/1",
+      "url": "https://pbs.twimg.com/media/HH9zRj5a0AAhCLo.jpg",
+      "width": 1178,
+      "height": 832
+    }
+  ],
+  "conversation_count": 4,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "favorite_count": 33,
+    "lang": "zh",
+    "reply_count": 20,
+    "retweet_count": 1,
+    "created_at": "2026-05-10T11:29:53.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "entities": {},
+    "id_str": "2053437363439964405",
+    "text": "交易赚钱的一个小技巧\n\n只交易A级的交易\n\n放弃BCD级别的交易",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2053437363439964405"
+      ],
+      "editable_until_msecs": "1778416193000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDUzNDg3NzQ3NzAxMzQyMjA4"
+  }
+}

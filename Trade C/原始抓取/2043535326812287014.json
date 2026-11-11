@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HFwYU3maQAA4uFZ.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2043535326812287014/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2043535326812287014/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HFwYU3maQAA4uFZ.jpg:large",
+        "localPath": "2043535326812287014/imgs/img-002-HFwYU3maQAA4uFZ-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2043535326812287014/imgs/img-002-HFwYU3maQAA4uFZ-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2043535326812287014/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2043535326812287014",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2043535326812287014",
+    "title": "trader-c on X: \"新的一周，新的交易\n\n对于黄金，我的交易计划：\n\n从4小时级别来看，我们其实可以感受到，一个重要的结构位4600没有被打破。\n\n  这个位置非常关键，因为它就是4小时级别“上涨N字结构”里，上一个N字结构的结构高点。\n\n可以看到，最近一段时间这里都成了支撑位，这可以理解为是“阻力位”现在变成了“支撑位”。在它被跌破之前，我们还是保持向上的主观偏见。  \n\n但是，我们也要看到上涨动能无疑是减弱了。  \n\n第一次N字高点（3月25日）和第二次N字高点（4月2日）之间，价格拉开了一大段，从4600左右到4800左右，差了将近200点。 \n\n但是，第二次N字高点（4月… / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-04-13T03:42:43.000Z",
+    "summary": "新的一周，新的交易\n\n对于黄金，我的交易计划：\n\n从4小时级别来看，我们其实可以感受到，一个重要的结构位4600没有被打破。\n\n  这个位置非常关键，因为它就是4小时级别“上涨N字结构”里，上一个N字结构的结构高点。\n\n可以看到，最近一段时间这里都成了支撑位，这可以理解为是“阻力位”现在变成了“支撑位”。在它被跌破之前，我们还是保持向上的主观偏见。  \n\n但是，我们也要看到上涨动能无疑是减弱了。  \n\n第一次N字高点（3月25日）和第二次N字高点（4月2日）之间，价格拉开了一大段，从4600左右到4800左右，差了将近200点。 \n\n但是，第二次N字高点（4月2日）和第三次N字高点（4月8日…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HFwYU3maQAA4uFZ.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:00:05.568Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t新的一周，新的交易 对于黄金，我的交易计划： 从4小时级别来看，我们其实可以感受到，一个重要的结构位4600没有被打破。 这个位置非常关键，因为它就是4小时级别“上涨N字结构”里，上一个N字结构的结构高点。 可以看到，最近一段时间这里都成了支撑位，这可以理解为是“阻力位”现在变成了“支撑位”。在它被跌破之前，我们还是保持向上的主观偏见。 但是，我们也要看到上涨动能无疑是减弱了。 第一次N字高点（3月25日）和第二次N字高点（4月2日）之间，价格拉开了一大段，从4600左右到4800左右，差了将近200点。 但是，第二次N字高点（4月2日）和第三次N字高点（4月8日）之间，两者形成了背离。 买盘想将价格继续推动，但它失败了，两个高点在价格上没有拉开距离，从4800到4850，中间只差了50点，这说明趋势在减弱。 所以，现在我们有两个预期： 预期一（震荡后继续上行）： 价格就在4850/4800到结构低点4600这个区间里震荡，然后积攒力量继续上行。 预期二（趋势反转）： 价格在这里震荡，上涨趋势转为横盘，在多次上攻失败后，发生趋势的反转，开始一段下跌。\n\t[11:42 · 2026年4月13日](https://x.com/TradercBTC/status/2043535326812287014) [6033Views](https://x.com/TradercBTC/status/2043535326812287014)\n\t[2](https://x.com/i/status/2043535326812287014)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2043535326812287014"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"新的一周，新的交易\n  \n  对于黄金，我的交易计划：\n  \n  从4小时级别来看，我们其实可以感受到，一个重要的结构位4600没有被打破。\n  \n    这个位置非常关键，因为它就是4小时级别“上涨N字结构”里，上一个N字结构的结构高点。\n  \n  可以看到，最近一段时间这里都成了支撑位，这可以理解为是“阻力位”现在变成了“支撑位”。在它被跌破之前，我们还是保持向上的主观偏见。  \n  \n  但是，我们也要看到上涨动能无疑是减弱了。  \n  \n  第一次N字高点（3月25日）和第二次N字高点（4月2日）之间，价格拉开了一大段，从4600左右到4800左右，差了将近200点。 \n  \n  但是，第二次N字高点（4月… / X\nurl: \"https://x.com/TradercBTC/status/2043535326812287014\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2043535326812287014\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2043535326812287014/imgs/img-002-HFwYU3maQAA4uFZ-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-04-13T03:42:43.000Z\"\nsummary: |-\n  新的一周，新的交易\n  \n  对于黄金，我的交易计划：\n  \n  从4小时级别来看，我们其实可以感受到，一个重要的结构位4600没有被打破。\n  \n    这个位置非常关键，因为它就是4小时级别“上涨N字结构”里，上一个N字结构的结构高点。\n  \n  可以看到，最近一段时间这里都成了支撑位，这可以理解为是“阻力位”现在变成了“支撑位”。在它被跌破之前，我们还是保持向上的主观偏见。  \n  \n  但是，我们也要看到上涨动能无疑是减弱了。  \n  \n  第一次N字高点（3月25日）和第二次N字高点（4月2日）之间，价格拉开了一大段，从4600左右到4800左右，差了将近200点。 \n  \n  但是，第二次N字高点（4月2日）和第三次N字高点（4月8日…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:00:05.568Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"新的一周，新的交易\n\n对于黄金，我的交易计划：\n\n从4小时级别来看，我们其实可以感受到，一个重要的结构位4600没有被打破。\n\n  这个位置非常关键，因为它就是4小时级别“上涨N字结构”里，上一个N字结构的结构高点。\n\n可以看到，最近一段时间这里都成了支撑位，这可以理解为是“阻力位”现在变成了“支撑位”。在它被跌破之前，我们还是保持向上的主观偏见。  \n\n但是，我们也要看到上涨动能无疑是减弱了。  \n\n第一次N字高点（3月25日）和第二次N字高点（4月2日）之间，价格拉开了一大段，从4600左右到4800左右，差了将近200点。 \n\n但是，第二次N字高点（4月… / X\n\n- [![@TradercBTC](2043535326812287014/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t新的一周，新的交易 对于黄金，我的交易计划： 从4小时级别来看，我们其实可以感受到，一个重要的结构位4600没有被打破。 这个位置非常关键，因为它就是4小时级别“上涨N字结构”里，上一个N字结构的结构高点。 可以看到，最近一段时间这里都成了支撑位，这可以理解为是“阻力位”现在变成了“支撑位”。在它被跌破之前，我们还是保持向上的主观偏见。 但是，我们也要看到上涨动能无疑是减弱了。 第一次N字高点（3月25日）和第二次N字高点（4月2日）之间，价格拉开了一大段，从4600左右到4800左右，差了将近200点。 但是，第二次N字高点（4月2日）和第三次N字高点（4月8日）之间，两者形成了背离。 买盘想将价格继续推动，但它失败了，两个高点在价格上没有拉开距离，从4800到4850，中间只差了50点，这说明趋势在减弱。 所以，现在我们有两个预期： 预期一（震荡后继续上行）： 价格就在4850/4800到结构低点4600这个区间里震荡，然后积攒力量继续上行。 预期二（趋势反转）： 价格在这里震荡，上涨趋势转为横盘，在多次上攻失败后，发生趋势的反转，开始一段下跌。\n\t[11:42 · 2026年4月13日](https://x.com/TradercBTC/status/2043535326812287014) [6033Views](https://x.com/TradercBTC/status/2043535326812287014)\n\t[2](https://x.com/i/status/2043535326812287014)"
+}

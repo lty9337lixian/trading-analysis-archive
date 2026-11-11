@@ -1,0 +1,54 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "login": {
+    "provider": "x",
+    "state": "unknown"
+  },
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2078290119253999649/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2078290119253999649/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2078290119253999649/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2078290119253999649",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2078290119253999649",
+    "title": "trader-c on X: \"进阶技术分析教程：从看图到看懂市场的结构\n\n介绍\n\n这份教程面向已有交易基础的人，重点不是识别更多指标，而是理解图表背后的多空力量、市场结构、关键位、流动性和量价供需。\n\n技术分析是读图的语言，不是预测的工具，最终决策仍需配合交易系统和风控。\n\n整体框架\n\n第一部分 技术分析的底层逻辑，理解 Price is Truth，并先区分趋势和区间。\n\n第二部分 结构分析，使用 HH、HL、LH、LL、MSS 和喇叭口结构判断趋势延续与转换。\n\n第三部分 ICT 和 SMC 体系，使用 MBS、MSB、VAH、VAL、POC、MM、ERL、IRL、premium 和 … / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-07-18T01:25:51.000Z",
+    "summary": "进阶技术分析教程：从看图到看懂市场的结构\n\n介绍\n\n这份教程面向已有交易基础的人，重点不是识别更多指标，而是理解图表背后的多空力量、市场结构、关键位、流动性和量价供需。\n\n技术分析是读图的语言，不是预测的工具，最终决策仍需配合交易系统和风控。\n\n整体框架\n\n第一部分 技术分析的底层逻辑，理解 Price is Truth，并先区分趋势和区间。\n\n第二部分 结构分析，使用 HH、HL、LH、LL、MSS 和喇叭口结构判断趋势延续与转换。\n\n第三部分 ICT 和 SMC 体系，使用 MBS、MSB、VAH、VAL、POC、MM、ERL、IRL、premium 和 discount zone 分析…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:46:35.816Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "进阶技术分析教程：从看图到看懂市场的结构 介绍 这份教程面向已有交易基础的人，重点不是识别更多指标，而是理解图表背后的多空力量、市场结构、关键位、流动性和量价供需。 技术分析是读图的语言，不是预测的工具，最终决策仍需配合交易系统和风控。 整体框架 第一部分 技术分析的底层逻辑，理解 Price is Truth，并先区分趋势和区间。 第二部分 结构分析，使用 HH、HL、LH、LL、MSS 和喇叭口结构判断趋势延续与转换。 第三部分 ICT 和 SMC 体系，使用 MBS、MSB、VAH、VAL、POC、MM、ERL、IRL、premium 和 discount zone 分析关键位与流动性。 第四部分 量价供需分析，使用威科夫框架判断吸筹、派发、抛售高潮和供需转换。 第五部分 多时间框架实战，使用 HTF 定方向、LTF 找入场，并执行顺大逆小。 第六部分 动能、背离与拐点判断，结合三推、背离、失败高点和结构确认判断动能衰竭。 第七部分 关键位、目标位与趋势分水岭，使用 EMA200、斐波那契和 ATR 辅助判断趋势、回调与止损宽度。 第八部分 趋势与区间的精确判断，识别 chop zone、假突破、相对强弱和市场广度。 第九部分 完整看盘决策流程，把结构、关键位、信号和仓位管理串成可重复的 SOP。 第十部分 常见陷阱与认知升级，理解区间陷阱、回测与实盘差距、策略简化和市场非线性。 不同市场的技术差异，根据加密、A股、美股和黄金的波动率、流动性与交易机制调整技术方法。 进阶者的自我训练，通过记录、复盘、AI 记忆系统和控制变量测试持续迭代。 核心理念： 技术分析不是堆指标，而是一套用于判断多空谁在主导、力量在哪里以及结构是否被破坏的读图语言。 原文如下👇："
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2078290119253999649"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"进阶技术分析教程：从看图到看懂市场的结构\n  \n  介绍\n  \n  这份教程面向已有交易基础的人，重点不是识别更多指标，而是理解图表背后的多空力量、市场结构、关键位、流动性和量价供需。\n  \n  技术分析是读图的语言，不是预测的工具，最终决策仍需配合交易系统和风控。\n  \n  整体框架\n  \n  第一部分 技术分析的底层逻辑，理解 Price is Truth，并先区分趋势和区间。\n  \n  第二部分 结构分析，使用 HH、HL、LH、LL、MSS 和喇叭口结构判断趋势延续与转换。\n  \n  第三部分 ICT 和 SMC 体系，使用 MBS、MSB、VAH、VAL、POC、MM、ERL、IRL、premium 和 … / X\nurl: \"https://x.com/TradercBTC/status/2078290119253999649\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2078290119253999649\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2078290119253999649/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-07-18T01:25:51.000Z\"\nsummary: |-\n  进阶技术分析教程：从看图到看懂市场的结构\n  \n  介绍\n  \n  这份教程面向已有交易基础的人，重点不是识别更多指标，而是理解图表背后的多空力量、市场结构、关键位、流动性和量价供需。\n  \n  技术分析是读图的语言，不是预测的工具，最终决策仍需配合交易系统和风控。\n  \n  整体框架\n  \n  第一部分 技术分析的底层逻辑，理解 Price is Truth，并先区分趋势和区间。\n  \n  第二部分 结构分析，使用 HH、HL、LH、LL、MSS 和喇叭口结构判断趋势延续与转换。\n  \n  第三部分 ICT 和 SMC 体系，使用 MBS、MSB、VAH、VAL、POC、MM、ERL、IRL、premium 和 discount zone 分析…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:46:35.816Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"进阶技术分析教程：从看图到看懂市场的结构\n\n介绍\n\n这份教程面向已有交易基础的人，重点不是识别更多指标，而是理解图表背后的多空力量、市场结构、关键位、流动性和量价供需。\n\n技术分析是读图的语言，不是预测的工具，最终决策仍需配合交易系统和风控。\n\n整体框架\n\n第一部分 技术分析的底层逻辑，理解 Price is Truth，并先区分趋势和区间。\n\n第二部分 结构分析，使用 HH、HL、LH、LL、MSS 和喇叭口结构判断趋势延续与转换。\n\n第三部分 ICT 和 SMC 体系，使用 MBS、MSB、VAH、VAL、POC、MM、ERL、IRL、premium 和 … / X\n\n进阶技术分析教程：从看图到看懂市场的结构 介绍 这份教程面向已有交易基础的人，重点不是识别更多指标，而是理解图表背后的多空力量、市场结构、关键位、流动性和量价供需。 技术分析是读图的语言，不是预测的工具，最终决策仍需配合交易系统和风控。 整体框架 第一部分 技术分析的底层逻辑，理解 Price is Truth，并先区分趋势和区间。 第二部分 结构分析，使用 HH、HL、LH、LL、MSS 和喇叭口结构判断趋势延续与转换。 第三部分 ICT 和 SMC 体系，使用 MBS、MSB、VAH、VAL、POC、MM、ERL、IRL、premium 和 discount zone 分析关键位与流动性。 第四部分 量价供需分析，使用威科夫框架判断吸筹、派发、抛售高潮和供需转换。 第五部分 多时间框架实战，使用 HTF 定方向、LTF 找入场，并执行顺大逆小。 第六部分 动能、背离与拐点判断，结合三推、背离、失败高点和结构确认判断动能衰竭。 第七部分 关键位、目标位与趋势分水岭，使用 EMA200、斐波那契和 ATR 辅助判断趋势、回调与止损宽度。 第八部分 趋势与区间的精确判断，识别 chop zone、假突破、相对强弱和市场广度。 第九部分 完整看盘决策流程，把结构、关键位、信号和仓位管理串成可重复的 SOP。 第十部分 常见陷阱与认知升级，理解区间陷阱、回测与实盘差距、策略简化和市场非线性。 不同市场的技术差异，根据加密、A股、美股和黄金的波动率、流动性与交易机制调整技术方法。 进阶者的自我训练，通过记录、复盘、AI 记忆系统和控制变量测试持续迭代。 核心理念： 技术分析不是堆指标，而是一套用于判断多空谁在主导、力量在哪里以及结构是否被破坏的读图语言。 原文如下👇："
+}

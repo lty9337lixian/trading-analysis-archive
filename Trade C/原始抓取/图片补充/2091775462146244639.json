@@ -1,0 +1,340 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 3,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-08-24T06:31:48.000Z",
+  "display_text_range": [
+    0,
+    128
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/foaiiGBHnr",
+        "expanded_url": "https://x.com/TradercBTC/status/2091775462146244639/photo/1",
+        "indices": [
+          129,
+          152
+        ],
+        "url": "https://t.co/foaiiGBHnr"
+      }
+    ]
+  },
+  "id_str": "2091775462146244639",
+  "text": "太tmd扯了\n\n我不知道第二单是怎么回事？\n\n我记着我的止损是13个点，但是到8个点就没了\n\n记忆已经混乱了\n\n第二个，贪了了三个点，原本想着15个点止损，按照13个点挂前高被打了\n\n傻逼了\n\n我主要在观察加密货币的市场，制定策略，搞的我头昏脑涨的。。。。 https://t.co/foaiiGBHnr",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2091775462146244639"
+    ],
+    "editable_until_msecs": "1787556708000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/foaiiGBHnr",
+      "expanded_url": "https://x.com/TradercBTC/status/2091775462146244639/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        129,
+        152
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HQd5yZqbUAA6OXS.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1336,
+            "w": 2386,
+            "x": 164,
+            "y": 0
+          },
+          {
+            "h": 1336,
+            "w": 1336,
+            "x": 689,
+            "y": 0
+          },
+          {
+            "h": 1336,
+            "w": 1172,
+            "x": 771,
+            "y": 0
+          },
+          {
+            "h": 1336,
+            "w": 668,
+            "x": 1023,
+            "y": 0
+          },
+          {
+            "h": 1336,
+            "w": 2586,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1336,
+        "width": 2586
+      },
+      "sizes": {
+        "large": {
+          "h": 1058,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 620,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 351,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/foaiiGBHnr"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1336,
+          "w": 2386,
+          "x": 164,
+          "y": 0
+        },
+        {
+          "h": 1336,
+          "w": 1336,
+          "x": 689,
+          "y": 0
+        },
+        {
+          "h": 1336,
+          "w": 1172,
+          "x": 771,
+          "y": 0
+        },
+        {
+          "h": 1336,
+          "w": 668,
+          "x": 1023,
+          "y": 0
+        },
+        {
+          "h": 1336,
+          "w": 2586,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2091775462146244639/photo/1",
+      "url": "https://pbs.twimg.com/media/HQd5yZqbUAA6OXS.jpg",
+      "width": 2586,
+      "height": 1336
+    }
+  ],
+  "conversation_count": 1,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "conversation_control": {
+      "policy": "Verified"
+    },
+    "favorite_count": 6,
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "created_at": "2026-08-24T02:36:31.000Z",
+    "display_text_range": [
+      0,
+      129
+    ],
+    "entities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/Wufmfubok7",
+          "expanded_url": "https://x.com/TradercBTC/status/2091716251999690863/photo/1",
+          "indices": [
+            130,
+            153
+          ],
+          "url": "https://t.co/Wufmfubok7"
+        }
+      ]
+    },
+    "id_str": "2091716251999690863",
+    "text": "复盘黄金：犯了两个错误：\n1:如果押注上方阻力位反弹，则止损不应该这么大，跌破止损就应该离场，合理的止损是7到10个点，放15个点实际上已经到了区级底部，这就是在震荡区间上方做多的傻逼行为了。\n\n2:实际上在HTF背景没有变化的时候，更应该去等待测试和信号。 https://t.co/Wufmfubok7",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2091716251999690863"
+      ],
+      "editable_until_msecs": "1787542591000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "mediaDetails": [
+      {
+        "display_url": "pic.x.com/Wufmfubok7",
+        "expanded_url": "https://x.com/TradercBTC/status/2091716251999690863/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "indices": [
+          130,
+          153
+        ],
+        "media_url_https": "https://pbs.twimg.com/media/HQdEzJdaMAAApdg.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1626,
+              "w": 2904,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1652,
+              "w": 1652,
+              "x": 117,
+              "y": 0
+            },
+            {
+              "h": 1652,
+              "w": 1449,
+              "x": 219,
+              "y": 0
+            },
+            {
+              "h": 1652,
+              "w": 826,
+              "x": 530,
+              "y": 0
+            },
+            {
+              "h": 1652,
+              "w": 2904,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1652,
+          "width": 2904
+        },
+        "sizes": {
+          "large": {
+            "h": 1165,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 683,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 387,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/Wufmfubok7"
+      }
+    ],
+    "photos": [
+      {
+        "backgroundColor": {
+          "red": 204,
+          "green": 214,
+          "blue": 221
+        },
+        "cropCandidates": [
+          {
+            "h": 1626,
+            "w": 2904,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1652,
+            "w": 1652,
+            "x": 117,
+            "y": 0
+          },
+          {
+            "h": 1652,
+            "w": 1449,
+            "x": 219,
+            "y": 0
+          },
+          {
+            "h": 1652,
+            "w": 826,
+            "x": 530,
+            "y": 0
+          },
+          {
+            "h": 1652,
+            "w": 2904,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "expandedUrl": "https://x.com/TradercBTC/status/2091716251999690863/photo/1",
+        "url": "https://pbs.twimg.com/media/HQdEzJdaMAAApdg.jpg",
+        "width": 2904,
+        "height": 1652
+      }
+    ],
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDkxNzc1NDYyMTAwMTU2NDE2"
+  }
+}

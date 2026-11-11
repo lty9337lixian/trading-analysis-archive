@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2087135999969378672 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2087135999969378672.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HPb-zFdaYAA9_7E.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2087135999969378672/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2087135999969378672/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HPb-zFdaYAA9_7E.jpg:large",
+        "localPath": "2087135999969378672/imgs/img-002-HPb-zFdaYAA9_7E-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2087135999969378672/imgs/img-002-HPb-zFdaYAA9_7E-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2087135999969378672/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2087135999969378672",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2087135999969378672",
+    "title": "trader-c on X: \"即在黄金现在这种走势不明朗的情况下\n\n我会将趋势日的标准降低为震荡标准\n\n止损近一些，止盈也近一些\n\n一般来说做到阻力位或者支撑位就会立场\n\n目标就是做1r或者2r\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-11T11:16:14.000Z",
+    "summary": "即在黄金现在这种走势不明朗的情况下\n\n我会将趋势日的标准降低为震荡标准\n\n止损近一些，止盈也近一些\n\n一般来说做到阻力位或者支撑位就会立场\n\n目标就是做1r或者2r",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HPb-zFdaYAA9_7E.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:05:10.456Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n即在黄金现在这种走势不明朗的情况下 我会将趋势日的标准降低为震荡标准 止损近一些，止盈也近一些 一般来说做到阻力位或者支撑位就会立场 目标就是做1r或者2r\n\n[19:16 · 2026年8月11日](https://x.com/TradercBTC/status/2087135999969378672) [3555Views](https://x.com/TradercBTC/status/2087135999969378672)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2087135999969378672"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"即在黄金现在这种走势不明朗的情况下\n  \n  我会将趋势日的标准降低为震荡标准\n  \n  止损近一些，止盈也近一些\n  \n  一般来说做到阻力位或者支撑位就会立场\n  \n  目标就是做1r或者2r\" / X\nurl: \"https://x.com/TradercBTC/status/2087135999969378672\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2087135999969378672\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2087135999969378672/imgs/img-002-HPb-zFdaYAA9_7E-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-11T11:16:14.000Z\"\nsummary: |-\n  即在黄金现在这种走势不明朗的情况下\n  \n  我会将趋势日的标准降低为震荡标准\n  \n  止损近一些，止盈也近一些\n  \n  一般来说做到阻力位或者支撑位就会立场\n  \n  目标就是做1r或者2r\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:05:10.456Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"即在黄金现在这种走势不明朗的情况下\n\n我会将趋势日的标准降低为震荡标准\n\n止损近一些，止盈也近一些\n\n一般来说做到阻力位或者支撑位就会立场\n\n目标就是做1r或者2r\" / X\n\n[![@TradercBTC](2087135999969378672/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n即在黄金现在这种走势不明朗的情况下 我会将趋势日的标准降低为震荡标准 止损近一些，止盈也近一些 一般来说做到阻力位或者支撑位就会立场 目标就是做1r或者2r\n\n[19:16 · 2026年8月11日](https://x.com/TradercBTC/status/2087135999969378672) [3555Views](https://x.com/TradercBTC/status/2087135999969378672)\n\nOnly some accounts can reply."
+}

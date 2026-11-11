@@ -1,0 +1,65 @@
+[info] Reusing Chrome debugger at http://127.0.0.1:57385 for profile /Users/lu/Library/Application Support/baoyu-skills/chrome-profile
+[info] Loading https://x.com/TradercBTC/status/2008910015269155202 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2008910015269155202.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/G-ETyCvXYAALXae.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2008910015269155202/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2008910015269155202/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/G-ETyCvXYAALXae.jpg:large",
+        "localPath": "2008910015269155202/imgs/img-002-G-ETyCvXYAALXae-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2008910015269155202/imgs/img-002-G-ETyCvXYAALXae-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2008910015269155202/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2008910015269155202",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2008910015269155202",
+    "title": "trader-c on X: \"$SOL 我的计划\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-01-07T14:34:06.000Z",
+    "summary": "$SOL 我的计划",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/G-ETyCvXYAALXae.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:42:24.026Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[1月7日](https://x.com/TradercBTC/status/2008779989873770850)\n\n比较难受 [$SOL](https://x.com/search?q=$SOL) 的止盈没打到，基本回撤 坏消息是挂了两个stop order， [$BTC](https://x.com/search?q=$BTC) 和 [$ETH](https://x.com/search?q=$ETH) 的 一个91，一个32，结果昨晚插针给我出发又拉回去止损了 好消息是每个亏1.5% 大概就看今天或者明天的表现进仓位了 这个表现其实还是要一个好位置的，stop order 的位置太差了"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2008910015269155202"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"$SOL 我的计划\\\" / X\"\nurl: \"https://x.com/TradercBTC/status/2008910015269155202\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2008910015269155202\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2008910015269155202/imgs/img-002-G-ETyCvXYAALXae-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-01-07T14:34:06.000Z\"\nsummary: \"$SOL 我的计划\"\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:42:24.026Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"$SOL 我的计划\" / X\n\n[![@TradercBTC](2008910015269155202/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[1月7日](https://x.com/TradercBTC/status/2008779989873770850)\n\n比较难受 [$SOL](https://x.com/search?q=$SOL) 的止盈没打到，基本回撤 坏消息是挂了两个stop order， [$BTC](https://x.com/search?q=$BTC) 和 [$ETH](https://x.com/search?q=$ETH) 的 一个91，一个32，结果昨晚插针给我出发又拉回去止损了 好消息是每个亏1.5% 大概就看今天或者明天的表现进仓位了 这个表现其实还是要一个好位置的，stop order 的位置太差了"
+}

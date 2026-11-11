@@ -1,0 +1,97 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 17,
+  "in_reply_to_screen_name": "yehuxinyu184337",
+  "in_reply_to_status_id_str": "2042252341949120608",
+  "in_reply_to_user_id_str": "1767180145629257728",
+  "lang": "zh",
+  "created_at": "2026-04-09T15:00:58.000Z",
+  "display_text_range": [
+    17,
+    125
+  ],
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1767180145629257728",
+        "indices": [
+          0,
+          16
+        ],
+        "name": "ye hu xin yu",
+        "screen_name": "yehuxinyu184337"
+      }
+    ]
+  },
+  "id_str": "2042256463981322633",
+  "text": "@yehuxinyu184337 每笔固定保护亏损在5k\n\n每笔盈利目标在2w到5w左右\n\n十笔里面大概5笔小赚小亏，2笔止损，三笔差不多盈利到目标\n\n这是我理解的风控能力，回撤小\n\n我打了半天字，我不知道如何形容或者说表达出你说《回撤小，赚的也慢》",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2042256463981322633"
+    ],
+    "editable_until_msecs": "1775750458000",
+    "edits_remaining": "5",
+    "is_edit_eligible": false
+  },
+  "conversation_count": 4,
+  "news_action_type": "conversation",
+  "parent": {
+    "favorite_count": 2,
+    "in_reply_to_screen_name": "TradercBTC",
+    "in_reply_to_status_id_str": "2042251092579549435",
+    "in_reply_to_user_id_str": "1921065617479921670",
+    "lang": "zh",
+    "reply_count": 1,
+    "retweet_count": 0,
+    "created_at": "2026-04-09T14:44:36.000Z",
+    "display_text_range": [
+      12,
+      23
+    ],
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1921065617479921670",
+          "indices": [
+            0,
+            11
+          ],
+          "name": "trader-c",
+          "screen_name": "TradercBTC"
+        }
+      ]
+    },
+    "id_str": "2042252341949120608",
+    "text": "@TradercBTC 问题是回撤小赚的也慢啊",
+    "user": {
+      "id_str": "1767180145629257728",
+      "name": "ye hu xin yu",
+      "screen_name": "yehuxinyu184337",
+      "is_blue_verified": false,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1767180840155717632/0fYN1Gun_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2042252341949120608"
+      ],
+      "editable_until_msecs": "1775749476000",
+      "edits_remaining": "5",
+      "is_edit_eligible": false
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

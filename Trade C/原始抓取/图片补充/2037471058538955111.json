@@ -1,0 +1,62 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 116,
+  "lang": "zxx",
+  "possibly_sensitive": false,
+  "created_at": "2026-03-27T10:05:29.000Z",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2037…",
+        "expanded_url": "http://x.com/i/article/2037463797124976640",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/cJNzEQQw7E"
+      }
+    ]
+  },
+  "id_str": "2037471058538955111",
+  "text": "https://t.co/cJNzEQQw7E",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2037471058538955111"
+    ],
+    "editable_until_msecs": "1774609529000",
+    "edits_remaining": "5",
+    "is_edit_eligible": false
+  },
+  "conversation_count": 6,
+  "news_action_type": "conversation",
+  "article": {
+    "cover_media": {
+      "id": "QXBpTWVkaWE6DAAFCgABHEaLIq3aMAAKAAIaqP8AOBtwBgAA",
+      "media_info": {
+        "__typename": "ApiImage",
+        "original_img_height": 409,
+        "original_img_url": "https://pbs.twimg.com/media/HEaLIq3aMAAaVPG.jpg",
+        "original_img_width": 1022
+      }
+    },
+    "id": "QXJ0aWNsZUVudGl0eToyMDM3NDYzNzk3MTI0OTc2NjQw",
+    "preview_text": "2021年初，一个在深圳做软件开发的朋友以每股180元的价格买入了宁德时代。他的买入逻辑很清楚：新能源车渗透率在快速上升，动力电池龙头的业绩确定性高，估值虽然不便宜但行业增速可以消化。",
+    "rest_id": "2037463797124976640",
+    "title": "会买的是徒弟，会卖的是师傅"
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

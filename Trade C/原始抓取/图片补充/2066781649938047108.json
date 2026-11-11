@@ -1,0 +1,40 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 7,
+  "lang": "zh",
+  "created_at": "2026-06-16T07:15:18.000Z",
+  "display_text_range": [
+    0,
+    145
+  ],
+  "entities": {},
+  "id_str": "2066781649938047108",
+  "text": "早上六点起来的时候，是因为黄金到了警报\n\n然后迷迷糊糊挂了一个stop，结果刚好被挂树上了\n\n一度亏18个点，到盈利9个点\n\n但是我只是把20点的止损移动到了10个点，结果刚好打掉就上去了\n\n很悲伤的操作\n\n唯一庆幸的就是早上看了稀土和新能源的ETF\n\n这两个进去就涨，还是很不错的。。。。",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2066781649938047108"
+    ],
+    "editable_until_msecs": "1781597718000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDY2NzgxNjQ5ODkyMDAzODQw"
+  }
+}

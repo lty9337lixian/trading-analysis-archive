@@ -1,0 +1,109 @@
+[info] Loading https://x.com/TradercBTC/status/2080696718061130111 with generic adapter
+[info] Downloaded 6 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2080696718061130111.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HOAcx0ObMAAsV4c.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://abs.twimg.com/finance/v1/crypto/bitcoin/native.png",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HNoxSefbMAAU0or?format=webp&name=small",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HNoxh6laMAAlVoq?format=webp&name=small",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HNoxm6oa4AAKOtF?format=webp&name=small",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/HOAcx0ObMAAsV4c.jpg:large",
+        "localPath": "2080696718061130111/imgs/img-001-HOAcx0ObMAAsV4c-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2080696718061130111/imgs/img-001-HOAcx0ObMAAsV4c-jpg-large.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2080696718061130111/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2080696718061130111/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://abs.twimg.com/finance/v1/crypto/bitcoin/native.png",
+        "localPath": "2080696718061130111/imgs/img-003-native.png",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2080696718061130111/imgs/img-003-native.png",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HNoxSefbMAAU0or?format=webp&name=small",
+        "localPath": "2080696718061130111/imgs/img-004-HNoxSefbMAAU0or.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2080696718061130111/imgs/img-004-HNoxSefbMAAU0or.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HNoxh6laMAAlVoq?format=webp&name=small",
+        "localPath": "2080696718061130111/imgs/img-005-HNoxh6laMAAlVoq.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2080696718061130111/imgs/img-005-HNoxh6laMAAlVoq.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HNoxm6oa4AAKOtF?format=webp&name=small",
+        "localPath": "2080696718061130111/imgs/img-006-HNoxm6oa4AAKOtF.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2080696718061130111/imgs/img-006-HNoxm6oa4AAKOtF.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 6,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2080696718061130111/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2080696718061130111",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2080696718061130111",
+    "title": "trader-c on X: \"这个指标做日内和波段是真好用啊 日内用来判断止盈 波段用来移动止损，简直了 止盈止损功能我认为比环境和动能识别还好用 现在已经将 bitcoin:native 止损移动到成本线以下 一般来说，做趋势波段的时候，等待它的移动止损移动到成本线以下，我就会将止损固定到那里，然后等待它能否达到我的止盈 震荡这种就可以移动止损 直接大幅减少我的入场和出场的决策思考带来的消耗，保持更好的精力 而非常直观的感受就是从上个月日内做的比较痛苦到现在非常顺手。 之前每天大概做一两单，还容易因为自己精力问题上头情绪交易，导致亏损 现在每天做起来精力消耗减少很多，…",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-07-24T16:48:49.000Z",
+    "summary": "这个指标做日内和波段是真好用啊\n\n日内用来判断止盈\n\n波段用来移动止损，简直了\n\n止盈止损功能我认为比环境和动能识别还好用\n\n现在已经将 bitcoin:native 止损移动到成本线以下\n\n一般来说，做趋势波段的时候，等待它的移动止损移动到成本线以下，我就会将止损固定到那里，然后等待它能否达到我的止盈\n\n震荡这种就可以移动止损\n\n直接大幅减少我的入场和出场的决策思考带来的消耗，保持更好的精力\n\n而非常直观的感受就是从上个月日内做的比较痛苦到现在非常顺手。\n\n之前每天大概做一两单，还容易因为自己精力问题上头情绪交易，导致亏损\n\n现在每天做起来精力消耗减少很多，对整个交易流程起到了正向的连锁反…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HOAcx0ObMAAsV4c.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:03:55.677Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n这个指标做日内和波段是真好用啊 日内用来判断止盈 波段用来移动止损，简直了 止盈止损功能我认为比环境和动能识别还好用 现在已经将 [$BTC](https://x.com/search?q=%24BTC%20OR%20bitcoin%3Anative&src=smarttag_click) 止损移动到成本线以下 一般来说，做趋势波段的时候，等待它的移动止损移动到成本线以下，我就会将止损固定到那里，然后等待它能否达到我的止盈 震荡这种就可以移动止损 直接大幅减少我的入场和出场的决策思考带来的消耗，保持更好的精力 而非常直观的感受就是从上个月日内做的比较痛苦到现在非常顺手。 之前每天大概做一两单，还容易因为自己精力问题上头情绪交易，导致亏损 现在每天做起来精力消耗减少很多，对整个交易流程起到了正向的连锁反应 从上个月做日内开始只能勉强保持20点左右的利润，到现在轻松每天50点左右 通过优化和减少入场，出场，止盈止损的决策质量和精力起到效果非常惊人 我靠我之前为什么没想到\n\n-   [\n\n    ![](https://abs.twimg.com/finance/v1/crypto/bitcoin/native.png)\n\n    Bitcoin\n\n    BTC\n\n    US$79,898.00\n\n    +0.35%\n\n    ](https://x.com/search?q=%24BTC%20OR%20bitcoin%3Anative&src=typeahead_click)\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n做点日内交易 黄金：一小时显示的是宽幅震荡，目前价格在通道的中部位置动能式上涨 15min显示的一样。 但是5min显示的动能是下跌 所以组合起来，我们认为按照大周期为主，寻找15分钟和5分钟做多的机会， 然后现在5分钟的动能是下跌，等待从下跌转到均衡，或者出现做多的信号去入场\n\n[![](https://pbs.twimg.com/media/HNoxSefbMAAU0or?format=webp&name=small)](https://x.com/TradercBTC/status/2079029248338321435/photo/1)\n\n[![](https://pbs.twimg.com/media/HNoxh6laMAAlVoq?format=webp&name=small)](https://x.com/TradercBTC/status/2079029248338321435/photo/2)\n\n[![](https://pbs.twimg.com/media/HNoxm6oa4AAKOtF?format=webp&name=small)](https://x.com/TradercBTC/status/2079029248338321435/photo/3)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2080696718061130111"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"这个指标做日内和波段是真好用啊 日内用来判断止盈 波段用来移动止损，简直了 止盈止损功能我认为比环境和动能识别还好用 现在已经将 bitcoin:native 止损移动到成本线以下 一般来说，做趋势波段的时候，等待它的移动止损移动到成本线以下，我就会将止损固定到那里，然后等待它能否达到我的止盈 震荡这种就可以移动止损 直接大幅减少我的入场和出场的决策思考带来的消耗，保持更好的精力 而非常直观的感受就是从上个月日内做的比较痛苦到现在非常顺手。 之前每天大概做一两单，还容易因为自己精力问题上头情绪交易，导致亏损 现在每天做起来精力消耗减少很多，…\"\nurl: \"https://x.com/TradercBTC/status/2080696718061130111\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2080696718061130111\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2080696718061130111/imgs/img-001-HOAcx0ObMAAsV4c-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-07-24T16:48:49.000Z\"\nsummary: |-\n  这个指标做日内和波段是真好用啊\n  \n  日内用来判断止盈\n  \n  波段用来移动止损，简直了\n  \n  止盈止损功能我认为比环境和动能识别还好用\n  \n  现在已经将 bitcoin:native 止损移动到成本线以下\n  \n  一般来说，做趋势波段的时候，等待它的移动止损移动到成本线以下，我就会将止损固定到那里，然后等待它能否达到我的止盈\n  \n  震荡这种就可以移动止损\n  \n  直接大幅减少我的入场和出场的决策思考带来的消耗，保持更好的精力\n  \n  而非常直观的感受就是从上个月日内做的比较痛苦到现在非常顺手。\n  \n  之前每天大概做一两单，还容易因为自己精力问题上头情绪交易，导致亏损\n  \n  现在每天做起来精力消耗减少很多，对整个交易流程起到了正向的连锁反…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:03:55.677Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"这个指标做日内和波段是真好用啊 日内用来判断止盈 波段用来移动止损，简直了 止盈止损功能我认为比环境和动能识别还好用 现在已经将 bitcoin:native 止损移动到成本线以下 一般来说，做趋势波段的时候，等待它的移动止损移动到成本线以下，我就会将止损固定到那里，然后等待它能否达到我的止盈 震荡这种就可以移动止损 直接大幅减少我的入场和出场的决策思考带来的消耗，保持更好的精力 而非常直观的感受就是从上个月日内做的比较痛苦到现在非常顺手。 之前每天大概做一两单，还容易因为自己精力问题上头情绪交易，导致亏损 现在每天做起来精力消耗减少很多，…\n\n[![@TradercBTC](2080696718061130111/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n这个指标做日内和波段是真好用啊 日内用来判断止盈 波段用来移动止损，简直了 止盈止损功能我认为比环境和动能识别还好用 现在已经将 [$BTC](https://x.com/search?q=%24BTC%20OR%20bitcoin%3Anative&src=smarttag_click) 止损移动到成本线以下 一般来说，做趋势波段的时候，等待它的移动止损移动到成本线以下，我就会将止损固定到那里，然后等待它能否达到我的止盈 震荡这种就可以移动止损 直接大幅减少我的入场和出场的决策思考带来的消耗，保持更好的精力 而非常直观的感受就是从上个月日内做的比较痛苦到现在非常顺手。 之前每天大概做一两单，还容易因为自己精力问题上头情绪交易，导致亏损 现在每天做起来精力消耗减少很多，对整个交易流程起到了正向的连锁反应 从上个月做日内开始只能勉强保持20点左右的利润，到现在轻松每天50点左右 通过优化和减少入场，出场，止盈止损的决策质量和精力起到效果非常惊人 我靠我之前为什么没想到\n\n-   [\n\n    ![](2080696718061130111/imgs/img-003-native.png)\n\n    Bitcoin\n\n    BTC\n\n    US$79,898.00\n\n    +0.35%\n\n    ](https://x.com/search?q=%24BTC%20OR%20bitcoin%3Anative&src=typeahead_click)\n\n[![@TradercBTC](2080696718061130111/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n做点日内交易 黄金：一小时显示的是宽幅震荡，目前价格在通道的中部位置动能式上涨 15min显示的一样。 但是5min显示的动能是下跌 所以组合起来，我们认为按照大周期为主，寻找15分钟和5分钟做多的机会， 然后现在5分钟的动能是下跌，等待从下跌转到均衡，或者出现做多的信号去入场\n\n[![](2080696718061130111/imgs/img-004-HNoxSefbMAAU0or.webp)](https://x.com/TradercBTC/status/2079029248338321435/photo/1)\n\n[![](2080696718061130111/imgs/img-005-HNoxh6laMAAlVoq.webp)](https://x.com/TradercBTC/status/2079029248338321435/photo/2)\n\n[![](2080696718061130111/imgs/img-006-HNoxm6oa4AAKOtF.webp)](https://x.com/TradercBTC/status/2079029248338321435/photo/3)\n\nOnly some accounts can reply."
+}

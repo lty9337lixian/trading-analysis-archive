@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2087744770231734614 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2087744770231734614.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HPkoBWzasAAzx43.png:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2087744770231734614/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2087744770231734614/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HPkoBWzasAAzx43.png:large",
+        "localPath": "2087744770231734614/imgs/img-002-HPkoBWzasAAzx43-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2087744770231734614/imgs/img-002-HPkoBWzasAAzx43-png-large.png",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2087744770231734614/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2087744770231734614",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2087744770231734614",
+    "title": "trader-c on X: \"这就是我们在「趋势、回调与反转的区别」里讲的第二部分\n\n1. 正常回调\n上涨推动→ 向下修正→ 买方重新出现→ 突破前高\n结论：上涨趋势延续。\n\n2. 趋势受损\n上涨推动→ 向下修正→ 买方尝试恢复→ 无法突破前高→ 再次向下\n结论：上涨趋势的延续能力下降，但不一定已经转为空头。\n\n3. 趋势终结并进入区间（现在的黄金）\n上涨趋势→ 无法继续创新高→ 回调加深→ 上下双方都无法持续扩展→ 价格来回重叠\n结论：趋势结束，进入相对平衡。\n\n4. 真正反转\n上涨趋势→ 向下强势推动→ 向上反弹→ 反弹无法恢复原上涨结构→ 再次向下突破\n结论：不仅旧趋势失败，新方向还… / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-13T03:35:16.000Z",
+    "summary": "这就是我们在「趋势、回调与反转的区别」里讲的第二部分\n\n1. 正常回调\n上涨推动→ 向下修正→ 买方重新出现→ 突破前高\n结论：上涨趋势延续。\n\n2. 趋势受损\n上涨推动→ 向下修正→ 买方尝试恢复→ 无法突破前高→ 再次向下\n结论：上涨趋势的延续能力下降，但不一定已经转为空头。\n\n3. 趋势终结并进入区间（现在的黄金）\n上涨趋势→ 无法继续创新高→ 回调加深→ 上下双方都无法持续扩展→ 价格来回重叠\n结论：趋势结束，进入相对平衡。\n\n4. 真正反转\n上涨趋势→ 向下强势推动→ 向上反弹→ 反弹无法恢复原上涨结构→ 再次向下突破\n结论：不仅旧趋势失败，新方向还形成了自己的“推动—回调—再推动…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HPkoBWzasAAzx43.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:05:15.264Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t这就是我们在「趋势、回调与反转的区别」里讲的第二部分 1. 正常回调 上涨推动→ 向下修正→ 买方重新出现→ 突破前高 结论：上涨趋势延续。 2. 趋势受损 上涨推动→ 向下修正→ 买方尝试恢复→ 无法突破前高→ 再次向下 结论：上涨趋势的延续能力下降，但不一定已经转为空头。 3. 趋势终结并进入区间（现在的黄金） 上涨趋势→ 无法继续创新高→ 回调加深→ 上下双方都无法持续扩展→ 价格来回重叠 结论：趋势结束，进入相对平衡。 4. 真正反转 上涨趋势→ 向下强势推动→ 向上反弹→ 反弹无法恢复原上涨结构→ 再次向下突破 结论：不仅旧趋势失败，新方向还形成了自己的“推动—回调—再推动”。 这才是比较完整的下跌趋势证据 因此我们对照图表，现在很明显是经历过上涨，向下修正，买方尝试恢复，但是没有突破前高，再此向下 也就是我们进入了最困难的行情，也是机会最大的行情 趋势和区间的转化期\n\t[11:35 · 2026年8月13日](https://x.com/TradercBTC/status/2087744770231734614) [3.6万Views](https://x.com/TradercBTC/status/2087744770231734614)\n\t[1](https://x.com/i/status/2087744770231734614)\n\tOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2087744770231734614"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"这就是我们在「趋势、回调与反转的区别」里讲的第二部分\n  \n  1. 正常回调\n  上涨推动→ 向下修正→ 买方重新出现→ 突破前高\n  结论：上涨趋势延续。\n  \n  2. 趋势受损\n  上涨推动→ 向下修正→ 买方尝试恢复→ 无法突破前高→ 再次向下\n  结论：上涨趋势的延续能力下降，但不一定已经转为空头。\n  \n  3. 趋势终结并进入区间（现在的黄金）\n  上涨趋势→ 无法继续创新高→ 回调加深→ 上下双方都无法持续扩展→ 价格来回重叠\n  结论：趋势结束，进入相对平衡。\n  \n  4. 真正反转\n  上涨趋势→ 向下强势推动→ 向上反弹→ 反弹无法恢复原上涨结构→ 再次向下突破\n  结论：不仅旧趋势失败，新方向还… / X\nurl: \"https://x.com/TradercBTC/status/2087744770231734614\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2087744770231734614\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2087744770231734614/imgs/img-002-HPkoBWzasAAzx43-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-13T03:35:16.000Z\"\nsummary: |-\n  这就是我们在「趋势、回调与反转的区别」里讲的第二部分\n  \n  1. 正常回调\n  上涨推动→ 向下修正→ 买方重新出现→ 突破前高\n  结论：上涨趋势延续。\n  \n  2. 趋势受损\n  上涨推动→ 向下修正→ 买方尝试恢复→ 无法突破前高→ 再次向下\n  结论：上涨趋势的延续能力下降，但不一定已经转为空头。\n  \n  3. 趋势终结并进入区间（现在的黄金）\n  上涨趋势→ 无法继续创新高→ 回调加深→ 上下双方都无法持续扩展→ 价格来回重叠\n  结论：趋势结束，进入相对平衡。\n  \n  4. 真正反转\n  上涨趋势→ 向下强势推动→ 向上反弹→ 反弹无法恢复原上涨结构→ 再次向下突破\n  结论：不仅旧趋势失败，新方向还形成了自己的“推动—回调—再推动…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:05:15.264Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"这就是我们在「趋势、回调与反转的区别」里讲的第二部分\n\n1. 正常回调\n上涨推动→ 向下修正→ 买方重新出现→ 突破前高\n结论：上涨趋势延续。\n\n2. 趋势受损\n上涨推动→ 向下修正→ 买方尝试恢复→ 无法突破前高→ 再次向下\n结论：上涨趋势的延续能力下降，但不一定已经转为空头。\n\n3. 趋势终结并进入区间（现在的黄金）\n上涨趋势→ 无法继续创新高→ 回调加深→ 上下双方都无法持续扩展→ 价格来回重叠\n结论：趋势结束，进入相对平衡。\n\n4. 真正反转\n上涨趋势→ 向下强势推动→ 向上反弹→ 反弹无法恢复原上涨结构→ 再次向下突破\n结论：不仅旧趋势失败，新方向还… / X\n\n- [![@TradercBTC](2087744770231734614/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t这就是我们在「趋势、回调与反转的区别」里讲的第二部分 1. 正常回调 上涨推动→ 向下修正→ 买方重新出现→ 突破前高 结论：上涨趋势延续。 2. 趋势受损 上涨推动→ 向下修正→ 买方尝试恢复→ 无法突破前高→ 再次向下 结论：上涨趋势的延续能力下降，但不一定已经转为空头。 3. 趋势终结并进入区间（现在的黄金） 上涨趋势→ 无法继续创新高→ 回调加深→ 上下双方都无法持续扩展→ 价格来回重叠 结论：趋势结束，进入相对平衡。 4. 真正反转 上涨趋势→ 向下强势推动→ 向上反弹→ 反弹无法恢复原上涨结构→ 再次向下突破 结论：不仅旧趋势失败，新方向还形成了自己的“推动—回调—再推动”。 这才是比较完整的下跌趋势证据 因此我们对照图表，现在很明显是经历过上涨，向下修正，买方尝试恢复，但是没有突破前高，再此向下 也就是我们进入了最困难的行情，也是机会最大的行情 趋势和区间的转化期\n\t[11:35 · 2026年8月13日](https://x.com/TradercBTC/status/2087744770231734614) [3.6万Views](https://x.com/TradercBTC/status/2087744770231734614)\n\t[1](https://x.com/i/status/2087744770231734614)\n\tOnly some accounts can reply."
+}

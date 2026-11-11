@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2030562729485091056 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2030562729485091056.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HC4BXfyb0AAPjc1.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2030562729485091056/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2030562729485091056/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HC4BXfyb0AAPjc1.jpg:large",
+        "localPath": "2030562729485091056/imgs/img-002-HC4BXfyb0AAPjc1-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2030562729485091056/imgs/img-002-HC4BXfyb0AAPjc1-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2030562729485091056/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2030562729485091056",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2030562729485091056",
+    "title": "trader-c on X: \"我勒个\n\n好久没登discord了\n\n现在快社区900人了，牛逼\n\n最近有点想法，像效仿张居正搞一套自我\"考成法\"？\n\n搞“三本账”一个交易日志，记录每笔交易的逻辑、入场价、止损位、出场价、事后复盘，当然是初步想法\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-03-08T08:34:15.000Z",
+    "summary": "我勒个\n\n好久没登discord了\n\n现在快社区900人了，牛逼\n\n最近有点想法，像效仿张居正搞一套自我\"考成法\"？\n\n搞“三本账”一个交易日志，记录每笔交易的逻辑、入场价、止损位、出场价、事后复盘，当然是初步想法",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HC4BXfyb0AAPjc1.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:54:05.311Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n我勒个 好久没登discord了 现在快社区900人了，牛逼 最近有点想法，像效仿张居正搞一套自我\"考成法\"？ 搞“三本账”一个交易日志，记录每笔交易的逻辑、入场价、止损位、出场价、事后复盘，当然是初步想法\n\n[16:34 · 2026年3月8日](https://x.com/TradercBTC/status/2030562729485091056) [2627Views](https://x.com/TradercBTC/status/2030562729485091056)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2030562729485091056"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"我勒个\n  \n  好久没登discord了\n  \n  现在快社区900人了，牛逼\n  \n  最近有点想法，像效仿张居正搞一套自我\"考成法\"？\n  \n  搞“三本账”一个交易日志，记录每笔交易的逻辑、入场价、止损位、出场价、事后复盘，当然是初步想法\" / X\nurl: \"https://x.com/TradercBTC/status/2030562729485091056\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2030562729485091056\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2030562729485091056/imgs/img-002-HC4BXfyb0AAPjc1-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-03-08T08:34:15.000Z\"\nsummary: |-\n  我勒个\n  \n  好久没登discord了\n  \n  现在快社区900人了，牛逼\n  \n  最近有点想法，像效仿张居正搞一套自我\"考成法\"？\n  \n  搞“三本账”一个交易日志，记录每笔交易的逻辑、入场价、止损位、出场价、事后复盘，当然是初步想法\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:54:05.311Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"我勒个\n\n好久没登discord了\n\n现在快社区900人了，牛逼\n\n最近有点想法，像效仿张居正搞一套自我\"考成法\"？\n\n搞“三本账”一个交易日志，记录每笔交易的逻辑、入场价、止损位、出场价、事后复盘，当然是初步想法\" / X\n\n[![@TradercBTC](2030562729485091056/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n我勒个 好久没登discord了 现在快社区900人了，牛逼 最近有点想法，像效仿张居正搞一套自我\"考成法\"？ 搞“三本账”一个交易日志，记录每笔交易的逻辑、入场价、止损位、出场价、事后复盘，当然是初步想法\n\n[16:34 · 2026年3月8日](https://x.com/TradercBTC/status/2030562729485091056) [2627Views](https://x.com/TradercBTC/status/2030562729485091056)"
+}

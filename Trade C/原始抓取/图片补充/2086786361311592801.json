@@ -1,0 +1,76 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 33,
+  "lang": "zh",
+  "created_at": "2026-08-10T12:06:53.000Z",
+  "display_text_range": [
+    0,
+    142
+  ],
+  "entities": {},
+  "id_str": "2086786361311592801",
+  "text": "现在推特已经成为我的打字文档软件了\n\n继续写\n\n写一些看完上本书之后的一些个人总结\n\n主要是一些关于对市场的解读的内容\n\n第2，3，5章其实讲的是一个内容，组合起来就是我们拿到图表，观察市场的完整决策链。\n\n首先当我们拿到一张图表，我们首先关注方向和结构。\n\n方向是更看好做多还是做空",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2086786361311592801"
+    ],
+    "editable_until_msecs": "1786367213000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 1,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "conversation_control": {
+      "policy": "Verified"
+    },
+    "favorite_count": 234,
+    "lang": "zh",
+    "reply_count": 2,
+    "retweet_count": 48,
+    "created_at": "2026-08-10T10:51:56.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "entities": {},
+    "id_str": "2086767496414274017",
+    "text": "推交易书：《The Art and Science of Technical Analysis》\n\n好像只有繁体中文版：《關鍵買賣點：突破實戰交易的科學與藝術》\n\n整体看下来，有必要读的就这几章：\n\n「第1章：交易优势防止把技术分析学成图形记忆。\n\n第3章：趋势特别是回调结构。",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2086767496414274017"
+      ],
+      "editable_until_msecs": "1786362716000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDg2Nzg2MzYxMjIzNDY3MDA4"
+  }
+}

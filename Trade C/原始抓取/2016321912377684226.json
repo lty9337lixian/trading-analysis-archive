@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/G_to4A8bAAA4zHI.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2016321912377684226/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2016321912377684226/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/G_to4A8bAAA4zHI.jpg:large",
+        "localPath": "2016321912377684226/imgs/img-002-G_to4A8bAAA4zHI-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2016321912377684226/imgs/img-002-G_to4A8bAAA4zHI-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2016321912377684226/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2016321912377684226",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2016321912377684226",
+    "title": "trader-c on X: \"怕高都是苦命人\n\n我是在24年圣诞节和25年初，聊着买黄金\n\n图一是我当时看到的图表，已经up up up了\n\n要是怕高，后面这些机会就和我没啥关系了\n\n怕高这个毛病，我用了好多年才解决掉\n\n结构不出问题的基础上，回调结束就是机会\n\n当然只是没这么简单罢了\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-01-28T01:26:20.000Z",
+    "summary": "怕高都是苦命人\n\n我是在24年圣诞节和25年初，聊着买黄金\n\n图一是我当时看到的图表，已经up up up了\n\n要是怕高，后面这些机会就和我没啥关系了\n\n怕高这个毛病，我用了好多年才解决掉\n\n结构不出问题的基础上，回调结束就是机会\n\n当然只是没这么简单罢了",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/G_to4A8bAAA4zHI.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:43:59.244Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n怕高都是苦命人 我是在24年圣诞节和25年初，聊着买黄金 图一是我当时看到的图表，已经up up up了 要是怕高，后面这些机会就和我没啥关系了 怕高这个毛病，我用了好多年才解决掉 结构不出问题的基础上，回调结束就是机会 当然只是没这么简单罢了\n\n[9:26 · 2026年1月28日](https://x.com/TradercBTC/status/2016321912377684226) [2068Views](https://x.com/TradercBTC/status/2016321912377684226)\n\n[3](https://x.com/i/status/2016321912377684226)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2016321912377684226"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"怕高都是苦命人\n  \n  我是在24年圣诞节和25年初，聊着买黄金\n  \n  图一是我当时看到的图表，已经up up up了\n  \n  要是怕高，后面这些机会就和我没啥关系了\n  \n  怕高这个毛病，我用了好多年才解决掉\n  \n  结构不出问题的基础上，回调结束就是机会\n  \n  当然只是没这么简单罢了\" / X\nurl: \"https://x.com/TradercBTC/status/2016321912377684226\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2016321912377684226\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2016321912377684226/imgs/img-002-G_to4A8bAAA4zHI-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-01-28T01:26:20.000Z\"\nsummary: |-\n  怕高都是苦命人\n  \n  我是在24年圣诞节和25年初，聊着买黄金\n  \n  图一是我当时看到的图表，已经up up up了\n  \n  要是怕高，后面这些机会就和我没啥关系了\n  \n  怕高这个毛病，我用了好多年才解决掉\n  \n  结构不出问题的基础上，回调结束就是机会\n  \n  当然只是没这么简单罢了\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:43:59.244Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"怕高都是苦命人\n\n我是在24年圣诞节和25年初，聊着买黄金\n\n图一是我当时看到的图表，已经up up up了\n\n要是怕高，后面这些机会就和我没啥关系了\n\n怕高这个毛病，我用了好多年才解决掉\n\n结构不出问题的基础上，回调结束就是机会\n\n当然只是没这么简单罢了\" / X\n\n[![@TradercBTC](2016321912377684226/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n怕高都是苦命人 我是在24年圣诞节和25年初，聊着买黄金 图一是我当时看到的图表，已经up up up了 要是怕高，后面这些机会就和我没啥关系了 怕高这个毛病，我用了好多年才解决掉 结构不出问题的基础上，回调结束就是机会 当然只是没这么简单罢了\n\n[9:26 · 2026年1月28日](https://x.com/TradercBTC/status/2016321912377684226) [2068Views](https://x.com/TradercBTC/status/2016321912377684226)\n\n[3](https://x.com/i/status/2016321912377684226)"
+}

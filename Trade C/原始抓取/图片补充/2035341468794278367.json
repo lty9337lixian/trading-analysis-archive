@@ -1,0 +1,62 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 301,
+  "lang": "zxx",
+  "possibly_sensitive": false,
+  "created_at": "2026-03-21T13:03:15.000Z",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2035…",
+        "expanded_url": "http://x.com/i/article/2035337138083090432",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/hGS81kI06r"
+      }
+    ]
+  },
+  "id_str": "2035341468794278367",
+  "text": "https://t.co/hGS81kI06r",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2035341468794278367"
+    ],
+    "editable_until_msecs": "1774101795000",
+    "edits_remaining": "5",
+    "is_edit_eligible": false
+  },
+  "conversation_count": 6,
+  "news_action_type": "conversation",
+  "article": {
+    "cover_media": {
+      "id": "QXBpTWVkaWE6DAAFCgABHD75CvSbEAAKAAIaqP8AOBtwBgAA",
+      "media_info": {
+        "__typename": "ApiImage",
+        "original_img_height": 1312,
+        "original_img_url": "https://pbs.twimg.com/media/HD75CvSbEAA_Wm5.jpg",
+        "original_img_width": 3280
+      }
+    },
+    "id": "QXJ0aWNsZUVudGl0eToyMDM1MzM3MTM4MDgzMDkwNDMy",
+    "preview_text": "1987年10月19日，道琼斯工业平均指数在一天之内下跌了22.6%。这个跌幅在此前和此后都没有被超越过。当天收盘后，纽约证券交易所的交易大厅里弥漫着一种接近生理性恐惧的气氛——有交易员当场呕吐，有人瘫坐在地上，有",
+    "rest_id": "2035337138083090432",
+    "title": "市场不在乎你的感受"
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

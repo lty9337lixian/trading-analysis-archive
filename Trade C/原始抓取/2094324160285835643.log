@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2094324160285835643 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2094324160285835643.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HRCIsN0bcAA7SWu.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2094324160285835643/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2094324160285835643/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HRCIsN0bcAA7SWu.jpg:large",
+        "localPath": "2094324160285835643/imgs/img-002-HRCIsN0bcAA7SWu-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2094324160285835643/imgs/img-002-HRCIsN0bcAA7SWu-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2094324160285835643/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2094324160285835643",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2094324160285835643",
+    "title": "trader-c on X: \"CRCL 周线存在两处明确被市场拒绝的价格：60 下方、130 上方。\n\n日线已经完成 70 的突破确认，当前刚突破 83 尚未回测确认；重点等待回测 83 附近获得支撑，博弈向上看向 114‑120。 \n\n证伪条件参考跌破 80 或者 75；\n 一、周线级别大框架 \n\n两处被市场拒绝的价格：60 下方、130 上方，整体行情处在周线大箱体内部。 \n\n当前价格运行在周线箱体的上半段，如果 83 这一关口被市场接纳，行情有向上进攻的潜力，上方目标看向 114‑120 一带。\n\n 二、日线级别结构拆解 \n第一轮关键位置 70：价格第一次向上突破 70 之后出现小型… / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-31T07:19:25.000Z",
+    "summary": "CRCL 周线存在两处明确被市场拒绝的价格：60 下方、130 上方。\n\n日线已经完成 70 的突破确认，当前刚突破 83 尚未回测确认；重点等待回测 83 附近获得支撑，博弈向上看向 114‑120。 \n\n证伪条件参考跌破 80 或者 75；\n 一、周线级别大框架 \n\n两处被市场拒绝的价格：60 下方、130 上方，整体行情处在周线大箱体内部。 \n\n当前价格运行在周线箱体的上半段，如果 83 这一关口被市场接纳，行情有向上进攻的潜力，上方目标看向 114‑120 一带。\n\n 二、日线级别结构拆解 \n第一轮关键位置 70：价格第一次向上突破 70 之后出现小型盘整，属于市场测试；\n\n后续没有…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HRCIsN0bcAA7SWu.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:06:35.808Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\nCRCL 周线存在两处明确被市场拒绝的价格：60 下方、130 上方。 日线已经完成 70 的突破确认，当前刚突破 83 尚未回测确认；重点等待回测 83 附近获得支撑，博弈向上看向 114‑120。 证伪条件参考跌破 80 或者 75； 一、周线级别大框架 两处被市场拒绝的价格：60 下方、130 上方，整体行情处在周线大箱体内部。 当前价格运行在周线箱体的上半段，如果 83 这一关口被市场接纳，行情有向上进攻的潜力，上方目标看向 114‑120 一带。 二、日线级别结构拆解 第一轮关键位置 70：价格第一次向上突破 70 之后出现小型盘整，属于市场测试； 后续没有跌回 70 下方，代表市场接受 70 以上的价格，突破得到确认。 当前状态：价格新突破 83，还没有进行回测验证，后续回测的结果决定后续方向。 若回测后守住 83： 市场接纳 83 上方价格，打开向上空间。 若回测直接失守关键支撑，则本轮向上突破失效。 三、具体交易思路 等待行情回测 83 附近区间。 入场条件：回测 83，小级别 / 日内盘面出现明确支撑信号，择机做多。 证伪止损二选一：有效跌破 80；或者跌破 75，触发则直接放弃多头逻辑。 多头目标：114‑120 附近。 四、重要联动风险 CRCL 行情和 BTC 高度相关，不能只看币种自身 K 线；做决策的时候，需要同步参考比特币盘面环境，结合大盘一起评估机会。\n\n[15:19 · 2026年8月31日](https://x.com/TradercBTC/status/2094324160285835643) [5404Views](https://x.com/TradercBTC/status/2094324160285835643)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2094324160285835643"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"CRCL 周线存在两处明确被市场拒绝的价格：60 下方、130 上方。\n  \n  日线已经完成 70 的突破确认，当前刚突破 83 尚未回测确认；重点等待回测 83 附近获得支撑，博弈向上看向 114‑120。 \n  \n  证伪条件参考跌破 80 或者 75；\n   一、周线级别大框架 \n  \n  两处被市场拒绝的价格：60 下方、130 上方，整体行情处在周线大箱体内部。 \n  \n  当前价格运行在周线箱体的上半段，如果 83 这一关口被市场接纳，行情有向上进攻的潜力，上方目标看向 114‑120 一带。\n  \n   二、日线级别结构拆解 \n  第一轮关键位置 70：价格第一次向上突破 70 之后出现小型… / X\nurl: \"https://x.com/TradercBTC/status/2094324160285835643\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2094324160285835643\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2094324160285835643/imgs/img-002-HRCIsN0bcAA7SWu-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-31T07:19:25.000Z\"\nsummary: |-\n  CRCL 周线存在两处明确被市场拒绝的价格：60 下方、130 上方。\n  \n  日线已经完成 70 的突破确认，当前刚突破 83 尚未回测确认；重点等待回测 83 附近获得支撑，博弈向上看向 114‑120。 \n  \n  证伪条件参考跌破 80 或者 75；\n   一、周线级别大框架 \n  \n  两处被市场拒绝的价格：60 下方、130 上方，整体行情处在周线大箱体内部。 \n  \n  当前价格运行在周线箱体的上半段，如果 83 这一关口被市场接纳，行情有向上进攻的潜力，上方目标看向 114‑120 一带。\n  \n   二、日线级别结构拆解 \n  第一轮关键位置 70：价格第一次向上突破 70 之后出现小型盘整，属于市场测试；\n  \n  后续没有…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:06:35.808Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"CRCL 周线存在两处明确被市场拒绝的价格：60 下方、130 上方。\n\n日线已经完成 70 的突破确认，当前刚突破 83 尚未回测确认；重点等待回测 83 附近获得支撑，博弈向上看向 114‑120。 \n\n证伪条件参考跌破 80 或者 75；\n 一、周线级别大框架 \n\n两处被市场拒绝的价格：60 下方、130 上方，整体行情处在周线大箱体内部。 \n\n当前价格运行在周线箱体的上半段，如果 83 这一关口被市场接纳，行情有向上进攻的潜力，上方目标看向 114‑120 一带。\n\n 二、日线级别结构拆解 \n第一轮关键位置 70：价格第一次向上突破 70 之后出现小型… / X\n\n[![@TradercBTC](2094324160285835643/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\nCRCL 周线存在两处明确被市场拒绝的价格：60 下方、130 上方。 日线已经完成 70 的突破确认，当前刚突破 83 尚未回测确认；重点等待回测 83 附近获得支撑，博弈向上看向 114‑120。 证伪条件参考跌破 80 或者 75； 一、周线级别大框架 两处被市场拒绝的价格：60 下方、130 上方，整体行情处在周线大箱体内部。 当前价格运行在周线箱体的上半段，如果 83 这一关口被市场接纳，行情有向上进攻的潜力，上方目标看向 114‑120 一带。 二、日线级别结构拆解 第一轮关键位置 70：价格第一次向上突破 70 之后出现小型盘整，属于市场测试； 后续没有跌回 70 下方，代表市场接受 70 以上的价格，突破得到确认。 当前状态：价格新突破 83，还没有进行回测验证，后续回测的结果决定后续方向。 若回测后守住 83： 市场接纳 83 上方价格，打开向上空间。 若回测直接失守关键支撑，则本轮向上突破失效。 三、具体交易思路 等待行情回测 83 附近区间。 入场条件：回测 83，小级别 / 日内盘面出现明确支撑信号，择机做多。 证伪止损二选一：有效跌破 80；或者跌破 75，触发则直接放弃多头逻辑。 多头目标：114‑120 附近。 四、重要联动风险 CRCL 行情和 BTC 高度相关，不能只看币种自身 K 线；做决策的时候，需要同步参考比特币盘面环境，结合大盘一起评估机会。\n\n[15:19 · 2026年8月31日](https://x.com/TradercBTC/status/2094324160285835643) [5404Views](https://x.com/TradercBTC/status/2094324160285835643)\n\nOnly some accounts can reply."
+}

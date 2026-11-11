@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2065049749053739503 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2065049749053739503.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HKiHbcpaAAAUc6l.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2065049749053739503/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2065049749053739503/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HKiHbcpaAAAUc6l.jpg:large",
+        "localPath": "2065049749053739503/imgs/img-002-HKiHbcpaAAAUc6l-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2065049749053739503/imgs/img-002-HKiHbcpaAAAUc6l-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2065049749053739503/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2065049749053739503",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2065049749053739503",
+    "title": "trader-c on X: \"也算是弥补了一下，美盘再等个机会\n\n哎woc要是之前不乱操作\n\n这会应该是正50个点了\n\n乱操作一次几个点，止损一次十个点\n\n现在还是亏钱的。。。。\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-06-11T12:33:21.000Z",
+    "summary": "也算是弥补了一下，美盘再等个机会\n\n哎woc要是之前不乱操作\n\n这会应该是正50个点了\n\n乱操作一次几个点，止损一次十个点\n\n现在还是亏钱的。。。。",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HKiHbcpaAAAUc6l.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:02:00.878Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n也算是弥补了一下，美盘再等个机会 哎woc要是之前不乱操作 这会应该是正50个点了 乱操作一次几个点，止损一次十个点 现在还是亏钱的。。。。\n\n这日内做的，真的和失了智一样 真的得减少看盘时间，以及不能做1min，说实话我写一份就点开看看，然后就手闲的想管一下 这个最大的问题不是说做错单，而是贪婪和恐惧会控制我自己 导致止盈做不好 止盈本来就难，该赚钱的单子没赚，保本了，不赚钱的就纯亏 自己看着都笨笨的🤔简直糟糕糟糕omg\n\n[20:33 · 2026年6月11日](https://x.com/TradercBTC/status/2065049749053739503) [1767Views](https://x.com/TradercBTC/status/2065049749053739503)\n\n[1](https://x.com/i/status/2065049749053739503)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2065049749053739503"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"也算是弥补了一下，美盘再等个机会\n  \n  哎woc要是之前不乱操作\n  \n  这会应该是正50个点了\n  \n  乱操作一次几个点，止损一次十个点\n  \n  现在还是亏钱的。。。。\" / X\nurl: \"https://x.com/TradercBTC/status/2065049749053739503\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2065049749053739503\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2065049749053739503/imgs/img-002-HKiHbcpaAAAUc6l-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-06-11T12:33:21.000Z\"\nsummary: |-\n  也算是弥补了一下，美盘再等个机会\n  \n  哎woc要是之前不乱操作\n  \n  这会应该是正50个点了\n  \n  乱操作一次几个点，止损一次十个点\n  \n  现在还是亏钱的。。。。\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:02:00.878Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"也算是弥补了一下，美盘再等个机会\n\n哎woc要是之前不乱操作\n\n这会应该是正50个点了\n\n乱操作一次几个点，止损一次十个点\n\n现在还是亏钱的。。。。\" / X\n\n[![@TradercBTC](2065049749053739503/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n也算是弥补了一下，美盘再等个机会 哎woc要是之前不乱操作 这会应该是正50个点了 乱操作一次几个点，止损一次十个点 现在还是亏钱的。。。。\n\n这日内做的，真的和失了智一样 真的得减少看盘时间，以及不能做1min，说实话我写一份就点开看看，然后就手闲的想管一下 这个最大的问题不是说做错单，而是贪婪和恐惧会控制我自己 导致止盈做不好 止盈本来就难，该赚钱的单子没赚，保本了，不赚钱的就纯亏 自己看着都笨笨的🤔简直糟糕糟糕omg\n\n[20:33 · 2026年6月11日](https://x.com/TradercBTC/status/2065049749053739503) [1767Views](https://x.com/TradercBTC/status/2065049749053739503)\n\n[1](https://x.com/i/status/2065049749053739503)"
+}

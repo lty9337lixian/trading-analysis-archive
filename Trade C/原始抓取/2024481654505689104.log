@@ -1,0 +1,58 @@
+[info] Loading https://x.com/TradercBTC/status/2024481654505689104 with generic adapter
+[info] Downloaded 1 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2024481654505689104.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2024481654505689104/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2024481654505689104/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2024481654505689104/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2024481654505689104",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2024481654505689104",
+    "title": "trader-c on X: \"我的交易系统由三部分组成：周期+结构+管理订单\n\n这短短的八个字，是我多年交易生活，持续学习，在之前学习cursor，跟随AI时代不断尝试新事物\n\n在不断的理论，实践，理论指导实践，实践检验理论的循环中，不知道循环了多少次才明白的\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-19T13:50:14.000Z",
+    "summary": "我的交易系统由三部分组成：周期+结构+管理订单\n\n这短短的八个字，是我多年交易生活，持续学习，在之前学习cursor，跟随AI时代不断尝试新事物\n\n在不断的理论，实践，理论指导实践，实践检验理论的循环中，不知道循环了多少次才明白的",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:58:25.842Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t我的交易系统由三部分组成：周期+结构+管理订单 这短短的八个字，是我多年交易生活，持续学习，在之前学习cursor，跟随AI时代不断尝试新事物 在不断的理论，实践，理论指导实践，实践检验理论的循环中，不知道循环了多少次才明白的\n\t[21:50 · 2026年2月19日](https://x.com/TradercBTC/status/2024481654505689104) [1.9万Views](https://x.com/TradercBTC/status/2024481654505689104)\n\t[4](https://x.com/i/status/2024481654505689104)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2024481654505689104"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"我的交易系统由三部分组成：周期+结构+管理订单\n  \n  这短短的八个字，是我多年交易生活，持续学习，在之前学习cursor，跟随AI时代不断尝试新事物\n  \n  在不断的理论，实践，理论指导实践，实践检验理论的循环中，不知道循环了多少次才明白的\" / X\nurl: \"https://x.com/TradercBTC/status/2024481654505689104\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2024481654505689104\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2024481654505689104/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-19T13:50:14.000Z\"\nsummary: |-\n  我的交易系统由三部分组成：周期+结构+管理订单\n  \n  这短短的八个字，是我多年交易生活，持续学习，在之前学习cursor，跟随AI时代不断尝试新事物\n  \n  在不断的理论，实践，理论指导实践，实践检验理论的循环中，不知道循环了多少次才明白的\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:58:25.842Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"我的交易系统由三部分组成：周期+结构+管理订单\n\n这短短的八个字，是我多年交易生活，持续学习，在之前学习cursor，跟随AI时代不断尝试新事物\n\n在不断的理论，实践，理论指导实践，实践检验理论的循环中，不知道循环了多少次才明白的\" / X\n\n- [![@TradercBTC](2024481654505689104/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t我的交易系统由三部分组成：周期+结构+管理订单 这短短的八个字，是我多年交易生活，持续学习，在之前学习cursor，跟随AI时代不断尝试新事物 在不断的理论，实践，理论指导实践，实践检验理论的循环中，不知道循环了多少次才明白的\n\t[21:50 · 2026年2月19日](https://x.com/TradercBTC/status/2024481654505689104) [1.9万Views](https://x.com/TradercBTC/status/2024481654505689104)\n\t[4](https://x.com/i/status/2024481654505689104)"
+}

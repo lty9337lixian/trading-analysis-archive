@@ -1,0 +1,62 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 147,
+  "lang": "zxx",
+  "possibly_sensitive": false,
+  "created_at": "2026-04-18T08:42:19.000Z",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2045…",
+        "expanded_url": "http://x.com/i/article/2045413411962421248",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/dVUTJRsdbC"
+      }
+    ]
+  },
+  "id_str": "2045422662097551870",
+  "text": "https://t.co/dVUTJRsdbC",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2045422662097551870"
+    ],
+    "editable_until_msecs": "1776505339000",
+    "edits_remaining": "5",
+    "is_edit_eligible": false
+  },
+  "conversation_count": 10,
+  "news_action_type": "conversation",
+  "article": {
+    "cover_media": {
+      "id": "QXBpTWVkaWE6DAAFCgABHGLE+IPbcAAKAAIaqP8AOBtwBgAA",
+      "media_info": {
+        "__typename": "ApiImage",
+        "original_img_height": 1126,
+        "original_img_url": "https://pbs.twimg.com/media/HGLE-IPbcAATvF9.jpg",
+        "original_img_width": 2816
+      }
+    },
+    "id": "QXJ0aWNsZUVudGl0eToyMDQ1NDEzNDExOTYyNDIxMjQ4",
+    "preview_text": "普罗米修斯偷了火。\n他从奥林匹斯山上拿了一根茴香秆，掏空了里面，把神的火焰塞进去，带下山交给了人类。\n这是希腊神话里最重要的一个时刻。",
+    "rest_id": "2045413411962421248",
+    "title": "交易系统是被逼出来的"
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

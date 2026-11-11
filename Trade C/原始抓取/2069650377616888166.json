@@ -1,0 +1,55 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2069650377616888166/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2069650377616888166/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2069650377616888166/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2069650377616888166",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2069650377616888166",
+    "title": "trader-c on X: \"主要是最近在研究基本面，大a的行业主线\n\n想要完整参与一次主线\n\n元件明显已经太高了，说不定能源金属能接力，哪怕接力一个中期的，两周，也算是我第一次介入主线的经验了😂\n\n实践一下，检验一下我的学习成果，再复盘\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-06-24T05:14:36.000Z",
+    "summary": "主要是最近在研究基本面，大a的行业主线\n\n想要完整参与一次主线\n\n元件明显已经太高了，说不定能源金属能接力，哪怕接力一个中期的，两周，也算是我第一次介入主线的经验了😂\n\n实践一下，检验一下我的学习成果，再复盘",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:51:53.794Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t主要是最近在研究基本面，大a的行业主线 想要完整参与一次主线 元件明显已经太高了，说不定能源金属能接力，哪怕接力一个中期的，两周，也算是我第一次介入主线的经验了😂 实践一下，检验一下我的学习成果，再复盘\n\t[13:14 · 2026年6月24日](https://x.com/TradercBTC/status/2069650377616888166) [1765Views](https://x.com/TradercBTC/status/2069650377616888166)\n\tOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2069650377616888166"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"主要是最近在研究基本面，大a的行业主线\n  \n  想要完整参与一次主线\n  \n  元件明显已经太高了，说不定能源金属能接力，哪怕接力一个中期的，两周，也算是我第一次介入主线的经验了😂\n  \n  实践一下，检验一下我的学习成果，再复盘\" / X\nurl: \"https://x.com/TradercBTC/status/2069650377616888166\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2069650377616888166\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2069650377616888166/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-06-24T05:14:36.000Z\"\nsummary: |-\n  主要是最近在研究基本面，大a的行业主线\n  \n  想要完整参与一次主线\n  \n  元件明显已经太高了，说不定能源金属能接力，哪怕接力一个中期的，两周，也算是我第一次介入主线的经验了😂\n  \n  实践一下，检验一下我的学习成果，再复盘\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:51:53.794Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"主要是最近在研究基本面，大a的行业主线\n\n想要完整参与一次主线\n\n元件明显已经太高了，说不定能源金属能接力，哪怕接力一个中期的，两周，也算是我第一次介入主线的经验了😂\n\n实践一下，检验一下我的学习成果，再复盘\" / X\n\n- [![@TradercBTC](2069650377616888166/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t主要是最近在研究基本面，大a的行业主线 想要完整参与一次主线 元件明显已经太高了，说不定能源金属能接力，哪怕接力一个中期的，两周，也算是我第一次介入主线的经验了😂 实践一下，检验一下我的学习成果，再复盘\n\t[13:14 · 2026年6月24日](https://x.com/TradercBTC/status/2069650377616888166) [1765Views](https://x.com/TradercBTC/status/2069650377616888166)\n\tOnly some accounts can reply."
+}

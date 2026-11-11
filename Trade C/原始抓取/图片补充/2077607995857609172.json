@@ -1,0 +1,450 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 1,
+  "in_reply_to_screen_name": "TradercBTC",
+  "in_reply_to_status_id_str": "2077593081243914523",
+  "in_reply_to_user_id_str": "1921065617479921670",
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-07-16T04:15:20.000Z",
+  "display_text_range": [
+    0,
+    168
+  ],
+  "entities": {
+    "urls": [
+      {
+        "display_url": "x.com/TradercBTC/sta…",
+        "expanded_url": "https://x.com/TradercBTC/status/1987891639675949056",
+        "indices": [
+          45,
+          68
+        ],
+        "url": "https://t.co/DOK7aWfGvD"
+      },
+      {
+        "display_url": "x.com/TradercBTC/sta…",
+        "expanded_url": "https://x.com/TradercBTC/status/1977886417301938392",
+        "indices": [
+          91,
+          114
+        ],
+        "url": "https://t.co/OX2ZmnRLW9"
+      },
+      {
+        "display_url": "x.com/TradercBTC/sta…",
+        "expanded_url": "https://x.com/TradercBTC/status/1977960605513646483",
+        "indices": [
+          145,
+          168
+        ],
+        "url": "https://t.co/bPCaeUFqir"
+      }
+    ]
+  },
+  "id_str": "2077607995857609172",
+  "text": "第五部分 进出场与执行\n\n顺大逆小是以大级别确定方向，等待小级别结构转变后逐步建立仓位。\nhttps://t.co/DOK7aWfGvD\n不确定时可以使用小仓位试探市场并验证判断。\nhttps://t.co/OX2ZmnRLW9\n\n轻仓试错、分批进场和结构止损可以控制单次判断错误的代价。\nhttps://t.co/bPCaeUFqir",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2077607995857609172"
+    ],
+    "editable_until_msecs": "1784178920000",
+    "edits_remaining": "5",
+    "is_edit_eligible": false
+  },
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "parent": {
+    "conversation_control": {
+      "policy": "Verified"
+    },
+    "favorite_count": 170,
+    "lang": "zh",
+    "reply_count": 13,
+    "retweet_count": 35,
+    "created_at": "2026-07-16T03:16:05.000Z",
+    "display_text_range": [
+      0,
+      102
+    ],
+    "entities": {},
+    "id_str": "2077593081243914523",
+    "text": "C哥完整交易系统框架（全量推文版）\n\n基于 C哥交易认知与推文内容整理，按交易系统的逻辑层级排列。\n\n一、整体框架\n\n第一层是第一性原理，解决市场是什么、交易者如何看待自己、为什么必须承认不确定性的问题。",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2077593081243914523"
+      ],
+      "editable_until_msecs": "1784175365000",
+      "edits_remaining": "5",
+      "is_edit_eligible": false
+    },
+    "quoted_tweet": {
+      "__typename": "Tweet",
+      "conversation_control": {
+        "policy": "Verified"
+      },
+      "favorite_count": 23,
+      "lang": "zh",
+      "possibly_sensitive": false,
+      "reply_count": 0,
+      "retweet_count": 3,
+      "created_at": "2026-07-15T13:53:58.000Z",
+      "display_text_range": [
+        0,
+        32
+      ],
+      "entities": {
+        "media": [
+          {
+            "display_url": "pic.x.com/d1JMKvOeOO",
+            "expanded_url": "https://x.com/TradercBTC/status/2077391224294834653/photo/1",
+            "indices": [
+              33,
+              56
+            ],
+            "url": "https://t.co/d1JMKvOeOO"
+          }
+        ]
+      },
+      "id_str": "2077391224294834653",
+      "text": "让ai整理出了有关交易的经验，方法论和认知内容\n\n待会发一个合集 https://t.co/d1JMKvOeOO",
+      "user": {
+        "id_str": "1921065617479921670",
+        "name": "trader-c",
+        "screen_name": "TradercBTC",
+        "is_blue_verified": true,
+        "profile_image_shape": "Circle",
+        "verified": false,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+      },
+      "mediaDetails": [
+        {
+          "display_url": "pic.x.com/d1JMKvOeOO",
+          "expanded_url": "https://x.com/TradercBTC/status/2077391224294834653/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "indices": [
+            33,
+            56
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/HNRf_CbboAAE3FP.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 1136,
+                "w": 2028,
+                "x": 0,
+                "y": 293
+              },
+              {
+                "h": 1628,
+                "w": 1628,
+                "x": 400,
+                "y": 0
+              },
+              {
+                "h": 1628,
+                "w": 1428,
+                "x": 600,
+                "y": 0
+              },
+              {
+                "h": 1628,
+                "w": 814,
+                "x": 961,
+                "y": 0
+              },
+              {
+                "h": 1628,
+                "w": 2028,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1628,
+            "width": 2028
+          },
+          "sizes": {
+            "large": {
+              "h": 1628,
+              "resize": "fit",
+              "w": 2028
+            },
+            "medium": {
+              "h": 963,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 546,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/d1JMKvOeOO"
+        }
+      ],
+      "photos": [
+        {
+          "backgroundColor": {
+            "red": 204,
+            "green": 214,
+            "blue": 221
+          },
+          "cropCandidates": [
+            {
+              "h": 1136,
+              "w": 2028,
+              "x": 0,
+              "y": 293
+            },
+            {
+              "h": 1628,
+              "w": 1628,
+              "x": 400,
+              "y": 0
+            },
+            {
+              "h": 1628,
+              "w": 1428,
+              "x": 600,
+              "y": 0
+            },
+            {
+              "h": 1628,
+              "w": 814,
+              "x": 961,
+              "y": 0
+            },
+            {
+              "h": 1628,
+              "w": 2028,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "expandedUrl": "https://x.com/TradercBTC/status/2077391224294834653/photo/1",
+          "url": "https://pbs.twimg.com/media/HNRf_CbboAAE3FP.jpg",
+          "width": 2028,
+          "height": 1628
+        }
+      ]
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "quoted_tweet": {
+    "favorite_count": 4,
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "created_at": "2025-10-14T04:52:11.000Z",
+    "display_text_range": [
+      0,
+      145
+    ],
+    "entities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/W9sekZ0Iar",
+          "expanded_url": "https://x.com/TradercBTC/status/1977960605513646483/photo/1",
+          "indices": [
+            145,
+            168
+          ],
+          "url": "https://t.co/W9sekZ0Iar"
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [
+            0,
+            4
+          ],
+          "text": "ETH"
+        },
+        {
+          "indices": [
+            140,
+            144
+          ],
+          "text": "ETH"
+        }
+      ]
+    },
+    "id_str": "1977960605513646483",
+    "text": "$ETH 战报传来，空军按照我们的预期，发起猛烈反攻，多军防线出现明显裂痕。\n\n1H级别连续阴线如密集炮火轰击，验证了我们此前的战略预判。\n小级别上升趋势线和上升通道已被击穿，这表明多头抵抗力度明显减弱，无法组织有效反击。\n\n🎯战况分析与部署：\n\n1️⃣技术确认：\n\n正如预期， $ETH https://t.co/W9sekZ0Iar",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "1977960605513646483"
+      ],
+      "editable_until_msecs": "1760421131000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "mediaDetails": [
+      {
+        "display_url": "pic.x.com/W9sekZ0Iar",
+        "expanded_url": "https://x.com/TradercBTC/status/1977960605513646483/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "indices": [
+          145,
+          168
+        ],
+        "media_url_https": "https://pbs.twimg.com/media/G3MgmNZaYAA7LoU.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1323,
+              "w": 2362,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1352,
+              "w": 1352,
+              "x": 209,
+              "y": 0
+            },
+            {
+              "h": 1352,
+              "w": 1186,
+              "x": 292,
+              "y": 0
+            },
+            {
+              "h": 1352,
+              "w": 676,
+              "x": 547,
+              "y": 0
+            },
+            {
+              "h": 1352,
+              "w": 2362,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1352,
+          "width": 2362
+        },
+        "sizes": {
+          "large": {
+            "h": 1172,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 687,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 389,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/W9sekZ0Iar"
+      }
+    ],
+    "photos": [
+      {
+        "backgroundColor": {
+          "red": 204,
+          "green": 214,
+          "blue": 221
+        },
+        "cropCandidates": [
+          {
+            "h": 1323,
+            "w": 2362,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1352,
+            "w": 1352,
+            "x": 209,
+            "y": 0
+          },
+          {
+            "h": 1352,
+            "w": 1186,
+            "x": 292,
+            "y": 0
+          },
+          {
+            "h": 1352,
+            "w": 676,
+            "x": 547,
+            "y": 0
+          },
+          {
+            "h": 1352,
+            "w": 2362,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "expandedUrl": "https://x.com/TradercBTC/status/1977960605513646483/photo/1",
+        "url": "https://pbs.twimg.com/media/G3MgmNZaYAA7LoU.jpg",
+        "width": 2362,
+        "height": 1352
+      }
+    ],
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDc3NjA3OTk1NTk3NjI3Mzky"
+  }
+}

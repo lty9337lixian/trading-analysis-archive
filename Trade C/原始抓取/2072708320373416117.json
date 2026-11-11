@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HMO9HH2acAA-Gip.png:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2072708320373416117/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2072708320373416117/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HMO9HH2acAA-Gip.png:large",
+        "localPath": "2072708320373416117/imgs/img-002-HMO9HH2acAA-Gip-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2072708320373416117/imgs/img-002-HMO9HH2acAA-Gip-png-large.png",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2072708320373416117/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2072708320373416117",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2072708320373416117",
+    "title": "trader-c on X: \"地下突破那位置挂了一单，不知道会不会回踩\n\n止损三四个点，还行\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-07-02T15:45:47.000Z",
+    "summary": "地下突破那位置挂了一单，不知道会不会回踩\n\n止损三四个点，还行",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HMO9HH2acAA-Gip.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:02:35.264Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n地下突破那位置挂了一单，不知道会不会回踩 止损三四个点，还行\n\n[23:45 · 2026年7月2日](https://x.com/TradercBTC/status/2072708320373416117) [6766Views](https://x.com/TradercBTC/status/2072708320373416117)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2072708320373416117"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"地下突破那位置挂了一单，不知道会不会回踩\n  \n  止损三四个点，还行\" / X\nurl: \"https://x.com/TradercBTC/status/2072708320373416117\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2072708320373416117\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2072708320373416117/imgs/img-002-HMO9HH2acAA-Gip-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-07-02T15:45:47.000Z\"\nsummary: |-\n  地下突破那位置挂了一单，不知道会不会回踩\n  \n  止损三四个点，还行\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:02:35.264Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"地下突破那位置挂了一单，不知道会不会回踩\n\n止损三四个点，还行\" / X\n\n[![@TradercBTC](2072708320373416117/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n地下突破那位置挂了一单，不知道会不会回踩 止损三四个点，还行\n\n[23:45 · 2026年7月2日](https://x.com/TradercBTC/status/2072708320373416117) [6766Views](https://x.com/TradercBTC/status/2072708320373416117)\n\nOnly some accounts can reply."
+}

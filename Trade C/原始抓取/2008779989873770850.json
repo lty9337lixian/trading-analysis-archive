@@ -1,0 +1,73 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/G-CeJ2TakAAVQgV.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/G94NXzNWMAApoKl?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/G-CeJ2TakAAVQgV.jpg:large",
+        "localPath": "2008779989873770850/imgs/img-001-G-CeJ2TakAAVQgV-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2008779989873770850/imgs/img-001-G-CeJ2TakAAVQgV-jpg-large.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2008779989873770850/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2008779989873770850/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/G94NXzNWMAApoKl?format=webp&name=medium",
+        "localPath": "2008779989873770850/imgs/img-003-G94NXzNWMAApoKl.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2008779989873770850/imgs/img-003-G94NXzNWMAApoKl.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 3,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2008779989873770850/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2008779989873770850",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2008779989873770850",
+    "title": "trader-c on X: \"比较难受 $SOL 的止盈没打到，基本回撤 坏消息是挂了两个stop order， $BTC 和 $ETH 的 一个91，一个32，结果昨晚插针给我出发又拉回去止损了 好消息是每个亏1.5% 大概就看今天或者明天的表现进仓位了 这个表现其实还是要一个好位置的，stop order 的位置太差了\"",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-01-07T05:57:25.000Z",
+    "summary": "比较难受 $SOL 的止盈没打到，基本回撤\n\n坏消息是挂了两个stop order， $BTC 和 $ETH  的\n\n一个91，一个32，结果昨晚插针给我出发又拉回去止损了\n\n好消息是每个亏1.5%\n\n大概就看今天或者明天的表现进仓位了\n\n这个表现其实还是要一个好位置的，stop order 的位置太差了",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/G-CeJ2TakAAVQgV.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:42:18.378Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n比较难受 [$SOL](https://x.com/search?q=$SOL) 的止盈没打到，基本回撤 坏消息是挂了两个stop order， [$BTC](https://x.com/search?q=$BTC) 和 [$ETH](https://x.com/search?q=$ETH) 的 一个91，一个32，结果昨晚插针给我出发又拉回去止损了 好消息是每个亏1.5% 大概就看今天或者明天的表现进仓位了 这个表现其实还是要一个好位置的，stop order 的位置太差了\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[1月5日](https://x.com/TradercBTC/status/2008057666556563573)\n\n[$BTC](https://x.com/search?q=$BTC) 触碰到了橙色区域，等待二测，看看市场上方阻力的抛压 预计周三或者周四能看到周k的极值 总的来说计划是周内做多 [$SOL](https://x.com/search?q=$SOL) 和月内空 [$BTC](https://x.com/search?q=$BTC) 和 [$ETH](https://x.com/search?q=$ETH)\n\n[![](https://pbs.twimg.com/media/G94NXzNWMAApoKl?format=webp&name=medium)](https://x.com/TradercBTC/status/2008057666556563573/photo/1)\n\n[13:57 · 2026年1月7日](https://x.com/TradercBTC/status/2008779989873770850)[5030Views](https://x.com/TradercBTC/status/2008779989873770850)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2008779989873770850"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"比较难受 $SOL 的止盈没打到，基本回撤 坏消息是挂了两个stop order， $BTC 和 $ETH 的 一个91，一个32，结果昨晚插针给我出发又拉回去止损了 好消息是每个亏1.5% 大概就看今天或者明天的表现进仓位了 这个表现其实还是要一个好位置的，stop order 的位置太差了\\\"\"\nurl: \"https://x.com/TradercBTC/status/2008779989873770850\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2008779989873770850\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2008779989873770850/imgs/img-001-G-CeJ2TakAAVQgV-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-01-07T05:57:25.000Z\"\nsummary: |-\n  比较难受 $SOL 的止盈没打到，基本回撤\n  \n  坏消息是挂了两个stop order， $BTC 和 $ETH  的\n  \n  一个91，一个32，结果昨晚插针给我出发又拉回去止损了\n  \n  好消息是每个亏1.5%\n  \n  大概就看今天或者明天的表现进仓位了\n  \n  这个表现其实还是要一个好位置的，stop order 的位置太差了\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:42:18.378Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"比较难受 $SOL 的止盈没打到，基本回撤 坏消息是挂了两个stop order， $BTC 和 $ETH 的 一个91，一个32，结果昨晚插针给我出发又拉回去止损了 好消息是每个亏1.5% 大概就看今天或者明天的表现进仓位了 这个表现其实还是要一个好位置的，stop order 的位置太差了\"\n\n[![@TradercBTC](2008779989873770850/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n比较难受 [$SOL](https://x.com/search?q=$SOL) 的止盈没打到，基本回撤 坏消息是挂了两个stop order， [$BTC](https://x.com/search?q=$BTC) 和 [$ETH](https://x.com/search?q=$ETH) 的 一个91，一个32，结果昨晚插针给我出发又拉回去止损了 好消息是每个亏1.5% 大概就看今天或者明天的表现进仓位了 这个表现其实还是要一个好位置的，stop order 的位置太差了\n\n[![@TradercBTC](2008779989873770850/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[1月5日](https://x.com/TradercBTC/status/2008057666556563573)\n\n[$BTC](https://x.com/search?q=$BTC) 触碰到了橙色区域，等待二测，看看市场上方阻力的抛压 预计周三或者周四能看到周k的极值 总的来说计划是周内做多 [$SOL](https://x.com/search?q=$SOL) 和月内空 [$BTC](https://x.com/search?q=$BTC) 和 [$ETH](https://x.com/search?q=$ETH)\n\n[![](2008779989873770850/imgs/img-003-G94NXzNWMAApoKl.webp)](https://x.com/TradercBTC/status/2008057666556563573/photo/1)\n\n[13:57 · 2026年1月7日](https://x.com/TradercBTC/status/2008779989873770850)[5030Views](https://x.com/TradercBTC/status/2008779989873770850)"
+}

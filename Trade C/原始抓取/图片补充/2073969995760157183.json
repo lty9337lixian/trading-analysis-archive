@@ -1,0 +1,62 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 53,
+  "lang": "zxx",
+  "possibly_sensitive": false,
+  "created_at": "2026-07-06T03:19:14.000Z",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2073…",
+        "expanded_url": "http://x.com/i/article/2073969627580035072",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/j961Jh5ASM"
+      }
+    ]
+  },
+  "id_str": "2073969995760157183",
+  "text": "https://t.co/j961Jh5ASM",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2073969995760157183"
+    ],
+    "editable_until_msecs": "1783311554000",
+    "edits_remaining": "5",
+    "is_edit_eligible": false
+  },
+  "conversation_count": 3,
+  "news_action_type": "conversation",
+  "article": {
+    "cover_media": {
+      "id": "QXBpTWVkaWE6DAAFCgABHMg4fG6bUAAKAAIaqP8AOBtwBgAA",
+      "media_info": {
+        "__typename": "ApiImage",
+        "original_img_height": 1312,
+        "original_img_url": "https://pbs.twimg.com/media/HMg4fG6bUAABDCJ.jpg",
+        "original_img_width": 3280
+      }
+    },
+    "id": "QXJ0aWNsZUVudGl0eToyMDczOTY5NjI3NTgwMDM1MDcy",
+    "preview_text": "2020年3月，新冠疫情引发全球股市暴跌。美国标普500指数在二十三个交易日内下跌了34%。然后，在接下来的几个月里，一件没有人预料到的事情发生了：数以百万计的普通人开了证券账户，涌入市场。",
+    "rest_id": "2073969627580035072",
+    "title": "为什么你学了很多东西，还是在市场上赚不到钱？"
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

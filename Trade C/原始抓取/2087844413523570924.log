@@ -1,0 +1,58 @@
+[info] Loading https://x.com/TradercBTC/status/2087844413523570924 with generic adapter
+[info] Downloaded 1 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2087844413523570924.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2087844413523570924/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2087844413523570924/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2087844413523570924/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2087844413523570924",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2087844413523570924",
+    "title": "trader-c on X: \"刚才那本书的作者把技术分析定义为：\n\n对价格、成交量、市场宽度和未平仓合约进行系统化评估，以预测未来价格运动。\n\n作者认为技术分析最重要的核心不是“预测”二字，而是：\n系统化。\n\n即决策规则应事先形成；规则应清晰；规则应尽可能完整；规则适用于明确的未来周期；方法可以简单，也可以复杂。\n\n“普遍的技术分析”，这取决于普遍的技术分析具体的定义是什么\n\n我认为在大a也一样\n\n技术分析的核心应该是在自己的交易系统规则化，在这个基础上，你使用指标，还是裸k，其实区别并不大\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-13T10:11:13.000Z",
+    "summary": "刚才那本书的作者把技术分析定义为：\n\n对价格、成交量、市场宽度和未平仓合约进行系统化评估，以预测未来价格运动。\n\n作者认为技术分析最重要的核心不是“预测”二字，而是：\n系统化。\n\n即决策规则应事先形成；规则应清晰；规则应尽可能完整；规则适用于明确的未来周期；方法可以简单，也可以复杂。\n\n“普遍的技术分析”，这取决于普遍的技术分析具体的定义是什么\n\n我认为在大a也一样\n\n技术分析的核心应该是在自己的交易系统规则化，在这个基础上，你使用指标，还是裸k，其实区别并不大",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:05:30.346Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t刚才那本书的作者把技术分析定义为： 对价格、成交量、市场宽度和未平仓合约进行系统化评估，以预测未来价格运动。 作者认为技术分析最重要的核心不是“预测”二字，而是： 系统化。 即决策规则应事先形成；规则应清晰；规则应尽可能完整；规则适用于明确的未来周期；方法可以简单，也可以复杂。 “普遍的技术分析”，这取决于普遍的技术分析具体的定义是什么 我认为在大a也一样 技术分析的核心应该是在自己的交易系统规则化，在这个基础上，你使用指标，还是裸k，其实区别并不大\n\t[18:11 · 2026年8月13日](https://x.com/TradercBTC/status/2087844413523570924) [5767Views](https://x.com/TradercBTC/status/2087844413523570924)\n\t[1](https://x.com/i/status/2087844413523570924)\n\tOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2087844413523570924"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"刚才那本书的作者把技术分析定义为：\n  \n  对价格、成交量、市场宽度和未平仓合约进行系统化评估，以预测未来价格运动。\n  \n  作者认为技术分析最重要的核心不是“预测”二字，而是：\n  系统化。\n  \n  即决策规则应事先形成；规则应清晰；规则应尽可能完整；规则适用于明确的未来周期；方法可以简单，也可以复杂。\n  \n  “普遍的技术分析”，这取决于普遍的技术分析具体的定义是什么\n  \n  我认为在大a也一样\n  \n  技术分析的核心应该是在自己的交易系统规则化，在这个基础上，你使用指标，还是裸k，其实区别并不大\" / X\nurl: \"https://x.com/TradercBTC/status/2087844413523570924\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2087844413523570924\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2087844413523570924/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-13T10:11:13.000Z\"\nsummary: |-\n  刚才那本书的作者把技术分析定义为：\n  \n  对价格、成交量、市场宽度和未平仓合约进行系统化评估，以预测未来价格运动。\n  \n  作者认为技术分析最重要的核心不是“预测”二字，而是：\n  系统化。\n  \n  即决策规则应事先形成；规则应清晰；规则应尽可能完整；规则适用于明确的未来周期；方法可以简单，也可以复杂。\n  \n  “普遍的技术分析”，这取决于普遍的技术分析具体的定义是什么\n  \n  我认为在大a也一样\n  \n  技术分析的核心应该是在自己的交易系统规则化，在这个基础上，你使用指标，还是裸k，其实区别并不大\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:05:30.346Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"刚才那本书的作者把技术分析定义为：\n\n对价格、成交量、市场宽度和未平仓合约进行系统化评估，以预测未来价格运动。\n\n作者认为技术分析最重要的核心不是“预测”二字，而是：\n系统化。\n\n即决策规则应事先形成；规则应清晰；规则应尽可能完整；规则适用于明确的未来周期；方法可以简单，也可以复杂。\n\n“普遍的技术分析”，这取决于普遍的技术分析具体的定义是什么\n\n我认为在大a也一样\n\n技术分析的核心应该是在自己的交易系统规则化，在这个基础上，你使用指标，还是裸k，其实区别并不大\" / X\n\n- [![@TradercBTC](2087844413523570924/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t刚才那本书的作者把技术分析定义为： 对价格、成交量、市场宽度和未平仓合约进行系统化评估，以预测未来价格运动。 作者认为技术分析最重要的核心不是“预测”二字，而是： 系统化。 即决策规则应事先形成；规则应清晰；规则应尽可能完整；规则适用于明确的未来周期；方法可以简单，也可以复杂。 “普遍的技术分析”，这取决于普遍的技术分析具体的定义是什么 我认为在大a也一样 技术分析的核心应该是在自己的交易系统规则化，在这个基础上，你使用指标，还是裸k，其实区别并不大\n\t[18:11 · 2026年8月13日](https://x.com/TradercBTC/status/2087844413523570924) [5767Views](https://x.com/TradercBTC/status/2087844413523570924)\n\t[1](https://x.com/i/status/2087844413523570924)\n\tOnly some accounts can reply."
+}

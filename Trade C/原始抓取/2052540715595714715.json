@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HHwWyLObIAAB1Ry.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2052540715595714715/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2052540715595714715/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HHwWyLObIAAB1Ry.jpg:large",
+        "localPath": "2052540715595714715/imgs/img-002-HHwWyLObIAAB1Ry-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2052540715595714715/imgs/img-002-HHwWyLObIAAB1Ry-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2052540715595714715/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2052540715595714715",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2052540715595714715",
+    "title": "trader-c on X: \"感觉有点跌不下去，移动止损到上面，突破了就走\n\n等测试吧\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-05-08T00:06:55.000Z",
+    "summary": "感觉有点跌不下去，移动止损到上面，突破了就走\n\n等测试吧",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HHwWyLObIAAB1Ry.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:01:11.810Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n感觉有点跌不下去，移动止损到上面，突破了就走 等测试吧\n\n[8:06 · 2026年5月8日](https://x.com/TradercBTC/status/2052540715595714715) [3063Views](https://x.com/TradercBTC/status/2052540715595714715)\n\n[2](https://x.com/i/status/2052540715595714715)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2052540715595714715"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"感觉有点跌不下去，移动止损到上面，突破了就走\n  \n  等测试吧\" / X\nurl: \"https://x.com/TradercBTC/status/2052540715595714715\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2052540715595714715\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2052540715595714715/imgs/img-002-HHwWyLObIAAB1Ry-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-05-08T00:06:55.000Z\"\nsummary: |-\n  感觉有点跌不下去，移动止损到上面，突破了就走\n  \n  等测试吧\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:01:11.810Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"感觉有点跌不下去，移动止损到上面，突破了就走\n\n等测试吧\" / X\n\n[![@TradercBTC](2052540715595714715/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n感觉有点跌不下去，移动止损到上面，突破了就走 等测试吧\n\n[8:06 · 2026年5月8日](https://x.com/TradercBTC/status/2052540715595714715) [3063Views](https://x.com/TradercBTC/status/2052540715595714715)\n\n[2](https://x.com/i/status/2052540715595714715)"
+}

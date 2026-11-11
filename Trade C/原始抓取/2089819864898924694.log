@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2089819864898924694 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2089819864898924694.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HQCHxgcaoAAiVhD.png:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2089819864898924694/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2089819864898924694/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HQCHxgcaoAAiVhD.png:large",
+        "localPath": "2089819864898924694/imgs/img-002-HQCHxgcaoAAiVhD-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2089819864898924694/imgs/img-002-HQCHxgcaoAAiVhD-png-large.png",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2089819864898924694/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2089819864898924694",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2089819864898924694",
+    "title": "trader-c on X: \"心碎💔\n\n今天黄金完整的操作\n\n第二部分差3个点就进了，血亏40点，结构底下支撑的多单进去还亏15个\n\n最后的空单把多单的止损打回来了。。。。。\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-18T21:00:57.000Z",
+    "summary": "心碎💔\n\n今天黄金完整的操作\n\n第二部分差3个点就进了，血亏40点，结构底下支撑的多单进去还亏15个\n\n最后的空单把多单的止损打回来了。。。。。",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HQCHxgcaoAAiVhD.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:05:50.743Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n心碎💔 今天黄金完整的操作 第二部分差3个点就进了，血亏40点，结构底下支撑的多单进去还亏15个 最后的空单把多单的止损打回来了。。。。。\n\n[5:00 · 2026年8月19日](https://x.com/TradercBTC/status/2089819864898924694) [5443Views](https://x.com/TradercBTC/status/2089819864898924694)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2089819864898924694"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"心碎💔\n  \n  今天黄金完整的操作\n  \n  第二部分差3个点就进了，血亏40点，结构底下支撑的多单进去还亏15个\n  \n  最后的空单把多单的止损打回来了。。。。。\" / X\nurl: \"https://x.com/TradercBTC/status/2089819864898924694\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2089819864898924694\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2089819864898924694/imgs/img-002-HQCHxgcaoAAiVhD-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-18T21:00:57.000Z\"\nsummary: |-\n  心碎💔\n  \n  今天黄金完整的操作\n  \n  第二部分差3个点就进了，血亏40点，结构底下支撑的多单进去还亏15个\n  \n  最后的空单把多单的止损打回来了。。。。。\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:05:50.743Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"心碎💔\n\n今天黄金完整的操作\n\n第二部分差3个点就进了，血亏40点，结构底下支撑的多单进去还亏15个\n\n最后的空单把多单的止损打回来了。。。。。\" / X\n\n[![@TradercBTC](2089819864898924694/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n心碎💔 今天黄金完整的操作 第二部分差3个点就进了，血亏40点，结构底下支撑的多单进去还亏15个 最后的空单把多单的止损打回来了。。。。。\n\n[5:00 · 2026年8月19日](https://x.com/TradercBTC/status/2089819864898924694) [5443Views](https://x.com/TradercBTC/status/2089819864898924694)\n\nOnly some accounts can reply."
+}

@@ -1,0 +1,55 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2068329168249709030/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2068329168249709030/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2068329168249709030/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2068329168249709030",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2068329168249709030",
+    "title": "trader-c on X: \"一个新手交易者最应该做的，不是“尽快赚钱”。\n\n而是用最低成本进入真实市场，建立一套“实践—反馈—复盘—能力升级”的交易闭环。\n\n这是核心。\n\n新手交易员最大的错误有两个：\n\n第一种，是一上来就实盘猛干。\n\n觉得交易是练出来的，亏钱是学费，市场会教育自己。\n\n结果他确实被市场教育了，但没有学会东西。\n\n因为他没有系统，没有记录，没有复盘，没有风险控制。\n\n亏了钱，只得到情绪创伤，没有得到能力增长。\n\n第二种，是一直学习。\n\n看书、看视频、看大 V、看策略、看宏观、看技术分析、看财报、看量化、看周期、看盘口。\n\n学了很多，但迟迟不下场。\n\n结果他对交易的理解越来… / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-06-20T13:44:36.000Z",
+    "summary": "一个新手交易者最应该做的，不是“尽快赚钱”。\n\n而是用最低成本进入真实市场，建立一套“实践—反馈—复盘—能力升级”的交易闭环。\n\n这是核心。\n\n新手交易员最大的错误有两个：\n\n第一种，是一上来就实盘猛干。\n\n觉得交易是练出来的，亏钱是学费，市场会教育自己。\n\n结果他确实被市场教育了，但没有学会东西。\n\n因为他没有系统，没有记录，没有复盘，没有风险控制。\n\n亏了钱，只得到情绪创伤，没有得到能力增长。\n\n第二种，是一直学习。\n\n看书、看视频、看大 V、看策略、看宏观、看技术分析、看财报、看量化、看周期、看盘口。\n\n学了很多，但迟迟不下场。\n\n结果他对交易的理解越来越复杂，行动能力越来越弱。\n\n最…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:51:56.252Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n一个新手交易者最应该做的，不是“尽快赚钱”。 而是用最低成本进入真实市场，建立一套“实践—反馈—复盘—能力升级”的交易闭环。 这是核心。 新手交易员最大的错误有两个： 第一种，是一上来就实盘猛干。 觉得交易是练出来的，亏钱是学费，市场会教育自己。 结果他确实被市场教育了，但没有学会东西。 因为他没有系统，没有记录，没有复盘，没有风险控制。 亏了钱，只得到情绪创伤，没有得到能力增长。 第二种，是一直学习。 看书、看视频、看大 V、看策略、看宏观、看技术分析、看财报、看量化、看周期、看盘口。 学了很多，但迟迟不下场。 结果他对交易的理解越来越复杂，行动能力越来越弱。 最后变成一个“高认知的观众”。 他能点评别人交易，但自己一买就慌。 所以，新手交易者真正要解决的不是： 我到底应该先学，还是先做？ 而是我如何用极小风险，把自己放进真实反馈里？\n\n[21:44 · 2026年6月20日](https://x.com/TradercBTC/status/2068329168249709030) [3584Views](https://x.com/TradercBTC/status/2068329168249709030)\n\n[1](https://x.com/i/status/2068329168249709030)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2068329168249709030"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"一个新手交易者最应该做的，不是“尽快赚钱”。\n  \n  而是用最低成本进入真实市场，建立一套“实践—反馈—复盘—能力升级”的交易闭环。\n  \n  这是核心。\n  \n  新手交易员最大的错误有两个：\n  \n  第一种，是一上来就实盘猛干。\n  \n  觉得交易是练出来的，亏钱是学费，市场会教育自己。\n  \n  结果他确实被市场教育了，但没有学会东西。\n  \n  因为他没有系统，没有记录，没有复盘，没有风险控制。\n  \n  亏了钱，只得到情绪创伤，没有得到能力增长。\n  \n  第二种，是一直学习。\n  \n  看书、看视频、看大 V、看策略、看宏观、看技术分析、看财报、看量化、看周期、看盘口。\n  \n  学了很多，但迟迟不下场。\n  \n  结果他对交易的理解越来… / X\nurl: \"https://x.com/TradercBTC/status/2068329168249709030\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2068329168249709030\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2068329168249709030/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-06-20T13:44:36.000Z\"\nsummary: |-\n  一个新手交易者最应该做的，不是“尽快赚钱”。\n  \n  而是用最低成本进入真实市场，建立一套“实践—反馈—复盘—能力升级”的交易闭环。\n  \n  这是核心。\n  \n  新手交易员最大的错误有两个：\n  \n  第一种，是一上来就实盘猛干。\n  \n  觉得交易是练出来的，亏钱是学费，市场会教育自己。\n  \n  结果他确实被市场教育了，但没有学会东西。\n  \n  因为他没有系统，没有记录，没有复盘，没有风险控制。\n  \n  亏了钱，只得到情绪创伤，没有得到能力增长。\n  \n  第二种，是一直学习。\n  \n  看书、看视频、看大 V、看策略、看宏观、看技术分析、看财报、看量化、看周期、看盘口。\n  \n  学了很多，但迟迟不下场。\n  \n  结果他对交易的理解越来越复杂，行动能力越来越弱。\n  \n  最…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:51:56.252Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"一个新手交易者最应该做的，不是“尽快赚钱”。\n\n而是用最低成本进入真实市场，建立一套“实践—反馈—复盘—能力升级”的交易闭环。\n\n这是核心。\n\n新手交易员最大的错误有两个：\n\n第一种，是一上来就实盘猛干。\n\n觉得交易是练出来的，亏钱是学费，市场会教育自己。\n\n结果他确实被市场教育了，但没有学会东西。\n\n因为他没有系统，没有记录，没有复盘，没有风险控制。\n\n亏了钱，只得到情绪创伤，没有得到能力增长。\n\n第二种，是一直学习。\n\n看书、看视频、看大 V、看策略、看宏观、看技术分析、看财报、看量化、看周期、看盘口。\n\n学了很多，但迟迟不下场。\n\n结果他对交易的理解越来… / X\n\n[![@TradercBTC](2068329168249709030/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n一个新手交易者最应该做的，不是“尽快赚钱”。 而是用最低成本进入真实市场，建立一套“实践—反馈—复盘—能力升级”的交易闭环。 这是核心。 新手交易员最大的错误有两个： 第一种，是一上来就实盘猛干。 觉得交易是练出来的，亏钱是学费，市场会教育自己。 结果他确实被市场教育了，但没有学会东西。 因为他没有系统，没有记录，没有复盘，没有风险控制。 亏了钱，只得到情绪创伤，没有得到能力增长。 第二种，是一直学习。 看书、看视频、看大 V、看策略、看宏观、看技术分析、看财报、看量化、看周期、看盘口。 学了很多，但迟迟不下场。 结果他对交易的理解越来越复杂，行动能力越来越弱。 最后变成一个“高认知的观众”。 他能点评别人交易，但自己一买就慌。 所以，新手交易者真正要解决的不是： 我到底应该先学，还是先做？ 而是我如何用极小风险，把自己放进真实反馈里？\n\n[21:44 · 2026年6月20日](https://x.com/TradercBTC/status/2068329168249709030) [3584Views](https://x.com/TradercBTC/status/2068329168249709030)\n\n[1](https://x.com/i/status/2068329168249709030)\n\nOnly some accounts can reply."
+}

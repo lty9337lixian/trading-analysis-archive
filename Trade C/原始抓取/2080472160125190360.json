@@ -1,0 +1,72 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://abs.twimg.com/finance/v1/crypto/bitcoin/native.png",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HN9R_yQagAAAcBA.png:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2080472160125190360/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2080472160125190360/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://abs.twimg.com/finance/v1/crypto/bitcoin/native.png",
+        "localPath": "2080472160125190360/imgs/img-002-native.png",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2080472160125190360/imgs/img-002-native.png",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HN9R_yQagAAAcBA.png:large",
+        "localPath": "2080472160125190360/imgs/img-003-HN9R_yQagAAAcBA-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2080472160125190360/imgs/img-003-HN9R_yQagAAAcBA-png-large.png",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 3,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2080472160125190360/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2080472160125190360",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2080472160125190360",
+    "title": "trader-c on X: \"比较希望的是看到这种走势 $BTC \n\n出现二次更低的高点，入场做空 https://t.\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-07-24T01:56:30.000Z",
+    "summary": "比较希望的是看到这种走势 $BTC \n\n出现二次更低的高点，入场做空 https://t.",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HN9R_yQagAAAcBA.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:03:37.964Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n比较希望的是看到这种走势 [$BTC](https://x.com/search?q=%24BTC%20OR%20bitcoin%3Anative&src=smarttag_click) 出现二次更低的高点，入场做空\n\n- [![](https://abs.twimg.com/finance/v1/crypto/bitcoin/native.png)\n\tBitcoin\n\tBTC\n\tUS$79,898.00\n\t+0.35%\n\t](https://x.com/search?q=%24BTC%20OR%20bitcoin%3Anative&src=typeahead_click)\n\n还是那句话 永远尊重图表，我们刚好止盈在高点 理论上，如果你关注我们的推文，从为什么开始这一单，成本线和目标在哪，到为什么退出，从头到尾，全程都是透明的 ——华尔街之c\n\n[9:56 · 2026年7月24日](https://x.com/TradercBTC/status/2080472160125190360) [2337Views](https://x.com/TradercBTC/status/2080472160125190360)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2080472160125190360"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"比较希望的是看到这种走势 $BTC \n  \n  出现二次更低的高点，入场做空 https://t./\" / X\nurl: \"https://x.com/TradercBTC/status/2080472160125190360\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2080472160125190360\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2080472160125190360/imgs/img-003-HN9R_yQagAAAcBA-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-07-24T01:56:30.000Z\"\nsummary: |-\n  比较希望的是看到这种走势 $BTC \n  \n  出现二次更低的高点，入场做空 https://t./\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:03:37.964Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"比较希望的是看到这种走势 $BTC \n\n出现二次更低的高点，入场做空 https://t./\" / X\n\n[![@TradercBTC](2080472160125190360/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n比较希望的是看到这种走势 [$BTC](https://x.com/search?q=%24BTC%20OR%20bitcoin%3Anative&src=smarttag_click) 出现二次更低的高点，入场做空\n\n- [![](2080472160125190360/imgs/img-002-native.png)\n\tBitcoin\n\tBTC\n\tUS$79,898.00\n\t+0.35%\n\t](https://x.com/search?q=%24BTC%20OR%20bitcoin%3Anative&src=typeahead_click)\n\n还是那句话 永远尊重图表，我们刚好止盈在高点 理论上，如果你关注我们的推文，从为什么开始这一单，成本线和目标在哪，到为什么退出，从头到尾，全程都是透明的 ——华尔街之c\n\n[9:56 · 2026年7月24日](https://x.com/TradercBTC/status/2080472160125190360) [2337Views](https://x.com/TradercBTC/status/2080472160125190360)\n\nOnly some accounts can reply."
+}

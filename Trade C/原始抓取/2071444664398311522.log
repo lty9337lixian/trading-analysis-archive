@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2071444664398311522 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2071444664398311522.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HL8_nbsaoAAWpo4.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2071444664398311522/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2071444664398311522/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HL8_nbsaoAAWpo4.jpg:large",
+        "localPath": "2071444664398311522/imgs/img-002-HL8_nbsaoAAWpo4-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2071444664398311522/imgs/img-002-HL8_nbsaoAAWpo4-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2071444664398311522/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2071444664398311522",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2071444664398311522",
+    "title": "trader-c on X: \"做了这么多天的黄金日内交易\n\n总结了一下完整的交易系统：\n\n一、核心理念\n只做顺势,不做反转,不抄底摸顶。所有风险、止损、目标统一用 R 计量(R = 单笔风险),点数只作为计算 R 的中间量。系统按”个人可执行性”设计,而非追求市场最优——不属于自己盯盘时段和能力范围的机会,主动放弃。\n\n二、交易时段\n主要交易窗口为东八区 15:00 至 23:30,覆盖欧盘到美盘上半场。新闻数据发布期间(非农、CPI、FOMC 等)不交易。23:30 后不持仓、不开仓,后半夜行情即使顺向也不参与,因为无法盯盘且需要休息。\n\n三、方向判断(1h 周期)\n用 1h 的 HH/… / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-06-29T04:04:28.000Z",
+    "summary": "做了这么多天的黄金日内交易\n\n总结了一下完整的交易系统：\n\n一、核心理念\n只做顺势,不做反转,不抄底摸顶。所有风险、止损、目标统一用 R 计量(R = 单笔风险),点数只作为计算 R 的中间量。系统按”个人可执行性”设计,而非追求市场最优——不属于自己盯盘时段和能力范围的机会,主动放弃。\n\n二、交易时段\n主要交易窗口为东八区 15:00 至 23:30,覆盖欧盘到美盘上半场。新闻数据发布期间(非农、CPI、FOMC 等)不交易。23:30 后不持仓、不开仓,后半夜行情即使顺向也不参与,因为无法盯盘且需要休息。\n\n三、方向判断(1h 周期)\n用 1h 的 HH/HL(更高的高点、更高的低点)结…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HL8_nbsaoAAWpo4.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:02:29.787Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t做了这么多天的黄金日内交易 总结了一下完整的交易系统： 一、核心理念 只做顺势,不做反转,不抄底摸顶。所有风险、止损、目标统一用 R 计量(R = 单笔风险),点数只作为计算 R 的中间量。系统按”个人可执行性”设计,而非追求市场最优——不属于自己盯盘时段和能力范围的机会,主动放弃。 二、交易时段 主要交易窗口为东八区 15:00 至 23:30,覆盖欧盘到美盘上半场。新闻数据发布期间(非农、CPI、FOMC 等)不交易。23:30 后不持仓、不开仓,后半夜行情即使顺向也不参与,因为无法盯盘且需要休息。 三、方向判断(1h 周期) 用 1h 的 HH/HL(更高的高点、更高的低点)结构判定方向。结构向上则只做多,向下则只做空,当日只做一个方向。 四、当日模式判断(趋势日 / 震荡日) 黄金日均波动约 100 点,趋势日约 200–300 点。盘中实时判断标准为三个条件取交集: 一是幅度够(亚盘到欧盘早段已走出 50–100 点以上), 二是单向结构(出现连续顺向的 HH/HL), 三是突破了亚盘区间。 三者同时满足,定为趋势日;否则定为震荡日。仅看幅度不够,必须叠加方向结构,以排除”宽幅震荡日”被误判为趋势日。 五、入场规则(5min 周期） 趋势日： 等待关键支撑位或阻力位被突破后的回踩测试，测试结束后出现 H2（做多）或 L2（做空）信号 K 入场。关键位置附近不直接入场，必须等二次确认。 震荡日： 降级为区间高抛低吸，在 5min 的支撑位、阻力位附近操作，只在 H1 信号入场（为换取到对面的目标空间，主动用更早的信号、接受偏低胜率）。 六、止损 单笔止损取以下两者中更宽的一个：5min 级别 1.6 倍 ATR，或前一个结构低点（多单）/结构高点（空单）下方。一般 5min 的 1.6 ATR 约等于 0.5R。 七、止盈与出场 趋势单目标 3R–6R。出场方式为到达目标位止盈，或在盈利过 1R 后改用 ATR 移动止损跟踪。震荡单目标较小，只做 1R–1.5R。 八、资金与风控 当日最大亏损上限 2R（单笔约 0.5R，约容许 4 笔满止损）。当日风控被打满即停止交易、当天不再入场；未打满则逻辑不变，允许继续按规则入场。 九、re-entry 美盘一般不重新开仓。原因:美盘幅度大、目标多在后半夜才兑现,而自己只做到 23:30,无法盯盘也无法守到目标,综合期望值为负,故放弃。若美盘开盘时已有仓位,则用美盘行情打止盈或在方向相反时离场。\n\t[12:04 · 2026年6月29日](https://x.com/TradercBTC/status/2071444664398311522) [2.2万Views](https://x.com/TradercBTC/status/2071444664398311522)\n\t[2](https://x.com/i/status/2071444664398311522)\n\tOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2071444664398311522"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"做了这么多天的黄金日内交易\n  \n  总结了一下完整的交易系统：\n  \n  一、核心理念\n  只做顺势,不做反转,不抄底摸顶。所有风险、止损、目标统一用 R 计量(R = 单笔风险),点数只作为计算 R 的中间量。系统按”个人可执行性”设计,而非追求市场最优——不属于自己盯盘时段和能力范围的机会,主动放弃。\n  \n  二、交易时段\n  主要交易窗口为东八区 15:00 至 23:30,覆盖欧盘到美盘上半场。新闻数据发布期间(非农、CPI、FOMC 等)不交易。23:30 后不持仓、不开仓,后半夜行情即使顺向也不参与,因为无法盯盘且需要休息。\n  \n  三、方向判断(1h 周期)\n  用 1h 的 HH/… / X\nurl: \"https://x.com/TradercBTC/status/2071444664398311522\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2071444664398311522\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2071444664398311522/imgs/img-002-HL8_nbsaoAAWpo4-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-06-29T04:04:28.000Z\"\nsummary: |-\n  做了这么多天的黄金日内交易\n  \n  总结了一下完整的交易系统：\n  \n  一、核心理念\n  只做顺势,不做反转,不抄底摸顶。所有风险、止损、目标统一用 R 计量(R = 单笔风险),点数只作为计算 R 的中间量。系统按”个人可执行性”设计,而非追求市场最优——不属于自己盯盘时段和能力范围的机会,主动放弃。\n  \n  二、交易时段\n  主要交易窗口为东八区 15:00 至 23:30,覆盖欧盘到美盘上半场。新闻数据发布期间(非农、CPI、FOMC 等)不交易。23:30 后不持仓、不开仓,后半夜行情即使顺向也不参与,因为无法盯盘且需要休息。\n  \n  三、方向判断(1h 周期)\n  用 1h 的 HH/HL(更高的高点、更高的低点)结…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:02:29.787Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"做了这么多天的黄金日内交易\n\n总结了一下完整的交易系统：\n\n一、核心理念\n只做顺势,不做反转,不抄底摸顶。所有风险、止损、目标统一用 R 计量(R = 单笔风险),点数只作为计算 R 的中间量。系统按”个人可执行性”设计,而非追求市场最优——不属于自己盯盘时段和能力范围的机会,主动放弃。\n\n二、交易时段\n主要交易窗口为东八区 15:00 至 23:30,覆盖欧盘到美盘上半场。新闻数据发布期间(非农、CPI、FOMC 等)不交易。23:30 后不持仓、不开仓,后半夜行情即使顺向也不参与,因为无法盯盘且需要休息。\n\n三、方向判断(1h 周期)\n用 1h 的 HH/… / X\n\n- [![@TradercBTC](2071444664398311522/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t做了这么多天的黄金日内交易 总结了一下完整的交易系统： 一、核心理念 只做顺势,不做反转,不抄底摸顶。所有风险、止损、目标统一用 R 计量(R = 单笔风险),点数只作为计算 R 的中间量。系统按”个人可执行性”设计,而非追求市场最优——不属于自己盯盘时段和能力范围的机会,主动放弃。 二、交易时段 主要交易窗口为东八区 15:00 至 23:30,覆盖欧盘到美盘上半场。新闻数据发布期间(非农、CPI、FOMC 等)不交易。23:30 后不持仓、不开仓,后半夜行情即使顺向也不参与,因为无法盯盘且需要休息。 三、方向判断(1h 周期) 用 1h 的 HH/HL(更高的高点、更高的低点)结构判定方向。结构向上则只做多,向下则只做空,当日只做一个方向。 四、当日模式判断(趋势日 / 震荡日) 黄金日均波动约 100 点,趋势日约 200–300 点。盘中实时判断标准为三个条件取交集: 一是幅度够(亚盘到欧盘早段已走出 50–100 点以上), 二是单向结构(出现连续顺向的 HH/HL), 三是突破了亚盘区间。 三者同时满足,定为趋势日;否则定为震荡日。仅看幅度不够,必须叠加方向结构,以排除”宽幅震荡日”被误判为趋势日。 五、入场规则(5min 周期） 趋势日： 等待关键支撑位或阻力位被突破后的回踩测试，测试结束后出现 H2（做多）或 L2（做空）信号 K 入场。关键位置附近不直接入场，必须等二次确认。 震荡日： 降级为区间高抛低吸，在 5min 的支撑位、阻力位附近操作，只在 H1 信号入场（为换取到对面的目标空间，主动用更早的信号、接受偏低胜率）。 六、止损 单笔止损取以下两者中更宽的一个：5min 级别 1.6 倍 ATR，或前一个结构低点（多单）/结构高点（空单）下方。一般 5min 的 1.6 ATR 约等于 0.5R。 七、止盈与出场 趋势单目标 3R–6R。出场方式为到达目标位止盈，或在盈利过 1R 后改用 ATR 移动止损跟踪。震荡单目标较小，只做 1R–1.5R。 八、资金与风控 当日最大亏损上限 2R（单笔约 0.5R，约容许 4 笔满止损）。当日风控被打满即停止交易、当天不再入场；未打满则逻辑不变，允许继续按规则入场。 九、re-entry 美盘一般不重新开仓。原因:美盘幅度大、目标多在后半夜才兑现,而自己只做到 23:30,无法盯盘也无法守到目标,综合期望值为负,故放弃。若美盘开盘时已有仓位,则用美盘行情打止盈或在方向相反时离场。\n\t[12:04 · 2026年6月29日](https://x.com/TradercBTC/status/2071444664398311522) [2.2万Views](https://x.com/TradercBTC/status/2071444664398311522)\n\t[2](https://x.com/i/status/2071444664398311522)\n\tOnly some accounts can reply."
+}

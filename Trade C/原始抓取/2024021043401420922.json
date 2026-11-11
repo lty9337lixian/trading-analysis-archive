@@ -1,0 +1,55 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2024021043401420922/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2024021043401420922/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2024021043401420922/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2024021043401420922",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2024021043401420922",
+    "title": "trader-c on X: \"蒙特卡洛模拟是个很有意思的东西，我要研究一段时间\n\n第一步：找历史数据\n\"过去3年，我的信号出现了100次\"\n→ 记录每一次的实际结果\n→ 不是假设有6% edge，而是算出来：平均5.8%\n\n第二步：看分布\n\"但这100次结果差异很大\"\n→ 最好的时候赚20%\n→ 最差的时候亏15%\n→ 标准差很大 → 不确定性高\n\n第三步：蒙特卡洛模拟\n\"如果这100次交易顺序不同，我的资金曲线会怎样？\"\n→ 生成10,000种可能的路径\n→ 95th percentile：最大回撤31%\n→ 中位数：最大回撤12%\n\n第四步：调整仓位\n\"理论Kelly说20%\"\n\"但考… / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-18T07:19:55.000Z",
+    "summary": "蒙特卡洛模拟是个很有意思的东西，我要研究一段时间\n\n第一步：找历史数据\n\"过去3年，我的信号出现了100次\"\n→ 记录每一次的实际结果\n→ 不是假设有6% edge，而是算出来：平均5.8%\n\n第二步：看分布\n\"但这100次结果差异很大\"\n→ 最好的时候赚20%\n→ 最差的时候亏15%\n→ 标准差很大 → 不确定性高\n\n第三步：蒙特卡洛模拟\n\"如果这100次交易顺序不同，我的资金曲线会怎样？\"\n→ 生成10,000种可能的路径\n→ 95th percentile：最大回撤31%\n→ 中位数：最大回撤12%\n\n第四步：调整仓位\n\"理论Kelly说20%\"\n\"但考虑不确定性，我要控制95th p…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:58:18.409Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t蒙特卡洛模拟是个很有意思的东西，我要研究一段时间 第一步：找历史数据 \"过去3年，我的信号出现了100次\" → 记录每一次的实际结果 → 不是假设有6% edge，而是算出来：平均5.8% 第二步：看分布 \"但这100次结果差异很大\" → 最好的时候赚20% → 最差的时候亏15% → 标准差很大 → 不确定性高 第三步：蒙特卡洛模拟 \"如果这100次交易顺序不同，我的资金曲线会怎样？\" → 生成10,000种可能的路径 → 95th percentile：最大回撤31% → 中位数：最大回撤12% 第四步：调整仓位 \"理论Kelly说20%\" \"但考虑不确定性，我要控制95th percentile回撤\" → 实际仓位：10%\n\t[15:19 · 2026年2月18日](https://x.com/TradercBTC/status/2024021043401420922) [1.3万Views](https://x.com/TradercBTC/status/2024021043401420922)\n\t[1](https://x.com/i/status/2024021043401420922)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2024021043401420922"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"蒙特卡洛模拟是个很有意思的东西，我要研究一段时间\n  \n  第一步：找历史数据\n  \"过去3年，我的信号出现了100次\"\n  → 记录每一次的实际结果\n  → 不是假设有6% edge，而是算出来：平均5.8%\n  \n  第二步：看分布\n  \"但这100次结果差异很大\"\n  → 最好的时候赚20%\n  → 最差的时候亏15%\n  → 标准差很大 → 不确定性高\n  \n  第三步：蒙特卡洛模拟\n  \"如果这100次交易顺序不同，我的资金曲线会怎样？\"\n  → 生成10,000种可能的路径\n  → 95th percentile：最大回撤31%\n  → 中位数：最大回撤12%\n  \n  第四步：调整仓位\n  \"理论Kelly说20%\"\n  \"但考… / X\nurl: \"https://x.com/TradercBTC/status/2024021043401420922\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2024021043401420922\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2024021043401420922/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-18T07:19:55.000Z\"\nsummary: |-\n  蒙特卡洛模拟是个很有意思的东西，我要研究一段时间\n  \n  第一步：找历史数据\n  \"过去3年，我的信号出现了100次\"\n  → 记录每一次的实际结果\n  → 不是假设有6% edge，而是算出来：平均5.8%\n  \n  第二步：看分布\n  \"但这100次结果差异很大\"\n  → 最好的时候赚20%\n  → 最差的时候亏15%\n  → 标准差很大 → 不确定性高\n  \n  第三步：蒙特卡洛模拟\n  \"如果这100次交易顺序不同，我的资金曲线会怎样？\"\n  → 生成10,000种可能的路径\n  → 95th percentile：最大回撤31%\n  → 中位数：最大回撤12%\n  \n  第四步：调整仓位\n  \"理论Kelly说20%\"\n  \"但考虑不确定性，我要控制95th p…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:58:18.409Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"蒙特卡洛模拟是个很有意思的东西，我要研究一段时间\n\n第一步：找历史数据\n\"过去3年，我的信号出现了100次\"\n→ 记录每一次的实际结果\n→ 不是假设有6% edge，而是算出来：平均5.8%\n\n第二步：看分布\n\"但这100次结果差异很大\"\n→ 最好的时候赚20%\n→ 最差的时候亏15%\n→ 标准差很大 → 不确定性高\n\n第三步：蒙特卡洛模拟\n\"如果这100次交易顺序不同，我的资金曲线会怎样？\"\n→ 生成10,000种可能的路径\n→ 95th percentile：最大回撤31%\n→ 中位数：最大回撤12%\n\n第四步：调整仓位\n\"理论Kelly说20%\"\n\"但考… / X\n\n- [![@TradercBTC](2024021043401420922/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t蒙特卡洛模拟是个很有意思的东西，我要研究一段时间 第一步：找历史数据 \"过去3年，我的信号出现了100次\" → 记录每一次的实际结果 → 不是假设有6% edge，而是算出来：平均5.8% 第二步：看分布 \"但这100次结果差异很大\" → 最好的时候赚20% → 最差的时候亏15% → 标准差很大 → 不确定性高 第三步：蒙特卡洛模拟 \"如果这100次交易顺序不同，我的资金曲线会怎样？\" → 生成10,000种可能的路径 → 95th percentile：最大回撤31% → 中位数：最大回撤12% 第四步：调整仓位 \"理论Kelly说20%\" \"但考虑不确定性，我要控制95th percentile回撤\" → 实际仓位：10%\n\t[15:19 · 2026年2月18日](https://x.com/TradercBTC/status/2024021043401420922) [1.3万Views](https://x.com/TradercBTC/status/2024021043401420922)\n\t[1](https://x.com/i/status/2024021043401420922)"
+}

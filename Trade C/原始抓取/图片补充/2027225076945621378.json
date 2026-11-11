@@ -1,0 +1,349 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 10,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-02-27T03:31:37.000Z",
+  "display_text_range": [
+    0,
+    102
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/JjKEgF7dTD",
+        "expanded_url": "https://x.com/TradercBTC/status/2027225076945621378/photo/1",
+        "indices": [
+          103,
+          126
+        ],
+        "url": "https://t.co/JjKEgF7dTD"
+      }
+    ],
+    "symbols": [
+      {
+        "indices": [
+          2,
+          6
+        ],
+        "text": "BTC"
+      }
+    ]
+  },
+  "id_str": "2027225076945621378",
+  "text": "在 $BTC 的周线划分了一个下降通道\n\n下降通道50%中间那是一个强弱分界线\n\n它提醒我，如果你想要做多，起码等到周线回归到上半部分\n\n如果价格一直维持在下跌通道的下沿，说明多头的买盘没有能力把控战场。 https://t.co/JjKEgF7dTD",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2027225076945621378"
+    ],
+    "editable_until_msecs": "1772166697000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/JjKEgF7dTD",
+      "expanded_url": "https://x.com/TradercBTC/status/2027225076945621378/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        103,
+        126
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HCIl8zkaUAAz5vy.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1430,
+            "w": 2554,
+            "x": 170,
+            "y": 0
+          },
+          {
+            "h": 1430,
+            "w": 1430,
+            "x": 1294,
+            "y": 0
+          },
+          {
+            "h": 1430,
+            "w": 1254,
+            "x": 1470,
+            "y": 0
+          },
+          {
+            "h": 1430,
+            "w": 715,
+            "x": 2009,
+            "y": 0
+          },
+          {
+            "h": 1430,
+            "w": 2724,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1430,
+        "width": 2724
+      },
+      "sizes": {
+        "large": {
+          "h": 1075,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 630,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 357,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/JjKEgF7dTD"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1430,
+          "w": 2554,
+          "x": 170,
+          "y": 0
+        },
+        {
+          "h": 1430,
+          "w": 1430,
+          "x": 1294,
+          "y": 0
+        },
+        {
+          "h": 1430,
+          "w": 1254,
+          "x": 1470,
+          "y": 0
+        },
+        {
+          "h": 1430,
+          "w": 715,
+          "x": 2009,
+          "y": 0
+        },
+        {
+          "h": 1430,
+          "w": 2724,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2027225076945621378/photo/1",
+      "url": "https://pbs.twimg.com/media/HCIl8zkaUAAz5vy.jpg",
+      "width": 2724,
+      "height": 1430
+    }
+  ],
+  "conversation_count": 3,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "favorite_count": 4,
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "reply_count": 2,
+    "retweet_count": 1,
+    "created_at": "2026-02-25T17:28:19.000Z",
+    "display_text_range": [
+      0,
+      91
+    ],
+    "entities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/AHrRT5XIsQ",
+          "expanded_url": "https://x.com/TradercBTC/status/2026710863663759731/photo/1",
+          "indices": [
+            92,
+            115
+          ],
+          "url": "https://t.co/AHrRT5XIsQ"
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [
+            19,
+            23
+          ],
+          "text": "BTC"
+        }
+      ]
+    },
+    "id_str": "2026710863663759731",
+    "text": "woc，要不是群里有人说，我还不知道 $BTC 涨这么多\n\n目前看起来在周线EMA200这里得到了支撑，跌了几周没跌下去，看起来暂时有买盘资金\n\n短线分歧和波动加剧是一定的了。。。。 https://t.co/AHrRT5XIsQ",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2026710863663759731"
+      ],
+      "editable_until_msecs": "1772044099000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "mediaDetails": [
+      {
+        "display_url": "pic.x.com/AHrRT5XIsQ",
+        "expanded_url": "https://x.com/TradercBTC/status/2026710863663759731/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "indices": [
+          92,
+          115
+        ],
+        "media_url_https": "https://pbs.twimg.com/media/HCBSX6XasAAhyAL.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1418,
+              "w": 2532,
+              "x": 194,
+              "y": 0
+            },
+            {
+              "h": 1418,
+              "w": 1418,
+              "x": 1308,
+              "y": 0
+            },
+            {
+              "h": 1418,
+              "w": 1244,
+              "x": 1482,
+              "y": 0
+            },
+            {
+              "h": 1418,
+              "w": 709,
+              "x": 2017,
+              "y": 0
+            },
+            {
+              "h": 1418,
+              "w": 2726,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1418,
+          "width": 2726
+        },
+        "sizes": {
+          "large": {
+            "h": 1065,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 624,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 354,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/AHrRT5XIsQ"
+      }
+    ],
+    "photos": [
+      {
+        "backgroundColor": {
+          "red": 204,
+          "green": 214,
+          "blue": 221
+        },
+        "cropCandidates": [
+          {
+            "h": 1418,
+            "w": 2532,
+            "x": 194,
+            "y": 0
+          },
+          {
+            "h": 1418,
+            "w": 1418,
+            "x": 1308,
+            "y": 0
+          },
+          {
+            "h": 1418,
+            "w": 1244,
+            "x": 1482,
+            "y": 0
+          },
+          {
+            "h": 1418,
+            "w": 709,
+            "x": 2017,
+            "y": 0
+          },
+          {
+            "h": 1418,
+            "w": 2726,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "expandedUrl": "https://x.com/TradercBTC/status/2026710863663759731/photo/1",
+        "url": "https://pbs.twimg.com/media/HCBSX6XasAAhyAL.jpg",
+        "width": 2726,
+        "height": 1418
+      }
+    ],
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

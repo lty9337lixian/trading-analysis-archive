@@ -1,0 +1,58 @@
+[info] Loading https://x.com/TradercBTC/status/2049363052102099317 with generic adapter
+[info] Downloaded 1 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2049363052102099317.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2049363052102099317/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2049363052102099317/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2049363052102099317/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2049363052102099317",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2049363052102099317",
+    "title": "trader-c on X: \"最近的一个体感，加密货币止损需要加入atr的波动率，而非简单的结构位\n\n做指数可以依靠结构位止损。\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-04-29T05:40:01.000Z",
+    "summary": "最近的一个体感，加密货币止损需要加入atr的波动率，而非简单的结构位\n\n做指数可以依靠结构位止损。",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:00:46.406Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n最近的一个体感，加密货币止损需要加入atr的波动率，而非简单的结构位 做指数可以依靠结构位止损。\n\n[13:40 · 2026年4月29日](https://x.com/TradercBTC/status/2049363052102099317) [5047Views](https://x.com/TradercBTC/status/2049363052102099317)\n\n[5](https://x.com/i/status/2049363052102099317)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2049363052102099317"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"最近的一个体感，加密货币止损需要加入atr的波动率，而非简单的结构位\n  \n  做指数可以依靠结构位止损。\" / X\nurl: \"https://x.com/TradercBTC/status/2049363052102099317\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2049363052102099317\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2049363052102099317/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-04-29T05:40:01.000Z\"\nsummary: |-\n  最近的一个体感，加密货币止损需要加入atr的波动率，而非简单的结构位\n  \n  做指数可以依靠结构位止损。\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:00:46.406Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"最近的一个体感，加密货币止损需要加入atr的波动率，而非简单的结构位\n\n做指数可以依靠结构位止损。\" / X\n\n[![@TradercBTC](2049363052102099317/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n最近的一个体感，加密货币止损需要加入atr的波动率，而非简单的结构位 做指数可以依靠结构位止损。\n\n[13:40 · 2026年4月29日](https://x.com/TradercBTC/status/2049363052102099317) [5047Views](https://x.com/TradercBTC/status/2049363052102099317)\n\n[5](https://x.com/i/status/2049363052102099317)"
+}

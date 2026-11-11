@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2095136520223203826 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2095136520223203826.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/2081627562770665472/bSUNARWw_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/2081627562770665472/bSUNARWw_400x400.jpg",
+        "localPath": "2095136520223203826/imgs/img-001-bSUNARWw_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2095136520223203826/imgs/img-001-bSUNARWw_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2095136520223203826/imgs/img-002-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2095136520223203826/imgs/img-002-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2095136520223203826/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2095136520223203826",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2095136520223203826",
+    "title": "trader-c on X: \"@nekofrize 看错了，以为你说的sol那个\n\n这是很明显的右侧交易，简单的很\n\n市场进行突破，但是突破失败，市场拒绝了上方的价格，上面的小盘整高点就能作为止损区间\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-09-02T13:07:26.000Z",
+    "summary": "@nekofrize 看错了，以为你说的sol那个\n\n这是很明显的右侧交易，简单的很\n\n市场进行突破，但是突破失败，市场拒绝了上方的价格，上面的小盘整高点就能作为止损区间",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:06:56.949Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@nekofrize](https://pbs.twimg.com/profile_images/2081627562770665472/bSUNARWw_400x400.jpg)](https://x.com/nekofrize)\n\tC老师你好，我还是想问一下第二个短线例子，看得不是很懂。 我的理解是在下跌背景下先有两次回调验证了某个阻力位，紧接着k线短暂上破，形成一个小区间（在区间内先回踩该阻力位又再次向上遇阻）后又再次下跌，但我刚刚去查图表k线直接是跌下去了，并没有给出入场的机会。\n\t[1](https://x.com/i/status/2095125514507694250)\n- [1](https://x.com/i/status/2095136520223203826)\n\tOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2095136520223203826"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"@nekofrize 看错了，以为你说的sol那个\n  \n  这是很明显的右侧交易，简单的很\n  \n  市场进行突破，但是突破失败，市场拒绝了上方的价格，上面的小盘整高点就能作为止损区间\" / X\nurl: \"https://x.com/TradercBTC/status/2095136520223203826\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2095136520223203826\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2095136520223203826/imgs/img-002-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-09-02T13:07:26.000Z\"\nsummary: |-\n  @nekofrize 看错了，以为你说的sol那个\n  \n  这是很明显的右侧交易，简单的很\n  \n  市场进行突破，但是突破失败，市场拒绝了上方的价格，上面的小盘整高点就能作为止损区间\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:06:56.949Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"@nekofrize 看错了，以为你说的sol那个\n\n这是很明显的右侧交易，简单的很\n\n市场进行突破，但是突破失败，市场拒绝了上方的价格，上面的小盘整高点就能作为止损区间\" / X\n\n- [![@nekofrize](2095136520223203826/imgs/img-001-bSUNARWw_400x400.jpg)](https://x.com/nekofrize)\n\tC老师你好，我还是想问一下第二个短线例子，看得不是很懂。 我的理解是在下跌背景下先有两次回调验证了某个阻力位，紧接着k线短暂上破，形成一个小区间（在区间内先回踩该阻力位又再次向上遇阻）后又再次下跌，但我刚刚去查图表k线直接是跌下去了，并没有给出入场的机会。\n\t[1](https://x.com/i/status/2095125514507694250)\n- [1](https://x.com/i/status/2095136520223203826)\n\tOnly some accounts can reply."
+}

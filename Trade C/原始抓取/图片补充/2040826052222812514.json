@@ -1,0 +1,62 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 63,
+  "lang": "zxx",
+  "possibly_sensitive": false,
+  "created_at": "2026-04-05T16:17:02.000Z",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2040…",
+        "expanded_url": "http://x.com/i/article/2040820815541985280",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/rPUBHVpfyN"
+      }
+    ]
+  },
+  "id_str": "2040826052222812514",
+  "text": "https://t.co/rPUBHVpfyN",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2040826052222812514"
+    ],
+    "editable_until_msecs": "1775409422000",
+    "edits_remaining": "5",
+    "is_edit_eligible": false
+  },
+  "conversation_count": 5,
+  "news_action_type": "conversation",
+  "article": {
+    "cover_media": {
+      "id": "QXBpTWVkaWE6DAAFCgABHFJ1PWBb0AIKAAIaqP8AOBtwBgAA",
+      "media_info": {
+        "__typename": "ApiImage",
+        "original_img_height": 1312,
+        "original_img_url": "https://pbs.twimg.com/media/HFJ1PWBb0AIbbdm.jpg",
+        "original_img_width": 3280
+      }
+    },
+    "id": "QXJ0aWNsZUVudGl0eToyMDQwODIwODE1NTQxOTg1Mjgw",
+    "preview_text": "一个交易者的飞轮：研究越多，越自信；越自信，越敢动；越敢动，越能赢；越能赢，越想研究。\n大多数人把研究当作交易之前的准备工作。\n这篇文章说的是另一件事：研究不是准备。研究是引擎本身。\n一则寓言",
+    "rest_id": "2040820815541985280",
+    "title": "《大空头》说：你应该有自己的线团"
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

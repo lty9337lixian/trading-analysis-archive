@@ -1,0 +1,55 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2091739002064044286/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2091739002064044286/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2091739002064044286/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2091739002064044286",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2091739002064044286",
+    "title": "trader-c on X: \"实际上对我们现在来说，回调其实就是买入的机会\n\n目前在大级别的情况没有走坏的情况下，\n\n回调就是给我们机会，我们可以去寻找相对抗跌并且结构比较好的一些币种，在回调的时候，可以在我们满意的位置去买入\n\n像上一波我们没有做到的一些比较好的，并没有给机会，但是现在回调确实给到了一个相对比较好的机会，而且逻辑失效的点非常明确\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-24T04:06:55.000Z",
+    "summary": "实际上对我们现在来说，回调其实就是买入的机会\n\n目前在大级别的情况没有走坏的情况下，\n\n回调就是给我们机会，我们可以去寻找相对抗跌并且结构比较好的一些币种，在回调的时候，可以在我们满意的位置去买入\n\n像上一波我们没有做到的一些比较好的，并没有给机会，但是现在回调确实给到了一个相对比较好的机会，而且逻辑失效的点非常明确",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:06:15.005Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n实际上对我们现在来说，回调其实就是买入的机会 目前在大级别的情况没有走坏的情况下， 回调就是给我们机会，我们可以去寻找相对抗跌并且结构比较好的一些币种，在回调的时候，可以在我们满意的位置去买入 像上一波我们没有做到的一些比较好的，并没有给机会，但是现在回调确实给到了一个相对比较好的机会，而且逻辑失效的点非常明确\n\n[12:06 · 2026年8月24日](https://x.com/TradercBTC/status/2091739002064044286) [9057Views](https://x.com/TradercBTC/status/2091739002064044286)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2091739002064044286"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"实际上对我们现在来说，回调其实就是买入的机会\n  \n  目前在大级别的情况没有走坏的情况下，\n  \n  回调就是给我们机会，我们可以去寻找相对抗跌并且结构比较好的一些币种，在回调的时候，可以在我们满意的位置去买入\n  \n  像上一波我们没有做到的一些比较好的，并没有给机会，但是现在回调确实给到了一个相对比较好的机会，而且逻辑失效的点非常明确\" / X\nurl: \"https://x.com/TradercBTC/status/2091739002064044286\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2091739002064044286\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2091739002064044286/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-24T04:06:55.000Z\"\nsummary: |-\n  实际上对我们现在来说，回调其实就是买入的机会\n  \n  目前在大级别的情况没有走坏的情况下，\n  \n  回调就是给我们机会，我们可以去寻找相对抗跌并且结构比较好的一些币种，在回调的时候，可以在我们满意的位置去买入\n  \n  像上一波我们没有做到的一些比较好的，并没有给机会，但是现在回调确实给到了一个相对比较好的机会，而且逻辑失效的点非常明确\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:06:15.005Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"实际上对我们现在来说，回调其实就是买入的机会\n\n目前在大级别的情况没有走坏的情况下，\n\n回调就是给我们机会，我们可以去寻找相对抗跌并且结构比较好的一些币种，在回调的时候，可以在我们满意的位置去买入\n\n像上一波我们没有做到的一些比较好的，并没有给机会，但是现在回调确实给到了一个相对比较好的机会，而且逻辑失效的点非常明确\" / X\n\n[![@TradercBTC](2091739002064044286/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n实际上对我们现在来说，回调其实就是买入的机会 目前在大级别的情况没有走坏的情况下， 回调就是给我们机会，我们可以去寻找相对抗跌并且结构比较好的一些币种，在回调的时候，可以在我们满意的位置去买入 像上一波我们没有做到的一些比较好的，并没有给机会，但是现在回调确实给到了一个相对比较好的机会，而且逻辑失效的点非常明确\n\n[12:06 · 2026年8月24日](https://x.com/TradercBTC/status/2091739002064044286) [9057Views](https://x.com/TradercBTC/status/2091739002064044286)\n\nOnly some accounts can reply."
+}

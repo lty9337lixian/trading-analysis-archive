@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2019235094595268818 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2019235094595268818.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HAXCTiQboAAQ81y.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2019235094595268818/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2019235094595268818/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HAXCTiQboAAQ81y.jpg:large",
+        "localPath": "2019235094595268818/imgs/img-002-HAXCTiQboAAQ81y-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2019235094595268818/imgs/img-002-HAXCTiQboAAQ81y-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2019235094595268818/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2019235094595268818",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2019235094595268818",
+    "title": "trader-c on X: \"日经指数\n\n刚在小级别做了一笔空单，跌的很快\n\n这种大涨大跌大概率是箱体震荡\n\n30min做股指期货的波段会比较舒服\n\n等到箱体底部或者ema200去做做多比较好\n\n但是这个波动太小，仓位分配是一个难题，不能按照在加密货币里的常规仓位去做，得放大仓位\n\n平时吃的都是5%到10%，现在吃的是0.5%\n\n对应仓位应该放大一倍才行\n\n昨天找了一个朋友学习\n\n看了一下他的交易，基本都是每笔40w💲的仓位，每笔赚几千块钱，持仓分钟到小时计数的\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-05T02:22:16.000Z",
+    "summary": "日经指数\n\n刚在小级别做了一笔空单，跌的很快\n\n这种大涨大跌大概率是箱体震荡\n\n30min做股指期货的波段会比较舒服\n\n等到箱体底部或者ema200去做做多比较好\n\n但是这个波动太小，仓位分配是一个难题，不能按照在加密货币里的常规仓位去做，得放大仓位\n\n平时吃的都是5%到10%，现在吃的是0.5%\n\n对应仓位应该放大一倍才行\n\n昨天找了一个朋友学习\n\n看了一下他的交易，基本都是每笔40w💲的仓位，每笔赚几千块钱，持仓分钟到小时计数的",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HAXCTiQboAAQ81y.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:56:25.898Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n日经指数 刚在小级别做了一笔空单，跌的很快 这种大涨大跌大概率是箱体震荡 30min做股指期货的波段会比较舒服 等到箱体底部或者ema200去做做多比较好 但是这个波动太小，仓位分配是一个难题，不能按照在加密货币里的常规仓位去做，得放大仓位 平时吃的都是5%到10%，现在吃的是0.5% 对应仓位应该放大一倍才行 昨天找了一个朋友学习 看了一下他的交易，基本都是每笔40w💲的仓位，每笔赚几千块钱，持仓分钟到小时计数的\n\n[10:22 · 2026年2月5日](https://x.com/TradercBTC/status/2019235094595268818) [2286Views](https://x.com/TradercBTC/status/2019235094595268818)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2019235094595268818"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"日经指数\n  \n  刚在小级别做了一笔空单，跌的很快\n  \n  这种大涨大跌大概率是箱体震荡\n  \n  30min做股指期货的波段会比较舒服\n  \n  等到箱体底部或者ema200去做做多比较好\n  \n  但是这个波动太小，仓位分配是一个难题，不能按照在加密货币里的常规仓位去做，得放大仓位\n  \n  平时吃的都是5%到10%，现在吃的是0.5%\n  \n  对应仓位应该放大一倍才行\n  \n  昨天找了一个朋友学习\n  \n  看了一下他的交易，基本都是每笔40w💲的仓位，每笔赚几千块钱，持仓分钟到小时计数的\" / X\nurl: \"https://x.com/TradercBTC/status/2019235094595268818\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2019235094595268818\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2019235094595268818/imgs/img-002-HAXCTiQboAAQ81y-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-05T02:22:16.000Z\"\nsummary: |-\n  日经指数\n  \n  刚在小级别做了一笔空单，跌的很快\n  \n  这种大涨大跌大概率是箱体震荡\n  \n  30min做股指期货的波段会比较舒服\n  \n  等到箱体底部或者ema200去做做多比较好\n  \n  但是这个波动太小，仓位分配是一个难题，不能按照在加密货币里的常规仓位去做，得放大仓位\n  \n  平时吃的都是5%到10%，现在吃的是0.5%\n  \n  对应仓位应该放大一倍才行\n  \n  昨天找了一个朋友学习\n  \n  看了一下他的交易，基本都是每笔40w💲的仓位，每笔赚几千块钱，持仓分钟到小时计数的\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:56:25.898Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"日经指数\n\n刚在小级别做了一笔空单，跌的很快\n\n这种大涨大跌大概率是箱体震荡\n\n30min做股指期货的波段会比较舒服\n\n等到箱体底部或者ema200去做做多比较好\n\n但是这个波动太小，仓位分配是一个难题，不能按照在加密货币里的常规仓位去做，得放大仓位\n\n平时吃的都是5%到10%，现在吃的是0.5%\n\n对应仓位应该放大一倍才行\n\n昨天找了一个朋友学习\n\n看了一下他的交易，基本都是每笔40w💲的仓位，每笔赚几千块钱，持仓分钟到小时计数的\" / X\n\n[![@TradercBTC](2019235094595268818/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n日经指数 刚在小级别做了一笔空单，跌的很快 这种大涨大跌大概率是箱体震荡 30min做股指期货的波段会比较舒服 等到箱体底部或者ema200去做做多比较好 但是这个波动太小，仓位分配是一个难题，不能按照在加密货币里的常规仓位去做，得放大仓位 平时吃的都是5%到10%，现在吃的是0.5% 对应仓位应该放大一倍才行 昨天找了一个朋友学习 看了一下他的交易，基本都是每笔40w💲的仓位，每笔赚几千块钱，持仓分钟到小时计数的\n\n[10:22 · 2026年2月5日](https://x.com/TradercBTC/status/2019235094595268818) [2286Views](https://x.com/TradercBTC/status/2019235094595268818)"
+}

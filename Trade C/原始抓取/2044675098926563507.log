@@ -1,0 +1,58 @@
+[info] Loading https://x.com/TradercBTC/status/2044675098926563507 with generic adapter
+[info] Downloaded 1 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2044675098926563507.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2044675098926563507/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2044675098926563507/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2044675098926563507/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2044675098926563507",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2044675098926563507",
+    "title": "trader-c on X: \"为什么这么说呢：\n\n交易逻辑回答一个问题：你凭什么认为这笔交易能赚钱？\n\n它是你对市场的一个判断加上基于这个判断的行动理由。\n\n交易系统回答另一个问题：你怎么把这个判断变成可重复的、可执行的、可存活的完整流程？\n\n它包含逻辑，但还包含大量逻辑之外的东西。\n\n一个人可以有清晰的交易逻辑但没有交易系统\n\n他知道为什么做，但每次执行都靠临场发挥，仓位随心情变，止损有时设有时不设，复盘偶尔做偶尔不做。他可能短期赚钱，但长期不稳定。\n\n一个人也可以有完整的交易系统但交易逻辑是错的\n\n他的执行极其规范、风控严格、复盘认真，但他的核心假设不成立（比如他相信月亮周期预测股市）… / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-04-16T07:11:46.000Z",
+    "summary": "为什么这么说呢：\n\n交易逻辑回答一个问题：你凭什么认为这笔交易能赚钱？\n\n它是你对市场的一个判断加上基于这个判断的行动理由。\n\n交易系统回答另一个问题：你怎么把这个判断变成可重复的、可执行的、可存活的完整流程？\n\n它包含逻辑，但还包含大量逻辑之外的东西。\n\n一个人可以有清晰的交易逻辑但没有交易系统\n\n他知道为什么做，但每次执行都靠临场发挥，仓位随心情变，止损有时设有时不设，复盘偶尔做偶尔不做。他可能短期赚钱，但长期不稳定。\n\n一个人也可以有完整的交易系统但交易逻辑是错的\n\n他的执行极其规范、风控严格、复盘认真，但他的核心假设不成立（比如他相信月亮周期预测股市），再好的系统也只是高效地执行一个…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:52:26.215Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t为什么这么说呢： 交易逻辑回答一个问题：你凭什么认为这笔交易能赚钱？ 它是你对市场的一个判断加上基于这个判断的行动理由。 交易系统回答另一个问题：你怎么把这个判断变成可重复的、可执行的、可存活的完整流程？ 它包含逻辑，但还包含大量逻辑之外的东西。 一个人可以有清晰的交易逻辑但没有交易系统 他知道为什么做，但每次执行都靠临场发挥，仓位随心情变，止损有时设有时不设，复盘偶尔做偶尔不做。他可能短期赚钱，但长期不稳定。 一个人也可以有完整的交易系统但交易逻辑是错的 他的执行极其规范、风控严格、复盘认真，但他的核心假设不成立（比如他相信月亮周期预测股市），再好的系统也只是高效地执行一个错误的逻辑。\n\t[15:11 · 2026年4月16日](https://x.com/TradercBTC/status/2044675098926563507) [2363Views](https://x.com/TradercBTC/status/2044675098926563507)\n\t[5](https://x.com/i/status/2044675098926563507)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2044675098926563507"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"为什么这么说呢：\n  \n  交易逻辑回答一个问题：你凭什么认为这笔交易能赚钱？\n  \n  它是你对市场的一个判断加上基于这个判断的行动理由。\n  \n  交易系统回答另一个问题：你怎么把这个判断变成可重复的、可执行的、可存活的完整流程？\n  \n  它包含逻辑，但还包含大量逻辑之外的东西。\n  \n  一个人可以有清晰的交易逻辑但没有交易系统\n  \n  他知道为什么做，但每次执行都靠临场发挥，仓位随心情变，止损有时设有时不设，复盘偶尔做偶尔不做。他可能短期赚钱，但长期不稳定。\n  \n  一个人也可以有完整的交易系统但交易逻辑是错的\n  \n  他的执行极其规范、风控严格、复盘认真，但他的核心假设不成立（比如他相信月亮周期预测股市）… / X\nurl: \"https://x.com/TradercBTC/status/2044675098926563507\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2044675098926563507\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2044675098926563507/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-04-16T07:11:46.000Z\"\nsummary: |-\n  为什么这么说呢：\n  \n  交易逻辑回答一个问题：你凭什么认为这笔交易能赚钱？\n  \n  它是你对市场的一个判断加上基于这个判断的行动理由。\n  \n  交易系统回答另一个问题：你怎么把这个判断变成可重复的、可执行的、可存活的完整流程？\n  \n  它包含逻辑，但还包含大量逻辑之外的东西。\n  \n  一个人可以有清晰的交易逻辑但没有交易系统\n  \n  他知道为什么做，但每次执行都靠临场发挥，仓位随心情变，止损有时设有时不设，复盘偶尔做偶尔不做。他可能短期赚钱，但长期不稳定。\n  \n  一个人也可以有完整的交易系统但交易逻辑是错的\n  \n  他的执行极其规范、风控严格、复盘认真，但他的核心假设不成立（比如他相信月亮周期预测股市），再好的系统也只是高效地执行一个…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:52:26.215Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"为什么这么说呢：\n\n交易逻辑回答一个问题：你凭什么认为这笔交易能赚钱？\n\n它是你对市场的一个判断加上基于这个判断的行动理由。\n\n交易系统回答另一个问题：你怎么把这个判断变成可重复的、可执行的、可存活的完整流程？\n\n它包含逻辑，但还包含大量逻辑之外的东西。\n\n一个人可以有清晰的交易逻辑但没有交易系统\n\n他知道为什么做，但每次执行都靠临场发挥，仓位随心情变，止损有时设有时不设，复盘偶尔做偶尔不做。他可能短期赚钱，但长期不稳定。\n\n一个人也可以有完整的交易系统但交易逻辑是错的\n\n他的执行极其规范、风控严格、复盘认真，但他的核心假设不成立（比如他相信月亮周期预测股市）… / X\n\n- [![@TradercBTC](2044675098926563507/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t为什么这么说呢： 交易逻辑回答一个问题：你凭什么认为这笔交易能赚钱？ 它是你对市场的一个判断加上基于这个判断的行动理由。 交易系统回答另一个问题：你怎么把这个判断变成可重复的、可执行的、可存活的完整流程？ 它包含逻辑，但还包含大量逻辑之外的东西。 一个人可以有清晰的交易逻辑但没有交易系统 他知道为什么做，但每次执行都靠临场发挥，仓位随心情变，止损有时设有时不设，复盘偶尔做偶尔不做。他可能短期赚钱，但长期不稳定。 一个人也可以有完整的交易系统但交易逻辑是错的 他的执行极其规范、风控严格、复盘认真，但他的核心假设不成立（比如他相信月亮周期预测股市），再好的系统也只是高效地执行一个错误的逻辑。\n\t[15:11 · 2026年4月16日](https://x.com/TradercBTC/status/2044675098926563507) [2363Views](https://x.com/TradercBTC/status/2044675098926563507)\n\t[5](https://x.com/i/status/2044675098926563507)"
+}

@@ -1,0 +1,76 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 24,
+  "lang": "zh",
+  "created_at": "2026-08-10T15:42:18.000Z",
+  "display_text_range": [
+    0,
+    132
+  ],
+  "entities": {},
+  "id_str": "2086840570706846164",
+  "text": "回来了，继续码字，趋势，回调，以及趋势和回调的关系。\n\n什么是趋势呢？\n\n作者没有给一个严格定义，作者的主张是趋势的基本运动不是一条直线，而是顺趋势推动 → 逆趋势回调/整理 → 再次顺趋势推动\n\n即趋势不会直线运行，而是由顺趋势力量阶段与整理、回调阶段交替构成。",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2086840570706846164"
+    ],
+    "editable_until_msecs": "1786380138000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 1,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "conversation_control": {
+      "policy": "Verified"
+    },
+    "favorite_count": 33,
+    "lang": "zh",
+    "reply_count": 1,
+    "retweet_count": 7,
+    "created_at": "2026-08-10T12:06:53.000Z",
+    "display_text_range": [
+      0,
+      142
+    ],
+    "entities": {},
+    "id_str": "2086786361311592801",
+    "text": "现在推特已经成为我的打字文档软件了\n\n继续写\n\n写一些看完上本书之后的一些个人总结\n\n主要是一些关于对市场的解读的内容\n\n第2，3，5章其实讲的是一个内容，组合起来就是我们拿到图表，观察市场的完整决策链。\n\n首先当我们拿到一张图表，我们首先关注方向和结构。\n\n方向是更看好做多还是做空",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2086786361311592801"
+      ],
+      "editable_until_msecs": "1786367213000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDg2ODQwNTcwNTA5Nzc0ODQ4"
+  }
+}

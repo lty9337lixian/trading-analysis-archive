@@ -1,0 +1,84 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HNoxSefbMAAU0or.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HNoxh6laMAAlVoq?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HNoxm6oa4AAKOtF?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/HNoxSefbMAAU0or.jpg:large",
+        "localPath": "2079029248338321435/imgs/img-001-HNoxSefbMAAU0or-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2079029248338321435/imgs/img-001-HNoxSefbMAAU0or-jpg-large.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2079029248338321435/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2079029248338321435/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HNoxh6laMAAlVoq?format=webp&name=medium",
+        "localPath": "2079029248338321435/imgs/img-003-HNoxh6laMAAlVoq.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2079029248338321435/imgs/img-003-HNoxh6laMAAlVoq.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HNoxm6oa4AAKOtF?format=webp&name=medium",
+        "localPath": "2079029248338321435/imgs/img-004-HNoxm6oa4AAKOtF.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2079029248338321435/imgs/img-004-HNoxm6oa4AAKOtF.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 4,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2079029248338321435/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2079029248338321435",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2079029248338321435",
+    "title": "trader-c on X: \"做点日内交易 黄金：一小时显示的是宽幅震荡，目前价格在通道的中部位置动能式上涨 15min显示的一样。 但是5min显示的动能是下跌 所以组合起来，我们认为按照大周期为主，寻找15分钟和5分钟做多的机会， 然后现在5分钟的动能是下跌，等待从下跌转到均衡，或者出现做多的信号去入场 由于都是在震荡，所以按照15分钟的止盈1，或者5分钟的止盈1为初始目标，然后是行情发展，如果走得比较干净，信号k强势，可以提高初始的止盈位置\"",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-07-20T02:22:53.000Z",
+    "summary": "做点日内交易\n\n黄金：一小时显示的是宽幅震荡，目前价格在通道的中部位置动能式上涨\n\n15min显示的一样。\n\n但是5min显示的动能是下跌\n\n所以组合起来，我们认为按照大周期为主，寻找15分钟和5分钟做多的机会，\n\n然后现在5分钟的动能是下跌，等待从下跌转到均衡，或者出现做多的信号去入场\n\n由于都是在震荡，所以按照15分钟的止盈1，或者5分钟的止盈1为初始目标，然后是行情发展，如果走得比较干净，信号k强势，可以提高初始的止盈位置",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HNoxSefbMAAU0or.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:03:14.489Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n做点日内交易 黄金：一小时显示的是宽幅震荡，目前价格在通道的中部位置动能式上涨 15min显示的一样。 但是5min显示的动能是下跌 所以组合起来，我们认为按照大周期为主，寻找15分钟和5分钟做多的机会， 然后现在5分钟的动能是下跌，等待从下跌转到均衡，或者出现做多的信号去入场 由于都是在震荡，所以按照15分钟的止盈1，或者5分钟的止盈1为初始目标，然后是行情发展，如果走得比较干净，信号k强势，可以提高初始的止盈位置\n\n[![](https://pbs.twimg.com/media/HNoxh6laMAAlVoq?format=webp&name=medium)](https://x.com/TradercBTC/status/2079029248338321435/photo/2)\n\n[![](https://pbs.twimg.com/media/HNoxm6oa4AAKOtF?format=webp&name=medium)](https://x.com/TradercBTC/status/2079029248338321435/photo/3)\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[7月20日](https://x.com/TradercBTC/status/2079020469798441158)\n\n开启新的交易周！！！\n\n[10:22 · 2026年7月20日](https://x.com/TradercBTC/status/2079029248338321435)[3万Views](https://x.com/TradercBTC/status/2079029248338321435)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2079029248338321435"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"做点日内交易 黄金：一小时显示的是宽幅震荡，目前价格在通道的中部位置动能式上涨 15min显示的一样。 但是5min显示的动能是下跌 所以组合起来，我们认为按照大周期为主，寻找15分钟和5分钟做多的机会， 然后现在5分钟的动能是下跌，等待从下跌转到均衡，或者出现做多的信号去入场 由于都是在震荡，所以按照15分钟的止盈1，或者5分钟的止盈1为初始目标，然后是行情发展，如果走得比较干净，信号k强势，可以提高初始的止盈位置\\\"\"\nurl: \"https://x.com/TradercBTC/status/2079029248338321435\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2079029248338321435\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2079029248338321435/imgs/img-001-HNoxSefbMAAU0or-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-07-20T02:22:53.000Z\"\nsummary: |-\n  做点日内交易\n  \n  黄金：一小时显示的是宽幅震荡，目前价格在通道的中部位置动能式上涨\n  \n  15min显示的一样。\n  \n  但是5min显示的动能是下跌\n  \n  所以组合起来，我们认为按照大周期为主，寻找15分钟和5分钟做多的机会，\n  \n  然后现在5分钟的动能是下跌，等待从下跌转到均衡，或者出现做多的信号去入场\n  \n  由于都是在震荡，所以按照15分钟的止盈1，或者5分钟的止盈1为初始目标，然后是行情发展，如果走得比较干净，信号k强势，可以提高初始的止盈位置\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:03:14.489Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"做点日内交易 黄金：一小时显示的是宽幅震荡，目前价格在通道的中部位置动能式上涨 15min显示的一样。 但是5min显示的动能是下跌 所以组合起来，我们认为按照大周期为主，寻找15分钟和5分钟做多的机会， 然后现在5分钟的动能是下跌，等待从下跌转到均衡，或者出现做多的信号去入场 由于都是在震荡，所以按照15分钟的止盈1，或者5分钟的止盈1为初始目标，然后是行情发展，如果走得比较干净，信号k强势，可以提高初始的止盈位置\"\n\n[![@TradercBTC](2079029248338321435/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n做点日内交易 黄金：一小时显示的是宽幅震荡，目前价格在通道的中部位置动能式上涨 15min显示的一样。 但是5min显示的动能是下跌 所以组合起来，我们认为按照大周期为主，寻找15分钟和5分钟做多的机会， 然后现在5分钟的动能是下跌，等待从下跌转到均衡，或者出现做多的信号去入场 由于都是在震荡，所以按照15分钟的止盈1，或者5分钟的止盈1为初始目标，然后是行情发展，如果走得比较干净，信号k强势，可以提高初始的止盈位置\n\n[![](2079029248338321435/imgs/img-003-HNoxh6laMAAlVoq.webp)](https://x.com/TradercBTC/status/2079029248338321435/photo/2)\n\n[![](2079029248338321435/imgs/img-004-HNoxm6oa4AAKOtF.webp)](https://x.com/TradercBTC/status/2079029248338321435/photo/3)\n\n[![@TradercBTC](2079029248338321435/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[7月20日](https://x.com/TradercBTC/status/2079020469798441158)\n\n开启新的交易周！！！\n\n[10:22 · 2026年7月20日](https://x.com/TradercBTC/status/2079029248338321435)[3万Views](https://x.com/TradercBTC/status/2079029248338321435)\n\nOnly some accounts can reply."
+}

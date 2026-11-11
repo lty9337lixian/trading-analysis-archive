@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/G_hcwyNbYAA___3.png:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2015463823235481608/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2015463823235481608/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/G_hcwyNbYAA___3.png:large",
+        "localPath": "2015463823235481608/imgs/img-002-G_hcwyNbYAA___3-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2015463823235481608/imgs/img-002-G_hcwyNbYAA___3-png-large.png",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2015463823235481608/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2015463823235481608",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2015463823235481608",
+    "title": "trader-c on X: \"睡觉前紧急更新一下\n\n$BTC 按照之前的视频分享的观点，押注一手向上反转，小级别892挂一个stop order\n\n之前已经触发的小仓位空单防守位挂到同样位置\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-01-25T16:36:35.000Z",
+    "summary": "睡觉前紧急更新一下\n\n$BTC 按照之前的视频分享的观点，押注一手向上反转，小级别892挂一个stop order\n\n之前已经触发的小仓位空单防守位挂到同样位置",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/G_hcwyNbYAA___3.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:55:12.584Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n睡觉前紧急更新一下 [$BTC](https://x.com/search?q=$BTC) 按照之前的视频分享的观点，押注一手向上反转，小级别892挂一个stop order 之前已经触发的小仓位空单防守位挂到同样位置\n\n[0:36 · 2026年1月26日](https://x.com/TradercBTC/status/2015463823235481608) [1.2万Views](https://x.com/TradercBTC/status/2015463823235481608)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2015463823235481608"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"睡觉前紧急更新一下\n  \n  $BTC 按照之前的视频分享的观点，押注一手向上反转，小级别892挂一个stop order\n  \n  之前已经触发的小仓位空单防守位挂到同样位置\" / X\nurl: \"https://x.com/TradercBTC/status/2015463823235481608\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2015463823235481608\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2015463823235481608/imgs/img-002-G_hcwyNbYAA___3-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-01-25T16:36:35.000Z\"\nsummary: |-\n  睡觉前紧急更新一下\n  \n  $BTC 按照之前的视频分享的观点，押注一手向上反转，小级别892挂一个stop order\n  \n  之前已经触发的小仓位空单防守位挂到同样位置\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:55:12.584Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"睡觉前紧急更新一下\n\n$BTC 按照之前的视频分享的观点，押注一手向上反转，小级别892挂一个stop order\n\n之前已经触发的小仓位空单防守位挂到同样位置\" / X\n\n[![@TradercBTC](2015463823235481608/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n睡觉前紧急更新一下 [$BTC](https://x.com/search?q=$BTC) 按照之前的视频分享的观点，押注一手向上反转，小级别892挂一个stop order 之前已经触发的小仓位空单防守位挂到同样位置\n\n[0:36 · 2026年1月26日](https://x.com/TradercBTC/status/2015463823235481608) [1.2万Views](https://x.com/TradercBTC/status/2015463823235481608)"
+}

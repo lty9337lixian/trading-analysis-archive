@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2081383225902199011 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2081383225902199011.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HOKMKYgbMAAn-Yx.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2081383225902199011/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2081383225902199011/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HOKMKYgbMAAn-Yx.jpg:large",
+        "localPath": "2081383225902199011/imgs/img-002-HOKMKYgbMAAn-Yx-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2081383225902199011/imgs/img-002-HOKMKYgbMAAn-Yx-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2081383225902199011/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2081383225902199011",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2081383225902199011",
+    "title": "trader-c on X: \"我们用指标做大a的话，不要用日线，6H，1H的框架了\n\n持仓时间短的话用日线—1H—15m\n\n大a的特性是 ：\n1个交易日≈4根60分钟K； \n1根60分钟K≈4根15分钟K； \n1个交易日≈16根15分钟K。\n\n比如我持有的创新药：\n\n日线高等框架：宽幅震荡，动能上涨\n\n1H中等框架：窄下跌通道，强下跌动能\n\n15m低级框架：宽幅下跌通道，强下跌动能\n\n本质上是高周期与中低周期背离。\n\n目前日线结构没有被破坏，那么可以暂时将它理解为：日线上涨过程中的中低周期回调\n\n但日线价格已经处于宽幅震荡区间上方，那么也要警惕：中低周期的强下跌可能不是普通回调，而是日线冲… / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-07-26T14:16:45.000Z",
+    "summary": "我们用指标做大a的话，不要用日线，6H，1H的框架了\n\n持仓时间短的话用日线—1H—15m\n\n大a的特性是 ：\n1个交易日≈4根60分钟K； \n1根60分钟K≈4根15分钟K； \n1个交易日≈16根15分钟K。\n\n比如我持有的创新药：\n\n日线高等框架：宽幅震荡，动能上涨\n\n1H中等框架：窄下跌通道，强下跌动能\n\n15m低级框架：宽幅下跌通道，强下跌动能\n\n本质上是高周期与中低周期背离。\n\n目前日线结构没有被破坏，那么可以暂时将它理解为：日线上涨过程中的中低周期回调\n\n但日线价格已经处于宽幅震荡区间上方，那么也要警惕：中低周期的强下跌可能不是普通回调，而是日线冲高失败后的转弱\n\n日线允许我们寻…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HOKMKYgbMAAn-Yx.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:04:20.018Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t我们用指标做大a的话，不要用日线，6H，1H的框架了 持仓时间短的话用日线—1H—15m 大a的特性是 ： 1个交易日≈4根60分钟K； 1根60分钟K≈4根15分钟K； 1个交易日≈16根15分钟K。 比如我持有的创新药： 日线高等框架：宽幅震荡，动能上涨 1H中等框架：窄下跌通道，强下跌动能 15m低级框架：宽幅下跌通道，强下跌动能 本质上是高周期与中低周期背离。 目前日线结构没有被破坏，那么可以暂时将它理解为：日线上涨过程中的中低周期回调 但日线价格已经处于宽幅震荡区间上方，那么也要警惕：中低周期的强下跌可能不是普通回调，而是日线冲高失败后的转弱 日线允许我们寻找做多机会，但1小时和15分钟告诉我们，现在还不到入场时间。 组合起来就是：目前做多方向没有完全被否定，但入场条件尚未成熟。 空仓的话应等待15分钟率先止跌，再观察1小时动能是否由强下跌退化为普通下跌或均衡； 当15分钟重新形成上涨结构，并与日线方向逐步恢复一致后，再考虑分批入场。 如果像我一样已经持有的，应该等待日线结构破坏，上涨动能退化到均衡，且1h和15m反弹失败，考虑离场或者减仓\n\t[22:16 · 2026年7月26日](https://x.com/TradercBTC/status/2081383225902199011) [1.1万Views](https://x.com/TradercBTC/status/2081383225902199011)\n\tOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2081383225902199011"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"我们用指标做大a的话，不要用日线，6H，1H的框架了\n  \n  持仓时间短的话用日线—1H—15m\n  \n  大a的特性是 ：\n  1个交易日≈4根60分钟K； \n  1根60分钟K≈4根15分钟K； \n  1个交易日≈16根15分钟K。\n  \n  比如我持有的创新药：\n  \n  日线高等框架：宽幅震荡，动能上涨\n  \n  1H中等框架：窄下跌通道，强下跌动能\n  \n  15m低级框架：宽幅下跌通道，强下跌动能\n  \n  本质上是高周期与中低周期背离。\n  \n  目前日线结构没有被破坏，那么可以暂时将它理解为：日线上涨过程中的中低周期回调\n  \n  但日线价格已经处于宽幅震荡区间上方，那么也要警惕：中低周期的强下跌可能不是普通回调，而是日线冲… / X\nurl: \"https://x.com/TradercBTC/status/2081383225902199011\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2081383225902199011\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2081383225902199011/imgs/img-002-HOKMKYgbMAAn-Yx-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-07-26T14:16:45.000Z\"\nsummary: |-\n  我们用指标做大a的话，不要用日线，6H，1H的框架了\n  \n  持仓时间短的话用日线—1H—15m\n  \n  大a的特性是 ：\n  1个交易日≈4根60分钟K； \n  1根60分钟K≈4根15分钟K； \n  1个交易日≈16根15分钟K。\n  \n  比如我持有的创新药：\n  \n  日线高等框架：宽幅震荡，动能上涨\n  \n  1H中等框架：窄下跌通道，强下跌动能\n  \n  15m低级框架：宽幅下跌通道，强下跌动能\n  \n  本质上是高周期与中低周期背离。\n  \n  目前日线结构没有被破坏，那么可以暂时将它理解为：日线上涨过程中的中低周期回调\n  \n  但日线价格已经处于宽幅震荡区间上方，那么也要警惕：中低周期的强下跌可能不是普通回调，而是日线冲高失败后的转弱\n  \n  日线允许我们寻…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:04:20.018Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"我们用指标做大a的话，不要用日线，6H，1H的框架了\n\n持仓时间短的话用日线—1H—15m\n\n大a的特性是 ：\n1个交易日≈4根60分钟K； \n1根60分钟K≈4根15分钟K； \n1个交易日≈16根15分钟K。\n\n比如我持有的创新药：\n\n日线高等框架：宽幅震荡，动能上涨\n\n1H中等框架：窄下跌通道，强下跌动能\n\n15m低级框架：宽幅下跌通道，强下跌动能\n\n本质上是高周期与中低周期背离。\n\n目前日线结构没有被破坏，那么可以暂时将它理解为：日线上涨过程中的中低周期回调\n\n但日线价格已经处于宽幅震荡区间上方，那么也要警惕：中低周期的强下跌可能不是普通回调，而是日线冲… / X\n\n- [![@TradercBTC](2081383225902199011/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t我们用指标做大a的话，不要用日线，6H，1H的框架了 持仓时间短的话用日线—1H—15m 大a的特性是 ： 1个交易日≈4根60分钟K； 1根60分钟K≈4根15分钟K； 1个交易日≈16根15分钟K。 比如我持有的创新药： 日线高等框架：宽幅震荡，动能上涨 1H中等框架：窄下跌通道，强下跌动能 15m低级框架：宽幅下跌通道，强下跌动能 本质上是高周期与中低周期背离。 目前日线结构没有被破坏，那么可以暂时将它理解为：日线上涨过程中的中低周期回调 但日线价格已经处于宽幅震荡区间上方，那么也要警惕：中低周期的强下跌可能不是普通回调，而是日线冲高失败后的转弱 日线允许我们寻找做多机会，但1小时和15分钟告诉我们，现在还不到入场时间。 组合起来就是：目前做多方向没有完全被否定，但入场条件尚未成熟。 空仓的话应等待15分钟率先止跌，再观察1小时动能是否由强下跌退化为普通下跌或均衡； 当15分钟重新形成上涨结构，并与日线方向逐步恢复一致后，再考虑分批入场。 如果像我一样已经持有的，应该等待日线结构破坏，上涨动能退化到均衡，且1h和15m反弹失败，考虑离场或者减仓\n\t[22:16 · 2026年7月26日](https://x.com/TradercBTC/status/2081383225902199011) [1.1万Views](https://x.com/TradercBTC/status/2081383225902199011)\n\tOnly some accounts can reply."
+}

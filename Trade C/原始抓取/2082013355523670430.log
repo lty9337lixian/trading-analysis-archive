@@ -1,0 +1,87 @@
+[info] Loading https://x.com/TradercBTC/status/2082013355523670430 with generic adapter
+[info] Downloaded 4 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2082013355523670430.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HOTLcj_a8AA1jfa.png:large",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://abs.twimg.com/finance/v1/crypto/bitcoin/native.png",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HOKnVUhbkAA5rKb?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/HOTLcj_a8AA1jfa.png:large",
+        "localPath": "2082013355523670430/imgs/img-001-HOTLcj_a8AA1jfa-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2082013355523670430/imgs/img-001-HOTLcj_a8AA1jfa-png-large.png",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2082013355523670430/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2082013355523670430/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://abs.twimg.com/finance/v1/crypto/bitcoin/native.png",
+        "localPath": "2082013355523670430/imgs/img-003-native.png",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2082013355523670430/imgs/img-003-native.png",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HOKnVUhbkAA5rKb?format=webp&name=medium",
+        "localPath": "2082013355523670430/imgs/img-004-HOKnVUhbkAA5rKb.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2082013355523670430/imgs/img-004-HOKnVUhbkAA5rKb.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 4,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2082013355523670430/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2082013355523670430",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2082013355523670430",
+    "title": "trader-c on X: \"昨天做了空 bitcoin:native ，但是空在了MSS的位置，后半夜不是拉了一根，亏了0.5%走了 止损放在前高来着，没打到就下去了 差不多就是和我们之前想的那么走了，我们6H创造了更低的低点和高点，同时突破了MSS，一个完整的下跌N字 哎感觉发烧烧成傻逼了 希望兄弟们注意身体，最近一段时间天气热，外面大排档不干净，尽量去干净的地方吃\"",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-07-28T08:00:40.000Z",
+    "summary": "昨天做了空 bitcoin:native ，但是空在了MSS的位置，后半夜不是拉了一根，亏了0.5%走了\n\n止损放在前高来着，没打到就下去了\n\n差不多就是和我们之前想的那么走了，我们6H创造了更低的低点和高点，同时突破了MSS，一个完整的下跌N字\n\n哎感觉发烧烧成傻逼了\n\n希望兄弟们注意身体，最近一段时间天气热，外面大排档不干净，尽量去干净的地方吃",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HOTLcj_a8AA1jfa.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:04:27.615Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n昨天做了空 [$BTC](https://x.com/search?q=%24BTC%20OR%20bitcoin%3Anative&src=smarttag_click) ，但是空在了MSS的位置，后半夜不是拉了一根，亏了0.5%走了 止损放在前高来着，没打到就下去了 差不多就是和我们之前想的那么走了，我们6H创造了更低的低点和高点，同时突破了MSS，一个完整的下跌N字 哎感觉发烧烧成傻逼了 希望兄弟们注意身体，最近一段时间天气热，外面大排档不干净，尽量去干净的地方吃\n\n-   [\n\n    ![](https://abs.twimg.com/finance/v1/crypto/bitcoin/native.png)\n\n    Bitcoin\n\n    BTC\n\n    US$79,898.00\n\n    +0.35%\n\n    ](https://x.com/search?q=%24BTC%20OR%20bitcoin%3Anative&src=typeahead_click)\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[7月26日](https://x.com/TradercBTC/status/2081410139958206866)\n\n这么走？ [$BTC](https://x.com/search?q=$BTC)\n\n[![](https://pbs.twimg.com/media/HOKnVUhbkAA5rKb?format=webp&name=medium)](https://x.com/TradercBTC/status/2081410139958206866/photo/1)\n\n[16:00 · 2026年7月28日](https://x.com/TradercBTC/status/2082013355523670430)[3755Views](https://x.com/TradercBTC/status/2082013355523670430)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2082013355523670430"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"昨天做了空 bitcoin:native ，但是空在了MSS的位置，后半夜不是拉了一根，亏了0.5%走了 止损放在前高来着，没打到就下去了 差不多就是和我们之前想的那么走了，我们6H创造了更低的低点和高点，同时突破了MSS，一个完整的下跌N字 哎感觉发烧烧成傻逼了 希望兄弟们注意身体，最近一段时间天气热，外面大排档不干净，尽量去干净的地方吃\\\"\"\nurl: \"https://x.com/TradercBTC/status/2082013355523670430\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2082013355523670430\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2082013355523670430/imgs/img-001-HOTLcj_a8AA1jfa-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-07-28T08:00:40.000Z\"\nsummary: |-\n  昨天做了空 bitcoin:native ，但是空在了MSS的位置，后半夜不是拉了一根，亏了0.5%走了\n  \n  止损放在前高来着，没打到就下去了\n  \n  差不多就是和我们之前想的那么走了，我们6H创造了更低的低点和高点，同时突破了MSS，一个完整的下跌N字\n  \n  哎感觉发烧烧成傻逼了\n  \n  希望兄弟们注意身体，最近一段时间天气热，外面大排档不干净，尽量去干净的地方吃\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:04:27.615Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"昨天做了空 bitcoin:native ，但是空在了MSS的位置，后半夜不是拉了一根，亏了0.5%走了 止损放在前高来着，没打到就下去了 差不多就是和我们之前想的那么走了，我们6H创造了更低的低点和高点，同时突破了MSS，一个完整的下跌N字 哎感觉发烧烧成傻逼了 希望兄弟们注意身体，最近一段时间天气热，外面大排档不干净，尽量去干净的地方吃\"\n\n[![@TradercBTC](2082013355523670430/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n昨天做了空 [$BTC](https://x.com/search?q=%24BTC%20OR%20bitcoin%3Anative&src=smarttag_click) ，但是空在了MSS的位置，后半夜不是拉了一根，亏了0.5%走了 止损放在前高来着，没打到就下去了 差不多就是和我们之前想的那么走了，我们6H创造了更低的低点和高点，同时突破了MSS，一个完整的下跌N字 哎感觉发烧烧成傻逼了 希望兄弟们注意身体，最近一段时间天气热，外面大排档不干净，尽量去干净的地方吃\n\n-   [\n\n    ![](2082013355523670430/imgs/img-003-native.png)\n\n    Bitcoin\n\n    BTC\n\n    US$79,898.00\n\n    +0.35%\n\n    ](https://x.com/search?q=%24BTC%20OR%20bitcoin%3Anative&src=typeahead_click)\n\n[![@TradercBTC](2082013355523670430/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[7月26日](https://x.com/TradercBTC/status/2081410139958206866)\n\n这么走？ [$BTC](https://x.com/search?q=$BTC)\n\n[![](2082013355523670430/imgs/img-004-HOKnVUhbkAA5rKb.webp)](https://x.com/TradercBTC/status/2081410139958206866/photo/1)\n\n[16:00 · 2026年7月28日](https://x.com/TradercBTC/status/2082013355523670430)[3755Views](https://x.com/TradercBTC/status/2082013355523670430)\n\nOnly some accounts can reply."
+}

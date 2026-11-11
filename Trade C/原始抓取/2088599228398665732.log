@@ -1,0 +1,105 @@
+[warn] No running Chrome debugger found for profile /Users/lu/Library/Application Support/baoyu-skills/chrome-profile. Launching Chrome with that profile.
+[info] Loading https://x.com/TradercBTC/status/2088599228398665732 with x adapter
+[info] Adapter x returned no structured document; falling back to generic extraction
+[info] Loading https://x.com/TradercBTC/status/2088599228398665732 with generic adapter
+[info] Downloaded 5 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2088599228398665732.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "login": {
+    "provider": "x",
+    "state": "unknown"
+  },
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HPwx2_iasAEeCnA.png:large",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HPwx2_iasAEeCnA?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HPwsP8vaEAAp7t5?format=webp&name=small",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HPwuELgbgAAfq-X?format=webp&name=small",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/HPwx2_iasAEeCnA.png:large",
+        "localPath": "2088599228398665732/imgs/img-001-HPwx2_iasAEeCnA-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2088599228398665732/imgs/img-001-HPwx2_iasAEeCnA-png-large.png",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2088599228398665732/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2088599228398665732/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HPwx2_iasAEeCnA?format=webp&name=medium",
+        "localPath": "2088599228398665732/imgs/img-003-HPwx2_iasAEeCnA.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2088599228398665732/imgs/img-003-HPwx2_iasAEeCnA.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HPwsP8vaEAAp7t5?format=webp&name=small",
+        "localPath": "2088599228398665732/imgs/img-004-HPwsP8vaEAAp7t5.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2088599228398665732/imgs/img-004-HPwsP8vaEAAp7t5.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HPwuELgbgAAfq-X?format=webp&name=small",
+        "localPath": "2088599228398665732/imgs/img-005-HPwuELgbgAAfq-X.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2088599228398665732/imgs/img-005-HPwuELgbgAAfq-X.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 5,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2088599228398665732/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2088599228398665732",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2088599228398665732",
+    "title": "trader-c on X: \"同理，在群里对WLD的复盘修正 WLD我们只能看到前一段下跌没有形成再推动，没有创新低 我们只能说下跌趋势减弱，进入区间，如果没有绿色的这种预期发生，突破这个支撑阻力互换位，那我们是不能说WLD发生反转 因此这里是关键位置，我们要观察这里的反应，如果价格尝试突破但失败，而且有追随说明这是下跌结构的修正，是做空的机会 如果强势突破，才是真正发生了反转的证据\"",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-15T12:10:35.000Z",
+    "summary": "同理，在群里对WLD的复盘修正\n\nWLD我们只能看到前一段下跌没有形成再推动，没有创新低\n\n我们只能说下跌趋势减弱，进入区间，如果没有绿色的这种预期发生，突破这个支撑阻力互换位，那我们是不能说WLD发生反转\n\n因此这里是关键位置，我们要观察这里的反应，如果价格尝试突破但失败，而且有追随说明这是下跌结构的修正，是做空的机会\n\n如果强势突破，才是真正发生了反转的证据",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HPwx2_iasAEeCnA.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:43:22.956Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n同理，在群里对WLD的复盘修正 WLD我们只能看到前一段下跌没有形成再推动，没有创新低 我们只能说下跌趋势减弱，进入区间，如果没有绿色的这种预期发生，突破这个支撑阻力互换位，那我们是不能说WLD发生反转 因此这里是关键位置，我们要观察这里的反应，如果价格尝试突破但失败，而且有追随说明这是下跌结构的修正，是做空的机会 如果强势突破，才是真正发生了反转的证据\n\n[![](https://pbs.twimg.com/media/HPwx2_iasAEeCnA?format=webp&name=medium)](https://x.com/TradercBTC/status/2088599228398665732/photo/1)\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[8月15日](https://x.com/TradercBTC/status/2088595421597978948)\n\n在群里复盘，发现自己上周五做的 [$LDO](https://x.com/search?q=$LDO) 方向性就是错误的， woc了，看的级别太小，主观上抱着突破上涨的预期，而没有用客观事实验证，所以才做的那么难受 [$LDO](https://x.com/search?q=$LDO) 第一部分的绿色:上涨，再推动失败，上涨趋势减弱二次测试失败，没有创造高点，形成区间\n\n[![](https://pbs.twimg.com/media/HPwsP8vaEAAp7t5?format=webp&name=small)](https://x.com/TradercBTC/status/2088595421597978948/photo/1)\n\n[![](https://pbs.twimg.com/media/HPwuELgbgAAfq-X?format=webp&name=small)](https://x.com/TradercBTC/status/2088595421597978948/photo/2)\n\n[20:10 · 2026年8月15日](https://x.com/TradercBTC/status/2088599228398665732)[6743Views](https://x.com/TradercBTC/status/2088599228398665732)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2088599228398665732"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"同理，在群里对WLD的复盘修正 WLD我们只能看到前一段下跌没有形成再推动，没有创新低 我们只能说下跌趋势减弱，进入区间，如果没有绿色的这种预期发生，突破这个支撑阻力互换位，那我们是不能说WLD发生反转 因此这里是关键位置，我们要观察这里的反应，如果价格尝试突破但失败，而且有追随说明这是下跌结构的修正，是做空的机会 如果强势突破，才是真正发生了反转的证据\\\"\"\nurl: \"https://x.com/TradercBTC/status/2088599228398665732\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2088599228398665732\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2088599228398665732/imgs/img-001-HPwx2_iasAEeCnA-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-15T12:10:35.000Z\"\nsummary: |-\n  同理，在群里对WLD的复盘修正\n  \n  WLD我们只能看到前一段下跌没有形成再推动，没有创新低\n  \n  我们只能说下跌趋势减弱，进入区间，如果没有绿色的这种预期发生，突破这个支撑阻力互换位，那我们是不能说WLD发生反转\n  \n  因此这里是关键位置，我们要观察这里的反应，如果价格尝试突破但失败，而且有追随说明这是下跌结构的修正，是做空的机会\n  \n  如果强势突破，才是真正发生了反转的证据\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:43:22.956Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"同理，在群里对WLD的复盘修正 WLD我们只能看到前一段下跌没有形成再推动，没有创新低 我们只能说下跌趋势减弱，进入区间，如果没有绿色的这种预期发生，突破这个支撑阻力互换位，那我们是不能说WLD发生反转 因此这里是关键位置，我们要观察这里的反应，如果价格尝试突破但失败，而且有追随说明这是下跌结构的修正，是做空的机会 如果强势突破，才是真正发生了反转的证据\"\n\n[![@TradercBTC](2088599228398665732/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n同理，在群里对WLD的复盘修正 WLD我们只能看到前一段下跌没有形成再推动，没有创新低 我们只能说下跌趋势减弱，进入区间，如果没有绿色的这种预期发生，突破这个支撑阻力互换位，那我们是不能说WLD发生反转 因此这里是关键位置，我们要观察这里的反应，如果价格尝试突破但失败，而且有追随说明这是下跌结构的修正，是做空的机会 如果强势突破，才是真正发生了反转的证据\n\n[![](2088599228398665732/imgs/img-003-HPwx2_iasAEeCnA.webp)](https://x.com/TradercBTC/status/2088599228398665732/photo/1)\n\n[![@TradercBTC](2088599228398665732/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[8月15日](https://x.com/TradercBTC/status/2088595421597978948)\n\n在群里复盘，发现自己上周五做的 [$LDO](https://x.com/search?q=$LDO) 方向性就是错误的， woc了，看的级别太小，主观上抱着突破上涨的预期，而没有用客观事实验证，所以才做的那么难受 [$LDO](https://x.com/search?q=$LDO) 第一部分的绿色:上涨，再推动失败，上涨趋势减弱二次测试失败，没有创造高点，形成区间\n\n[![](2088599228398665732/imgs/img-004-HPwsP8vaEAAp7t5.webp)](https://x.com/TradercBTC/status/2088595421597978948/photo/1)\n\n[![](2088599228398665732/imgs/img-005-HPwuELgbgAAfq-X.webp)](https://x.com/TradercBTC/status/2088595421597978948/photo/2)\n\n[20:10 · 2026年8月15日](https://x.com/TradercBTC/status/2088599228398665732)[6743Views](https://x.com/TradercBTC/status/2088599228398665732)\n\nOnly some accounts can reply."
+}

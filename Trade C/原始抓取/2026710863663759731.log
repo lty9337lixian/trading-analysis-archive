@@ -1,0 +1,75 @@
+[info] Loading https://x.com/TradercBTC/status/2026710863663759731 with generic adapter
+[info] Downloaded 3 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2026710863663759731.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/2012711214850232320/OzraP-W-_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HCBSX6XasAAhyAL.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2026710863663759731/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2026710863663759731/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/2012711214850232320/OzraP-W-_400x400.jpg",
+        "localPath": "2026710863663759731/imgs/img-002-OzraP-W-_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2026710863663759731/imgs/img-002-OzraP-W-_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HCBSX6XasAAhyAL.jpg:large",
+        "localPath": "2026710863663759731/imgs/img-003-HCBSX6XasAAhyAL-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2026710863663759731/imgs/img-003-HCBSX6XasAAhyAL-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 3,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2026710863663759731/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2026710863663759731",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2026710863663759731",
+    "title": "trader-c on X: \"woc，要不是群里有人说，我还不知道 $BTC 涨这么多\n\n目前看起来在周线EMA200这里得到了支撑，跌了几周没跌下去，看起来暂时有买盘资金\n\n短线分歧和波动加剧是一定的了。。。。\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-25T17:28:19.000Z",
+    "summary": "woc，要不是群里有人说，我还不知道 $BTC 涨这么多\n\n目前看起来在周线EMA200这里得到了支撑，跌了几周没跌下去，看起来暂时有买盘资金\n\n短线分歧和波动加剧是一定的了。。。。",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HCBSX6XasAAhyAL.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:58:50.353Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "## trader-c on X: \"woc，要不是群里有人说，我还不知道 $BTC 涨这么多 目前看起来在周线EMA200这里得到了支撑，跌了几周没跌下去，看起来暂时有买盘资金 短线分歧和波动加剧是一定的了。。。。\"\n\n- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t[@TradercBTC](https://x.com/TradercBTC)\n\twoc，要不是群里有人说，我还不知道 [$BTC](https://x.com/search?q=$BTC) 涨这么多 目前看起来在周线EMA200这里得到了支撑，跌了几周没跌下去，看起来暂时有买盘资金 短线分歧和波动加剧是一定的了。。。。\n\t[1:28 · 2026年2月26日](https://x.com/TradercBTC/status/2026710863663759731) [5648Views](https://x.com/TradercBTC/status/2026710863663759731)\n\t[2](https://x.com/i/status/2026710863663759731)\n- [![@panda19421](https://pbs.twimg.com/profile_images/2012711214850232320/OzraP-W-_400x400.jpg)](https://x.com/panda19421)\n\t[不想赚钱1](https://x.com/panda19421)\n\t[@panda19421](https://x.com/panda19421)\n\t[2月26日](https://x.com/panda19421/status/2026920298789089535)\n\t还有三天收周线，如果周线收阳或者一点点小实体的话我觉得多头还是很有希望的，至少要摸一下前期低点780再下去"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2026710863663759731"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"woc，要不是群里有人说，我还不知道 $BTC 涨这么多\n  \n  目前看起来在周线EMA200这里得到了支撑，跌了几周没跌下去，看起来暂时有买盘资金\n  \n  短线分歧和波动加剧是一定的了。。。。\" / X\nurl: \"https://x.com/TradercBTC/status/2026710863663759731\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2026710863663759731\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2026710863663759731/imgs/img-003-HCBSX6XasAAhyAL-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-25T17:28:19.000Z\"\nsummary: |-\n  woc，要不是群里有人说，我还不知道 $BTC 涨这么多\n  \n  目前看起来在周线EMA200这里得到了支撑，跌了几周没跌下去，看起来暂时有买盘资金\n  \n  短线分歧和波动加剧是一定的了。。。。\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:58:50.353Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"woc，要不是群里有人说，我还不知道 $BTC 涨这么多\n\n目前看起来在周线EMA200这里得到了支撑，跌了几周没跌下去，看起来暂时有买盘资金\n\n短线分歧和波动加剧是一定的了。。。。\" / X\n\n## trader-c on X: \"woc，要不是群里有人说，我还不知道 $BTC 涨这么多 目前看起来在周线EMA200这里得到了支撑，跌了几周没跌下去，看起来暂时有买盘资金 短线分歧和波动加剧是一定的了。。。。\"\n\n- [![@TradercBTC](2026710863663759731/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t[@TradercBTC](https://x.com/TradercBTC)\n\twoc，要不是群里有人说，我还不知道 [$BTC](https://x.com/search?q=$BTC) 涨这么多 目前看起来在周线EMA200这里得到了支撑，跌了几周没跌下去，看起来暂时有买盘资金 短线分歧和波动加剧是一定的了。。。。\n\t[1:28 · 2026年2月26日](https://x.com/TradercBTC/status/2026710863663759731) [5648Views](https://x.com/TradercBTC/status/2026710863663759731)\n\t[2](https://x.com/i/status/2026710863663759731)\n- [![@panda19421](2026710863663759731/imgs/img-002-OzraP-W-_400x400.jpg)](https://x.com/panda19421)\n\t[不想赚钱1](https://x.com/panda19421)\n\t[@panda19421](https://x.com/panda19421)\n\t[2月26日](https://x.com/panda19421/status/2026920298789089535)\n\t还有三天收周线，如果周线收阳或者一点点小实体的话我觉得多头还是很有希望的，至少要摸一下前期低点780再下去"
+}

@@ -1,0 +1,65 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "login": {
+    "provider": "x",
+    "state": "unknown"
+  },
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HMdTbFnbMAAhZTD.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2073718373901557820/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2073718373901557820/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HMdTbFnbMAAhZTD.jpg:large",
+        "localPath": "2073718373901557820/imgs/img-002-HMdTbFnbMAAhZTD-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2073718373901557820/imgs/img-002-HMdTbFnbMAAhZTD-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2073718373901557820/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2073718373901557820",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2073718373901557820",
+    "title": "trader-c on X: \"我在书房写东西\n\n之前给我宝宝教学了黄金交易，我宝宝在旁边复盘黄金\n\n她做单，然后写判断\n\n我带她进行复盘😂\n\n于是图中出现一个简洁框vs一大段\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-07-05T10:39:22.000Z",
+    "summary": "我在书房写东西\n\n之前给我宝宝教学了黄金交易，我宝宝在旁边复盘黄金\n\n她做单，然后写判断\n\n我带她进行复盘😂\n\n于是图中出现一个简洁框vs一大段",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HMdTbFnbMAAhZTD.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:50:57.352Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n我在书房写东西 之前给我宝宝教学了黄金交易，我宝宝在旁边复盘黄金 她做单，然后写判断 我带她进行复盘😂 于是图中出现一个简洁框vs一大段\n\n[18:39 · 2026年7月5日](https://x.com/TradercBTC/status/2073718373901557820) [1万Views](https://x.com/TradercBTC/status/2073718373901557820)\n\n[5](https://x.com/i/status/2073718373901557820)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2073718373901557820"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"我在书房写东西\n  \n  之前给我宝宝教学了黄金交易，我宝宝在旁边复盘黄金\n  \n  她做单，然后写判断\n  \n  我带她进行复盘😂\n  \n  于是图中出现一个简洁框vs一大段\" / X\nurl: \"https://x.com/TradercBTC/status/2073718373901557820\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2073718373901557820\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2073718373901557820/imgs/img-002-HMdTbFnbMAAhZTD-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-07-05T10:39:22.000Z\"\nsummary: |-\n  我在书房写东西\n  \n  之前给我宝宝教学了黄金交易，我宝宝在旁边复盘黄金\n  \n  她做单，然后写判断\n  \n  我带她进行复盘😂\n  \n  于是图中出现一个简洁框vs一大段\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:50:57.352Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"我在书房写东西\n\n之前给我宝宝教学了黄金交易，我宝宝在旁边复盘黄金\n\n她做单，然后写判断\n\n我带她进行复盘😂\n\n于是图中出现一个简洁框vs一大段\" / X\n\n[![@TradercBTC](2073718373901557820/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n我在书房写东西 之前给我宝宝教学了黄金交易，我宝宝在旁边复盘黄金 她做单，然后写判断 我带她进行复盘😂 于是图中出现一个简洁框vs一大段\n\n[18:39 · 2026年7月5日](https://x.com/TradercBTC/status/2073718373901557820) [1万Views](https://x.com/TradercBTC/status/2073718373901557820)\n\n[5](https://x.com/i/status/2073718373901557820)\n\nOnly some accounts can reply."
+}

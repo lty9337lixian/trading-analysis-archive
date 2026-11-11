@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HAwnmGuaAAI8rp-.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2021033900835995752/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2021033900835995752/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HAwnmGuaAAI8rp-.jpg:large",
+        "localPath": "2021033900835995752/imgs/img-002-HAwnmGuaAAI8rp-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2021033900835995752/imgs/img-002-HAwnmGuaAAI8rp-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2021033900835995752/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2021033900835995752",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2021033900835995752",
+    "title": "trader-c on X: \"日经指数\n\n太强了。。。。\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-10T01:30:05.000Z",
+    "summary": "日经指数\n\n太强了。。。。",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HAwnmGuaAAI8rp-.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:57:38.475Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[2月9日](https://x.com/TradercBTC/status/2020684573487874258)\n\n日经指数 相当强势的上涨行情 周一开盘直接跳空突破4%，非常强势的突破 但是我早上起不来，日本八点开盘，太痛苦了，没有做上 准备在跳空的缺口，或者斐波那期50%，更小级别回调入场做多 有一说一，我还是非常看好日经的行情的，我认为机会蛮多的"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2021033900835995752"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"日经指数\n  \n  太强了。。。。\" / X\nurl: \"https://x.com/TradercBTC/status/2021033900835995752\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2021033900835995752\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2021033900835995752/imgs/img-002-HAwnmGuaAAI8rp-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-10T01:30:05.000Z\"\nsummary: |-\n  日经指数\n  \n  太强了。。。。\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:57:38.475Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"日经指数\n\n太强了。。。。\" / X\n\n[![@TradercBTC](2021033900835995752/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[2月9日](https://x.com/TradercBTC/status/2020684573487874258)\n\n日经指数 相当强势的上涨行情 周一开盘直接跳空突破4%，非常强势的突破 但是我早上起不来，日本八点开盘，太痛苦了，没有做上 准备在跳空的缺口，或者斐波那期50%，更小级别回调入场做多 有一说一，我还是非常看好日经的行情的，我认为机会蛮多的"
+}

@@ -1,0 +1,103 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 1,
+  "in_reply_to_screen_name": "nekofrize",
+  "in_reply_to_status_id_str": "2095125514507694250",
+  "in_reply_to_user_id_str": "1667178818174418949",
+  "lang": "zh",
+  "created_at": "2026-09-02T13:07:26.000Z",
+  "display_text_range": [
+    11,
+    85
+  ],
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1667178818174418949",
+        "indices": [
+          0,
+          10
+        ],
+        "name": "Eureka",
+        "screen_name": "nekofrize"
+      }
+    ]
+  },
+  "id_str": "2095136520223203826",
+  "text": "@nekofrize 看错了，以为你说的sol那个\n\n这是很明显的右侧交易，简单的很\n\n市场进行突破，但是突破失败，市场拒绝了上方的价格，上面的小盘整高点就能作为止损区间",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2095136520223203826"
+    ],
+    "editable_until_msecs": "1788358046000",
+    "edits_remaining": "5",
+    "is_edit_eligible": false
+  },
+  "conversation_count": 1,
+  "news_action_type": "conversation",
+  "parent": {
+    "conversation_control": {
+      "policy": "Verified"
+    },
+    "favorite_count": 4,
+    "in_reply_to_screen_name": "TradercBTC",
+    "in_reply_to_status_id_str": "2095109189043655120",
+    "in_reply_to_user_id_str": "1921065617479921670",
+    "lang": "zh",
+    "reply_count": 1,
+    "retweet_count": 0,
+    "created_at": "2026-09-02T12:23:42.000Z",
+    "display_text_range": [
+      12,
+      143
+    ],
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1921065617479921670",
+          "indices": [
+            0,
+            11
+          ],
+          "name": "trader-c",
+          "screen_name": "TradercBTC"
+        }
+      ]
+    },
+    "id_str": "2095125514507694250",
+    "text": "@TradercBTC C老师你好，我还是想问一下第二个短线例子，看得不是很懂。  \n\n我的理解是在下跌背景下先有两次回调验证了某个阻力位，紧接着k线短暂上破，形成一个小区间（在区间内先回踩该阻力位又再次向上遇阻）后又再次下跌，但我刚刚去查图表k线直接是跌下去了，并没有给出入场的机会。",
+    "user": {
+      "id_str": "1667178818174418949",
+      "name": "Eureka",
+      "screen_name": "nekofrize",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2081627562770665472/bSUNARWw_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2095125514507694250"
+      ],
+      "editable_until_msecs": "1788355422000",
+      "edits_remaining": "5",
+      "is_edit_eligible": false
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

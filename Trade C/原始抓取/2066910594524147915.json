@@ -1,0 +1,73 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HK8kBLZa4AErxLC.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HK7N6rjbAAAnrOr?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/HK8kBLZa4AErxLC.jpg:large",
+        "localPath": "2066910594524147915/imgs/img-001-HK8kBLZa4AErxLC-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2066910594524147915/imgs/img-001-HK8kBLZa4AErxLC-jpg-large.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2066910594524147915/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2066910594524147915/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HK7N6rjbAAAnrOr?format=webp&name=medium",
+        "localPath": "2066910594524147915/imgs/img-003-HK7N6rjbAAAnrOr.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2066910594524147915/imgs/img-003-HK7N6rjbAAAnrOr.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 3,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2066910594524147915/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2066910594524147915",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2066910594524147915",
+    "title": "trader-c on X: \"哈哈哈哈，非常喜欢我的小笨博客 记录起来： 后续美盘做了纳指的多单 但是因为出去吃饭，无法操作，导致从赚509点到亏400点，这是一个悲伤的故事 因此今天的三个决策，大a稀土和新能源一个3.8%，一个2.8%。 btc高点走人，相当于65700买入，66700卖出。 随后在65700附近再度买入，因为从4小时和1小时来说，我参考位置没有被跌破，我认为在这里多次测试，但是都没有跌破，所以可以押注。 这里是一个相对来说盈亏比，比较好，赔率比较高的位置，所以愿意押注。因为目标的话，可能到七八或者七六附近。 目前计划是作为波段交易，可证伪的条件就是这里…",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-06-16T15:47:41.000Z",
+    "summary": "哈哈哈哈，非常喜欢我的小笨博客\n\n记录起来：\n\n后续美盘做了纳指的多单\n\n但是因为出去吃饭，无法操作，导致从赚509点到亏400点，这是一个悲伤的故事\n\n因此今天的三个决策，大a稀土和新能源一个3.8%，一个2.8%。\n\nbtc高点走人，相当于65700买入，66700卖出。\n\n随后在65700附近再度买入，因为从4小时和1小时来说，我参考位置没有被跌破，我认为在这里多次测试，但是都没有跌破，所以可以押注。\n\n这里是一个相对来说盈亏比，比较好，赔率比较高的位置，所以愿意押注。因为目标的话，可能到七八或者七六附近。\n\n目前计划是作为波段交易，可证伪的条件就是这里支撑不住，然后向下跌破，采用了1…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HK8kBLZa4AErxLC.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:02:21.568Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n哈哈哈哈，非常喜欢我的小笨博客 记录起来： 后续美盘做了纳指的多单 但是因为出去吃饭，无法操作，导致从赚509点到亏400点，这是一个悲伤的故事 因此今天的三个决策，大a稀土和新能源一个3.8%，一个2.8%。 btc高点走人，相当于65700买入，66700卖出。 随后在65700附近再度买入，因为从4小时和1小时来说，我参考位置没有被跌破，我认为在这里多次测试，但是都没有跌破，所以可以押注。 这里是一个相对来说盈亏比，比较好，赔率比较高的位置，所以愿意押注。因为目标的话，可能到七八或者七六附近。 目前计划是作为波段交易，可证伪的条件就是这里支撑不住，然后向下跌破，采用了1小时的ATR作为一个止损。大概是在64200附近，留够呼吸空间。 纳指和上次录制的视频一样，今天的表现就和我之前所对应，在前高的位置，向上测试，然后开始了一次插针，跌了1%。15分钟连续下跌。 虽然感觉它不一定能完全跌下去，但是大概率是要来一个局部震荡，小区间的震荡，或者说来一次回调，可能不会继续向上\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[6月16日](https://x.com/TradercBTC/status/2066815715592765538)\n\n哈哈哈哈 c师傅的小笨博客\n\n[![](https://pbs.twimg.com/media/HK7N6rjbAAAnrOr?format=webp&name=medium)](https://x.com/TradercBTC/status/2066815715592765538/photo/1)\n\n[23:47 · 2026年6月16日](https://x.com/TradercBTC/status/2066910594524147915)[2219Views](https://x.com/TradercBTC/status/2066910594524147915)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2066910594524147915"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"哈哈哈哈，非常喜欢我的小笨博客 记录起来： 后续美盘做了纳指的多单 但是因为出去吃饭，无法操作，导致从赚509点到亏400点，这是一个悲伤的故事 因此今天的三个决策，大a稀土和新能源一个3.8%，一个2.8%。 btc高点走人，相当于65700买入，66700卖出。 随后在65700附近再度买入，因为从4小时和1小时来说，我参考位置没有被跌破，我认为在这里多次测试，但是都没有跌破，所以可以押注。 这里是一个相对来说盈亏比，比较好，赔率比较高的位置，所以愿意押注。因为目标的话，可能到七八或者七六附近。 目前计划是作为波段交易，可证伪的条件就是这里…\"\nurl: \"https://x.com/TradercBTC/status/2066910594524147915\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2066910594524147915\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2066910594524147915/imgs/img-001-HK8kBLZa4AErxLC-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-06-16T15:47:41.000Z\"\nsummary: |-\n  哈哈哈哈，非常喜欢我的小笨博客\n  \n  记录起来：\n  \n  后续美盘做了纳指的多单\n  \n  但是因为出去吃饭，无法操作，导致从赚509点到亏400点，这是一个悲伤的故事\n  \n  因此今天的三个决策，大a稀土和新能源一个3.8%，一个2.8%。\n  \n  btc高点走人，相当于65700买入，66700卖出。\n  \n  随后在65700附近再度买入，因为从4小时和1小时来说，我参考位置没有被跌破，我认为在这里多次测试，但是都没有跌破，所以可以押注。\n  \n  这里是一个相对来说盈亏比，比较好，赔率比较高的位置，所以愿意押注。因为目标的话，可能到七八或者七六附近。\n  \n  目前计划是作为波段交易，可证伪的条件就是这里支撑不住，然后向下跌破，采用了1…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:02:21.568Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"哈哈哈哈，非常喜欢我的小笨博客 记录起来： 后续美盘做了纳指的多单 但是因为出去吃饭，无法操作，导致从赚509点到亏400点，这是一个悲伤的故事 因此今天的三个决策，大a稀土和新能源一个3.8%，一个2.8%。 btc高点走人，相当于65700买入，66700卖出。 随后在65700附近再度买入，因为从4小时和1小时来说，我参考位置没有被跌破，我认为在这里多次测试，但是都没有跌破，所以可以押注。 这里是一个相对来说盈亏比，比较好，赔率比较高的位置，所以愿意押注。因为目标的话，可能到七八或者七六附近。 目前计划是作为波段交易，可证伪的条件就是这里…\n\n[![@TradercBTC](2066910594524147915/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n哈哈哈哈，非常喜欢我的小笨博客 记录起来： 后续美盘做了纳指的多单 但是因为出去吃饭，无法操作，导致从赚509点到亏400点，这是一个悲伤的故事 因此今天的三个决策，大a稀土和新能源一个3.8%，一个2.8%。 btc高点走人，相当于65700买入，66700卖出。 随后在65700附近再度买入，因为从4小时和1小时来说，我参考位置没有被跌破，我认为在这里多次测试，但是都没有跌破，所以可以押注。 这里是一个相对来说盈亏比，比较好，赔率比较高的位置，所以愿意押注。因为目标的话，可能到七八或者七六附近。 目前计划是作为波段交易，可证伪的条件就是这里支撑不住，然后向下跌破，采用了1小时的ATR作为一个止损。大概是在64200附近，留够呼吸空间。 纳指和上次录制的视频一样，今天的表现就和我之前所对应，在前高的位置，向上测试，然后开始了一次插针，跌了1%。15分钟连续下跌。 虽然感觉它不一定能完全跌下去，但是大概率是要来一个局部震荡，小区间的震荡，或者说来一次回调，可能不会继续向上\n\n[![@TradercBTC](2066910594524147915/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[6月16日](https://x.com/TradercBTC/status/2066815715592765538)\n\n哈哈哈哈 c师傅的小笨博客\n\n[![](2066910594524147915/imgs/img-003-HK7N6rjbAAAnrOr.webp)](https://x.com/TradercBTC/status/2066815715592765538/photo/1)\n\n[23:47 · 2026年6月16日](https://x.com/TradercBTC/status/2066910594524147915)[2219Views](https://x.com/TradercBTC/status/2066910594524147915)\n\nOnly some accounts can reply."
+}

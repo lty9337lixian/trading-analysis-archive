@@ -1,0 +1,73 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 7,
+  "lang": "zh",
+  "created_at": "2026-08-19T15:20:57.000Z",
+  "display_text_range": [
+    0,
+    83
+  ],
+  "entities": {},
+  "id_str": "2090096691043250321",
+  "text": "今天黄金和纳指在中间挂了空\n\n但是黄金止损了，受到黄金的影响，纳指的空单也撤了\n\n底下进了纳指的多，但是位置不好，止损了\n\n昨天赚了40点，今天亏了35点\n\n我哭😭",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2090096691043250321"
+    ],
+    "editable_until_msecs": "1787156457000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "conversation_control": {
+      "policy": "Verified"
+    },
+    "favorite_count": 7,
+    "lang": "zh",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "created_at": "2026-08-19T03:55:04.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "entities": {},
+    "id_str": "2089924082582384751",
+    "text": "今天交易计划和挂单全部完成\n\n出门学习，芜湖",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2089924082582384751"
+      ],
+      "editable_until_msecs": "1787115304000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

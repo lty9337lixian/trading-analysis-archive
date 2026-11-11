@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2019432017700757700 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2019432017700757700.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HAZ1_KhakAA20mp.png:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2019432017700757700/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2019432017700757700/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HAZ1_KhakAA20mp.png:large",
+        "localPath": "2019432017700757700/imgs/img-002-HAZ1_KhakAA20mp-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2019432017700757700/imgs/img-002-HAZ1_KhakAA20mp-png-large.png",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2019432017700757700/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2019432017700757700",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2019432017700757700",
+    "title": "trader-c on X: \"纳斯达克今天跌的非常狠\n\n价格已经无法维持在箱体震荡的上半部分\n\n刚才已经跌破了\n\n如果拉不回来，美股科技股正式开始回调模式😂\n\n剑指你的科技梦\n\n他的科技你买单，买完区块链的单买科技单\n\n散户才是上帝，满足一切梦想\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-05T15:24:46.000Z",
+    "summary": "纳斯达克今天跌的非常狠\n\n价格已经无法维持在箱体震荡的上半部分\n\n刚才已经跌破了\n\n如果拉不回来，美股科技股正式开始回调模式😂\n\n剑指你的科技梦\n\n他的科技你买单，买完区块链的单买科技单\n\n散户才是上帝，满足一切梦想",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HAZ1_KhakAA20mp.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:56:48.460Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t纳斯达克今天跌的非常狠 价格已经无法维持在箱体震荡的上半部分 刚才已经跌破了 如果拉不回来，美股科技股正式开始回调模式😂 剑指你的科技梦 他的科技你买单，买完区块链的单买科技单 散户才是上帝，满足一切梦想\n\t[23:24 · 2026年2月5日](https://x.com/TradercBTC/status/2019432017700757700) [1867Views](https://x.com/TradercBTC/status/2019432017700757700)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2019432017700757700"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"纳斯达克今天跌的非常狠\n  \n  价格已经无法维持在箱体震荡的上半部分\n  \n  刚才已经跌破了\n  \n  如果拉不回来，美股科技股正式开始回调模式😂\n  \n  剑指你的科技梦\n  \n  他的科技你买单，买完区块链的单买科技单\n  \n  散户才是上帝，满足一切梦想\" / X\nurl: \"https://x.com/TradercBTC/status/2019432017700757700\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2019432017700757700\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2019432017700757700/imgs/img-002-HAZ1_KhakAA20mp-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-05T15:24:46.000Z\"\nsummary: |-\n  纳斯达克今天跌的非常狠\n  \n  价格已经无法维持在箱体震荡的上半部分\n  \n  刚才已经跌破了\n  \n  如果拉不回来，美股科技股正式开始回调模式😂\n  \n  剑指你的科技梦\n  \n  他的科技你买单，买完区块链的单买科技单\n  \n  散户才是上帝，满足一切梦想\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:56:48.460Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"纳斯达克今天跌的非常狠\n\n价格已经无法维持在箱体震荡的上半部分\n\n刚才已经跌破了\n\n如果拉不回来，美股科技股正式开始回调模式😂\n\n剑指你的科技梦\n\n他的科技你买单，买完区块链的单买科技单\n\n散户才是上帝，满足一切梦想\" / X\n\n- [![@TradercBTC](2019432017700757700/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t纳斯达克今天跌的非常狠 价格已经无法维持在箱体震荡的上半部分 刚才已经跌破了 如果拉不回来，美股科技股正式开始回调模式😂 剑指你的科技梦 他的科技你买单，买完区块链的单买科技单 散户才是上帝，满足一切梦想\n\t[23:24 · 2026年2月5日](https://x.com/TradercBTC/status/2019432017700757700) [1867Views](https://x.com/TradercBTC/status/2019432017700757700)"
+}

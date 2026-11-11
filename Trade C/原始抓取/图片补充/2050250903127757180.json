@@ -1,0 +1,62 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 38,
+  "lang": "zxx",
+  "possibly_sensitive": false,
+  "created_at": "2026-05-01T16:28:01.000Z",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2050…",
+        "expanded_url": "http://x.com/i/article/2050248131447787521",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/DJGNgdZrN1"
+      }
+    ]
+  },
+  "id_str": "2050250903127757180",
+  "text": "https://t.co/DJGNgdZrN1",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2050250903127757180"
+    ],
+    "editable_until_msecs": "1777656481000",
+    "edits_remaining": "5",
+    "is_edit_eligible": false
+  },
+  "conversation_count": 4,
+  "news_action_type": "conversation",
+  "article": {
+    "cover_media": {
+      "id": "QXBpTWVkaWE6DAAFCgABHHP0T4+akAQKAAIaqP8AOBtwBgAA",
+      "media_info": {
+        "__typename": "ApiImage",
+        "original_img_height": 410,
+        "original_img_url": "https://pbs.twimg.com/media/HHP0T4-akAQd8_l.jpg",
+        "original_img_width": 1024
+      }
+    },
+    "id": "QXJ0aWNsZUVudGl0eToyMDUwMjQ4MTMxNDQ3Nzg3NTIx",
+    "preview_text": "2024年某天，一个加密货币交易员在社交媒体上发了一张截图，显示他在一笔交易中盈利了八万美元。评论区的反应几乎是即时的：\"大神带带我\"\"跟单链接在哪\"\"永赚博主\"。",
+    "rest_id": "2050248131447787521",
+    "title": "社交媒体上的“弱智”——一种注定亏钱的认知结构"
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

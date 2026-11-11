@@ -1,0 +1,349 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 11,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-01-20T15:25:00.000Z",
+  "display_text_range": [
+    0,
+    106
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/wTgR0cALQj",
+        "expanded_url": "https://x.com/TradercBTC/status/2013633868536930424/photo/1",
+        "indices": [
+          107,
+          130
+        ],
+        "url": "https://t.co/wTgR0cALQj"
+      }
+    ],
+    "symbols": [
+      {
+        "indices": [
+          0,
+          4
+        ],
+        "text": "BTC"
+      }
+    ]
+  },
+  "id_str": "2013633868536930424",
+  "text": "$BTC 向下三推完成\n\n二段下跌刚好目标达到两倍的MM位置\n\n我们看到两倍MM很多多头止盈，刚好在这个位置插针，同时也完成了这一波向下的三推\n\n这一波短线行情就走结束了\n\n后续大概率是下跌转震荡，等待积攒流动性 https://t.co/wTgR0cALQj",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2013633868536930424"
+    ],
+    "editable_until_msecs": "1768926300000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/wTgR0cALQj",
+      "expanded_url": "https://x.com/TradercBTC/status/2013633868536930424/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        107,
+        130
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/G_Hc5xvX0AA1-x4.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1426,
+            "w": 2546,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1426,
+            "w": 1426,
+            "x": 311,
+            "y": 0
+          },
+          {
+            "h": 1426,
+            "w": 1251,
+            "x": 399,
+            "y": 0
+          },
+          {
+            "h": 1426,
+            "w": 713,
+            "x": 668,
+            "y": 0
+          },
+          {
+            "h": 1426,
+            "w": 2740,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1426,
+        "width": 2740
+      },
+      "sizes": {
+        "large": {
+          "h": 1066,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 625,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 354,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/wTgR0cALQj"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1426,
+          "w": 2546,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1426,
+          "w": 1426,
+          "x": 311,
+          "y": 0
+        },
+        {
+          "h": 1426,
+          "w": 1251,
+          "x": 399,
+          "y": 0
+        },
+        {
+          "h": 1426,
+          "w": 713,
+          "x": 668,
+          "y": 0
+        },
+        {
+          "h": 1426,
+          "w": 2740,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2013633868536930424/photo/1",
+      "url": "https://pbs.twimg.com/media/G_Hc5xvX0AA1-x4.jpg",
+      "width": 2740,
+      "height": 1426
+    }
+  ],
+  "conversation_count": 2,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "favorite_count": 8,
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "reply_count": 5,
+    "retweet_count": 2,
+    "created_at": "2026-01-19T06:21:39.000Z",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "entities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/dnzOXPvdCf",
+          "expanded_url": "https://x.com/TradercBTC/status/2013134744326996048/photo/1",
+          "indices": [
+            106,
+            129
+          ],
+          "url": "https://t.co/dnzOXPvdCf"
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [
+            0,
+            4
+          ],
+          "text": "BTC"
+        }
+      ]
+    },
+    "id_str": "2013134744326996048",
+    "text": "$BTC 等待等待\n\n如果打开4h会发现刚好落在ema200的地方\n\n希望看到回测这一段下跌的50%\n\n（这种非常巨大的k线不具备持续性，加上还在ema200上方，可能会有人去做剥头皮的交易，这回推动价格上涨） https://t.co/dnzOXPvdCf",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2013134744326996048"
+      ],
+      "editable_until_msecs": "1768807299000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "mediaDetails": [
+      {
+        "display_url": "pic.x.com/dnzOXPvdCf",
+        "expanded_url": "https://x.com/TradercBTC/status/2013134744326996048/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "indices": [
+          106,
+          129
+        ],
+        "media_url_https": "https://pbs.twimg.com/media/G_AWaLZXsAE9WZw.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1729,
+              "w": 3088,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1820,
+              "w": 1820,
+              "x": 553,
+              "y": 0
+            },
+            {
+              "h": 1820,
+              "w": 1596,
+              "x": 665,
+              "y": 0
+            },
+            {
+              "h": 1820,
+              "w": 910,
+              "x": 1008,
+              "y": 0
+            },
+            {
+              "h": 1820,
+              "w": 3088,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1820,
+          "width": 3088
+        },
+        "sizes": {
+          "large": {
+            "h": 1207,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 707,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 401,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/dnzOXPvdCf"
+      }
+    ],
+    "photos": [
+      {
+        "backgroundColor": {
+          "red": 204,
+          "green": 214,
+          "blue": 221
+        },
+        "cropCandidates": [
+          {
+            "h": 1729,
+            "w": 3088,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1820,
+            "w": 1820,
+            "x": 553,
+            "y": 0
+          },
+          {
+            "h": 1820,
+            "w": 1596,
+            "x": 665,
+            "y": 0
+          },
+          {
+            "h": 1820,
+            "w": 910,
+            "x": 1008,
+            "y": 0
+          },
+          {
+            "h": 1820,
+            "w": 3088,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "expandedUrl": "https://x.com/TradercBTC/status/2013134744326996048/photo/1",
+        "url": "https://pbs.twimg.com/media/G_AWaLZXsAE9WZw.jpg",
+        "width": 3088,
+        "height": 1820
+      }
+    ],
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

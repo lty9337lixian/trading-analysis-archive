@@ -1,0 +1,169 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 6,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-08-23T07:11:56.000Z",
+  "display_text_range": [
+    0,
+    34
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/V0FHykU771",
+        "expanded_url": "https://x.com/TradercBTC/status/2091423176999977152/photo/1",
+        "indices": [
+          35,
+          58
+        ],
+        "url": "https://t.co/V0FHykU771"
+      }
+    ]
+  },
+  "id_str": "2091423176999977152",
+  "text": "今天聊聊市场环境判断\n\n市场环境——由市场方向和市场结构两个环节组成 https://t.co/V0FHykU771",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2091423176999977152"
+    ],
+    "editable_until_msecs": "1787472716000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/V0FHykU771",
+      "expanded_url": "https://x.com/TradercBTC/status/2091423176999977152/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        35,
+        58
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HQY6K7JbgAAw9aD.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 927,
+            "w": 1656,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1494,
+            "w": 1494,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1494,
+            "w": 1311,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1494,
+            "w": 747,
+            "x": 81,
+            "y": 0
+          },
+          {
+            "h": 1494,
+            "w": 1656,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1494,
+        "width": 1656
+      },
+      "sizes": {
+        "large": {
+          "h": 1494,
+          "resize": "fit",
+          "w": 1656
+        },
+        "medium": {
+          "h": 1083,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 613,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/V0FHykU771"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 927,
+          "w": 1656,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1494,
+          "w": 1494,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1494,
+          "w": 1311,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1494,
+          "w": 747,
+          "x": 81,
+          "y": 0
+        },
+        {
+          "h": 1494,
+          "w": 1656,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2091423176999977152/photo/1",
+      "url": "https://pbs.twimg.com/media/HQY6K7JbgAAw9aD.jpg",
+      "width": 1656,
+      "height": 1494
+    }
+  ],
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "isEdited": false,
+  "isStaleEdit": false
+}

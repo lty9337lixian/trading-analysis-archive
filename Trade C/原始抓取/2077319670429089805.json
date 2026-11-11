@@ -1,0 +1,84 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HNQekl4aMAAKWBu.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HNQV0p-aMAAHzVb?format=webp&name=small",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HNQWD2jaIAAtP9A?format=webp&name=small",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/HNQekl4aMAAKWBu.jpg:large",
+        "localPath": "2077319670429089805/imgs/img-001-HNQekl4aMAAKWBu-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2077319670429089805/imgs/img-001-HNQekl4aMAAKWBu-jpg-large.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2077319670429089805/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2077319670429089805/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HNQV0p-aMAAHzVb?format=webp&name=small",
+        "localPath": "2077319670429089805/imgs/img-003-HNQV0p-aMAAHzVb.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2077319670429089805/imgs/img-003-HNQV0p-aMAAHzVb.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HNQWD2jaIAAtP9A?format=webp&name=small",
+        "localPath": "2077319670429089805/imgs/img-004-HNQWD2jaIAAtP9A.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2077319670429089805/imgs/img-004-HNQWD2jaIAAtP9A.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 4,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2077319670429089805/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2077319670429089805",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2077319670429089805",
+    "title": "trader-c on X: \"又加了一个动能模块。参数没有变，就这样大差不差就行，主要是思路问题。 又测试了一单，原本是想着震荡，止损在上面，但是随着动能越来越强，就上移了止盈位，止损位置已经保本。如果接下来不推动，又成震荡大概率就离场了。 动能模块的功能是： 「动能不会单独决定市场方向，而是作为确认和修正： 上涨结构＋上涨动能＋低重叠，更容易成为“窄幅上涨通道”。 下跌结构＋下跌动能＋低重叠，更容易成为“窄幅下降通道”。 原本是窄幅上涨，但出现明显下跌动能，会先退化成“宽幅上涨通道”。 原本是窄幅下降，但出现明显上涨动能，会先退化成“宽幅下降通道”。 不会因为一两根反向K线就直接翻…",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-07-15T09:09:38.000Z",
+    "summary": "又加了一个动能模块。参数没有变，就这样大差不差就行，主要是思路问题。\n\n又测试了一单，原本是想着震荡，止损在上面，但是随着动能越来越强，就上移了止盈位，止损位置已经保本。如果接下来不推动，又成震荡大概率就离场了。\n\n动能模块的功能是：\n「动能不会单独决定市场方向，而是作为确认和修正：\n\n上涨结构＋上涨动能＋低重叠，更容易成为“窄幅上涨通道”。\n下跌结构＋下跌动能＋低重叠，更容易成为“窄幅下降通道”。\n原本是窄幅上涨，但出现明显下跌动能，会先退化成“宽幅上涨通道”。\n原本是窄幅下降，但出现明显上涨动能，会先退化成“宽幅下降通道”。\n不会因为一两根反向K线就直接翻转趋势。\n只有均线、价格位置、方…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HNQekl4aMAAKWBu.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:02:43.931Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n又加了一个动能模块。参数没有变，就这样大差不差就行，主要是思路问题。 又测试了一单，原本是想着震荡，止损在上面，但是随着动能越来越强，就上移了止盈位，止损位置已经保本。如果接下来不推动，又成震荡大概率就离场了。 动能模块的功能是： 「动能不会单独决定市场方向，而是作为确认和修正： 上涨结构＋上涨动能＋低重叠，更容易成为“窄幅上涨通道”。 下跌结构＋下跌动能＋低重叠，更容易成为“窄幅下降通道”。 原本是窄幅上涨，但出现明显下跌动能，会先退化成“宽幅上涨通道”。 原本是窄幅下降，但出现明显上涨动能，会先退化成“宽幅下降通道”。 不会因为一两根反向K线就直接翻转趋势。 只有均线、价格位置、方向一致性、趋势效率和动能共同改变，才会确认反向趋势。」\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[7月15日](https://x.com/TradercBTC/status/2077309826712076567)\n\n还行，一般进入趋势行情的时候，如果没有持续推进行情 很快就变为了震荡，这时候趋势行情就被证伪了 也可以作为一个判断逻辑 指标的即时效果还不错，准备上线\n\n[![](https://pbs.twimg.com/media/HNQV0p-aMAAHzVb?format=webp&name=small)](https://x.com/TradercBTC/status/2077309826712076567/photo/1)\n\n[![](https://pbs.twimg.com/media/HNQWD2jaIAAtP9A?format=webp&name=small)](https://x.com/TradercBTC/status/2077309826712076567/photo/2)\n\n[17:09 · 2026年7月15日](https://x.com/TradercBTC/status/2077319670429089805)[1.4万Views](https://x.com/TradercBTC/status/2077319670429089805)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2077319670429089805"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"又加了一个动能模块。参数没有变，就这样大差不差就行，主要是思路问题。 又测试了一单，原本是想着震荡，止损在上面，但是随着动能越来越强，就上移了止盈位，止损位置已经保本。如果接下来不推动，又成震荡大概率就离场了。 动能模块的功能是： 「动能不会单独决定市场方向，而是作为确认和修正： 上涨结构＋上涨动能＋低重叠，更容易成为“窄幅上涨通道”。 下跌结构＋下跌动能＋低重叠，更容易成为“窄幅下降通道”。 原本是窄幅上涨，但出现明显下跌动能，会先退化成“宽幅上涨通道”。 原本是窄幅下降，但出现明显上涨动能，会先退化成“宽幅下降通道”。 不会因为一两根反向K线就直接翻…\"\nurl: \"https://x.com/TradercBTC/status/2077319670429089805\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2077319670429089805\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2077319670429089805/imgs/img-001-HNQekl4aMAAKWBu-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-07-15T09:09:38.000Z\"\nsummary: |-\n  又加了一个动能模块。参数没有变，就这样大差不差就行，主要是思路问题。\n  \n  又测试了一单，原本是想着震荡，止损在上面，但是随着动能越来越强，就上移了止盈位，止损位置已经保本。如果接下来不推动，又成震荡大概率就离场了。\n  \n  动能模块的功能是：\n  「动能不会单独决定市场方向，而是作为确认和修正：\n  \n  上涨结构＋上涨动能＋低重叠，更容易成为“窄幅上涨通道”。\n  下跌结构＋下跌动能＋低重叠，更容易成为“窄幅下降通道”。\n  原本是窄幅上涨，但出现明显下跌动能，会先退化成“宽幅上涨通道”。\n  原本是窄幅下降，但出现明显上涨动能，会先退化成“宽幅下降通道”。\n  不会因为一两根反向K线就直接翻转趋势。\n  只有均线、价格位置、方…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:02:43.931Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"又加了一个动能模块。参数没有变，就这样大差不差就行，主要是思路问题。 又测试了一单，原本是想着震荡，止损在上面，但是随着动能越来越强，就上移了止盈位，止损位置已经保本。如果接下来不推动，又成震荡大概率就离场了。 动能模块的功能是： 「动能不会单独决定市场方向，而是作为确认和修正： 上涨结构＋上涨动能＋低重叠，更容易成为“窄幅上涨通道”。 下跌结构＋下跌动能＋低重叠，更容易成为“窄幅下降通道”。 原本是窄幅上涨，但出现明显下跌动能，会先退化成“宽幅上涨通道”。 原本是窄幅下降，但出现明显上涨动能，会先退化成“宽幅下降通道”。 不会因为一两根反向K线就直接翻…\n\n[![@TradercBTC](2077319670429089805/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n又加了一个动能模块。参数没有变，就这样大差不差就行，主要是思路问题。 又测试了一单，原本是想着震荡，止损在上面，但是随着动能越来越强，就上移了止盈位，止损位置已经保本。如果接下来不推动，又成震荡大概率就离场了。 动能模块的功能是： 「动能不会单独决定市场方向，而是作为确认和修正： 上涨结构＋上涨动能＋低重叠，更容易成为“窄幅上涨通道”。 下跌结构＋下跌动能＋低重叠，更容易成为“窄幅下降通道”。 原本是窄幅上涨，但出现明显下跌动能，会先退化成“宽幅上涨通道”。 原本是窄幅下降，但出现明显上涨动能，会先退化成“宽幅下降通道”。 不会因为一两根反向K线就直接翻转趋势。 只有均线、价格位置、方向一致性、趋势效率和动能共同改变，才会确认反向趋势。」\n\n[![@TradercBTC](2077319670429089805/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[7月15日](https://x.com/TradercBTC/status/2077309826712076567)\n\n还行，一般进入趋势行情的时候，如果没有持续推进行情 很快就变为了震荡，这时候趋势行情就被证伪了 也可以作为一个判断逻辑 指标的即时效果还不错，准备上线\n\n[![](2077319670429089805/imgs/img-003-HNQV0p-aMAAHzVb.webp)](https://x.com/TradercBTC/status/2077309826712076567/photo/1)\n\n[![](2077319670429089805/imgs/img-004-HNQWD2jaIAAtP9A.webp)](https://x.com/TradercBTC/status/2077309826712076567/photo/2)\n\n[17:09 · 2026年7月15日](https://x.com/TradercBTC/status/2077319670429089805)[1.4万Views](https://x.com/TradercBTC/status/2077319670429089805)\n\nOnly some accounts can reply."
+}

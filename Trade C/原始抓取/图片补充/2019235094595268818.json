@@ -1,0 +1,169 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 5,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-02-05T02:22:16.000Z",
+  "display_text_range": [
+    0,
+    149
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/AsaWD5Ydr9",
+        "expanded_url": "https://x.com/TradercBTC/status/2019235094595268818/photo/1",
+        "indices": [
+          150,
+          173
+        ],
+        "url": "https://t.co/AsaWD5Ydr9"
+      }
+    ]
+  },
+  "id_str": "2019235094595268818",
+  "text": "日经指数\n\n刚在小级别做了一笔空单，跌的很快\n\n这种大涨大跌大概率是箱体震荡\n\n30min做股指期货的波段会比较舒服\n\n等到箱体底部或者ema200去做做多比较好\n\n但是这个波动太小，仓位分配是一个难题，不能按照在加密货币里的常规仓位去做，得放大仓位\n\n平时吃的都是5%到10%，现在吃的是0.5% https://t.co/AsaWD5Ydr9",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2019235094595268818"
+    ],
+    "editable_until_msecs": "1770261736000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/AsaWD5Ydr9",
+      "expanded_url": "https://x.com/TradercBTC/status/2019235094595268818/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        150,
+        173
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HAXCTiQboAAQ81y.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1706,
+            "w": 3046,
+            "x": 0,
+            "y": 218
+          },
+          {
+            "h": 1924,
+            "w": 1924,
+            "x": 332,
+            "y": 0
+          },
+          {
+            "h": 1924,
+            "w": 1688,
+            "x": 450,
+            "y": 0
+          },
+          {
+            "h": 1924,
+            "w": 962,
+            "x": 813,
+            "y": 0
+          },
+          {
+            "h": 1924,
+            "w": 3046,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1924,
+        "width": 3046
+      },
+      "sizes": {
+        "large": {
+          "h": 1294,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 758,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 430,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/AsaWD5Ydr9"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1706,
+          "w": 3046,
+          "x": 0,
+          "y": 218
+        },
+        {
+          "h": 1924,
+          "w": 1924,
+          "x": 332,
+          "y": 0
+        },
+        {
+          "h": 1924,
+          "w": 1688,
+          "x": 450,
+          "y": 0
+        },
+        {
+          "h": 1924,
+          "w": 962,
+          "x": 813,
+          "y": 0
+        },
+        {
+          "h": 1924,
+          "w": 3046,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2019235094595268818/photo/1",
+      "url": "https://pbs.twimg.com/media/HAXCTiQboAAQ81y.jpg",
+      "width": 3046,
+      "height": 1924
+    }
+  ],
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDE5MjM1MDk0NDg2MzA2ODE2"
+  }
+}

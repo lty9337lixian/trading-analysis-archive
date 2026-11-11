@@ -1,0 +1,58 @@
+[info] Loading https://x.com/TradercBTC/status/2023124529716109450 with generic adapter
+[info] Downloaded 1 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2023124529716109450.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2023124529716109450/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2023124529716109450/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2023124529716109450/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2023124529716109450",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2023124529716109450",
+    "title": "trader-c on X: \"衍生一下\n\n你应该对你的交易系统里每个概念都进行精准的定义\n\n如果你不清楚“支撑”的定义\n\n如果你不清楚“止跌”的定义\n\n如果你不清楚“反转”的定义\n\n如果你不清楚“周期”的定义\n\n如果你不清楚“结构”的定义\n\n如果你不清楚“管理订单”的定义\n\n你怎么可能会做好交易呢？\n\n模糊的定义会导致模糊的决策，产生模糊的后果\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-15T19:57:30.000Z",
+    "summary": "衍生一下\n\n你应该对你的交易系统里每个概念都进行精准的定义\n\n如果你不清楚“支撑”的定义\n\n如果你不清楚“止跌”的定义\n\n如果你不清楚“反转”的定义\n\n如果你不清楚“周期”的定义\n\n如果你不清楚“结构”的定义\n\n如果你不清楚“管理订单”的定义\n\n你怎么可能会做好交易呢？\n\n模糊的定义会导致模糊的决策，产生模糊的后果",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:58:13.361Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t衍生一下 你应该对你的交易系统里每个概念都进行精准的定义 如果你不清楚“支撑”的定义 如果你不清楚“止跌”的定义 如果你不清楚“反转”的定义 如果你不清楚“周期”的定义 如果你不清楚“结构”的定义 如果你不清楚“管理订单”的定义 你怎么可能会做好交易呢？ 模糊的定义会导致模糊的决策，产生模糊的后果\n\t[3:57 · 2026年2月16日](https://x.com/TradercBTC/status/2023124529716109450) [4785Views](https://x.com/TradercBTC/status/2023124529716109450)\n\t[1](https://x.com/i/status/2023124529716109450)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2023124529716109450"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"衍生一下\n  \n  你应该对你的交易系统里每个概念都进行精准的定义\n  \n  如果你不清楚“支撑”的定义\n  \n  如果你不清楚“止跌”的定义\n  \n  如果你不清楚“反转”的定义\n  \n  如果你不清楚“周期”的定义\n  \n  如果你不清楚“结构”的定义\n  \n  如果你不清楚“管理订单”的定义\n  \n  你怎么可能会做好交易呢？\n  \n  模糊的定义会导致模糊的决策，产生模糊的后果\" / X\nurl: \"https://x.com/TradercBTC/status/2023124529716109450\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2023124529716109450\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2023124529716109450/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-15T19:57:30.000Z\"\nsummary: |-\n  衍生一下\n  \n  你应该对你的交易系统里每个概念都进行精准的定义\n  \n  如果你不清楚“支撑”的定义\n  \n  如果你不清楚“止跌”的定义\n  \n  如果你不清楚“反转”的定义\n  \n  如果你不清楚“周期”的定义\n  \n  如果你不清楚“结构”的定义\n  \n  如果你不清楚“管理订单”的定义\n  \n  你怎么可能会做好交易呢？\n  \n  模糊的定义会导致模糊的决策，产生模糊的后果\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:58:13.361Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"衍生一下\n\n你应该对你的交易系统里每个概念都进行精准的定义\n\n如果你不清楚“支撑”的定义\n\n如果你不清楚“止跌”的定义\n\n如果你不清楚“反转”的定义\n\n如果你不清楚“周期”的定义\n\n如果你不清楚“结构”的定义\n\n如果你不清楚“管理订单”的定义\n\n你怎么可能会做好交易呢？\n\n模糊的定义会导致模糊的决策，产生模糊的后果\" / X\n\n- [![@TradercBTC](2023124529716109450/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t衍生一下 你应该对你的交易系统里每个概念都进行精准的定义 如果你不清楚“支撑”的定义 如果你不清楚“止跌”的定义 如果你不清楚“反转”的定义 如果你不清楚“周期”的定义 如果你不清楚“结构”的定义 如果你不清楚“管理订单”的定义 你怎么可能会做好交易呢？ 模糊的定义会导致模糊的决策，产生模糊的后果\n\t[3:57 · 2026年2月16日](https://x.com/TradercBTC/status/2023124529716109450) [4785Views](https://x.com/TradercBTC/status/2023124529716109450)\n\t[1](https://x.com/i/status/2023124529716109450)"
+}

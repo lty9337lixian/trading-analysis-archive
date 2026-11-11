@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/G__9bQvbEAk-HtR.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2017610785799934206/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2017610785799934206/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/G__9bQvbEAk-HtR.jpg:large",
+        "localPath": "2017610785799934206/imgs/img-002-G__9bQvbEAk-HtR-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2017610785799934206/imgs/img-002-G__9bQvbEAk-HtR-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2017610785799934206/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2017610785799934206",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2017610785799934206",
+    "title": "trader-c on X: \"alawys short $BTC $ETH $SOL\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-01-31T14:47:51.000Z",
+    "summary": "alawys short $BTC $ETH $SOL",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/G__9bQvbEAk-HtR.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:55:28.238Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[1月30日](https://x.com/TradercBTC/status/2017199221339017354)\n\n这种从D到4H到1H级别多重共振的S级别机会 你都不做，不如卸载了你那些自动扣钱的软件 此时不上仓位，等着1100上仓位吗？ [$ETH](https://x.com/search?q=$ETH)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2017610785799934206"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"alawys short $BTC $ETH $SOL\\\" / X\"\nurl: \"https://x.com/TradercBTC/status/2017610785799934206\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2017610785799934206\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2017610785799934206/imgs/img-002-G__9bQvbEAk-HtR-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-01-31T14:47:51.000Z\"\nsummary: \"alawys short $BTC $ETH $SOL\"\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:55:28.238Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"alawys short $BTC $ETH $SOL\" / X\n\n[![@TradercBTC](2017610785799934206/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[1月30日](https://x.com/TradercBTC/status/2017199221339017354)\n\n这种从D到4H到1H级别多重共振的S级别机会 你都不做，不如卸载了你那些自动扣钱的软件 此时不上仓位，等着1100上仓位吗？ [$ETH](https://x.com/search?q=$ETH)"
+}

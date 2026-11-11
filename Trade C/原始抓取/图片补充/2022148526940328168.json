@@ -1,0 +1,192 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 8,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-02-13T03:19:13.000Z",
+  "display_text_range": [
+    0,
+    141
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/uJy6RCaeId",
+        "expanded_url": "https://x.com/TradercBTC/status/2022148526940328168/photo/1",
+        "indices": [
+          141,
+          164
+        ],
+        "url": "https://t.co/uJy6RCaeId"
+      }
+    ],
+    "symbols": [
+      {
+        "indices": [
+          7,
+          11
+        ],
+        "text": "SPX"
+      },
+      {
+        "indices": [
+          13,
+          17
+        ],
+        "text": "NDX"
+      },
+      {
+        "indices": [
+          115,
+          119
+        ],
+        "text": "SPX"
+      }
+    ]
+  },
+  "id_str": "2022148526940328168",
+  "text": "以下是关于  $SPX  $NDX 和 MAG7 的更新👇\n\n这将会成为固定栏目，我将每周对于美股，日经指数，上证指数，黄金以及其他追踪的行业板块和大宗商品进行更新\n\n逻辑链是视频为主，推特以长线呈更新持仓。\n\n让我们开始吧：\n\n$SPX 高位横盘，价格出现背离和潜在的头肩顶形态 https://t.co/uJy6RCaeId",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2022148526940328168"
+    ],
+    "editable_until_msecs": "1770956353000",
+    "edits_remaining": "5",
+    "is_edit_eligible": false
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/uJy6RCaeId",
+      "expanded_url": "https://x.com/TradercBTC/status/2022148526940328168/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        141,
+        164
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HBAbl21aQAAS22B.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1380,
+            "w": 2464,
+            "x": 94,
+            "y": 0
+          },
+          {
+            "h": 1380,
+            "w": 1380,
+            "x": 1160,
+            "y": 0
+          },
+          {
+            "h": 1380,
+            "w": 1211,
+            "x": 1245,
+            "y": 0
+          },
+          {
+            "h": 1380,
+            "w": 690,
+            "x": 1505,
+            "y": 0
+          },
+          {
+            "h": 1380,
+            "w": 2558,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1380,
+        "width": 2558
+      },
+      "sizes": {
+        "large": {
+          "h": 1105,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 647,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 367,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/uJy6RCaeId"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1380,
+          "w": 2464,
+          "x": 94,
+          "y": 0
+        },
+        {
+          "h": 1380,
+          "w": 1380,
+          "x": 1160,
+          "y": 0
+        },
+        {
+          "h": 1380,
+          "w": 1211,
+          "x": 1245,
+          "y": 0
+        },
+        {
+          "h": 1380,
+          "w": 690,
+          "x": 1505,
+          "y": 0
+        },
+        {
+          "h": 1380,
+          "w": 2558,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2022148526940328168/photo/1",
+      "url": "https://pbs.twimg.com/media/HBAbl21aQAAS22B.jpg",
+      "width": 2558,
+      "height": 1380
+    }
+  ],
+  "conversation_count": 2,
+  "news_action_type": "conversation",
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDIyMTQ4NTI2ODczMjI3MjY1"
+  }
+}

@@ -1,0 +1,65 @@
+[info] Reusing Chrome debugger at http://127.0.0.1:57699 for profile /Users/lu/Library/Application Support/baoyu-skills/chrome-profile
+[info] Loading https://x.com/TradercBTC/status/2014288335003660380 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2014288335003660380.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/G_QvQqBaAAAONRC.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2014288335003660380/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2014288335003660380/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/G_QvQqBaAAAONRC.jpg:large",
+        "localPath": "2014288335003660380/imgs/img-002-G_QvQqBaAAAONRC-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2014288335003660380/imgs/img-002-G_QvQqBaAAAONRC-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2014288335003660380/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2014288335003660380",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2014288335003660380",
+    "title": "trader-c on X: \"$LINK 短期逆势的思考\n\n看情况吧，做个短单，能给机会就做，不给机会拉到\n\n纯用这个单子来练练\n\n关于美股，大盘分析就在视频里了，后续视频会更新关于上证，一些板块的思考（化工，有色金属，电子）\n\n周二在群里多了手阿里巴巴，空了手奈飞，\n\n阿里巴巴当时161，现在盘前177，涨了9%\n\n奈飞第二天开盘就低开8%\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-01-22T10:45:37.000Z",
+    "summary": "$LINK 短期逆势的思考\n\n看情况吧，做个短单，能给机会就做，不给机会拉到\n\n纯用这个单子来练练\n\n关于美股，大盘分析就在视频里了，后续视频会更新关于上证，一些板块的思考（化工，有色金属，电子）\n\n周二在群里多了手阿里巴巴，空了手奈飞，\n\n阿里巴巴当时161，现在盘前177，涨了9%\n\n奈飞第二天开盘就低开8%",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/G_QvQqBaAAAONRC.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:43:12.965Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t[$LINK](https://x.com/search?q=$LINK) 短期逆势的思考 看情况吧，做个短单，能给机会就做，不给机会拉到 纯用这个单子来练练 关于美股，大盘分析就在视频里了，后续视频会更新关于上证，一些板块的思考（化工，有色金属，电子） 周二在群里多了手阿里巴巴，空了手奈飞， 阿里巴巴当时161，现在盘前177，涨了9% 奈飞第二天开盘就低开8%\n\t[18:45 · 2026年1月22日](https://x.com/TradercBTC/status/2014288335003660380) [2526Views](https://x.com/TradercBTC/status/2014288335003660380)\n\t[2](https://x.com/i/status/2014288335003660380)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2014288335003660380"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"$LINK 短期逆势的思考\n  \n  看情况吧，做个短单，能给机会就做，不给机会拉到\n  \n  纯用这个单子来练练\n  \n  关于美股，大盘分析就在视频里了，后续视频会更新关于上证，一些板块的思考（化工，有色金属，电子）\n  \n  周二在群里多了手阿里巴巴，空了手奈飞，\n  \n  阿里巴巴当时161，现在盘前177，涨了9%\n  \n  奈飞第二天开盘就低开8%\" / X\nurl: \"https://x.com/TradercBTC/status/2014288335003660380\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2014288335003660380\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2014288335003660380/imgs/img-002-G_QvQqBaAAAONRC-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-01-22T10:45:37.000Z\"\nsummary: |-\n  $LINK 短期逆势的思考\n  \n  看情况吧，做个短单，能给机会就做，不给机会拉到\n  \n  纯用这个单子来练练\n  \n  关于美股，大盘分析就在视频里了，后续视频会更新关于上证，一些板块的思考（化工，有色金属，电子）\n  \n  周二在群里多了手阿里巴巴，空了手奈飞，\n  \n  阿里巴巴当时161，现在盘前177，涨了9%\n  \n  奈飞第二天开盘就低开8%\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:43:12.965Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"$LINK 短期逆势的思考\n\n看情况吧，做个短单，能给机会就做，不给机会拉到\n\n纯用这个单子来练练\n\n关于美股，大盘分析就在视频里了，后续视频会更新关于上证，一些板块的思考（化工，有色金属，电子）\n\n周二在群里多了手阿里巴巴，空了手奈飞，\n\n阿里巴巴当时161，现在盘前177，涨了9%\n\n奈飞第二天开盘就低开8%\" / X\n\n- [![@TradercBTC](2014288335003660380/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t[$LINK](https://x.com/search?q=$LINK) 短期逆势的思考 看情况吧，做个短单，能给机会就做，不给机会拉到 纯用这个单子来练练 关于美股，大盘分析就在视频里了，后续视频会更新关于上证，一些板块的思考（化工，有色金属，电子） 周二在群里多了手阿里巴巴，空了手奈飞， 阿里巴巴当时161，现在盘前177，涨了9% 奈飞第二天开盘就低开8%\n\t[18:45 · 2026年1月22日](https://x.com/TradercBTC/status/2014288335003660380) [2526Views](https://x.com/TradercBTC/status/2014288335003660380)\n\t[2](https://x.com/i/status/2014288335003660380)"
+}

@@ -1,0 +1,349 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 4,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-02-05T15:19:10.000Z",
+  "display_text_range": [
+    0,
+    30
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/sMjf8W0nhe",
+        "expanded_url": "https://x.com/TradercBTC/status/2019430607290507752/photo/1",
+        "indices": [
+          31,
+          54
+        ],
+        "url": "https://t.co/sMjf8W0nhe"
+      }
+    ],
+    "symbols": [
+      {
+        "indices": [
+          8,
+          12
+        ],
+        "text": "BTC"
+      }
+    ]
+  },
+  "id_str": "2019430607290507752",
+  "text": "抛售高潮来了\n\n$BTC 梦回2024\n\n12w终究是一场梦 https://t.co/sMjf8W0nhe",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2019430607290507752"
+    ],
+    "editable_until_msecs": "1770308350000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/sMjf8W0nhe",
+      "expanded_url": "https://x.com/TradercBTC/status/2019430607290507752/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        31,
+        54
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HAZ1Vl2aMAAVbTd.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1886,
+            "w": 3368,
+            "x": 28,
+            "y": 0
+          },
+          {
+            "h": 1886,
+            "w": 1886,
+            "x": 769,
+            "y": 0
+          },
+          {
+            "h": 1886,
+            "w": 1654,
+            "x": 885,
+            "y": 0
+          },
+          {
+            "h": 1886,
+            "w": 943,
+            "x": 1241,
+            "y": 0
+          },
+          {
+            "h": 1886,
+            "w": 3606,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1886,
+        "width": 3606
+      },
+      "sizes": {
+        "large": {
+          "h": 1071,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 628,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 356,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/sMjf8W0nhe"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1886,
+          "w": 3368,
+          "x": 28,
+          "y": 0
+        },
+        {
+          "h": 1886,
+          "w": 1886,
+          "x": 769,
+          "y": 0
+        },
+        {
+          "h": 1886,
+          "w": 1654,
+          "x": 885,
+          "y": 0
+        },
+        {
+          "h": 1886,
+          "w": 943,
+          "x": 1241,
+          "y": 0
+        },
+        {
+          "h": 1886,
+          "w": 3606,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2019430607290507752/photo/1",
+      "url": "https://pbs.twimg.com/media/HAZ1Vl2aMAAVbTd.jpg",
+      "width": 3606,
+      "height": 1886
+    }
+  ],
+  "conversation_count": 1,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "favorite_count": 19,
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "reply_count": 10,
+    "retweet_count": 0,
+    "created_at": "2026-02-05T01:05:30.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "entities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/xnYmuUl4l8",
+          "expanded_url": "https://x.com/TradercBTC/status/2019215775056425318/photo/1",
+          "indices": [
+            136,
+            159
+          ],
+          "url": "https://t.co/xnYmuUl4l8"
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [
+            0,
+            4
+          ],
+          "text": "BTC"
+        }
+      ]
+    },
+    "id_str": "2019215775056425318",
+    "text": "$BTC 我勒个跌跌不休啊\n\n下跌结构又被延续了，形成了新的低点\n\n1H的ema20形成非常强大的压制力，背后的资金在这里不断的去卖出\n\n这一次也不像是假突破的样子，没有迅速收回来\n\n按照这种情况，下一次大跌感觉很快就要来了\n\n下跌通道——抛售高潮。。。。\n\n熟悉的剧本 https://t.co/xnYmuUl4l8",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2019215775056425318"
+      ],
+      "editable_until_msecs": "1770257130000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "mediaDetails": [
+      {
+        "display_url": "pic.x.com/xnYmuUl4l8",
+        "expanded_url": "https://x.com/TradercBTC/status/2019215775056425318/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "indices": [
+          136,
+          159
+        ],
+        "media_url_https": "https://pbs.twimg.com/media/HAWxm4kacAAIgDO.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1736,
+              "w": 3100,
+              "x": 0,
+              "y": 136
+            },
+            {
+              "h": 1872,
+              "w": 1872,
+              "x": 381,
+              "y": 0
+            },
+            {
+              "h": 1872,
+              "w": 1642,
+              "x": 496,
+              "y": 0
+            },
+            {
+              "h": 1872,
+              "w": 936,
+              "x": 849,
+              "y": 0
+            },
+            {
+              "h": 1872,
+              "w": 3100,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1872,
+          "width": 3100
+        },
+        "sizes": {
+          "large": {
+            "h": 1237,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 725,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 411,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/xnYmuUl4l8"
+      }
+    ],
+    "photos": [
+      {
+        "backgroundColor": {
+          "red": 204,
+          "green": 214,
+          "blue": 221
+        },
+        "cropCandidates": [
+          {
+            "h": 1736,
+            "w": 3100,
+            "x": 0,
+            "y": 136
+          },
+          {
+            "h": 1872,
+            "w": 1872,
+            "x": 381,
+            "y": 0
+          },
+          {
+            "h": 1872,
+            "w": 1642,
+            "x": 496,
+            "y": 0
+          },
+          {
+            "h": 1872,
+            "w": 936,
+            "x": 849,
+            "y": 0
+          },
+          {
+            "h": 1872,
+            "w": 3100,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "expandedUrl": "https://x.com/TradercBTC/status/2019215775056425318/photo/1",
+        "url": "https://pbs.twimg.com/media/HAWxm4kacAAIgDO.jpg",
+        "width": 3100,
+        "height": 1872
+      }
+    ],
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HAW0PfobUAA2CHR.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2019219173956808958/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2019219173956808958/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HAW0PfobUAA2CHR.jpg:large",
+        "localPath": "2019219173956808958/imgs/img-002-HAW0PfobUAA2CHR-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2019219173956808958/imgs/img-002-HAW0PfobUAA2CHR-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2019219173956808958/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2019219173956808958",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2019219173956808958",
+    "title": "trader-c on X: \"$HYPE 日线和周线还是非常强势的，连续阳k\n\n小时级别基本上都是多头均线排布\n\n第一次上涨偏离度太高，但是中间走了一个下跌三推，虽然转为箱体震荡了，但是在箱体测试了买方力量\n\n这说明第二波上涨是真金白银，有买方力量的上涨\n\n可以看到价格沿着趋势线走上升结构\n\n目前结构线没破，上升结构没破，依旧处于多头结构\n\n做多的赔率大于做空\n\n除非价格又跌破上一次箱体的顶部，回落到绿色的位置，这样买方力量就弱势了，可以开始双向交易\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-05T01:19:01.000Z",
+    "summary": "$HYPE 日线和周线还是非常强势的，连续阳k\n\n小时级别基本上都是多头均线排布\n\n第一次上涨偏离度太高，但是中间走了一个下跌三推，虽然转为箱体震荡了，但是在箱体测试了买方力量\n\n这说明第二波上涨是真金白银，有买方力量的上涨\n\n可以看到价格沿着趋势线走上升结构\n\n目前结构线没破，上升结构没破，依旧处于多头结构\n\n做多的赔率大于做空\n\n除非价格又跌破上一次箱体的顶部，回落到绿色的位置，这样买方力量就弱势了，可以开始双向交易",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HAW0PfobUAA2CHR.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:56:23.390Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t[$HYPE](https://x.com/search?q=$HYPE) 日线和周线还是非常强势的，连续阳k 小时级别基本上都是多头均线排布 第一次上涨偏离度太高，但是中间走了一个下跌三推，虽然转为箱体震荡了，但是在箱体测试了买方力量 这说明第二波上涨是真金白银，有买方力量的上涨 可以看到价格沿着趋势线走上升结构 目前结构线没破，上升结构没破，依旧处于多头结构 做多的赔率大于做空 除非价格又跌破上一次箱体的顶部，回落到绿色的位置，这样买方力量就弱势了，可以开始双向交易\n\t[9:19 · 2026年2月5日](https://x.com/TradercBTC/status/2019219173956808958) [3600Views](https://x.com/TradercBTC/status/2019219173956808958)\n\t[1](https://x.com/i/status/2019219173956808958)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2019219173956808958"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"$HYPE 日线和周线还是非常强势的，连续阳k\n  \n  小时级别基本上都是多头均线排布\n  \n  第一次上涨偏离度太高，但是中间走了一个下跌三推，虽然转为箱体震荡了，但是在箱体测试了买方力量\n  \n  这说明第二波上涨是真金白银，有买方力量的上涨\n  \n  可以看到价格沿着趋势线走上升结构\n  \n  目前结构线没破，上升结构没破，依旧处于多头结构\n  \n  做多的赔率大于做空\n  \n  除非价格又跌破上一次箱体的顶部，回落到绿色的位置，这样买方力量就弱势了，可以开始双向交易\" / X\nurl: \"https://x.com/TradercBTC/status/2019219173956808958\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2019219173956808958\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2019219173956808958/imgs/img-002-HAW0PfobUAA2CHR-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-05T01:19:01.000Z\"\nsummary: |-\n  $HYPE 日线和周线还是非常强势的，连续阳k\n  \n  小时级别基本上都是多头均线排布\n  \n  第一次上涨偏离度太高，但是中间走了一个下跌三推，虽然转为箱体震荡了，但是在箱体测试了买方力量\n  \n  这说明第二波上涨是真金白银，有买方力量的上涨\n  \n  可以看到价格沿着趋势线走上升结构\n  \n  目前结构线没破，上升结构没破，依旧处于多头结构\n  \n  做多的赔率大于做空\n  \n  除非价格又跌破上一次箱体的顶部，回落到绿色的位置，这样买方力量就弱势了，可以开始双向交易\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:56:23.390Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"$HYPE 日线和周线还是非常强势的，连续阳k\n\n小时级别基本上都是多头均线排布\n\n第一次上涨偏离度太高，但是中间走了一个下跌三推，虽然转为箱体震荡了，但是在箱体测试了买方力量\n\n这说明第二波上涨是真金白银，有买方力量的上涨\n\n可以看到价格沿着趋势线走上升结构\n\n目前结构线没破，上升结构没破，依旧处于多头结构\n\n做多的赔率大于做空\n\n除非价格又跌破上一次箱体的顶部，回落到绿色的位置，这样买方力量就弱势了，可以开始双向交易\" / X\n\n- [![@TradercBTC](2019219173956808958/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t[$HYPE](https://x.com/search?q=$HYPE) 日线和周线还是非常强势的，连续阳k 小时级别基本上都是多头均线排布 第一次上涨偏离度太高，但是中间走了一个下跌三推，虽然转为箱体震荡了，但是在箱体测试了买方力量 这说明第二波上涨是真金白银，有买方力量的上涨 可以看到价格沿着趋势线走上升结构 目前结构线没破，上升结构没破，依旧处于多头结构 做多的赔率大于做空 除非价格又跌破上一次箱体的顶部，回落到绿色的位置，这样买方力量就弱势了，可以开始双向交易\n\t[9:19 · 2026年2月5日](https://x.com/TradercBTC/status/2019219173956808958) [3600Views](https://x.com/TradercBTC/status/2019219173956808958)\n\t[1](https://x.com/i/status/2019219173956808958)"
+}

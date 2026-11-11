@@ -1,0 +1,55 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2089647332199702634/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2089647332199702634/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2089647332199702634/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2089647332199702634",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2089647332199702634",
+    "title": "trader-c on X: \"实际上市场80%的波动是在20%的时间里发生\n\n你需要做的就是在你的交易周期里，寻找这20%可能会发生的关键位置\n\n然后做出计划，等待执行\n\n在其他80%的时间里，你的交易大多数都是作为流动性，捏可以用控制变量法去实验一下\n\n这是我以及社群里的成员近两个月做日内交易并取得了相对可靠的回报所得到经验\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-18T09:35:22.000Z",
+    "summary": "实际上市场80%的波动是在20%的时间里发生\n\n你需要做的就是在你的交易周期里，寻找这20%可能会发生的关键位置\n\n然后做出计划，等待执行\n\n在其他80%的时间里，你的交易大多数都是作为流动性，捏可以用控制变量法去实验一下\n\n这是我以及社群里的成员近两个月做日内交易并取得了相对可靠的回报所得到经验",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:05:45.191Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t实际上市场80%的波动是在20%的时间里发生 你需要做的就是在你的交易周期里，寻找这20%可能会发生的关键位置 然后做出计划，等待执行 在其他80%的时间里，你的交易大多数都是作为流动性，捏可以用控制变量法去实验一下 这是我以及社群里的成员近两个月做日内交易并取得了相对可靠的回报所得到经验\n\t[17:35 · 2026年8月18日](https://x.com/TradercBTC/status/2089647332199702634) [3910Views](https://x.com/TradercBTC/status/2089647332199702634)\n\t[1](https://x.com/i/status/2089647332199702634)\n\tOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2089647332199702634"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"实际上市场80%的波动是在20%的时间里发生\n  \n  你需要做的就是在你的交易周期里，寻找这20%可能会发生的关键位置\n  \n  然后做出计划，等待执行\n  \n  在其他80%的时间里，你的交易大多数都是作为流动性，捏可以用控制变量法去实验一下\n  \n  这是我以及社群里的成员近两个月做日内交易并取得了相对可靠的回报所得到经验\" / X\nurl: \"https://x.com/TradercBTC/status/2089647332199702634\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2089647332199702634\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2089647332199702634/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-18T09:35:22.000Z\"\nsummary: |-\n  实际上市场80%的波动是在20%的时间里发生\n  \n  你需要做的就是在你的交易周期里，寻找这20%可能会发生的关键位置\n  \n  然后做出计划，等待执行\n  \n  在其他80%的时间里，你的交易大多数都是作为流动性，捏可以用控制变量法去实验一下\n  \n  这是我以及社群里的成员近两个月做日内交易并取得了相对可靠的回报所得到经验\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:05:45.191Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"实际上市场80%的波动是在20%的时间里发生\n\n你需要做的就是在你的交易周期里，寻找这20%可能会发生的关键位置\n\n然后做出计划，等待执行\n\n在其他80%的时间里，你的交易大多数都是作为流动性，捏可以用控制变量法去实验一下\n\n这是我以及社群里的成员近两个月做日内交易并取得了相对可靠的回报所得到经验\" / X\n\n- [![@TradercBTC](2089647332199702634/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t实际上市场80%的波动是在20%的时间里发生 你需要做的就是在你的交易周期里，寻找这20%可能会发生的关键位置 然后做出计划，等待执行 在其他80%的时间里，你的交易大多数都是作为流动性，捏可以用控制变量法去实验一下 这是我以及社群里的成员近两个月做日内交易并取得了相对可靠的回报所得到经验\n\t[17:35 · 2026年8月18日](https://x.com/TradercBTC/status/2089647332199702634) [3910Views](https://x.com/TradercBTC/status/2089647332199702634)\n\t[1](https://x.com/i/status/2089647332199702634)\n\tOnly some accounts can reply."
+}

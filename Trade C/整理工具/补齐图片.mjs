@@ -1,0 +1,10 @@
+import fs from 'node:fs';import path from 'node:path';import {execFile} from 'node:child_process';import {promisify} from 'node:util';const exec=promisify(execFile);
+const ids=[...new Set([...JSON.parse(fs.readFileSync('交易技术分析/Trade C/原始抓取/复盘检索清单.json','utf8')),...fs.readFileSync('交易技术分析/Trade C/原始抓取/补充检索清单.txt','utf8').trim().split(/\s+/)])];
+const root='交易技术分析/Trade C/原始抓取/图片补充';fs.mkdirSync(root,{recursive:true});let c=0,done=0;const results={};
+async function worker(){while(c<ids.length){const id=ids[c++];try{const token=((Number(id)/1e15)*Math.PI).toString(36).replace(/(0+|\.)/g,'');const file=root+'/'+id+'.json';let d;if(fs.existsSync(file))d=JSON.parse(fs.readFileSync(file,'utf8'));else{const r=await exec('curl',['-L','--max-time','20','-sS','https://cdn.syndication.twimg.com/tweet-result?id='+id+'&lang=en&token='+token],{maxBuffer:5e6});d=JSON.parse(r.stdout);fs.writeFileSync(file,JSON.stringify(d,null,2));}if(d.id_str!==id||d.user?.screen_name?.toLowerCase()!=='tradercbtc'){results[id]={status:'unavailable'};continue;}
+const photos=(d.mediaDetails||[]).filter(x=>x.type==='photo').map(x=>x.media_url_https);if(!photos.length)for(const x of d.photos||[])photos.push(x.url);const media=[];
+for(let n=0;n<photos.length;n++){const url=photos[n];if(!url?.startsWith('https://pbs.twimg.com/media/'))continue;const ext=path.extname(new URL(url).pathname)||'.jpg';const dest=root+'/'+id+'/photo-'+String(n+1).padStart(2,'0')+ext;fs.mkdirSync(path.dirname(dest),{recursive:true});if(!fs.existsSync(dest))await exec('curl',['-L','--fail','--max-time','25','-sS','-o',dest,url]);media.push({number:n+1,url,path:dest});}
+results[id]={status:'ok',media,created_at:d.created_at,note_tweet:!!d.note_tweet};done++;if(done%20===0)console.log('image posts',done);
+}catch(e){results[id]={status:'error',error:e.message.slice(0,120)};}}
+}
+await Promise.all([worker(),worker(),worker()]);fs.writeFileSync('交易技术分析/Trade C/整理工具/图片补充.json',JSON.stringify(results,null,2));console.log('complete',Object.keys(results).length,'posts',Object.values(results).reduce((a,x)=>a+(x.media?.length||0),0),'photos');

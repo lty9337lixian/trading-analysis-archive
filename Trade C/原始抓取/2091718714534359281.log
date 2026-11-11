@@ -1,0 +1,94 @@
+[warn] No running Chrome debugger found for profile /Users/lu/Library/Application Support/baoyu-skills/chrome-profile. Launching Chrome with that profile.
+[info] Loading https://x.com/TradercBTC/status/2091718714534359281 with x adapter
+[info] Adapter x returned no structured document; falling back to generic extraction
+[info] Loading https://x.com/TradercBTC/status/2091718714534359281 with generic adapter
+[info] Downloaded 4 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2091718714534359281.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "login": {
+    "provider": "x",
+    "state": "unknown"
+  },
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HQdG5JRb0AAeBEf.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HQdG5JRb0AAeBEf?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HQdEzJdaMAAApdg?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/HQdG5JRb0AAeBEf.jpg:large",
+        "localPath": "2091718714534359281/imgs/img-001-HQdG5JRb0AAeBEf-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2091718714534359281/imgs/img-001-HQdG5JRb0AAeBEf-jpg-large.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2091718714534359281/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2091718714534359281/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HQdG5JRb0AAeBEf?format=webp&name=medium",
+        "localPath": "2091718714534359281/imgs/img-003-HQdG5JRb0AAeBEf.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2091718714534359281/imgs/img-003-HQdG5JRb0AAeBEf.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HQdEzJdaMAAApdg?format=webp&name=medium",
+        "localPath": "2091718714534359281/imgs/img-004-HQdEzJdaMAAApdg.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2091718714534359281/imgs/img-004-HQdEzJdaMAAApdg.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 4,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2091718714534359281/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2091718714534359281",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2091718714534359281",
+    "title": "trader-c on X: \"复盘WLD： 1:第一单是合理的，没有突破，是我们押注的可能性没有达到。 2:最错误的是开了第二单，被单k干扰，很傻逼了，单k后续没有跟随，也就是测试了支撑位，发生反弹的事件，但是后续的市场没有接受反弹的价格。犯了和黄金一样的错误。 3:第三个错误是在这个区间里面，应该只开一单，止损，也就是止错之后就应该等待确定市场清晰之后再入场，这是犯频繁交易和抱有主观交易（认为自己没错，带有主观它会涨）的错误了。。。。\"",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-24T02:46:18.000Z",
+    "summary": "复盘WLD：\n1:第一单是合理的，没有突破，是我们押注的可能性没有达到。\n\n2:最错误的是开了第二单，被单k干扰，很傻逼了，单k后续没有跟随，也就是测试了支撑位，发生反弹的事件，但是后续的市场没有接受反弹的价格。犯了和黄金一样的错误。\n\n3:第三个错误是在这个区间里面，应该只开一单，止损，也就是止错之后就应该等待确定市场清晰之后再入场，这是犯频繁交易和抱有主观交易（认为自己没错，带有主观它会涨）的错误了。。。。",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HQdG5JRb0AAeBEf.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:41:18.214Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n复盘WLD： 1:第一单是合理的，没有突破，是我们押注的可能性没有达到。 2:最错误的是开了第二单，被单k干扰，很傻逼了，单k后续没有跟随，也就是测试了支撑位，发生反弹的事件，但是后续的市场没有接受反弹的价格。犯了和黄金一样的错误。 3:第三个错误是在这个区间里面，应该只开一单，止损，也就是止错之后就应该等待确定市场清晰之后再入场，这是犯频繁交易和抱有主观交易（认为自己没错，带有主观它会涨）的错误了。。。。\n\n[![](https://pbs.twimg.com/media/HQdG5JRb0AAeBEf?format=webp&name=medium)](https://x.com/TradercBTC/status/2091718714534359281/photo/1)\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[8月24日](https://x.com/TradercBTC/status/2091716251999690863)\n\n复盘黄金：犯了两个错误： 1:如果押注上方阻力位反弹，则止损不应该这么大，跌破止损就应该离场，合理的止损是7到10个点，放15个点实际上已经到了区级底部，这就是在震荡区间上方做多的傻逼行为了。 2:实际上在HTF背景没有变化的时候，更应该去等待测试和信号。\n\n[![](https://pbs.twimg.com/media/HQdEzJdaMAAApdg?format=webp&name=medium)](https://x.com/TradercBTC/status/2091716251999690863/photo/1)\n\n[10:46 · 2026年8月24日](https://x.com/TradercBTC/status/2091718714534359281)[2016Views](https://x.com/TradercBTC/status/2091718714534359281)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2091718714534359281"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"复盘WLD： 1:第一单是合理的，没有突破，是我们押注的可能性没有达到。 2:最错误的是开了第二单，被单k干扰，很傻逼了，单k后续没有跟随，也就是测试了支撑位，发生反弹的事件，但是后续的市场没有接受反弹的价格。犯了和黄金一样的错误。 3:第三个错误是在这个区间里面，应该只开一单，止损，也就是止错之后就应该等待确定市场清晰之后再入场，这是犯频繁交易和抱有主观交易（认为自己没错，带有主观它会涨）的错误了。。。。\\\"\"\nurl: \"https://x.com/TradercBTC/status/2091718714534359281\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2091718714534359281\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2091718714534359281/imgs/img-001-HQdG5JRb0AAeBEf-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-24T02:46:18.000Z\"\nsummary: |-\n  复盘WLD：\n  1:第一单是合理的，没有突破，是我们押注的可能性没有达到。\n  \n  2:最错误的是开了第二单，被单k干扰，很傻逼了，单k后续没有跟随，也就是测试了支撑位，发生反弹的事件，但是后续的市场没有接受反弹的价格。犯了和黄金一样的错误。\n  \n  3:第三个错误是在这个区间里面，应该只开一单，止损，也就是止错之后就应该等待确定市场清晰之后再入场，这是犯频繁交易和抱有主观交易（认为自己没错，带有主观它会涨）的错误了。。。。\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:41:18.214Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"复盘WLD： 1:第一单是合理的，没有突破，是我们押注的可能性没有达到。 2:最错误的是开了第二单，被单k干扰，很傻逼了，单k后续没有跟随，也就是测试了支撑位，发生反弹的事件，但是后续的市场没有接受反弹的价格。犯了和黄金一样的错误。 3:第三个错误是在这个区间里面，应该只开一单，止损，也就是止错之后就应该等待确定市场清晰之后再入场，这是犯频繁交易和抱有主观交易（认为自己没错，带有主观它会涨）的错误了。。。。\"\n\n[![@TradercBTC](2091718714534359281/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n复盘WLD： 1:第一单是合理的，没有突破，是我们押注的可能性没有达到。 2:最错误的是开了第二单，被单k干扰，很傻逼了，单k后续没有跟随，也就是测试了支撑位，发生反弹的事件，但是后续的市场没有接受反弹的价格。犯了和黄金一样的错误。 3:第三个错误是在这个区间里面，应该只开一单，止损，也就是止错之后就应该等待确定市场清晰之后再入场，这是犯频繁交易和抱有主观交易（认为自己没错，带有主观它会涨）的错误了。。。。\n\n[![](2091718714534359281/imgs/img-003-HQdG5JRb0AAeBEf.webp)](https://x.com/TradercBTC/status/2091718714534359281/photo/1)\n\n[![@TradercBTC](2091718714534359281/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[8月24日](https://x.com/TradercBTC/status/2091716251999690863)\n\n复盘黄金：犯了两个错误： 1:如果押注上方阻力位反弹，则止损不应该这么大，跌破止损就应该离场，合理的止损是7到10个点，放15个点实际上已经到了区级底部，这就是在震荡区间上方做多的傻逼行为了。 2:实际上在HTF背景没有变化的时候，更应该去等待测试和信号。\n\n[![](2091718714534359281/imgs/img-004-HQdEzJdaMAAApdg.webp)](https://x.com/TradercBTC/status/2091716251999690863/photo/1)\n\n[10:46 · 2026年8月24日](https://x.com/TradercBTC/status/2091718714534359281)[2016Views](https://x.com/TradercBTC/status/2091718714534359281)\n\nOnly some accounts can reply."
+}

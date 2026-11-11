@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2075261019392467086 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2075261019392467086.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HMzOplyasAAMkWT.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2075261019392467086/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2075261019392467086/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HMzOplyasAAMkWT.jpg:large",
+        "localPath": "2075261019392467086/imgs/img-002-HMzOplyasAAMkWT-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2075261019392467086/imgs/img-002-HMzOplyasAAMkWT-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2075261019392467086/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2075261019392467086",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2075261019392467086",
+    "title": "trader-c on X: \"计划做多BTC🤔\n\n止损用6H的atr，也就是6w\n\n止盈用区间顶部，2倍盈亏\n\n计划成本区间为62到615\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-07-09T16:49:18.000Z",
+    "summary": "计划做多BTC🤔\n\n止损用6H的atr，也就是6w\n\n止盈用区间顶部，2倍盈亏\n\n计划成本区间为62到615",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HMzOplyasAAMkWT.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:02:38.256Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n计划做多BTC🤔 止损用6H的atr，也就是6w 止盈用区间顶部，2倍盈亏 计划成本区间为62到615\n\n[0:49 · 2026年7月10日](https://x.com/TradercBTC/status/2075261019392467086) [9648Views](https://x.com/TradercBTC/status/2075261019392467086)\n\n[2](https://x.com/i/status/2075261019392467086)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2075261019392467086"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"计划做多BTC🤔\n  \n  止损用6H的atr，也就是6w\n  \n  止盈用区间顶部，2倍盈亏\n  \n  计划成本区间为62到615\" / X\nurl: \"https://x.com/TradercBTC/status/2075261019392467086\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2075261019392467086\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2075261019392467086/imgs/img-002-HMzOplyasAAMkWT-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-07-09T16:49:18.000Z\"\nsummary: |-\n  计划做多BTC🤔\n  \n  止损用6H的atr，也就是6w\n  \n  止盈用区间顶部，2倍盈亏\n  \n  计划成本区间为62到615\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:02:38.256Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"计划做多BTC🤔\n\n止损用6H的atr，也就是6w\n\n止盈用区间顶部，2倍盈亏\n\n计划成本区间为62到615\" / X\n\n[![@TradercBTC](2075261019392467086/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n计划做多BTC🤔 止损用6H的atr，也就是6w 止盈用区间顶部，2倍盈亏 计划成本区间为62到615\n\n[0:49 · 2026年7月10日](https://x.com/TradercBTC/status/2075261019392467086) [9648Views](https://x.com/TradercBTC/status/2075261019392467086)\n\n[2](https://x.com/i/status/2075261019392467086)\n\nOnly some accounts can reply."
+}

@@ -1,0 +1,37 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 24,
+  "lang": "zh",
+  "created_at": "2026-02-14T07:38:42.000Z",
+  "display_text_range": [
+    0,
+    131
+  ],
+  "entities": {},
+  "id_str": "2022576216486875333",
+  "text": "我认为任何一个交易者都要掌握通过价格或者数据的走势，得到“基本”资金流向和宏观偏好的能力\n\n比如通过对比科技股和消费股来分析市场资金偏好风险还是防御\n\n通过对比不同市场的走势，来分析哪个市场更受资金追捧\n\n我们知道任何事情以及图表的价格是背后无数种因素叠加的结果",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2022576216486875333"
+    ],
+    "editable_until_msecs": "1771058322000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 1,
+  "news_action_type": "conversation",
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDIyNTc2MjE2NDE1NjUzODg4"
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 1,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-05-11T08:11:10.000Z",
+  "display_text_range": [
+    0,
+    48
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/5An95J7IGc",
+        "expanded_url": "https://x.com/TradercBTC/status/2053749745483694516/photo/1",
+        "indices": [
+          49,
+          72
+        ],
+        "url": "https://t.co/5An95J7IGc"
+      }
+    ]
+  },
+  "id_str": "2053749745483694516",
+  "text": "woc\n\n果然是tmd垃圾，第一波我还赚了，第二波做的突破，把第一波的当止损走了，还亏一点手续费 https://t.co/5An95J7IGc",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2053749745483694516"
+    ],
+    "editable_until_msecs": "1778490670000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/5An95J7IGc",
+      "expanded_url": "https://x.com/TradercBTC/status/2053749745483694516/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        49,
+        72
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HIBiXmPbMAA5Kl8.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1538,
+            "w": 2746,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1570,
+            "w": 1570,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1570,
+            "w": 1377,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1570,
+            "w": 785,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1570,
+            "w": 2746,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1570,
+        "width": 2746
+      },
+      "sizes": {
+        "large": {
+          "h": 1171,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 686,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 389,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/5An95J7IGc"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1538,
+          "w": 2746,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1570,
+          "w": 1570,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1570,
+          "w": 1377,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1570,
+          "w": 785,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1570,
+          "w": 2746,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2053749745483694516/photo/1",
+      "url": "https://pbs.twimg.com/media/HIBiXmPbMAA5Kl8.jpg",
+      "width": 2746,
+      "height": 1570
+    }
+  ],
+  "conversation_count": 1,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "favorite_count": 1,
+    "lang": "zh",
+    "reply_count": 17,
+    "retweet_count": 0,
+    "created_at": "2026-05-11T07:19:16.000Z",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "entities": {},
+    "id_str": "2053736681925492958",
+    "text": "哎呀好烦\n\n垃圾日经，上不去，赚4500回撤到1000.。。。。。",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2053736681925492958"
+      ],
+      "editable_until_msecs": "1778487556000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

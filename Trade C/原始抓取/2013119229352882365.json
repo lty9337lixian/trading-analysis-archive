@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/G_AI-HQWIAAriRD.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2013119229352882365/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2013119229352882365/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/G_AI-HQWIAAriRD.jpg:large",
+        "localPath": "2013119229352882365/imgs/img-002-G_AI-HQWIAAriRD-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2013119229352882365/imgs/img-002-G_AI-HQWIAAriRD-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2013119229352882365/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2013119229352882365",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2013119229352882365",
+    "title": "trader-c on X: \"stop order 对新手玩家还是舒服\n\n不过在币圈stop order难度更大一点，一觉起来让aave的stop order入场了直接止损\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-01-19T05:20:00.000Z",
+    "summary": "stop order 对新手玩家还是舒服\n\n不过在币圈stop order难度更大一点，一觉起来让aave的stop order入场了直接止损",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/G_AI-HQWIAAriRD.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:54:38.638Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\nstop order 对新手玩家还是舒服 不过在币圈stop order难度更大一点，一觉起来让aave的stop order入场了直接止损\n\n[13:20 · 2026年1月19日](https://x.com/TradercBTC/status/2013119229352882365) [1024Views](https://x.com/TradercBTC/status/2013119229352882365)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2013119229352882365"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"stop order 对新手玩家还是舒服\n  \n  不过在币圈stop order难度更大一点，一觉起来让aave的stop order入场了直接止损\" / X\nurl: \"https://x.com/TradercBTC/status/2013119229352882365\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2013119229352882365\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2013119229352882365/imgs/img-002-G_AI-HQWIAAriRD-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-01-19T05:20:00.000Z\"\nsummary: |-\n  stop order 对新手玩家还是舒服\n  \n  不过在币圈stop order难度更大一点，一觉起来让aave的stop order入场了直接止损\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:54:38.638Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"stop order 对新手玩家还是舒服\n\n不过在币圈stop order难度更大一点，一觉起来让aave的stop order入场了直接止损\" / X\n\n[![@TradercBTC](2013119229352882365/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\nstop order 对新手玩家还是舒服 不过在币圈stop order难度更大一点，一觉起来让aave的stop order入场了直接止损\n\n[13:20 · 2026年1月19日](https://x.com/TradercBTC/status/2013119229352882365) [1024Views](https://x.com/TradercBTC/status/2013119229352882365)"
+}

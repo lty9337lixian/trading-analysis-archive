@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2007834289959043488 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2007834289959043488.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/G91CNkFacAAy4mr.png:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2007834289959043488/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2007834289959043488/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/G91CNkFacAAy4mr.png:large",
+        "localPath": "2007834289959043488/imgs/img-002-G91CNkFacAAy4mr-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2007834289959043488/imgs/img-002-G91CNkFacAAy4mr-png-large.png",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2007834289959043488/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2007834289959043488",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2007834289959043488",
+    "title": "trader-c on X: \"原理上来说，当时在这个推文这做多 $ETH ，能收获8%的利润（实际上不止，大概率后面会继续上涨）\n\n但是有个很明显的问题，现在做多很磨人\n\n这就是为什么上一条推文我说更倾向于上面去做空\n\n做空及时反馈快。。。。\n\n做多的心理压力爆大\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-01-04T15:19:33.000Z",
+    "summary": "原理上来说，当时在这个推文这做多 $ETH ，能收获8%的利润（实际上不止，大概率后面会继续上涨）\n\n但是有个很明显的问题，现在做多很磨人\n\n这就是为什么上一条推文我说更倾向于上面去做空\n\n做空及时反馈快。。。。\n\n做多的心理压力爆大",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/G91CNkFacAAy4mr.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:54:27.117Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t原理上来说，当时在这个推文这做多 [$ETH](https://x.com/search?q=$ETH) ，能收获8%的利润（实际上不止，大概率后面会继续上涨） 但是有个很明显的问题，现在做多很磨人 这就是为什么上一条推文我说更倾向于上面去做空 做空及时反馈快。。。。 做多的心理压力爆大\n\t[23:19 · 2026年1月4日](https://x.com/TradercBTC/status/2007834289959043488) [1216Views](https://x.com/TradercBTC/status/2007834289959043488)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2007834289959043488"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"原理上来说，当时在这个推文这做多 $ETH ，能收获8%的利润（实际上不止，大概率后面会继续上涨）\n  \n  但是有个很明显的问题，现在做多很磨人\n  \n  这就是为什么上一条推文我说更倾向于上面去做空\n  \n  做空及时反馈快。。。。\n  \n  做多的心理压力爆大\" / X\nurl: \"https://x.com/TradercBTC/status/2007834289959043488\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2007834289959043488\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2007834289959043488/imgs/img-002-G91CNkFacAAy4mr-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-01-04T15:19:33.000Z\"\nsummary: |-\n  原理上来说，当时在这个推文这做多 $ETH ，能收获8%的利润（实际上不止，大概率后面会继续上涨）\n  \n  但是有个很明显的问题，现在做多很磨人\n  \n  这就是为什么上一条推文我说更倾向于上面去做空\n  \n  做空及时反馈快。。。。\n  \n  做多的心理压力爆大\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:54:27.117Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"原理上来说，当时在这个推文这做多 $ETH ，能收获8%的利润（实际上不止，大概率后面会继续上涨）\n\n但是有个很明显的问题，现在做多很磨人\n\n这就是为什么上一条推文我说更倾向于上面去做空\n\n做空及时反馈快。。。。\n\n做多的心理压力爆大\" / X\n\n- [![@TradercBTC](2007834289959043488/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t原理上来说，当时在这个推文这做多 [$ETH](https://x.com/search?q=$ETH) ，能收获8%的利润（实际上不止，大概率后面会继续上涨） 但是有个很明显的问题，现在做多很磨人 这就是为什么上一条推文我说更倾向于上面去做空 做空及时反馈快。。。。 做多的心理压力爆大\n\t[23:19 · 2026年1月4日](https://x.com/TradercBTC/status/2007834289959043488) [1216Views](https://x.com/TradercBTC/status/2007834289959043488)"
+}

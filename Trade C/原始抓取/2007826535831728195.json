@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/G904orbbsAES2UA.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2007826535831728195/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2007826535831728195/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/G904orbbsAES2UA.jpg:large",
+        "localPath": "2007826535831728195/imgs/img-002-G904orbbsAES2UA-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2007826535831728195/imgs/img-002-G904orbbsAES2UA-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2007826535831728195/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2007826535831728195",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2007826535831728195",
+    "title": "trader-c on X: \"从大级别观察 $BTC\n\n上个月的月线收盘，收了一个简单的十字，低点没有超过11月\n\n这表示其实上个月空军的收获战果不是很理想\n\n没有延续11月强劲的下跌势头\n\n我们相信对于空军来说，他们肯定是想要像21年那样，让 $BTC 快速下杀\n\n但是一个月过去了，很显然上个月非常一般，我们的主管来说就是空军做不到继续下杀\n\n有没有可能是空军在积攒流动性呢？获得燃料呢？\n\n做多如火箭发射，上涨被视为克服重力的过程，需要持续的能量输入（买盘资金）来对抗\"地心引力\"（获利回吐的卖盘压力）。\n\n这是一个渐进、缓慢且充满不确定性的过程。\n\n做空如自由落体：下跌是失去\"燃料\"后的… / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-01-04T14:48:44.000Z",
+    "summary": "从大级别观察 $BTC\n\n上个月的月线收盘，收了一个简单的十字，低点没有超过11月\n\n这表示其实上个月空军的收获战果不是很理想\n\n没有延续11月强劲的下跌势头\n\n我们相信对于空军来说，他们肯定是想要像21年那样，让 $BTC 快速下杀\n\n但是一个月过去了，很显然上个月非常一般，我们的主管来说就是空军做不到继续下杀\n\n有没有可能是空军在积攒流动性呢？获得燃料呢？\n\n做多如火箭发射，上涨被视为克服重力的过程，需要持续的能量输入（买盘资金）来对抗\"地心引力\"（获利回吐的卖盘压力）。\n\n这是一个渐进、缓慢且充满不确定性的过程。\n\n做空如自由落体：下跌是失去\"燃料\"后的自然过程，不需要额外能量输入，仅…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/G904orbbsAES2UA.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:54:18.787Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t从大级别观察 [$BTC](https://x.com/search?q=$BTC) 上个月的月线收盘，收了一个简单的十字，低点没有超过11月 这表示其实上个月空军的收获战果不是很理想 没有延续11月强劲的下跌势头 我们相信对于空军来说，他们肯定是想要像21年那样，让 [$BTC](https://x.com/search?q=$BTC) 快速下杀 但是一个月过去了，很显然上个月非常一般，我们的主管来说就是空军做不到继续下杀 有没有可能是空军在积攒流动性呢？获得燃料呢？ 做多如火箭发射，上涨被视为克服重力的过程，需要持续的能量输入（买盘资金）来对抗\"地心引力\"（获利回吐的卖盘压力）。 这是一个渐进、缓慢且充满不确定性的过程。 做空如自由落体：下跌是失去\"燃料\"后的自然过程，不需要额外能量输入，仅靠恐慌情绪就能自发加速。 这种自发性使得下跌往往比上涨更迅速、更猛烈，直到遇到价值支撑才会停止。 因此根据上述逻辑和 [$BTC](https://x.com/search?q=$BTC) 月线的价格表现 我更倾向于处于一个震荡区间。 一般这种情况很容易出现一个杠杆闪崩，比如24年8.5 基于此，在紫色区域反弹去做多，或者在P0C位置右侧做空或者做多，将是我对于大周期的一个判断基准 小级别还是以做空为主 不是因为做空确定性高，也不是因为我认为他会跌的可能性大 而是做空的即时反馈更强，更划算，在震荡区间做多心理压力会比做空大\n\t[22:48 · 2026年1月4日](https://x.com/TradercBTC/status/2007826535831728195) [1290Views](https://x.com/TradercBTC/status/2007826535831728195)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2007826535831728195"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"从大级别观察 $BTC\n  \n  上个月的月线收盘，收了一个简单的十字，低点没有超过11月\n  \n  这表示其实上个月空军的收获战果不是很理想\n  \n  没有延续11月强劲的下跌势头\n  \n  我们相信对于空军来说，他们肯定是想要像21年那样，让 $BTC 快速下杀\n  \n  但是一个月过去了，很显然上个月非常一般，我们的主管来说就是空军做不到继续下杀\n  \n  有没有可能是空军在积攒流动性呢？获得燃料呢？\n  \n  做多如火箭发射，上涨被视为克服重力的过程，需要持续的能量输入（买盘资金）来对抗\"地心引力\"（获利回吐的卖盘压力）。\n  \n  这是一个渐进、缓慢且充满不确定性的过程。\n  \n  做空如自由落体：下跌是失去\"燃料\"后的… / X\nurl: \"https://x.com/TradercBTC/status/2007826535831728195\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2007826535831728195\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2007826535831728195/imgs/img-002-G904orbbsAES2UA-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-01-04T14:48:44.000Z\"\nsummary: |-\n  从大级别观察 $BTC\n  \n  上个月的月线收盘，收了一个简单的十字，低点没有超过11月\n  \n  这表示其实上个月空军的收获战果不是很理想\n  \n  没有延续11月强劲的下跌势头\n  \n  我们相信对于空军来说，他们肯定是想要像21年那样，让 $BTC 快速下杀\n  \n  但是一个月过去了，很显然上个月非常一般，我们的主管来说就是空军做不到继续下杀\n  \n  有没有可能是空军在积攒流动性呢？获得燃料呢？\n  \n  做多如火箭发射，上涨被视为克服重力的过程，需要持续的能量输入（买盘资金）来对抗\"地心引力\"（获利回吐的卖盘压力）。\n  \n  这是一个渐进、缓慢且充满不确定性的过程。\n  \n  做空如自由落体：下跌是失去\"燃料\"后的自然过程，不需要额外能量输入，仅…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:54:18.787Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"从大级别观察 $BTC\n\n上个月的月线收盘，收了一个简单的十字，低点没有超过11月\n\n这表示其实上个月空军的收获战果不是很理想\n\n没有延续11月强劲的下跌势头\n\n我们相信对于空军来说，他们肯定是想要像21年那样，让 $BTC 快速下杀\n\n但是一个月过去了，很显然上个月非常一般，我们的主管来说就是空军做不到继续下杀\n\n有没有可能是空军在积攒流动性呢？获得燃料呢？\n\n做多如火箭发射，上涨被视为克服重力的过程，需要持续的能量输入（买盘资金）来对抗\"地心引力\"（获利回吐的卖盘压力）。\n\n这是一个渐进、缓慢且充满不确定性的过程。\n\n做空如自由落体：下跌是失去\"燃料\"后的… / X\n\n- [![@TradercBTC](2007826535831728195/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t从大级别观察 [$BTC](https://x.com/search?q=$BTC) 上个月的月线收盘，收了一个简单的十字，低点没有超过11月 这表示其实上个月空军的收获战果不是很理想 没有延续11月强劲的下跌势头 我们相信对于空军来说，他们肯定是想要像21年那样，让 [$BTC](https://x.com/search?q=$BTC) 快速下杀 但是一个月过去了，很显然上个月非常一般，我们的主管来说就是空军做不到继续下杀 有没有可能是空军在积攒流动性呢？获得燃料呢？ 做多如火箭发射，上涨被视为克服重力的过程，需要持续的能量输入（买盘资金）来对抗\"地心引力\"（获利回吐的卖盘压力）。 这是一个渐进、缓慢且充满不确定性的过程。 做空如自由落体：下跌是失去\"燃料\"后的自然过程，不需要额外能量输入，仅靠恐慌情绪就能自发加速。 这种自发性使得下跌往往比上涨更迅速、更猛烈，直到遇到价值支撑才会停止。 因此根据上述逻辑和 [$BTC](https://x.com/search?q=$BTC) 月线的价格表现 我更倾向于处于一个震荡区间。 一般这种情况很容易出现一个杠杆闪崩，比如24年8.5 基于此，在紫色区域反弹去做多，或者在P0C位置右侧做空或者做多，将是我对于大周期的一个判断基准 小级别还是以做空为主 不是因为做空确定性高，也不是因为我认为他会跌的可能性大 而是做空的即时反馈更强，更划算，在震荡区间做多心理压力会比做空大\n\t[22:48 · 2026年1月4日](https://x.com/TradercBTC/status/2007826535831728195) [1290Views](https://x.com/TradercBTC/status/2007826535831728195)"
+}

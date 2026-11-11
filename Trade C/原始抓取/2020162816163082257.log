@@ -1,0 +1,53 @@
+[info] Loading https://x.com/TradercBTC/status/2020162816163082257 with generic adapter
+[info] Downloaded 1 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2020162816163082257.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HAkLbgHbsAAkll8.png:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/HAkLbgHbsAAkll8.png:large",
+        "localPath": "2020162816163082257/imgs/img-001-HAkLbgHbsAAkll8-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2020162816163082257/imgs/img-001-HAkLbgHbsAAkll8-png-large.png",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2020162816163082257/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2020162816163082257",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2020162816163082257",
+    "title": "trader-c on X: \"$GOL 黄金\n\n做期货会比较难做，周线是长期上升趋势 + 均线持续向上 + 价格远在均线上方，因此主结构是标准的 Markup\n\n结合日线，日线抛物线上涨，进行了一次抢购高潮，但是前几天回调过一次，强势杀杠杆，跌回了日线ema50，导致现在没有特别的抢购高潮。\n\n周线结合日线，最近日k特征是：冲高回落、长上影、波动突然放大\n\n这是典型的过渡信号，高位开始出现初步供应，随后可能转为高位派发区间\n\n可以理解为：抛物线加速后的高位波动区，正在测试“上方是否被接受”\n\n下一步市场只有两条路：\nA) 接受更高价格（站稳并延续趋势）\n\nB) 不接受（形成派发区间，随后回… / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-07T15:48:42.000Z",
+    "summary": "$GOL 黄金\n\n做期货会比较难做，周线是长期上升趋势 + 均线持续向上 + 价格远在均线上方，因此主结构是标准的 Markup\n\n结合日线，日线抛物线上涨，进行了一次抢购高潮，但是前几天回调过一次，强势杀杠杆，跌回了日线ema50，导致现在没有特别的抢购高潮。\n\n周线结合日线，最近日k特征是：冲高回落、长上影、波动突然放大\n\n这是典型的过渡信号，高位开始出现初步供应，随后可能转为高位派发区间\n\n可以理解为：抛物线加速后的高位波动区，正在测试“上方是否被接受”\n\n下一步市场只有两条路：\nA) 接受更高价格（站稳并延续趋势）\n\nB) 不接受（形成派发区间，随后回归更低价值带）\n\n最后结合4H图…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HAkLbgHbsAAkll8.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:57:23.467Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "## Something went wrong\n\nTry reloading. If the problem persists, please try again later."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2020162816163082257"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"$GOL 黄金\n  \n  做期货会比较难做，周线是长期上升趋势 + 均线持续向上 + 价格远在均线上方，因此主结构是标准的 Markup\n  \n  结合日线，日线抛物线上涨，进行了一次抢购高潮，但是前几天回调过一次，强势杀杠杆，跌回了日线ema50，导致现在没有特别的抢购高潮。\n  \n  周线结合日线，最近日k特征是：冲高回落、长上影、波动突然放大\n  \n  这是典型的过渡信号，高位开始出现初步供应，随后可能转为高位派发区间\n  \n  可以理解为：抛物线加速后的高位波动区，正在测试“上方是否被接受”\n  \n  下一步市场只有两条路：\n  A) 接受更高价格（站稳并延续趋势）\n  \n  B) 不接受（形成派发区间，随后回… / X\nurl: \"https://x.com/TradercBTC/status/2020162816163082257\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2020162816163082257\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2020162816163082257/imgs/img-001-HAkLbgHbsAAkll8-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-07T15:48:42.000Z\"\nsummary: |-\n  $GOL 黄金\n  \n  做期货会比较难做，周线是长期上升趋势 + 均线持续向上 + 价格远在均线上方，因此主结构是标准的 Markup\n  \n  结合日线，日线抛物线上涨，进行了一次抢购高潮，但是前几天回调过一次，强势杀杠杆，跌回了日线ema50，导致现在没有特别的抢购高潮。\n  \n  周线结合日线，最近日k特征是：冲高回落、长上影、波动突然放大\n  \n  这是典型的过渡信号，高位开始出现初步供应，随后可能转为高位派发区间\n  \n  可以理解为：抛物线加速后的高位波动区，正在测试“上方是否被接受”\n  \n  下一步市场只有两条路：\n  A) 接受更高价格（站稳并延续趋势）\n  \n  B) 不接受（形成派发区间，随后回归更低价值带）\n  \n  最后结合4H图…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:57:23.467Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"$GOL 黄金\n\n做期货会比较难做，周线是长期上升趋势 + 均线持续向上 + 价格远在均线上方，因此主结构是标准的 Markup\n\n结合日线，日线抛物线上涨，进行了一次抢购高潮，但是前几天回调过一次，强势杀杠杆，跌回了日线ema50，导致现在没有特别的抢购高潮。\n\n周线结合日线，最近日k特征是：冲高回落、长上影、波动突然放大\n\n这是典型的过渡信号，高位开始出现初步供应，随后可能转为高位派发区间\n\n可以理解为：抛物线加速后的高位波动区，正在测试“上方是否被接受”\n\n下一步市场只有两条路：\nA) 接受更高价格（站稳并延续趋势）\n\nB) 不接受（形成派发区间，随后回… / X\n\n## Something went wrong\n\nTry reloading. If the problem persists, please try again later."
+}

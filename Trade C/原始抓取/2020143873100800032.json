@@ -1,0 +1,84 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HAj8IWSbsAAyx1V.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HAj9aDwaAAAHA-k?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HAXCTiQboAAQ81y?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/HAj8IWSbsAAyx1V.jpg:large",
+        "localPath": "2020143873100800032/imgs/img-001-HAj8IWSbsAAyx1V-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2020143873100800032/imgs/img-001-HAj8IWSbsAAyx1V-jpg-large.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2020143873100800032/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2020143873100800032/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HAj9aDwaAAAHA-k?format=webp&name=medium",
+        "localPath": "2020143873100800032/imgs/img-003-HAj9aDwaAAAHA-k.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2020143873100800032/imgs/img-003-HAj9aDwaAAAHA-k.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HAXCTiQboAAQ81y?format=webp&name=medium",
+        "localPath": "2020143873100800032/imgs/img-004-HAXCTiQboAAQ81y.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2020143873100800032/imgs/img-004-HAXCTiQboAAQ81y.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 4,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2020143873100800032/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2020143873100800032",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2020143873100800032",
+    "title": "trader-c on X: \"日经指数 从周线上看还是非常强势的上涨行情，周线连续的阳k，而且上周收盘也是收在了上半部分 这种环境只能是alawys in long 大趋势定好方向，作为下一周的主观交易偏见 但其实指数大多数都是以日内为主，大概的作用就是让我不要逆势做空（上周四做空赚了一笔，只能说很幸运，反思ing） 从4H级别来看，回测了一下ema50，最后一天强势拉回，买盘还是非常强势的 1️⃣下周的预期是小级别跟随做多 2️⃣如果突破盘整失败就等待回到箱体底部出现止跌信号和上涨信号去做多\"",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-07T14:33:26.000Z",
+    "summary": "日经指数\n\n从周线上看还是非常强势的上涨行情，周线连续的阳k，而且上周收盘也是收在了上半部分\n\n这种环境只能是alawys in long\n\n大趋势定好方向，作为下一周的主观交易偏见\n\n但其实指数大多数都是以日内为主，大概的作用就是让我不要逆势做空（上周四做空赚了一笔，只能说很幸运，反思ing）\n\n从4H级别来看，回测了一下ema50，最后一天强势拉回，买盘还是非常强势的\n\n1️⃣下周的预期是小级别跟随做多\n\n2️⃣如果突破盘整失败就等待回到箱体底部出现止跌信号和上涨信号去做多",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HAj8IWSbsAAyx1V.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:57:06.118Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n日经指数 从周线上看还是非常强势的上涨行情，周线连续的阳k，而且上周收盘也是收在了上半部分 这种环境只能是alawys in long 大趋势定好方向，作为下一周的主观交易偏见 但其实指数大多数都是以日内为主，大概的作用就是让我不要逆势做空（上周四做空赚了一笔，只能说很幸运，反思ing） 从4H级别来看，回测了一下ema50，最后一天强势拉回，买盘还是非常强势的 1️⃣下周的预期是小级别跟随做多 2️⃣如果突破盘整失败就等待回到箱体底部出现止跌信号和上涨信号去做多\n\n[![](https://pbs.twimg.com/media/HAj9aDwaAAAHA-k?format=webp&name=medium)](https://x.com/TradercBTC/status/2020143873100800032/photo/2)\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[2月5日](https://x.com/TradercBTC/status/2019235094595268818)\n\n日经指数 刚在小级别做了一笔空单，跌的很快 这种大涨大跌大概率是箱体震荡 30min做股指期货的波段会比较舒服 等到箱体底部或者ema200去做做多比较好 但是这个波动太小，仓位分配是一个难题，不能按照在加密货币里的常规仓位去做，得放大仓位 平时吃的都是5%到10%，现在吃的是0.5%\n\n[![](https://pbs.twimg.com/media/HAXCTiQboAAQ81y?format=webp&name=medium)](https://x.com/TradercBTC/status/2019235094595268818/photo/1)\n\n[22:33 · 2026年2月7日](https://x.com/TradercBTC/status/2020143873100800032)[2925Views](https://x.com/TradercBTC/status/2020143873100800032)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2020143873100800032"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"日经指数 从周线上看还是非常强势的上涨行情，周线连续的阳k，而且上周收盘也是收在了上半部分 这种环境只能是alawys in long 大趋势定好方向，作为下一周的主观交易偏见 但其实指数大多数都是以日内为主，大概的作用就是让我不要逆势做空（上周四做空赚了一笔，只能说很幸运，反思ing） 从4H级别来看，回测了一下ema50，最后一天强势拉回，买盘还是非常强势的 1️⃣下周的预期是小级别跟随做多 2️⃣如果突破盘整失败就等待回到箱体底部出现止跌信号和上涨信号去做多\\\"\"\nurl: \"https://x.com/TradercBTC/status/2020143873100800032\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2020143873100800032\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2020143873100800032/imgs/img-001-HAj8IWSbsAAyx1V-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-07T14:33:26.000Z\"\nsummary: |-\n  日经指数\n  \n  从周线上看还是非常强势的上涨行情，周线连续的阳k，而且上周收盘也是收在了上半部分\n  \n  这种环境只能是alawys in long\n  \n  大趋势定好方向，作为下一周的主观交易偏见\n  \n  但其实指数大多数都是以日内为主，大概的作用就是让我不要逆势做空（上周四做空赚了一笔，只能说很幸运，反思ing）\n  \n  从4H级别来看，回测了一下ema50，最后一天强势拉回，买盘还是非常强势的\n  \n  1️⃣下周的预期是小级别跟随做多\n  \n  2️⃣如果突破盘整失败就等待回到箱体底部出现止跌信号和上涨信号去做多\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:57:06.118Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"日经指数 从周线上看还是非常强势的上涨行情，周线连续的阳k，而且上周收盘也是收在了上半部分 这种环境只能是alawys in long 大趋势定好方向，作为下一周的主观交易偏见 但其实指数大多数都是以日内为主，大概的作用就是让我不要逆势做空（上周四做空赚了一笔，只能说很幸运，反思ing） 从4H级别来看，回测了一下ema50，最后一天强势拉回，买盘还是非常强势的 1️⃣下周的预期是小级别跟随做多 2️⃣如果突破盘整失败就等待回到箱体底部出现止跌信号和上涨信号去做多\"\n\n[![@TradercBTC](2020143873100800032/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n日经指数 从周线上看还是非常强势的上涨行情，周线连续的阳k，而且上周收盘也是收在了上半部分 这种环境只能是alawys in long 大趋势定好方向，作为下一周的主观交易偏见 但其实指数大多数都是以日内为主，大概的作用就是让我不要逆势做空（上周四做空赚了一笔，只能说很幸运，反思ing） 从4H级别来看，回测了一下ema50，最后一天强势拉回，买盘还是非常强势的 1️⃣下周的预期是小级别跟随做多 2️⃣如果突破盘整失败就等待回到箱体底部出现止跌信号和上涨信号去做多\n\n[![](2020143873100800032/imgs/img-003-HAj9aDwaAAAHA-k.webp)](https://x.com/TradercBTC/status/2020143873100800032/photo/2)\n\n[![@TradercBTC](2020143873100800032/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[2月5日](https://x.com/TradercBTC/status/2019235094595268818)\n\n日经指数 刚在小级别做了一笔空单，跌的很快 这种大涨大跌大概率是箱体震荡 30min做股指期货的波段会比较舒服 等到箱体底部或者ema200去做做多比较好 但是这个波动太小，仓位分配是一个难题，不能按照在加密货币里的常规仓位去做，得放大仓位 平时吃的都是5%到10%，现在吃的是0.5%\n\n[![](2020143873100800032/imgs/img-004-HAXCTiQboAAQ81y.webp)](https://x.com/TradercBTC/status/2019235094595268818/photo/1)\n\n[22:33 · 2026年2月7日](https://x.com/TradercBTC/status/2020143873100800032)[2925Views](https://x.com/TradercBTC/status/2020143873100800032)"
+}

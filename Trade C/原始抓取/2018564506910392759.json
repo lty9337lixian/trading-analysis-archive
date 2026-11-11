@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HANhllxaoAAb7BS.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2018564506910392759/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2018564506910392759/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HANhllxaoAAb7BS.jpg:large",
+        "localPath": "2018564506910392759/imgs/img-002-HANhllxaoAAb7BS-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2018564506910392759/imgs/img-002-HANhllxaoAAb7BS-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2018564506910392759/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2018564506910392759",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2018564506910392759",
+    "title": "trader-c on X: \"短期走震荡的可能性很大\n\n大概率这周的机会就是在小级别去做高抛低吸，等待突破\n\n$BTC\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-03T05:57:36.000Z",
+    "summary": "短期走震荡的可能性很大\n\n大概率这周的机会就是在小级别去做高抛低吸，等待突破\n\n$BTC",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HANhllxaoAAb7BS.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:07:49.821Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n短期走震荡的可能性很大 大概率这周的机会就是在小级别去做高抛低吸，等待突破 [$BTC](https://x.com/search?q=$BTC)\n\n[13:57 · 2026年2月3日](https://x.com/TradercBTC/status/2018564506910392759) [1675Views](https://x.com/TradercBTC/status/2018564506910392759)\n\n[2](https://x.com/i/status/2018564506910392759)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2018564506910392759"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"短期走震荡的可能性很大\n  \n  大概率这周的机会就是在小级别去做高抛低吸，等待突破\n  \n  $BTC\" / X\nurl: \"https://x.com/TradercBTC/status/2018564506910392759\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2018564506910392759\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2018564506910392759/imgs/img-002-HANhllxaoAAb7BS-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-03T05:57:36.000Z\"\nsummary: |-\n  短期走震荡的可能性很大\n  \n  大概率这周的机会就是在小级别去做高抛低吸，等待突破\n  \n  $BTC\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:07:49.821Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"短期走震荡的可能性很大\n\n大概率这周的机会就是在小级别去做高抛低吸，等待突破\n\n$BTC\" / X\n\n[![@TradercBTC](2018564506910392759/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n短期走震荡的可能性很大 大概率这周的机会就是在小级别去做高抛低吸，等待突破 [$BTC](https://x.com/search?q=$BTC)\n\n[13:57 · 2026年2月3日](https://x.com/TradercBTC/status/2018564506910392759) [1675Views](https://x.com/TradercBTC/status/2018564506910392759)\n\n[2](https://x.com/i/status/2018564506910392759)"
+}

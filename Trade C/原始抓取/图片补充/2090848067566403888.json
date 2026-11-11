@@ -1,0 +1,358 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 3,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-08-21T17:06:40.000Z",
+  "display_text_range": [
+    0,
+    111
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/QUnndt58LB",
+        "expanded_url": "https://x.com/TradercBTC/status/2090848067566403888/photo/1",
+        "indices": [
+          112,
+          135
+        ],
+        "url": "https://t.co/QUnndt58LB"
+      }
+    ],
+    "symbols": [
+      {
+        "indices": [
+          0,
+          9
+        ],
+        "text": "FARTCOIN"
+      }
+    ]
+  },
+  "id_str": "2090848067566403888",
+  "text": "$FARTCOIN：移动止损在成本线上方10%\n\n观察到15分钟周期价格仍然在尝试突破，上一个被突破的位置，也就是我们形成的15分钟级别的上一个结构低点，我们现在的移动止损的位置，是离成本线上方10%左右的位置，在0.19 https://t.co/QUnndt58LB",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2090848067566403888"
+    ],
+    "editable_until_msecs": "1787335600000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/QUnndt58LB",
+      "expanded_url": "https://x.com/TradercBTC/status/2090848067566403888/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        112,
+        135
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HQQvOSsbUAAedKx.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1150,
+            "w": 2054,
+            "x": 0,
+            "y": 250
+          },
+          {
+            "h": 1400,
+            "w": 1400,
+            "x": 654,
+            "y": 0
+          },
+          {
+            "h": 1400,
+            "w": 1228,
+            "x": 826,
+            "y": 0
+          },
+          {
+            "h": 1400,
+            "w": 700,
+            "x": 1139,
+            "y": 0
+          },
+          {
+            "h": 1400,
+            "w": 2054,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1400,
+        "width": 2054
+      },
+      "sizes": {
+        "large": {
+          "h": 1396,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 818,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 463,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/QUnndt58LB"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1150,
+          "w": 2054,
+          "x": 0,
+          "y": 250
+        },
+        {
+          "h": 1400,
+          "w": 1400,
+          "x": 654,
+          "y": 0
+        },
+        {
+          "h": 1400,
+          "w": 1228,
+          "x": 826,
+          "y": 0
+        },
+        {
+          "h": 1400,
+          "w": 700,
+          "x": 1139,
+          "y": 0
+        },
+        {
+          "h": 1400,
+          "w": 2054,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2090848067566403888/photo/1",
+      "url": "https://pbs.twimg.com/media/HQQvOSsbUAAedKx.jpg",
+      "width": 2054,
+      "height": 1400
+    }
+  ],
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "conversation_control": {
+      "policy": "Verified"
+    },
+    "favorite_count": 2,
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "created_at": "2026-08-21T14:55:47.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "entities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/0Ct5JUirUL",
+          "expanded_url": "https://x.com/TradercBTC/status/2090815131177595368/photo/1",
+          "indices": [
+            38,
+            61
+          ],
+          "url": "https://t.co/0Ct5JUirUL"
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [
+            0,
+            9
+          ],
+          "text": "FARTCOIN"
+        }
+      ]
+    },
+    "id_str": "2090815131177595368",
+    "text": "$FARTCOIN 完全按照我们的预期走了也是\n\n目前上涨11%，5.5R https://t.co/0Ct5JUirUL",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2090815131177595368"
+      ],
+      "editable_until_msecs": "1787327747000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "mediaDetails": [
+      {
+        "display_url": "pic.x.com/0Ct5JUirUL",
+        "expanded_url": "https://x.com/TradercBTC/status/2090815131177595368/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "indices": [
+          38,
+          61
+        ],
+        "media_url_https": "https://pbs.twimg.com/media/HQQRH9DasAAuEEC.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1136,
+              "w": 2028,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1440,
+              "w": 1440,
+              "x": 243,
+              "y": 0
+            },
+            {
+              "h": 1440,
+              "w": 1263,
+              "x": 332,
+              "y": 0
+            },
+            {
+              "h": 1440,
+              "w": 720,
+              "x": 603,
+              "y": 0
+            },
+            {
+              "h": 1440,
+              "w": 2028,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1440,
+          "width": 2028
+        },
+        "sizes": {
+          "large": {
+            "h": 1440,
+            "resize": "fit",
+            "w": 2028
+          },
+          "medium": {
+            "h": 852,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 483,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/0Ct5JUirUL"
+      }
+    ],
+    "photos": [
+      {
+        "backgroundColor": {
+          "red": 204,
+          "green": 214,
+          "blue": 221
+        },
+        "cropCandidates": [
+          {
+            "h": 1136,
+            "w": 2028,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1440,
+            "w": 1440,
+            "x": 243,
+            "y": 0
+          },
+          {
+            "h": 1440,
+            "w": 1263,
+            "x": 332,
+            "y": 0
+          },
+          {
+            "h": 1440,
+            "w": 720,
+            "x": 603,
+            "y": 0
+          },
+          {
+            "h": 1440,
+            "w": 2028,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "expandedUrl": "https://x.com/TradercBTC/status/2090815131177595368/photo/1",
+        "url": "https://pbs.twimg.com/media/HQQRH9DasAAuEEC.jpg",
+        "width": 2028,
+        "height": 1440
+      }
+    ],
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDkwODQ4MDY3NDkwODk3OTIx"
+  }
+}

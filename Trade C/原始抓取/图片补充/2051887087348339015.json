@@ -1,0 +1,396 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 13,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-05-06T04:49:38.000Z",
+  "display_text_range": [
+    0,
+    113
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/Xk3twqk4Cr",
+        "expanded_url": "https://x.com/TradercBTC/status/2051887087348339015/photo/1",
+        "indices": [
+          114,
+          137
+        ],
+        "url": "https://t.co/Xk3twqk4Cr"
+      }
+    ]
+  },
+  "id_str": "2051887087348339015",
+  "text": "踏空了\n\n全面踏空\n\n没辙了，难受，日经也踏空了，黄金也踏空了\n\n我认为我损失了起码n0w\n\n但是我追高必死\n\n发帖抚慰一下自己\n\n准备看情况做二波吧\n\n图中仅表示计划，单纯安慰一下自己受伤的心灵，不代表一定这么干，视情况而定 https://t.co/Xk3twqk4Cr",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2051887087348339015"
+    ],
+    "editable_until_msecs": "1778046578000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/Xk3twqk4Cr",
+      "expanded_url": "https://x.com/TradercBTC/status/2051887087348339015/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        114,
+        137
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HHnDsgdaUAAOX9H.png",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1506,
+            "w": 2690,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1510,
+            "w": 1510,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1510,
+            "w": 1325,
+            "x": 76,
+            "y": 0
+          },
+          {
+            "h": 1510,
+            "w": 755,
+            "x": 361,
+            "y": 0
+          },
+          {
+            "h": 1510,
+            "w": 2690,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1510,
+        "width": 2690
+      },
+      "sizes": {
+        "large": {
+          "h": 1150,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 674,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 382,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/Xk3twqk4Cr"
+    },
+    {
+      "display_url": "pic.x.com/Xk3twqk4Cr",
+      "expanded_url": "https://x.com/TradercBTC/status/2051887087348339015/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        114,
+        137
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HHnD3ZQaYAA7UfN.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1492,
+            "w": 2664,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1492,
+            "w": 1492,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1492,
+            "w": 1309,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1492,
+            "w": 746,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1492,
+            "w": 2674,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1492,
+        "width": 2674
+      },
+      "sizes": {
+        "large": {
+          "h": 1143,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 670,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 379,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/Xk3twqk4Cr"
+    },
+    {
+      "display_url": "pic.x.com/Xk3twqk4Cr",
+      "expanded_url": "https://x.com/TradercBTC/status/2051887087348339015/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        114,
+        137
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HHnD9EoaAAAJaA0.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1497,
+            "w": 2674,
+            "x": 0,
+            "y": 9
+          },
+          {
+            "h": 1506,
+            "w": 1506,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1506,
+            "w": 1321,
+            "x": 75,
+            "y": 0
+          },
+          {
+            "h": 1506,
+            "w": 753,
+            "x": 359,
+            "y": 0
+          },
+          {
+            "h": 1506,
+            "w": 2674,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1506,
+        "width": 2674
+      },
+      "sizes": {
+        "large": {
+          "h": 1153,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 676,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 383,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/Xk3twqk4Cr"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1506,
+          "w": 2690,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1510,
+          "w": 1510,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1510,
+          "w": 1325,
+          "x": 76,
+          "y": 0
+        },
+        {
+          "h": 1510,
+          "w": 755,
+          "x": 361,
+          "y": 0
+        },
+        {
+          "h": 1510,
+          "w": 2690,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2051887087348339015/photo/1",
+      "url": "https://pbs.twimg.com/media/HHnDsgdaUAAOX9H.png",
+      "width": 2690,
+      "height": 1510
+    },
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1492,
+          "w": 2664,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1492,
+          "w": 1492,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1492,
+          "w": 1309,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1492,
+          "w": 746,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1492,
+          "w": 2674,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2051887087348339015/photo/1",
+      "url": "https://pbs.twimg.com/media/HHnD3ZQaYAA7UfN.jpg",
+      "width": 2674,
+      "height": 1492
+    },
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1497,
+          "w": 2674,
+          "x": 0,
+          "y": 9
+        },
+        {
+          "h": 1506,
+          "w": 1506,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1506,
+          "w": 1321,
+          "x": 75,
+          "y": 0
+        },
+        {
+          "h": 1506,
+          "w": 753,
+          "x": 359,
+          "y": 0
+        },
+        {
+          "h": 1506,
+          "w": 2674,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2051887087348339015/photo/1",
+      "url": "https://pbs.twimg.com/media/HHnD9EoaAAAJaA0.jpg",
+      "width": 2674,
+      "height": 1506
+    }
+  ],
+  "conversation_count": 14,
+  "news_action_type": "conversation",
+  "isEdited": false,
+  "isStaleEdit": false
+}

@@ -1,0 +1,349 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 10,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-02-07T13:45:26.000Z",
+  "display_text_range": [
+    0,
+    71
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/g3eXc6ljxq",
+        "expanded_url": "https://x.com/TradercBTC/status/2020131792590713338/photo/1",
+        "indices": [
+          72,
+          95
+        ],
+        "url": "https://t.co/g3eXc6ljxq"
+      }
+    ],
+    "symbols": [
+      {
+        "indices": [
+          0,
+          5
+        ],
+        "text": "HYPE"
+      }
+    ]
+  },
+  "id_str": "2020131792590713338",
+  "text": "$HYPE 卧槽，还真往最好的情况发展了\n\n一个假跌破，维持震荡\n\n现在希望有真实买盘去突破\n\n真牛逼，在这种环境下进入下跌趋势没有向下跌穿的 https://t.co/g3eXc6ljxq",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2020131792590713338"
+    ],
+    "editable_until_msecs": "1770475526000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/g3eXc6ljxq",
+      "expanded_url": "https://x.com/TradercBTC/status/2020131792590713338/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        72,
+        95
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HAjzDqPaUAAAIAf.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1511,
+            "w": 2698,
+            "x": 0,
+            "y": 137
+          },
+          {
+            "h": 1648,
+            "w": 1648,
+            "x": 1050,
+            "y": 0
+          },
+          {
+            "h": 1648,
+            "w": 1446,
+            "x": 1252,
+            "y": 0
+          },
+          {
+            "h": 1648,
+            "w": 824,
+            "x": 1874,
+            "y": 0
+          },
+          {
+            "h": 1648,
+            "w": 2698,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1648,
+        "width": 2698
+      },
+      "sizes": {
+        "large": {
+          "h": 1251,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 733,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 415,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/g3eXc6ljxq"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1511,
+          "w": 2698,
+          "x": 0,
+          "y": 137
+        },
+        {
+          "h": 1648,
+          "w": 1648,
+          "x": 1050,
+          "y": 0
+        },
+        {
+          "h": 1648,
+          "w": 1446,
+          "x": 1252,
+          "y": 0
+        },
+        {
+          "h": 1648,
+          "w": 824,
+          "x": 1874,
+          "y": 0
+        },
+        {
+          "h": 1648,
+          "w": 2698,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2020131792590713338/photo/1",
+      "url": "https://pbs.twimg.com/media/HAjzDqPaUAAAIAf.jpg",
+      "width": 2698,
+      "height": 1648
+    }
+  ],
+  "conversation_count": 1,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "favorite_count": 4,
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "created_at": "2026-02-05T15:06:47.000Z",
+    "display_text_range": [
+      0,
+      134
+    ],
+    "entities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/gLlzRkk7X7",
+          "expanded_url": "https://x.com/TradercBTC/status/2019427489232179478/photo/1",
+          "indices": [
+            135,
+            158
+          ],
+          "url": "https://t.co/gLlzRkk7X7"
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [
+            0,
+            5
+          ],
+          "text": "HYPE"
+        }
+      ]
+    },
+    "id_str": "2019427489232179478",
+    "text": "$HYPE 更新一下\n\n1H级别已经打破了上涨结构，形成了更低的低点和高点\n\n这说明前一段的买方动能已经减弱了\n\n买方看着价格无法突破，开始平仓，不再持有自己仓位，开始卖出。\n\n卖方开始找机会卖出，在打破之后，卖方可能不着急平仓，准备持有自己的空头仓位去拿到更低的位置 https://t.co/gLlzRkk7X7",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2019427489232179478"
+      ],
+      "editable_until_msecs": "1770307607000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "mediaDetails": [
+      {
+        "display_url": "pic.x.com/gLlzRkk7X7",
+        "expanded_url": "https://x.com/TradercBTC/status/2019427489232179478/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "indices": [
+          135,
+          158
+        ],
+        "media_url_https": "https://pbs.twimg.com/media/HAZxPRIboAA3cA0.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1635,
+              "w": 2920,
+              "x": 0,
+              "y": 255
+            },
+            {
+              "h": 1890,
+              "w": 1890,
+              "x": 296,
+              "y": 0
+            },
+            {
+              "h": 1890,
+              "w": 1658,
+              "x": 412,
+              "y": 0
+            },
+            {
+              "h": 1890,
+              "w": 945,
+              "x": 769,
+              "y": 0
+            },
+            {
+              "h": 1890,
+              "w": 2920,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1890,
+          "width": 2920
+        },
+        "sizes": {
+          "large": {
+            "h": 1326,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 777,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 440,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/gLlzRkk7X7"
+      }
+    ],
+    "photos": [
+      {
+        "backgroundColor": {
+          "red": 204,
+          "green": 214,
+          "blue": 221
+        },
+        "cropCandidates": [
+          {
+            "h": 1635,
+            "w": 2920,
+            "x": 0,
+            "y": 255
+          },
+          {
+            "h": 1890,
+            "w": 1890,
+            "x": 296,
+            "y": 0
+          },
+          {
+            "h": 1890,
+            "w": 1658,
+            "x": 412,
+            "y": 0
+          },
+          {
+            "h": 1890,
+            "w": 945,
+            "x": 769,
+            "y": 0
+          },
+          {
+            "h": 1890,
+            "w": 2920,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "expandedUrl": "https://x.com/TradercBTC/status/2019427489232179478/photo/1",
+        "url": "https://pbs.twimg.com/media/HAZxPRIboAA3cA0.jpg",
+        "width": 2920,
+        "height": 1890
+      }
+    ],
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

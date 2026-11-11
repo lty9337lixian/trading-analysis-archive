@@ -1,0 +1,199 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 17,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-05-22T06:07:15.000Z",
+  "display_text_range": [
+    0,
+    38
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/x0XZi7vMZo",
+        "expanded_url": "https://x.com/TradercBTC/status/2057704824414871843/photo/1",
+        "indices": [
+          39,
+          62
+        ],
+        "url": "https://t.co/x0XZi7vMZo"
+      }
+    ]
+  },
+  "id_str": "2057704824414871843",
+  "text": "现价空了BTC\n\n总共打算打三笔仓，跌破75000再加一层。第一层止损再上面 https://t.co/x0XZi7vMZo",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2057704824414871843"
+    ],
+    "editable_until_msecs": "1779433635000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/x0XZi7vMZo",
+      "expanded_url": "https://x.com/TradercBTC/status/2057704824414871843/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        39,
+        62
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HI5vc8_aoAAnvhv.png",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1252,
+            "w": 2236,
+            "x": 0,
+            "y": 100
+          },
+          {
+            "h": 1530,
+            "w": 1530,
+            "x": 706,
+            "y": 0
+          },
+          {
+            "h": 1530,
+            "w": 1342,
+            "x": 894,
+            "y": 0
+          },
+          {
+            "h": 1530,
+            "w": 765,
+            "x": 1471,
+            "y": 0
+          },
+          {
+            "h": 1530,
+            "w": 2236,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1530,
+        "width": 2236
+      },
+      "sizes": {
+        "large": {
+          "h": 1401,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 821,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 465,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/x0XZi7vMZo"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1252,
+          "w": 2236,
+          "x": 0,
+          "y": 100
+        },
+        {
+          "h": 1530,
+          "w": 1530,
+          "x": 706,
+          "y": 0
+        },
+        {
+          "h": 1530,
+          "w": 1342,
+          "x": 894,
+          "y": 0
+        },
+        {
+          "h": 1530,
+          "w": 765,
+          "x": 1471,
+          "y": 0
+        },
+        {
+          "h": 1530,
+          "w": 2236,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2057704824414871843/photo/1",
+      "url": "https://pbs.twimg.com/media/HI5vc8_aoAAnvhv.png",
+      "width": 2236,
+      "height": 1530
+    }
+  ],
+  "conversation_count": 42,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "favorite_count": 10,
+    "lang": "ja",
+    "reply_count": 1,
+    "retweet_count": 0,
+    "created_at": "2026-05-21T11:11:17.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "entities": {},
+    "id_str": "2057418950905114680",
+    "text": "做coin如吃x",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2057418950905114680"
+      ],
+      "editable_until_msecs": "1779365477000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

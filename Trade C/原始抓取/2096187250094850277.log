@@ -1,0 +1,71 @@
+[warn] No running Chrome debugger found for profile /Users/lu/Library/Application Support/baoyu-skills/chrome-profile. Launching Chrome with that profile.
+[info] Loading https://x.com/TradercBTC/status/2096187250094850277 with x adapter
+[info] Adapter x returned no structured document; falling back to generic extraction
+[info] Loading https://x.com/TradercBTC/status/2096187250094850277 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2096187250094850277.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "login": {
+    "provider": "x",
+    "state": "unknown"
+  },
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HRclTueaMAAnHy_.png:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2096187250094850277/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2096187250094850277/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HRclTueaMAAnHy_.png:large",
+        "localPath": "2096187250094850277/imgs/img-002-HRclTueaMAAnHy_-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2096187250094850277/imgs/img-002-HRclTueaMAAnHy_-png-large.png",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2096187250094850277/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2096187250094850277",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2096187250094850277",
+    "title": "trader-c on X: \"复盘SOL\n\n这个要和之前的推文连在一起\n\n主要复盘的是错误，正确的应该怎么入场已经分析过了\n\n如图，这是我上周实际做的一笔错误的空单和没有接到的空单\n\n首先，那笔空单，是真tm智障了\n\n因为这笔空单的位置，完全不依赖于盘面，是依赖于BTC会向上的猜想，我当时有个原话：\n\n「如果BTC向上一点插针，带动sol向上，应该会触碰到106，再下来是最好的剧本了」\n\n毫无事实依据\n\n那么，实际上，SOL向上触碰了105，这个位置，是上一波上涨N字结构的结构低点所组成的支撑位，也是被猛烈下跌所跌破的支撑位\n\n这里被跌破，说明市场接受了跌破后的价格\n\n市场从下跌推动到市场… / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-09-05T10:42:40.000Z",
+    "summary": "复盘SOL\n\n这个要和之前的推文连在一起\n\n主要复盘的是错误，正确的应该怎么入场已经分析过了\n\n如图，这是我上周实际做的一笔错误的空单和没有接到的空单\n\n首先，那笔空单，是真tm智障了\n\n因为这笔空单的位置，完全不依赖于盘面，是依赖于BTC会向上的猜想，我当时有个原话：\n\n「如果BTC向上一点插针，带动sol向上，应该会触碰到106，再下来是最好的剧本了」\n\n毫无事实依据\n\n那么，实际上，SOL向上触碰了105，这个位置，是上一波上涨N字结构的结构低点所组成的支撑位，也是被猛烈下跌所跌破的支撑位\n\n这里被跌破，说明市场接受了跌破后的价格\n\n市场从下跌推动到市场修正，再度回测了这里，回测失败，…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HRclTueaMAAnHy_.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:38:10.941Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t复盘SOL 这个要和之前的推文连在一起 主要复盘的是错误，正确的应该怎么入场已经分析过了 如图，这是我上周实际做的一笔错误的空单和没有接到的空单 首先，那笔空单，是真tm智障了 因为这笔空单的位置，完全不依赖于盘面，是依赖于BTC会向上的猜想，我当时有个原话： 「如果BTC向上一点插针，带动sol向上，应该会触碰到106，再下来是最好的剧本了」 毫无事实依据 那么，实际上，SOL向上触碰了105，这个位置，是上一波上涨N字结构的结构低点所组成的支撑位，也是被猛烈下跌所跌破的支撑位 这里被跌破，说明市场接受了跌破后的价格 市场从下跌推动到市场修正，再度回测了这里，回测失败，然后再推动了市场下跌 将空单挂在105是合理的，完全有事实依据的，而且止损明确的。。。。 正确的有好几次入场，我都没改变思维（如下推文） 第二点：空单，还是智障 结构以及发生了突破，上一个结构高点被突破，产生了MSS，我还在坚持空单。。。 而且几次下跌，都被强势反包，这就是强势需求的特征，我都无动于衷。。。 被自己无语到了 该坚持计划的时候没有坚持，不该坚持的时候比谁都坚定，这就是被套的时候，屁股决定脑袋了 实际上市场以及接受了突破后的价格，在多次跌破跌不下去且强势反包的时候，这时候是多单的入场好时机 因为同一时间，我有黄金和其他资产的盈利，所以心理产生了一个：「错就错吧，无所谓了，万一对了还赚了」心理想法 这是即使演绎，都是我当时原句 事后来看，这是非常错误的且不负责任的想法。\n\t[18:42 · 2026年9月5日](https://x.com/TradercBTC/status/2096187250094850277) [1344Views](https://x.com/TradercBTC/status/2096187250094850277)\n\tOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2096187250094850277"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"复盘SOL\n  \n  这个要和之前的推文连在一起\n  \n  主要复盘的是错误，正确的应该怎么入场已经分析过了\n  \n  如图，这是我上周实际做的一笔错误的空单和没有接到的空单\n  \n  首先，那笔空单，是真tm智障了\n  \n  因为这笔空单的位置，完全不依赖于盘面，是依赖于BTC会向上的猜想，我当时有个原话：\n  \n  「如果BTC向上一点插针，带动sol向上，应该会触碰到106，再下来是最好的剧本了」\n  \n  毫无事实依据\n  \n  那么，实际上，SOL向上触碰了105，这个位置，是上一波上涨N字结构的结构低点所组成的支撑位，也是被猛烈下跌所跌破的支撑位\n  \n  这里被跌破，说明市场接受了跌破后的价格\n  \n  市场从下跌推动到市场… / X\nurl: \"https://x.com/TradercBTC/status/2096187250094850277\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2096187250094850277\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2096187250094850277/imgs/img-002-HRclTueaMAAnHy_-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-09-05T10:42:40.000Z\"\nsummary: |-\n  复盘SOL\n  \n  这个要和之前的推文连在一起\n  \n  主要复盘的是错误，正确的应该怎么入场已经分析过了\n  \n  如图，这是我上周实际做的一笔错误的空单和没有接到的空单\n  \n  首先，那笔空单，是真tm智障了\n  \n  因为这笔空单的位置，完全不依赖于盘面，是依赖于BTC会向上的猜想，我当时有个原话：\n  \n  「如果BTC向上一点插针，带动sol向上，应该会触碰到106，再下来是最好的剧本了」\n  \n  毫无事实依据\n  \n  那么，实际上，SOL向上触碰了105，这个位置，是上一波上涨N字结构的结构低点所组成的支撑位，也是被猛烈下跌所跌破的支撑位\n  \n  这里被跌破，说明市场接受了跌破后的价格\n  \n  市场从下跌推动到市场修正，再度回测了这里，回测失败，…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:38:10.941Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"复盘SOL\n\n这个要和之前的推文连在一起\n\n主要复盘的是错误，正确的应该怎么入场已经分析过了\n\n如图，这是我上周实际做的一笔错误的空单和没有接到的空单\n\n首先，那笔空单，是真tm智障了\n\n因为这笔空单的位置，完全不依赖于盘面，是依赖于BTC会向上的猜想，我当时有个原话：\n\n「如果BTC向上一点插针，带动sol向上，应该会触碰到106，再下来是最好的剧本了」\n\n毫无事实依据\n\n那么，实际上，SOL向上触碰了105，这个位置，是上一波上涨N字结构的结构低点所组成的支撑位，也是被猛烈下跌所跌破的支撑位\n\n这里被跌破，说明市场接受了跌破后的价格\n\n市场从下跌推动到市场… / X\n\n- [![@TradercBTC](2096187250094850277/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t复盘SOL 这个要和之前的推文连在一起 主要复盘的是错误，正确的应该怎么入场已经分析过了 如图，这是我上周实际做的一笔错误的空单和没有接到的空单 首先，那笔空单，是真tm智障了 因为这笔空单的位置，完全不依赖于盘面，是依赖于BTC会向上的猜想，我当时有个原话： 「如果BTC向上一点插针，带动sol向上，应该会触碰到106，再下来是最好的剧本了」 毫无事实依据 那么，实际上，SOL向上触碰了105，这个位置，是上一波上涨N字结构的结构低点所组成的支撑位，也是被猛烈下跌所跌破的支撑位 这里被跌破，说明市场接受了跌破后的价格 市场从下跌推动到市场修正，再度回测了这里，回测失败，然后再推动了市场下跌 将空单挂在105是合理的，完全有事实依据的，而且止损明确的。。。。 正确的有好几次入场，我都没改变思维（如下推文） 第二点：空单，还是智障 结构以及发生了突破，上一个结构高点被突破，产生了MSS，我还在坚持空单。。。 而且几次下跌，都被强势反包，这就是强势需求的特征，我都无动于衷。。。 被自己无语到了 该坚持计划的时候没有坚持，不该坚持的时候比谁都坚定，这就是被套的时候，屁股决定脑袋了 实际上市场以及接受了突破后的价格，在多次跌破跌不下去且强势反包的时候，这时候是多单的入场好时机 因为同一时间，我有黄金和其他资产的盈利，所以心理产生了一个：「错就错吧，无所谓了，万一对了还赚了」心理想法 这是即使演绎，都是我当时原句 事后来看，这是非常错误的且不负责任的想法。\n\t[18:42 · 2026年9月5日](https://x.com/TradercBTC/status/2096187250094850277) [1344Views](https://x.com/TradercBTC/status/2096187250094850277)\n\tOnly some accounts can reply."
+}

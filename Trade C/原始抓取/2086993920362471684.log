@@ -1,0 +1,87 @@
+[info] Loading https://x.com/TradercBTC/status/2086993920362471684 with generic adapter
+[info] Downloaded 4 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2086993920362471684.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HPZ9nHtbIAAnhXf.png:large",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HPZ9nHtbIAAnhXf?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HPSQXwobEAAhMkJ?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/HPZ9nHtbIAAnhXf.png:large",
+        "localPath": "2086993920362471684/imgs/img-001-HPZ9nHtbIAAnhXf-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2086993920362471684/imgs/img-001-HPZ9nHtbIAAnhXf-png-large.png",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2086993920362471684/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2086993920362471684/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HPZ9nHtbIAAnhXf?format=webp&name=medium",
+        "localPath": "2086993920362471684/imgs/img-003-HPZ9nHtbIAAnhXf.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2086993920362471684/imgs/img-003-HPZ9nHtbIAAnhXf.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HPSQXwobEAAhMkJ?format=webp&name=medium",
+        "localPath": "2086993920362471684/imgs/img-004-HPSQXwobEAAhMkJ.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2086993920362471684/imgs/img-004-HPSQXwobEAAhMkJ.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 4,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2086993920362471684/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2086993920362471684",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2086993920362471684",
+    "title": "trader-c on X: \"接到了，算上上面的3个仓，目前浮亏中 （哎我是傻逼，明明知道BTC清扫流动性的程度很强，我几乎一定能挂到单子，非要上面进3个） 入场成功，接下来就看市场怎么发展了\"",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-11T01:51:39.000Z",
+    "summary": "接到了，算上上面的3个仓，目前浮亏中\n\n（哎我是傻逼，明明知道BTC清扫流动性的程度很强，我几乎一定能挂到单子，非要上面进3个）\n\n入场成功，接下来就看市场怎么发展了",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HPZ9nHtbIAAnhXf.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:04:55.886Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n接到了，算上上面的3个仓，目前浮亏中 （哎我是傻逼，明明知道BTC清扫流动性的程度很强，我几乎一定能挂到单子，非要上面进3个） 入场成功，接下来就看市场怎么发展了\n\n[![](https://pbs.twimg.com/media/HPZ9nHtbIAAnhXf?format=webp&name=medium)](https://x.com/TradercBTC/status/2086993920362471684/photo/1)\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[8月9日](https://x.com/TradercBTC/status/2086451632456491488)\n\n合理 最坏的情况亏3个点 一般情况下，大概率能赚3到4个点，一比一的盈亏比 如果押注 [$BTC](https://x.com/search?q=$BTC) 突破成功，大概率能拿9到12个点，最好的情况拿三倍盈亏比 算下来划算，这笔生意能做\n\n[![](https://pbs.twimg.com/media/HPSQXwobEAAhMkJ?format=webp&name=medium)](https://x.com/TradercBTC/status/2086451632456491488/photo/1)\n\n[9:51 · 2026年8月11日](https://x.com/TradercBTC/status/2086993920362471684)[5203Views](https://x.com/TradercBTC/status/2086993920362471684)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2086993920362471684"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"接到了，算上上面的3个仓，目前浮亏中 （哎我是傻逼，明明知道BTC清扫流动性的程度很强，我几乎一定能挂到单子，非要上面进3个） 入场成功，接下来就看市场怎么发展了\\\"\"\nurl: \"https://x.com/TradercBTC/status/2086993920362471684\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2086993920362471684\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2086993920362471684/imgs/img-001-HPZ9nHtbIAAnhXf-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-11T01:51:39.000Z\"\nsummary: |-\n  接到了，算上上面的3个仓，目前浮亏中\n  \n  （哎我是傻逼，明明知道BTC清扫流动性的程度很强，我几乎一定能挂到单子，非要上面进3个）\n  \n  入场成功，接下来就看市场怎么发展了\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:04:55.886Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"接到了，算上上面的3个仓，目前浮亏中 （哎我是傻逼，明明知道BTC清扫流动性的程度很强，我几乎一定能挂到单子，非要上面进3个） 入场成功，接下来就看市场怎么发展了\"\n\n[![@TradercBTC](2086993920362471684/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n接到了，算上上面的3个仓，目前浮亏中 （哎我是傻逼，明明知道BTC清扫流动性的程度很强，我几乎一定能挂到单子，非要上面进3个） 入场成功，接下来就看市场怎么发展了\n\n[![](2086993920362471684/imgs/img-003-HPZ9nHtbIAAnhXf.webp)](https://x.com/TradercBTC/status/2086993920362471684/photo/1)\n\n[![@TradercBTC](2086993920362471684/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[8月9日](https://x.com/TradercBTC/status/2086451632456491488)\n\n合理 最坏的情况亏3个点 一般情况下，大概率能赚3到4个点，一比一的盈亏比 如果押注 [$BTC](https://x.com/search?q=$BTC) 突破成功，大概率能拿9到12个点，最好的情况拿三倍盈亏比 算下来划算，这笔生意能做\n\n[![](2086993920362471684/imgs/img-004-HPSQXwobEAAhMkJ.webp)](https://x.com/TradercBTC/status/2086451632456491488/photo/1)\n\n[9:51 · 2026年8月11日](https://x.com/TradercBTC/status/2086993920362471684)[5203Views](https://x.com/TradercBTC/status/2086993920362471684)\n\nOnly some accounts can reply."
+}

@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HQY6K7JbgAAw9aD.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2091423176999977152/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2091423176999977152/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HQY6K7JbgAAw9aD.jpg:large",
+        "localPath": "2091423176999977152/imgs/img-002-HQY6K7JbgAAw9aD-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2091423176999977152/imgs/img-002-HQY6K7JbgAAw9aD-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2091423176999977152/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2091423176999977152",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2091423176999977152",
+    "title": "trader-c on X: \"今天聊聊市场环境判断\n\n市场环境——由市场方向和市场结构两个环节组成\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-23T07:11:56.000Z",
+    "summary": "今天聊聊市场环境判断\n\n市场环境——由市场方向和市场结构两个环节组成",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HQY6K7JbgAAw9aD.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:06:06.611Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n今天聊聊市场环境判断 市场环境——由市场方向和市场结构两个环节组成\n\n[15:11 · 2026年8月23日](https://x.com/TradercBTC/status/2091423176999977152) [3934Views](https://x.com/TradercBTC/status/2091423176999977152)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2091423176999977152"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"今天聊聊市场环境判断\n  \n  市场环境——由市场方向和市场结构两个环节组成\" / X\nurl: \"https://x.com/TradercBTC/status/2091423176999977152\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2091423176999977152\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2091423176999977152/imgs/img-002-HQY6K7JbgAAw9aD-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-23T07:11:56.000Z\"\nsummary: |-\n  今天聊聊市场环境判断\n  \n  市场环境——由市场方向和市场结构两个环节组成\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:06:06.611Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"今天聊聊市场环境判断\n\n市场环境——由市场方向和市场结构两个环节组成\" / X\n\n[![@TradercBTC](2091423176999977152/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n今天聊聊市场环境判断 市场环境——由市场方向和市场结构两个环节组成\n\n[15:11 · 2026年8月23日](https://x.com/TradercBTC/status/2091423176999977152) [3934Views](https://x.com/TradercBTC/status/2091423176999977152)\n\nOnly some accounts can reply."
+}

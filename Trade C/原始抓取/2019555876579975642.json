@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HAbnDTzboAA21i-.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2019555876579975642/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2019555876579975642/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HAbnDTzboAA21i-.jpg:large",
+        "localPath": "2019555876579975642/imgs/img-002-HAbnDTzboAA21i-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2019555876579975642/imgs/img-002-HAbnDTzboAA21i-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2019555876579975642/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2019555876579975642",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2019555876579975642",
+    "title": "trader-c on X: \"牛皮，“真”抛售高潮\n\n$BTC 一把干回64000\n\n上次这个价格我当时在干什么？\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-05T23:36:57.000Z",
+    "summary": "牛皮，“真”抛售高潮\n\n$BTC 一把干回64000\n\n上次这个价格我当时在干什么？",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HAbnDTzboAA21i-.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:56:56.584Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n牛皮，“真”抛售高潮 [$BTC](https://x.com/search?q=$BTC) 一把干回64000 上次这个价格我当时在干什么？\n\n[$BTC](https://x.com/search?q=$BTC) 我勒个跌跌不休啊 下跌结构又被延续了，形成了新的低点 1H的ema20形成非常强大的压制力，背后的资金在这里不断的去卖出 这一次也不像是假突破的样子，没有迅速收回来 按照这种情况，下一次大跌感觉很快就要来了 下跌通道——抛售高潮。。。。 熟悉的剧本\n\n[7:36 · 2026年2月6日](https://x.com/TradercBTC/status/2019555876579975642) [2415Views](https://x.com/TradercBTC/status/2019555876579975642)\n\n[3](https://x.com/i/status/2019555876579975642)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2019555876579975642"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"牛皮，“真”抛售高潮\n  \n  $BTC 一把干回64000\n  \n  上次这个价格我当时在干什么？\" / X\nurl: \"https://x.com/TradercBTC/status/2019555876579975642\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2019555876579975642\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2019555876579975642/imgs/img-002-HAbnDTzboAA21i-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-05T23:36:57.000Z\"\nsummary: |-\n  牛皮，“真”抛售高潮\n  \n  $BTC 一把干回64000\n  \n  上次这个价格我当时在干什么？\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:56:56.584Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"牛皮，“真”抛售高潮\n\n$BTC 一把干回64000\n\n上次这个价格我当时在干什么？\" / X\n\n[![@TradercBTC](2019555876579975642/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n牛皮，“真”抛售高潮 [$BTC](https://x.com/search?q=$BTC) 一把干回64000 上次这个价格我当时在干什么？\n\n[$BTC](https://x.com/search?q=$BTC) 我勒个跌跌不休啊 下跌结构又被延续了，形成了新的低点 1H的ema20形成非常强大的压制力，背后的资金在这里不断的去卖出 这一次也不像是假突破的样子，没有迅速收回来 按照这种情况，下一次大跌感觉很快就要来了 下跌通道——抛售高潮。。。。 熟悉的剧本\n\n[7:36 · 2026年2月6日](https://x.com/TradercBTC/status/2019555876579975642) [2415Views](https://x.com/TradercBTC/status/2019555876579975642)\n\n[3](https://x.com/i/status/2019555876579975642)"
+}

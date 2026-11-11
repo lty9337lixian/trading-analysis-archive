@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HH9zA2uaoAE0lyr.png:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2053487747755876771/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2053487747755876771/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HH9zA2uaoAE0lyr.png:large",
+        "localPath": "2053487747755876771/imgs/img-002-HH9zA2uaoAE0lyr-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2053487747755876771/imgs/img-002-HH9zA2uaoAE0lyr-png-large.png",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2053487747755876771/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2053487747755876771",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2053487747755876771",
+    "title": "trader-c on X: \"还有一个定义就是\n\nA级的交易，你的不利波动应该是非常小的\n\n比如图一大约一天半的交易\n\n每笔的最大不利波动不超过400💲，好几笔都是0，进去就赚钱的这种\n\n仔细回想一下，你们做的很棒的单子，是不是进去就是朝着有利于你的方向移动的\n\n你的止损很快可以移动到保本线，至少你不会亏很多，即使你一直很快的移动到保本，A级交易也不会打到你的保本线，如果能打到你的保本线，那说明不是A级交易（自己作死不算）这就是A级交易的特征\n\n你们可以回顾自己的交易单去复盘一下\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-05-10T14:50:05.000Z",
+    "summary": "还有一个定义就是\n\nA级的交易，你的不利波动应该是非常小的\n\n比如图一大约一天半的交易\n\n每笔的最大不利波动不超过400💲，好几笔都是0，进去就赚钱的这种\n\n仔细回想一下，你们做的很棒的单子，是不是进去就是朝着有利于你的方向移动的\n\n你的止损很快可以移动到保本线，至少你不会亏很多，即使你一直很快的移动到保本，A级交易也不会打到你的保本线，如果能打到你的保本线，那说明不是A级交易（自己作死不算）这就是A级交易的特征\n\n你们可以回顾自己的交易单去复盘一下",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HH9zA2uaoAE0lyr.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:52:05.435Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t还有一个定义就是 A级的交易，你的不利波动应该是非常小的 比如图一大约一天半的交易 每笔的最大不利波动不超过400💲，好几笔都是0，进去就赚钱的这种 仔细回想一下，你们做的很棒的单子，是不是进去就是朝着有利于你的方向移动的 你的止损很快可以移动到保本线，至少你不会亏很多，即使你一直很快的移动到保本，A级交易也不会打到你的保本线，如果能打到你的保本线，那说明不是A级交易（自己作死不算）这就是A级交易的特征 你们可以回顾自己的交易单去复盘一下\n\t[22:50 · 2026年5月10日](https://x.com/TradercBTC/status/2053487747755876771) [3786Views](https://x.com/TradercBTC/status/2053487747755876771)\n\t[4](https://x.com/i/status/2053487747755876771)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2053487747755876771"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"还有一个定义就是\n  \n  A级的交易，你的不利波动应该是非常小的\n  \n  比如图一大约一天半的交易\n  \n  每笔的最大不利波动不超过400💲，好几笔都是0，进去就赚钱的这种\n  \n  仔细回想一下，你们做的很棒的单子，是不是进去就是朝着有利于你的方向移动的\n  \n  你的止损很快可以移动到保本线，至少你不会亏很多，即使你一直很快的移动到保本，A级交易也不会打到你的保本线，如果能打到你的保本线，那说明不是A级交易（自己作死不算）这就是A级交易的特征\n  \n  你们可以回顾自己的交易单去复盘一下\" / X\nurl: \"https://x.com/TradercBTC/status/2053487747755876771\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2053487747755876771\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2053487747755876771/imgs/img-002-HH9zA2uaoAE0lyr-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-05-10T14:50:05.000Z\"\nsummary: |-\n  还有一个定义就是\n  \n  A级的交易，你的不利波动应该是非常小的\n  \n  比如图一大约一天半的交易\n  \n  每笔的最大不利波动不超过400💲，好几笔都是0，进去就赚钱的这种\n  \n  仔细回想一下，你们做的很棒的单子，是不是进去就是朝着有利于你的方向移动的\n  \n  你的止损很快可以移动到保本线，至少你不会亏很多，即使你一直很快的移动到保本，A级交易也不会打到你的保本线，如果能打到你的保本线，那说明不是A级交易（自己作死不算）这就是A级交易的特征\n  \n  你们可以回顾自己的交易单去复盘一下\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:52:05.435Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"还有一个定义就是\n\nA级的交易，你的不利波动应该是非常小的\n\n比如图一大约一天半的交易\n\n每笔的最大不利波动不超过400💲，好几笔都是0，进去就赚钱的这种\n\n仔细回想一下，你们做的很棒的单子，是不是进去就是朝着有利于你的方向移动的\n\n你的止损很快可以移动到保本线，至少你不会亏很多，即使你一直很快的移动到保本，A级交易也不会打到你的保本线，如果能打到你的保本线，那说明不是A级交易（自己作死不算）这就是A级交易的特征\n\n你们可以回顾自己的交易单去复盘一下\" / X\n\n- [![@TradercBTC](2053487747755876771/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t还有一个定义就是 A级的交易，你的不利波动应该是非常小的 比如图一大约一天半的交易 每笔的最大不利波动不超过400💲，好几笔都是0，进去就赚钱的这种 仔细回想一下，你们做的很棒的单子，是不是进去就是朝着有利于你的方向移动的 你的止损很快可以移动到保本线，至少你不会亏很多，即使你一直很快的移动到保本，A级交易也不会打到你的保本线，如果能打到你的保本线，那说明不是A级交易（自己作死不算）这就是A级交易的特征 你们可以回顾自己的交易单去复盘一下\n\t[22:50 · 2026年5月10日](https://x.com/TradercBTC/status/2053487747755876771) [3786Views](https://x.com/TradercBTC/status/2053487747755876771)\n\t[4](https://x.com/i/status/2053487747755876771)"
+}

@@ -1,0 +1,58 @@
+[info] Loading https://x.com/TradercBTC/status/2037494347093151875 with generic adapter
+[info] Downloaded 1 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2037494347093151875.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2037494347093151875/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2037494347093151875/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2037494347093151875/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2037494347093151875",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2037494347093151875",
+    "title": "trader-c on X: \"止盈不应该问\"到哪里利润最大我该跑\"应该问\"到什么程度，我继续持有的理由已经不充分了\"。\n\n比如你做多，4小时级别结构还是完好的，高低点还在抬升，那你就还有持有的理由。\n\n什么时候没理由了？结构被打破了。\n\n那这个打破的定义是什么？你用你自己最熟悉的逻辑去定义它就行。它不需要完美，它只需要明确。\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-03-27T11:38:01.000Z",
+    "summary": "止盈不应该问\"到哪里利润最大我该跑\"应该问\"到什么程度，我继续持有的理由已经不充分了\"。\n\n比如你做多，4小时级别结构还是完好的，高低点还在抬升，那你就还有持有的理由。\n\n什么时候没理由了？结构被打破了。\n\n那这个打破的定义是什么？你用你自己最熟悉的逻辑去定义它就行。它不需要完美，它只需要明确。",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:59:39.926Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n止盈不应该问\"到哪里利润最大我该跑\"应该问\"到什么程度，我继续持有的理由已经不充分了\"。 比如你做多，4小时级别结构还是完好的，高低点还在抬升，那你就还有持有的理由。 什么时候没理由了？结构被打破了。 那这个打破的定义是什么？你用你自己最熟悉的逻辑去定义它就行。它不需要完美，它只需要明确。\n\n[19:38 · 2026年3月27日](https://x.com/TradercBTC/status/2037494347093151875) [5150Views](https://x.com/TradercBTC/status/2037494347093151875)\n\n[2](https://x.com/i/status/2037494347093151875)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2037494347093151875"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"止盈不应该问\"到哪里利润最大我该跑\"应该问\"到什么程度，我继续持有的理由已经不充分了\"。\n  \n  比如你做多，4小时级别结构还是完好的，高低点还在抬升，那你就还有持有的理由。\n  \n  什么时候没理由了？结构被打破了。\n  \n  那这个打破的定义是什么？你用你自己最熟悉的逻辑去定义它就行。它不需要完美，它只需要明确。\" / X\nurl: \"https://x.com/TradercBTC/status/2037494347093151875\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2037494347093151875\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2037494347093151875/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-03-27T11:38:01.000Z\"\nsummary: |-\n  止盈不应该问\"到哪里利润最大我该跑\"应该问\"到什么程度，我继续持有的理由已经不充分了\"。\n  \n  比如你做多，4小时级别结构还是完好的，高低点还在抬升，那你就还有持有的理由。\n  \n  什么时候没理由了？结构被打破了。\n  \n  那这个打破的定义是什么？你用你自己最熟悉的逻辑去定义它就行。它不需要完美，它只需要明确。\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:59:39.926Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"止盈不应该问\"到哪里利润最大我该跑\"应该问\"到什么程度，我继续持有的理由已经不充分了\"。\n\n比如你做多，4小时级别结构还是完好的，高低点还在抬升，那你就还有持有的理由。\n\n什么时候没理由了？结构被打破了。\n\n那这个打破的定义是什么？你用你自己最熟悉的逻辑去定义它就行。它不需要完美，它只需要明确。\" / X\n\n[![@TradercBTC](2037494347093151875/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n止盈不应该问\"到哪里利润最大我该跑\"应该问\"到什么程度，我继续持有的理由已经不充分了\"。 比如你做多，4小时级别结构还是完好的，高低点还在抬升，那你就还有持有的理由。 什么时候没理由了？结构被打破了。 那这个打破的定义是什么？你用你自己最熟悉的逻辑去定义它就行。它不需要完美，它只需要明确。\n\n[19:38 · 2026年3月27日](https://x.com/TradercBTC/status/2037494347093151875) [5150Views](https://x.com/TradercBTC/status/2037494347093151875)\n\n[2](https://x.com/i/status/2037494347093151875)"
+}

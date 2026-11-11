@@ -1,0 +1,201 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 9,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-06-11T12:33:21.000Z",
+  "display_text_range": [
+    0,
+    74
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/aPS958uukq",
+        "expanded_url": "https://x.com/TradercBTC/status/2065049749053739503/photo/1",
+        "indices": [
+          75,
+          98
+        ],
+        "url": "https://t.co/aPS958uukq"
+      }
+    ]
+  },
+  "id_str": "2065049749053739503",
+  "text": "也算是弥补了一下，美盘再等个机会\n\n哎woc要是之前不乱操作\n\n这会应该是正50个点了\n\n乱操作一次几个点，止损一次十个点\n\n现在还是亏钱的。。。。 https://t.co/aPS958uukq",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2065049749053739503"
+    ],
+    "editable_until_msecs": "1781184801000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/aPS958uukq",
+      "expanded_url": "https://x.com/TradercBTC/status/2065049749053739503/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        75,
+        98
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HKiHbcpaAAAUc6l.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 999,
+            "w": 1784,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1344,
+            "w": 1344,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1344,
+            "w": 1179,
+            "x": 80,
+            "y": 0
+          },
+          {
+            "h": 1344,
+            "w": 672,
+            "x": 333,
+            "y": 0
+          },
+          {
+            "h": 1344,
+            "w": 1784,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1344,
+        "width": 1784
+      },
+      "sizes": {
+        "large": {
+          "h": 1344,
+          "resize": "fit",
+          "w": 1784
+        },
+        "medium": {
+          "h": 904,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 512,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/aPS958uukq"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 999,
+          "w": 1784,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1344,
+          "w": 1344,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1344,
+          "w": 1179,
+          "x": 80,
+          "y": 0
+        },
+        {
+          "h": 1344,
+          "w": 672,
+          "x": 333,
+          "y": 0
+        },
+        {
+          "h": 1344,
+          "w": 1784,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2065049749053739503/photo/1",
+      "url": "https://pbs.twimg.com/media/HKiHbcpaAAAUc6l.jpg",
+      "width": 1784,
+      "height": 1344
+    }
+  ],
+  "conversation_count": 1,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "favorite_count": 11,
+    "lang": "zh",
+    "reply_count": 5,
+    "retweet_count": 0,
+    "created_at": "2026-06-11T11:29:06.000Z",
+    "display_text_range": [
+      0,
+      147
+    ],
+    "entities": {},
+    "id_str": "2065033580536033651",
+    "text": "这日内做的，真的和失了智一样\n\n真的得减少看盘时间，以及不能做1min，说实话我写一份就点开看看，然后就手闲的想管一下\n\n这个最大的问题不是说做错单，而是贪婪和恐惧会控制我自己\n\n导致止盈做不好\n\n止盈本来就难，该赚钱的单子没赚，保本了，不赚钱的就纯亏\n\n自己看着都笨笨的🤔简直糟糕糟糕omg",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "initial_tweet_id": "2065033468921487772",
+      "edit_tweet_ids": [
+        "2065033468921487772",
+        "2065033580536033651"
+      ],
+      "editable_until_msecs": "1781180920000",
+      "edits_remaining": "4",
+      "is_edit_eligible": true
+    },
+    "isEdited": true,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

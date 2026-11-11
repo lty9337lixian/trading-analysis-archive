@@ -1,0 +1,65 @@
+[warn] No running Chrome debugger found for profile /Users/lu/Library/Application Support/baoyu-skills/chrome-profile. Launching Chrome with that profile.
+[info] Loading https://x.com/TradercBTC/status/2088529685357715924 with x adapter
+[info] Adapter x returned no structured document; falling back to generic extraction
+[info] Loading https://x.com/TradercBTC/status/2088529685357715924 with generic adapter
+[info] Downloaded 1 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2088529685357715924.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "login": {
+    "provider": "x",
+    "state": "unknown"
+  },
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2088529685357715924/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2088529685357715924/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2088529685357715924/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2088529685357715924",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2088529685357715924",
+    "title": "trader-c on X: \"每日研究问题之：\n\n「1:写作是否真的能改善思考与预测，而不只是改善表达？\n2:事前记录、概率预测、证伪条件分别在纠正什么认知偏差？\n3:“价格—预期差—催化剂”的结构为什么适用于二级市场？\n4:复盘和反馈在什么条件下有效，何时反而制造过拟合？\n5:有没有研究直接证明“写投研文章能提高交易收益”？」\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-15T07:34:14.000Z",
+    "summary": "每日研究问题之：\n\n「1:写作是否真的能改善思考与预测，而不只是改善表达？\n2:事前记录、概率预测、证伪条件分别在纠正什么认知偏差？\n3:“价格—预期差—催化剂”的结构为什么适用于二级市场？\n4:复盘和反馈在什么条件下有效，何时反而制造过拟合？\n5:有没有研究直接证明“写投研文章能提高交易收益”？」",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:45:02.207Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n每日研究问题之： 「1:写作是否真的能改善思考与预测，而不只是改善表达？ 2:事前记录、概率预测、证伪条件分别在纠正什么认知偏差？ 3:“价格—预期差—催化剂”的结构为什么适用于二级市场？ 4:复盘和反馈在什么条件下有效，何时反而制造过拟合？ 5:有没有研究直接证明“写投研文章能提高交易收益”？」\n\n[15:34 · 2026年8月15日](https://x.com/TradercBTC/status/2088529685357715924) [1306Views](https://x.com/TradercBTC/status/2088529685357715924)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2088529685357715924"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"每日研究问题之：\n  \n  「1:写作是否真的能改善思考与预测，而不只是改善表达？\n  2:事前记录、概率预测、证伪条件分别在纠正什么认知偏差？\n  3:“价格—预期差—催化剂”的结构为什么适用于二级市场？\n  4:复盘和反馈在什么条件下有效，何时反而制造过拟合？\n  5:有没有研究直接证明“写投研文章能提高交易收益”？」\" / X\nurl: \"https://x.com/TradercBTC/status/2088529685357715924\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2088529685357715924\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2088529685357715924/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-15T07:34:14.000Z\"\nsummary: |-\n  每日研究问题之：\n  \n  「1:写作是否真的能改善思考与预测，而不只是改善表达？\n  2:事前记录、概率预测、证伪条件分别在纠正什么认知偏差？\n  3:“价格—预期差—催化剂”的结构为什么适用于二级市场？\n  4:复盘和反馈在什么条件下有效，何时反而制造过拟合？\n  5:有没有研究直接证明“写投研文章能提高交易收益”？」\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:45:02.207Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"每日研究问题之：\n\n「1:写作是否真的能改善思考与预测，而不只是改善表达？\n2:事前记录、概率预测、证伪条件分别在纠正什么认知偏差？\n3:“价格—预期差—催化剂”的结构为什么适用于二级市场？\n4:复盘和反馈在什么条件下有效，何时反而制造过拟合？\n5:有没有研究直接证明“写投研文章能提高交易收益”？」\" / X\n\n[![@TradercBTC](2088529685357715924/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n每日研究问题之： 「1:写作是否真的能改善思考与预测，而不只是改善表达？ 2:事前记录、概率预测、证伪条件分别在纠正什么认知偏差？ 3:“价格—预期差—催化剂”的结构为什么适用于二级市场？ 4:复盘和反馈在什么条件下有效，何时反而制造过拟合？ 5:有没有研究直接证明“写投研文章能提高交易收益”？」\n\n[15:34 · 2026年8月15日](https://x.com/TradercBTC/status/2088529685357715924) [1306Views](https://x.com/TradercBTC/status/2088529685357715924)\n\nOnly some accounts can reply."
+}

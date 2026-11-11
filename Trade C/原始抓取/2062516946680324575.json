@@ -1,0 +1,72 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://abs.twimg.com/finance/v1/crypto/bitcoin/native.png",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HJ-HzpaaEAAP9v9.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2062516946680324575/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2062516946680324575/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://abs.twimg.com/finance/v1/crypto/bitcoin/native.png",
+        "localPath": "2062516946680324575/imgs/img-002-native.png",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2062516946680324575/imgs/img-002-native.png",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HJ-HzpaaEAAP9v9.jpg:large",
+        "localPath": "2062516946680324575/imgs/img-003-HJ-HzpaaEAAP9v9-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2062516946680324575/imgs/img-003-HJ-HzpaaEAAP9v9-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 3,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2062516946680324575/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2062516946680324575",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2062516946680324575",
+    "title": "trader-c on X: \"如果价格触及参考位，我短期的持仓逻辑就被证伪了\n\n这说明结构发生了变化，我会离开这一段行情\n\n但实际上感觉和我最开始的预期65差不了太多😂\n\n我没有吃到太多超出65的空间\n\n$BTC https://t.\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-06-04T12:48:54.000Z",
+    "summary": "如果价格触及参考位，我短期的持仓逻辑就被证伪了\n\n这说明结构发生了变化，我会离开这一段行情\n\n但实际上感觉和我最开始的预期65差不了太多😂\n\n我没有吃到太多超出65的空间\n\n$BTC https://t.",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HJ-HzpaaEAAP9v9.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:01:45.804Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n如果价格触及参考位，我短期的持仓逻辑就被证伪了 这说明结构发生了变化，我会离开这一段行情 但实际上感觉和我最开始的预期65差不了太多😂 我没有吃到太多超出65的空间 [$BTC](https://x.com/search?q=%24BTC%20OR%20bitcoin%3Anative&src=smarttag_click)\n\n- [![](https://abs.twimg.com/finance/v1/crypto/bitcoin/native.png)\n\tBitcoin\n\tBTC\n\tUS$79,898.00\n\t+0.35%\n\t](https://x.com/search?q=%24BTC%20OR%20bitcoin%3Anative&src=typeahead_click)\n\n[20:48 · 2026年6月4日](https://x.com/TradercBTC/status/2062516946680324575) [3824Views](https://x.com/TradercBTC/status/2062516946680324575)\n\n[1](https://x.com/i/status/2062516946680324575)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2062516946680324575"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"如果价格触及参考位，我短期的持仓逻辑就被证伪了\n  \n  这说明结构发生了变化，我会离开这一段行情\n  \n  但实际上感觉和我最开始的预期65差不了太多😂\n  \n  我没有吃到太多超出65的空间\n  \n  $BTC https://t./\" / X\nurl: \"https://x.com/TradercBTC/status/2062516946680324575\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2062516946680324575\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2062516946680324575/imgs/img-003-HJ-HzpaaEAAP9v9-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-06-04T12:48:54.000Z\"\nsummary: |-\n  如果价格触及参考位，我短期的持仓逻辑就被证伪了\n  \n  这说明结构发生了变化，我会离开这一段行情\n  \n  但实际上感觉和我最开始的预期65差不了太多😂\n  \n  我没有吃到太多超出65的空间\n  \n  $BTC https://t./\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:01:45.804Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"如果价格触及参考位，我短期的持仓逻辑就被证伪了\n\n这说明结构发生了变化，我会离开这一段行情\n\n但实际上感觉和我最开始的预期65差不了太多😂\n\n我没有吃到太多超出65的空间\n\n$BTC https://t./\" / X\n\n[![@TradercBTC](2062516946680324575/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n如果价格触及参考位，我短期的持仓逻辑就被证伪了 这说明结构发生了变化，我会离开这一段行情 但实际上感觉和我最开始的预期65差不了太多😂 我没有吃到太多超出65的空间 [$BTC](https://x.com/search?q=%24BTC%20OR%20bitcoin%3Anative&src=smarttag_click)\n\n- [![](2062516946680324575/imgs/img-002-native.png)\n\tBitcoin\n\tBTC\n\tUS$79,898.00\n\t+0.35%\n\t](https://x.com/search?q=%24BTC%20OR%20bitcoin%3Anative&src=typeahead_click)\n\n[20:48 · 2026年6月4日](https://x.com/TradercBTC/status/2062516946680324575) [3824Views](https://x.com/TradercBTC/status/2062516946680324575)\n\n[1](https://x.com/i/status/2062516946680324575)"
+}

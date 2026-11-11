@@ -1,0 +1,71 @@
+[warn] No running Chrome debugger found for profile /Users/lu/Library/Application Support/baoyu-skills/chrome-profile. Launching Chrome with that profile.
+[info] Loading https://x.com/TradercBTC/status/2095102989807845407 with x adapter
+[info] Adapter x returned no structured document; falling back to generic extraction
+[info] Loading https://x.com/TradercBTC/status/2095102989807845407 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2095102989807845407.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "login": {
+    "provider": "x",
+    "state": "unknown"
+  },
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HRNM3mXbAAA28Un.png:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2095102989807845407/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2095102989807845407/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HRNM3mXbAAA28Un.png:large",
+        "localPath": "2095102989807845407/imgs/img-002-HRNM3mXbAAA28Un-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2095102989807845407/imgs/img-002-HRNM3mXbAAA28Un-png-large.png",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2095102989807845407/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2095102989807845407",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2095102989807845407",
+    "title": "trader-c on X: \"开始复盘，将这一段SOL的行情分为两部分\n\n第一部分有一个比较好的入场时机，是因为我们在4小时的图表上看到他第一次突破9697这个阻力位置，然后市场回落到阻力位去测试，也就是我们第一个红色框框的位置，\n\n在那里，市场没有跌下来 我们看到价格是在那里进行了一个小幅盘整，然后再次突破向上冲高。这意味着市场在当时接受了突破后的价格。\n\n第二部分，实际上之前的推文里面已经分析过了 这里有两个比较好的入场点\n\n第一个好的入场点是在第二部分的第一个标注的那里，也就是104那里，它实际上是在1小时级别里面 我们看到的那个小的方框，它是时长跌破了前一段上涨的结构低点，回测了哪… / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-09-02T10:54:12.000Z",
+    "summary": "开始复盘，将这一段SOL的行情分为两部分\n\n第一部分有一个比较好的入场时机，是因为我们在4小时的图表上看到他第一次突破9697这个阻力位置，然后市场回落到阻力位去测试，也就是我们第一个红色框框的位置，\n\n在那里，市场没有跌下来 我们看到价格是在那里进行了一个小幅盘整，然后再次突破向上冲高。这意味着市场在当时接受了突破后的价格。\n\n第二部分，实际上之前的推文里面已经分析过了 这里有两个比较好的入场点\n\n第一个好的入场点是在第二部分的第一个标注的那里，也就是104那里，它实际上是在1小时级别里面 我们看到的那个小的方框，它是时长跌破了前一段上涨的结构低点，回测了哪里这里，也就是市场接受了跌破LT…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HRNM3mXbAAA28Un.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:39:28.891Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t开始复盘，将这一段SOL的行情分为两部分 第一部分有一个比较好的入场时机，是因为我们在4小时的图表上看到他第一次突破9697这个阻力位置，然后市场回落到阻力位去测试，也就是我们第一个红色框框的位置， 在那里，市场没有跌下来 我们看到价格是在那里进行了一个小幅盘整，然后再次突破向上冲高。这意味着市场在当时接受了突破后的价格。 第二部分，实际上之前的推文里面已经分析过了 这里有两个比较好的入场点 第一个好的入场点是在第二部分的第一个标注的那里，也就是104那里，它实际上是在1小时级别里面 我们看到的那个小的方框，它是时长跌破了前一段上涨的结构低点，回测了哪里这里，也就是市场接受了跌破LTF支撑位以下的价格 第二个是4小时的区间的这个支撑位被跌破之后和第一部分。突破之后回踩阻力位，这里是跌破之后回踩支撑位，在那里横盘继续向下的时候，是一个很好的位置\n\t[18:54 · 2026年9月2日](https://x.com/TradercBTC/status/2095102989807845407) [4472Views](https://x.com/TradercBTC/status/2095102989807845407)\n\t[2](https://x.com/i/status/2095102989807845407)\n\tOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2095102989807845407"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"开始复盘，将这一段SOL的行情分为两部分\n  \n  第一部分有一个比较好的入场时机，是因为我们在4小时的图表上看到他第一次突破9697这个阻力位置，然后市场回落到阻力位去测试，也就是我们第一个红色框框的位置，\n  \n  在那里，市场没有跌下来 我们看到价格是在那里进行了一个小幅盘整，然后再次突破向上冲高。这意味着市场在当时接受了突破后的价格。\n  \n  第二部分，实际上之前的推文里面已经分析过了 这里有两个比较好的入场点\n  \n  第一个好的入场点是在第二部分的第一个标注的那里，也就是104那里，它实际上是在1小时级别里面 我们看到的那个小的方框，它是时长跌破了前一段上涨的结构低点，回测了哪… / X\nurl: \"https://x.com/TradercBTC/status/2095102989807845407\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2095102989807845407\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2095102989807845407/imgs/img-002-HRNM3mXbAAA28Un-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-09-02T10:54:12.000Z\"\nsummary: |-\n  开始复盘，将这一段SOL的行情分为两部分\n  \n  第一部分有一个比较好的入场时机，是因为我们在4小时的图表上看到他第一次突破9697这个阻力位置，然后市场回落到阻力位去测试，也就是我们第一个红色框框的位置，\n  \n  在那里，市场没有跌下来 我们看到价格是在那里进行了一个小幅盘整，然后再次突破向上冲高。这意味着市场在当时接受了突破后的价格。\n  \n  第二部分，实际上之前的推文里面已经分析过了 这里有两个比较好的入场点\n  \n  第一个好的入场点是在第二部分的第一个标注的那里，也就是104那里，它实际上是在1小时级别里面 我们看到的那个小的方框，它是时长跌破了前一段上涨的结构低点，回测了哪里这里，也就是市场接受了跌破LT…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:39:28.891Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"开始复盘，将这一段SOL的行情分为两部分\n\n第一部分有一个比较好的入场时机，是因为我们在4小时的图表上看到他第一次突破9697这个阻力位置，然后市场回落到阻力位去测试，也就是我们第一个红色框框的位置，\n\n在那里，市场没有跌下来 我们看到价格是在那里进行了一个小幅盘整，然后再次突破向上冲高。这意味着市场在当时接受了突破后的价格。\n\n第二部分，实际上之前的推文里面已经分析过了 这里有两个比较好的入场点\n\n第一个好的入场点是在第二部分的第一个标注的那里，也就是104那里，它实际上是在1小时级别里面 我们看到的那个小的方框，它是时长跌破了前一段上涨的结构低点，回测了哪… / X\n\n- [![@TradercBTC](2095102989807845407/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t开始复盘，将这一段SOL的行情分为两部分 第一部分有一个比较好的入场时机，是因为我们在4小时的图表上看到他第一次突破9697这个阻力位置，然后市场回落到阻力位去测试，也就是我们第一个红色框框的位置， 在那里，市场没有跌下来 我们看到价格是在那里进行了一个小幅盘整，然后再次突破向上冲高。这意味着市场在当时接受了突破后的价格。 第二部分，实际上之前的推文里面已经分析过了 这里有两个比较好的入场点 第一个好的入场点是在第二部分的第一个标注的那里，也就是104那里，它实际上是在1小时级别里面 我们看到的那个小的方框，它是时长跌破了前一段上涨的结构低点，回测了哪里这里，也就是市场接受了跌破LTF支撑位以下的价格 第二个是4小时的区间的这个支撑位被跌破之后和第一部分。突破之后回踩阻力位，这里是跌破之后回踩支撑位，在那里横盘继续向下的时候，是一个很好的位置\n\t[18:54 · 2026年9月2日](https://x.com/TradercBTC/status/2095102989807845407) [4472Views](https://x.com/TradercBTC/status/2095102989807845407)\n\t[2](https://x.com/i/status/2095102989807845407)\n\tOnly some accounts can reply."
+}

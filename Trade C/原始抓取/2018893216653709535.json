@@ -1,0 +1,73 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HASLz1IaUAEoSbM.png:large",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HAKjGxzakAAQjth?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/HASLz1IaUAEoSbM.png:large",
+        "localPath": "2018893216653709535/imgs/img-001-HASLz1IaUAEoSbM-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2018893216653709535/imgs/img-001-HASLz1IaUAEoSbM-png-large.png",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2018893216653709535/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2018893216653709535/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HAKjGxzakAAQjth?format=webp&name=medium",
+        "localPath": "2018893216653709535/imgs/img-003-HAKjGxzakAAQjth.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2018893216653709535/imgs/img-003-HAKjGxzakAAQjth.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 3,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2018893216653709535/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2018893216653709535",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2018893216653709535",
+    "title": "trader-c on X: \"$GOLD 确实没有跌破，这里的支撑还是非常强的，毕竟是之前真金白银磨出来的顶部 继续突破新高的可能性非常低，至少不是这种W突破，非常扯淡 如果在受阻之后回归底下这个区间盘整，测试真实买盘，真实买盘的力度足够的话继续向上才有可能继续up 总之还是那句话，强观点弱持有，现在黄金的走势，你甚至都不能说是强观点 弱观点弱持有，因为太过疯狂以至于你不能抱有任何交易主观偏见，太容易挨打了（做小周期除外，小周期看5min和15min就按照正常节奏走）\"",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-04T03:43:46.000Z",
+    "summary": "$GOLD 确实没有跌破，这里的支撑还是非常强的，毕竟是之前真金白银磨出来的顶部\n\n继续突破新高的可能性非常低，至少不是这种W突破，非常扯淡\n\n如果在受阻之后回归底下这个区间盘整，测试真实买盘，真实买盘的力度足够的话继续向上才有可能继续up\n\n总之还是那句话，强观点弱持有，现在黄金的走势，你甚至都不能说是强观点\n\n弱观点弱持有，因为太过疯狂以至于你不能抱有任何交易主观偏见，太容易挨打了（做小周期除外，小周期看5min和15min就按照正常节奏走）",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HASLz1IaUAEoSbM.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:07:57.448Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[$GOLD](https://x.com/search?q=$GOLD) 确实没有跌破，这里的支撑还是非常强的，毕竟是之前真金白银磨出来的顶部 继续突破新高的可能性非常低，至少不是这种W突破，非常扯淡 如果在受阻之后回归底下这个区间盘整，测试真实买盘，真实买盘的力度足够的话继续向上才有可能继续up 总之还是那句话，强观点弱持有，现在黄金的走势，你甚至都不能说是强观点 弱观点弱持有，因为太过疯狂以至于你不能抱有任何交易主观偏见，太容易挨打了（做小周期除外，小周期看5min和15min就按照正常节奏走）\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[2月2日](https://x.com/TradercBTC/status/2018355579639808319)\n\n[$GOLD](https://x.com/search?q=$GOLD) 黄金的短线结构走了一波回调 但是15min短暂回调的上升结构被打破了 但是这地下这个位置是上一波上涨的顶点，支撑还是蛮强的 一次性跌破的可能性不大，大概率在这上下震荡一次\n\n[![](https://pbs.twimg.com/media/HAKjGxzakAAQjth?format=webp&name=medium)](https://x.com/TradercBTC/status/2018355579639808319/photo/1)\n\n[11:43 · 2026年2月4日](https://x.com/TradercBTC/status/2018893216653709535)[7290Views](https://x.com/TradercBTC/status/2018893216653709535)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2018893216653709535"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"$GOLD 确实没有跌破，这里的支撑还是非常强的，毕竟是之前真金白银磨出来的顶部 继续突破新高的可能性非常低，至少不是这种W突破，非常扯淡 如果在受阻之后回归底下这个区间盘整，测试真实买盘，真实买盘的力度足够的话继续向上才有可能继续up 总之还是那句话，强观点弱持有，现在黄金的走势，你甚至都不能说是强观点 弱观点弱持有，因为太过疯狂以至于你不能抱有任何交易主观偏见，太容易挨打了（做小周期除外，小周期看5min和15min就按照正常节奏走）\\\"\"\nurl: \"https://x.com/TradercBTC/status/2018893216653709535\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2018893216653709535\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2018893216653709535/imgs/img-001-HASLz1IaUAEoSbM-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-04T03:43:46.000Z\"\nsummary: |-\n  $GOLD 确实没有跌破，这里的支撑还是非常强的，毕竟是之前真金白银磨出来的顶部\n  \n  继续突破新高的可能性非常低，至少不是这种W突破，非常扯淡\n  \n  如果在受阻之后回归底下这个区间盘整，测试真实买盘，真实买盘的力度足够的话继续向上才有可能继续up\n  \n  总之还是那句话，强观点弱持有，现在黄金的走势，你甚至都不能说是强观点\n  \n  弱观点弱持有，因为太过疯狂以至于你不能抱有任何交易主观偏见，太容易挨打了（做小周期除外，小周期看5min和15min就按照正常节奏走）\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:07:57.448Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"$GOLD 确实没有跌破，这里的支撑还是非常强的，毕竟是之前真金白银磨出来的顶部 继续突破新高的可能性非常低，至少不是这种W突破，非常扯淡 如果在受阻之后回归底下这个区间盘整，测试真实买盘，真实买盘的力度足够的话继续向上才有可能继续up 总之还是那句话，强观点弱持有，现在黄金的走势，你甚至都不能说是强观点 弱观点弱持有，因为太过疯狂以至于你不能抱有任何交易主观偏见，太容易挨打了（做小周期除外，小周期看5min和15min就按照正常节奏走）\"\n\n[![@TradercBTC](2018893216653709535/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[$GOLD](https://x.com/search?q=$GOLD) 确实没有跌破，这里的支撑还是非常强的，毕竟是之前真金白银磨出来的顶部 继续突破新高的可能性非常低，至少不是这种W突破，非常扯淡 如果在受阻之后回归底下这个区间盘整，测试真实买盘，真实买盘的力度足够的话继续向上才有可能继续up 总之还是那句话，强观点弱持有，现在黄金的走势，你甚至都不能说是强观点 弱观点弱持有，因为太过疯狂以至于你不能抱有任何交易主观偏见，太容易挨打了（做小周期除外，小周期看5min和15min就按照正常节奏走）\n\n[![@TradercBTC](2018893216653709535/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[2月2日](https://x.com/TradercBTC/status/2018355579639808319)\n\n[$GOLD](https://x.com/search?q=$GOLD) 黄金的短线结构走了一波回调 但是15min短暂回调的上升结构被打破了 但是这地下这个位置是上一波上涨的顶点，支撑还是蛮强的 一次性跌破的可能性不大，大概率在这上下震荡一次\n\n[![](2018893216653709535/imgs/img-003-HAKjGxzakAAQjth.webp)](https://x.com/TradercBTC/status/2018355579639808319/photo/1)\n\n[11:43 · 2026年2月4日](https://x.com/TradercBTC/status/2018893216653709535)[7290Views](https://x.com/TradercBTC/status/2018893216653709535)"
+}

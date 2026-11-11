@@ -1,0 +1,235 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 5,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-02-05T01:19:01.000Z",
+  "display_text_range": [
+    0,
+    130
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/qFui0k2h5M",
+        "expanded_url": "https://x.com/TradercBTC/status/2019219173956808958/photo/1",
+        "indices": [
+          131,
+          154
+        ],
+        "url": "https://t.co/qFui0k2h5M"
+      }
+    ],
+    "symbols": [
+      {
+        "indices": [
+          0,
+          5
+        ],
+        "text": "HYPE"
+      }
+    ]
+  },
+  "id_str": "2019219173956808958",
+  "text": "$HYPE 日线和周线还是非常强势的，连续阳k\n\n小时级别基本上都是多头均线排布\n\n第一次上涨偏离度太高，但是中间走了一个下跌三推，虽然转为箱体震荡了，但是在箱体测试了买方力量\n\n这说明第二波上涨是真金白银，有买方力量的上涨\n\n可以看到价格沿着趋势线走上升结构 https://t.co/qFui0k2h5M",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2019219173956808958"
+    ],
+    "editable_until_msecs": "1770257941000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/qFui0k2h5M",
+      "expanded_url": "https://x.com/TradercBTC/status/2019219173956808958/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        131,
+        154
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HAW0PfobUAA2CHR.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1742,
+            "w": 3110,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1918,
+            "w": 1918,
+            "x": 207,
+            "y": 0
+          },
+          {
+            "h": 1918,
+            "w": 1682,
+            "x": 325,
+            "y": 0
+          },
+          {
+            "h": 1918,
+            "w": 959,
+            "x": 687,
+            "y": 0
+          },
+          {
+            "h": 1918,
+            "w": 3110,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1918,
+        "width": 3110
+      },
+      "sizes": {
+        "large": {
+          "h": 1263,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 740,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 419,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/qFui0k2h5M"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1742,
+          "w": 3110,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1918,
+          "w": 1918,
+          "x": 207,
+          "y": 0
+        },
+        {
+          "h": 1918,
+          "w": 1682,
+          "x": 325,
+          "y": 0
+        },
+        {
+          "h": 1918,
+          "w": 959,
+          "x": 687,
+          "y": 0
+        },
+        {
+          "h": 1918,
+          "w": 3110,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2019219173956808958/photo/1",
+      "url": "https://pbs.twimg.com/media/HAW0PfobUAA2CHR.jpg",
+      "width": 3110,
+      "height": 1918
+    }
+  ],
+  "conversation_count": 1,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "favorite_count": 1,
+    "in_reply_to_screen_name": "TradercBTC",
+    "in_reply_to_status_id_str": "2018999835131891837",
+    "in_reply_to_user_id_str": "1921065617479921670",
+    "lang": "zh",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "created_at": "2026-02-04T20:20:40.000Z",
+    "display_text_range": [
+      12,
+      28
+    ],
+    "entities": {
+      "symbols": [
+        {
+          "indices": [
+            18,
+            23
+          ],
+          "text": "hype"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "1921065617479921670",
+          "indices": [
+            0,
+            11
+          ],
+          "name": "trader-c",
+          "screen_name": "TradercBTC"
+        }
+      ]
+    },
+    "id_str": "2019144095629996421",
+    "text": "@TradercBTC 老师能讲讲 $hype 吗，感谢",
+    "user": {
+      "id_str": "1978479799468482560",
+      "name": "Last炫神、",
+      "screen_name": "xujiahao1xu",
+      "is_blue_verified": false,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1978479855911182336/jUfeX9dk_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2019144095629996421"
+      ],
+      "editable_until_msecs": "1770240040000",
+      "edits_remaining": "5",
+      "is_edit_eligible": false
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDE5MjE5MTczODkzODk0MTQ3"
+  }
+}

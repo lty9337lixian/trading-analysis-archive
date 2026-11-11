@@ -1,0 +1,65 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "login": {
+    "provider": "x",
+    "state": "unknown"
+  },
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HRdRv7oasAAVhRG.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2096234425461977120/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2096234425461977120/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HRdRv7oasAAVhRG.jpg:large",
+        "localPath": "2096234425461977120/imgs/img-002-HRdRv7oasAAVhRG-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2096234425461977120/imgs/img-002-HRdRv7oasAAVhRG-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2096234425461977120/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2096234425461977120",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2096234425461977120",
+    "title": "trader-c on X: \"纳指大小周期阻力位共振\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-09-05T13:50:07.000Z",
+    "summary": "纳指大小周期阻力位共振",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HRdRv7oasAAVhRG.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:36:22.910Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n纳指大小周期阻力位共振\n\n[21:50 · 2026年9月5日](https://x.com/TradercBTC/status/2096234425461977120) [1162Views](https://x.com/TradercBTC/status/2096234425461977120)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2096234425461977120"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"纳指大小周期阻力位共振\\\" / X\"\nurl: \"https://x.com/TradercBTC/status/2096234425461977120\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2096234425461977120\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2096234425461977120/imgs/img-002-HRdRv7oasAAVhRG-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-09-05T13:50:07.000Z\"\nsummary: \"纳指大小周期阻力位共振\"\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:36:22.910Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"纳指大小周期阻力位共振\" / X\n\n[![@TradercBTC](2096234425461977120/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n纳指大小周期阻力位共振\n\n[21:50 · 2026年9月5日](https://x.com/TradercBTC/status/2096234425461977120) [1162Views](https://x.com/TradercBTC/status/2096234425461977120)\n\nOnly some accounts can reply."
+}

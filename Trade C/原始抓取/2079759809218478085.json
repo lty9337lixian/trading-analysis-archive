@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HNzKDcNaUAAjp16.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2079759809218478085/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2079759809218478085/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HNzKDcNaUAAjp16.jpg:large",
+        "localPath": "2079759809218478085/imgs/img-002-HNzKDcNaUAAjp16-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2079759809218478085/imgs/img-002-HNzKDcNaUAAjp16-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2079759809218478085/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2079759809218478085",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2079759809218478085",
+    "title": "trader-c on X: \"BTC还会继续涨吗？\n\n纯鸡肋行情啊，因为还是处于震荡区间\n\n我们已经拿到了这一波上涨的利润\n\n接下来做多继续入场的理由只有押注突破了\n\n感觉很鸡肋，赔率也不好\n\n不如等待突破失败进入下跌，押注做空\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-07-22T02:45:53.000Z",
+    "summary": "BTC还会继续涨吗？\n\n纯鸡肋行情啊，因为还是处于震荡区间\n\n我们已经拿到了这一波上涨的利润\n\n接下来做多继续入场的理由只有押注突破了\n\n感觉很鸡肋，赔率也不好\n\n不如等待突破失败进入下跌，押注做空",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HNzKDcNaUAAjp16.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:03:29.630Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\nBTC还会继续涨吗？ 纯鸡肋行情啊，因为还是处于震荡区间 我们已经拿到了这一波上涨的利润 接下来做多继续入场的理由只有押注突破了 感觉很鸡肋，赔率也不好 不如等待突破失败进入下跌，押注做空\n\n[10:45 · 2026年7月22日](https://x.com/TradercBTC/status/2079759809218478085) [3238Views](https://x.com/TradercBTC/status/2079759809218478085)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2079759809218478085"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"BTC还会继续涨吗？\n  \n  纯鸡肋行情啊，因为还是处于震荡区间\n  \n  我们已经拿到了这一波上涨的利润\n  \n  接下来做多继续入场的理由只有押注突破了\n  \n  感觉很鸡肋，赔率也不好\n  \n  不如等待突破失败进入下跌，押注做空\" / X\nurl: \"https://x.com/TradercBTC/status/2079759809218478085\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2079759809218478085\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2079759809218478085/imgs/img-002-HNzKDcNaUAAjp16-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-07-22T02:45:53.000Z\"\nsummary: |-\n  BTC还会继续涨吗？\n  \n  纯鸡肋行情啊，因为还是处于震荡区间\n  \n  我们已经拿到了这一波上涨的利润\n  \n  接下来做多继续入场的理由只有押注突破了\n  \n  感觉很鸡肋，赔率也不好\n  \n  不如等待突破失败进入下跌，押注做空\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:03:29.630Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"BTC还会继续涨吗？\n\n纯鸡肋行情啊，因为还是处于震荡区间\n\n我们已经拿到了这一波上涨的利润\n\n接下来做多继续入场的理由只有押注突破了\n\n感觉很鸡肋，赔率也不好\n\n不如等待突破失败进入下跌，押注做空\" / X\n\n[![@TradercBTC](2079759809218478085/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\nBTC还会继续涨吗？ 纯鸡肋行情啊，因为还是处于震荡区间 我们已经拿到了这一波上涨的利润 接下来做多继续入场的理由只有押注突破了 感觉很鸡肋，赔率也不好 不如等待突破失败进入下跌，押注做空\n\n[10:45 · 2026年7月22日](https://x.com/TradercBTC/status/2079759809218478085) [3238Views](https://x.com/TradercBTC/status/2079759809218478085)\n\nOnly some accounts can reply."
+}

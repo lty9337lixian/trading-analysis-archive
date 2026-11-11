@@ -1,0 +1,58 @@
+[info] Loading https://x.com/TradercBTC/status/2066806577483731327 with generic adapter
+[info] Downloaded 1 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2066806577483731327.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2066806577483731327/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2066806577483731327/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2066806577483731327/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2066806577483731327",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2066806577483731327",
+    "title": "trader-c on X: \"某种程度上而言\n\n稳定盈利确实是一种状态，而非境界\n\n比如今早我挂了黄金，然后随着ATR变动，移动了我的止损\n\n结果刚好打掉我的止损上去\n\n原本我可以赚60个点，但是现在我亏了10个点\n\n这种感觉并不好受\n\n今天总共做了三个决定\n\n一个是买稀土和新能源。\n\n一个是stop的黄金\n\n一个是买了btc的多\n\n其中两个都是按照波段来进行，因此短期噪音基本忽略，即使我状态不好，时间拉长也容易拉回来。\n\n一个是日内的黄金，这个问题在于，我早上6点挂的单子，实际上日内那个位置并不好，间接导致我在后续的持仓发送变化\n\n并且今天我还要去做高铁等一系列的事情分散了我的心神和精力… / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-06-16T08:54:22.000Z",
+    "summary": "某种程度上而言\n\n稳定盈利确实是一种状态，而非境界\n\n比如今早我挂了黄金，然后随着ATR变动，移动了我的止损\n\n结果刚好打掉我的止损上去\n\n原本我可以赚60个点，但是现在我亏了10个点\n\n这种感觉并不好受\n\n今天总共做了三个决定\n\n一个是买稀土和新能源。\n\n一个是stop的黄金\n\n一个是买了btc的多\n\n其中两个都是按照波段来进行，因此短期噪音基本忽略，即使我状态不好，时间拉长也容易拉回来。\n\n一个是日内的黄金，这个问题在于，我早上6点挂的单子，实际上日内那个位置并不好，间接导致我在后续的持仓发送变化\n\n并且今天我还要去做高铁等一系列的事情分散了我的心神和精力\n\n尤其傻逼深圳还在下大雨。。。…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:02:17.182Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t某种程度上而言 稳定盈利确实是一种状态，而非境界 比如今早我挂了黄金，然后随着ATR变动，移动了我的止损 结果刚好打掉我的止损上去 原本我可以赚60个点，但是现在我亏了10个点 这种感觉并不好受 今天总共做了三个决定 一个是买稀土和新能源。 一个是stop的黄金 一个是买了btc的多 其中两个都是按照波段来进行，因此短期噪音基本忽略，即使我状态不好，时间拉长也容易拉回来。 一个是日内的黄金，这个问题在于，我早上6点挂的单子，实际上日内那个位置并不好，间接导致我在后续的持仓发送变化 并且今天我还要去做高铁等一系列的事情分散了我的心神和精力 尤其傻逼深圳还在下大雨。。。。。\n\t[16:54 · 2026年6月16日](https://x.com/TradercBTC/status/2066806577483731327) [2843Views](https://x.com/TradercBTC/status/2066806577483731327)\n\t[1](https://x.com/i/status/2066806577483731327)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2066806577483731327"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"某种程度上而言\n  \n  稳定盈利确实是一种状态，而非境界\n  \n  比如今早我挂了黄金，然后随着ATR变动，移动了我的止损\n  \n  结果刚好打掉我的止损上去\n  \n  原本我可以赚60个点，但是现在我亏了10个点\n  \n  这种感觉并不好受\n  \n  今天总共做了三个决定\n  \n  一个是买稀土和新能源。\n  \n  一个是stop的黄金\n  \n  一个是买了btc的多\n  \n  其中两个都是按照波段来进行，因此短期噪音基本忽略，即使我状态不好，时间拉长也容易拉回来。\n  \n  一个是日内的黄金，这个问题在于，我早上6点挂的单子，实际上日内那个位置并不好，间接导致我在后续的持仓发送变化\n  \n  并且今天我还要去做高铁等一系列的事情分散了我的心神和精力… / X\nurl: \"https://x.com/TradercBTC/status/2066806577483731327\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2066806577483731327\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2066806577483731327/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-06-16T08:54:22.000Z\"\nsummary: |-\n  某种程度上而言\n  \n  稳定盈利确实是一种状态，而非境界\n  \n  比如今早我挂了黄金，然后随着ATR变动，移动了我的止损\n  \n  结果刚好打掉我的止损上去\n  \n  原本我可以赚60个点，但是现在我亏了10个点\n  \n  这种感觉并不好受\n  \n  今天总共做了三个决定\n  \n  一个是买稀土和新能源。\n  \n  一个是stop的黄金\n  \n  一个是买了btc的多\n  \n  其中两个都是按照波段来进行，因此短期噪音基本忽略，即使我状态不好，时间拉长也容易拉回来。\n  \n  一个是日内的黄金，这个问题在于，我早上6点挂的单子，实际上日内那个位置并不好，间接导致我在后续的持仓发送变化\n  \n  并且今天我还要去做高铁等一系列的事情分散了我的心神和精力\n  \n  尤其傻逼深圳还在下大雨。。。…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:02:17.182Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"某种程度上而言\n\n稳定盈利确实是一种状态，而非境界\n\n比如今早我挂了黄金，然后随着ATR变动，移动了我的止损\n\n结果刚好打掉我的止损上去\n\n原本我可以赚60个点，但是现在我亏了10个点\n\n这种感觉并不好受\n\n今天总共做了三个决定\n\n一个是买稀土和新能源。\n\n一个是stop的黄金\n\n一个是买了btc的多\n\n其中两个都是按照波段来进行，因此短期噪音基本忽略，即使我状态不好，时间拉长也容易拉回来。\n\n一个是日内的黄金，这个问题在于，我早上6点挂的单子，实际上日内那个位置并不好，间接导致我在后续的持仓发送变化\n\n并且今天我还要去做高铁等一系列的事情分散了我的心神和精力… / X\n\n- [![@TradercBTC](2066806577483731327/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t某种程度上而言 稳定盈利确实是一种状态，而非境界 比如今早我挂了黄金，然后随着ATR变动，移动了我的止损 结果刚好打掉我的止损上去 原本我可以赚60个点，但是现在我亏了10个点 这种感觉并不好受 今天总共做了三个决定 一个是买稀土和新能源。 一个是stop的黄金 一个是买了btc的多 其中两个都是按照波段来进行，因此短期噪音基本忽略，即使我状态不好，时间拉长也容易拉回来。 一个是日内的黄金，这个问题在于，我早上6点挂的单子，实际上日内那个位置并不好，间接导致我在后续的持仓发送变化 并且今天我还要去做高铁等一系列的事情分散了我的心神和精力 尤其傻逼深圳还在下大雨。。。。。\n\t[16:54 · 2026年6月16日](https://x.com/TradercBTC/status/2066806577483731327) [2843Views](https://x.com/TradercBTC/status/2066806577483731327)\n\t[1](https://x.com/i/status/2066806577483731327)"
+}

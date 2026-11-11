@@ -1,0 +1,55 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2046149294454194653/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2046149294454194653/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2046149294454194653/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2046149294454194653",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2046149294454194653",
+    "title": "trader-c on X: \"保本止损通常不是最优选择\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-04-20T08:49:42.000Z",
+    "summary": "保本止损通常不是最优选择",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:00:36.196Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[4月20日](https://x.com/TradercBTC/status/2046137856918425947)\n\n短线的胜率确实要高一些 跑的快 波段交易常常胜率在40%浮动，再高一些总体盈亏反倒变少，容易拿不稳或者错过大行情 两者风格非常明显倒是 很多环节都是牵一发而动全身"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2046149294454194653"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"保本止损通常不是最优选择\\\" / X\"\nurl: \"https://x.com/TradercBTC/status/2046149294454194653\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2046149294454194653\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2046149294454194653/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-04-20T08:49:42.000Z\"\nsummary: \"保本止损通常不是最优选择\"\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:00:36.196Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"保本止损通常不是最优选择\" / X\n\n[![@TradercBTC](2046149294454194653/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[4月20日](https://x.com/TradercBTC/status/2046137856918425947)\n\n短线的胜率确实要高一些 跑的快 波段交易常常胜率在40%浮动，再高一些总体盈亏反倒变少，容易拿不稳或者错过大行情 两者风格非常明显倒是 很多环节都是牵一发而动全身"
+}

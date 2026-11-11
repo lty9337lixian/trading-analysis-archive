@@ -1,0 +1,63 @@
+[info] Loading https://x.com/TradercBTC/status/2054828075410682209 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2054828075410682209.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2054828075410682209/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2054828075410682209/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+        "localPath": "2054828075410682209/imgs/img-002-image.png",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2054828075410682209/imgs/img-002-image.png",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2054828075410682209/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2054828075410682209",
+    "canonicalUrl": "https://x.com/i/status/2054828075410682209",
+    "title": "X on X / X",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-05-14T07:36:04.694Z",
+    "summary": "X on X",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:01:32.599Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n当然可以，这是非常优秀的做法 不过止损取决于你的交易逻辑，入场前你对这笔交易的预期是什么，主要是依据这个\n\n[15:36 · 2026年5月14日](https://x.com/TradercBTC/status/2054828075410682209) [137Views](https://x.com/TradercBTC/status/2054828075410682209)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2054828075410682209"
+  },
+  "markdown": "---\ntitle: \"X on X / X\"\nurl: \"https://x.com/i/status/2054828075410682209\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2054828075410682209\"\ncoverImage: \"2054828075410682209/imgs/img-002-image.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-05-14T07:36:04.694Z\"\nsummary: \"X on X\"\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:01:32.599Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# X on X / X\n\n[![@TradercBTC](2054828075410682209/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n当然可以，这是非常优秀的做法 不过止损取决于你的交易逻辑，入场前你对这笔交易的预期是什么，主要是依据这个\n\n[15:36 · 2026年5月14日](https://x.com/TradercBTC/status/2054828075410682209) [137Views](https://x.com/TradercBTC/status/2054828075410682209)"
+}

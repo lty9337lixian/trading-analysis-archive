@@ -1,0 +1,352 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 13,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-01-28T01:14:44.000Z",
+  "display_text_range": [
+    0,
+    128
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/TS5OcasEf5",
+        "expanded_url": "https://x.com/TradercBTC/status/2016318993217536255/photo/1",
+        "indices": [
+          129,
+          152
+        ],
+        "url": "https://t.co/TS5OcasEf5"
+      }
+    ],
+    "symbols": [
+      {
+        "indices": [
+          0,
+          4
+        ],
+        "text": "BTC"
+      }
+    ]
+  },
+  "id_str": "2016318993217536255",
+  "text": "$BTC morning （woc，gm打多了，刚才发现morning不回拼了，我以为我没睡醒）\n\n还不错，睡起来看到我们最想看到的走势出现，一根大阳k的突破，后续的追随也不是很糟糕，没有被打回区间\n\n从k线上看，昨天还是画了几次门，画门的下跌成交量也很高 https://t.co/TS5OcasEf5",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2016318993217536255"
+    ],
+    "editable_until_msecs": "1769566484000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/TS5OcasEf5",
+      "expanded_url": "https://x.com/TradercBTC/status/2016318993217536255/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        129,
+        152
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/G_tltTFXMAAdEs-.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1521,
+            "w": 2716,
+            "x": 0,
+            "y": 37
+          },
+          {
+            "h": 1558,
+            "w": 1558,
+            "x": 101,
+            "y": 0
+          },
+          {
+            "h": 1558,
+            "w": 1367,
+            "x": 197,
+            "y": 0
+          },
+          {
+            "h": 1558,
+            "w": 779,
+            "x": 491,
+            "y": 0
+          },
+          {
+            "h": 1558,
+            "w": 2716,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1558,
+        "width": 2716
+      },
+      "sizes": {
+        "large": {
+          "h": 1175,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 688,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 390,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/TS5OcasEf5"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1521,
+          "w": 2716,
+          "x": 0,
+          "y": 37
+        },
+        {
+          "h": 1558,
+          "w": 1558,
+          "x": 101,
+          "y": 0
+        },
+        {
+          "h": 1558,
+          "w": 1367,
+          "x": 197,
+          "y": 0
+        },
+        {
+          "h": 1558,
+          "w": 779,
+          "x": 491,
+          "y": 0
+        },
+        {
+          "h": 1558,
+          "w": 2716,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2016318993217536255/photo/1",
+      "url": "https://pbs.twimg.com/media/G_tltTFXMAAdEs-.jpg",
+      "width": 2716,
+      "height": 1558
+    }
+  ],
+  "conversation_count": 4,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "favorite_count": 13,
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "reply_count": 1,
+    "retweet_count": 4,
+    "created_at": "2026-01-27T08:15:52.000Z",
+    "display_text_range": [
+      0,
+      123
+    ],
+    "entities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/vNYHhqlrB3",
+          "expanded_url": "https://x.com/TradercBTC/status/2016062589973762357/photo/1",
+          "indices": [
+            124,
+            147
+          ],
+          "url": "https://t.co/vNYHhqlrB3"
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [
+            5,
+            9
+          ],
+          "text": "BTC"
+        }
+      ]
+    },
+    "id_str": "2016062589973762357",
+    "text": "持续更新 $BTC \n\n昨天晚上波动巨大，来回画门\n\n形成的原因是因为背后买卖双方的大资金在这里产生了分歧\n\n他们用资金来测试市场的供应和需求\n\n很明显，在一阵插针行情之后，价格继续向上\n\n1h级别已经产生了HH和HL，但是我们没有看到结构的突破 https://t.co/vNYHhqlrB3",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2016062589973762357"
+      ],
+      "editable_until_msecs": "1769505352000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "mediaDetails": [
+      {
+        "display_url": "pic.x.com/vNYHhqlrB3",
+        "expanded_url": "https://x.com/TradercBTC/status/2016062589973762357/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "indices": [
+          124,
+          147
+        ],
+        "media_url_https": "https://pbs.twimg.com/media/G_p8hHBWMAADob0.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1522,
+              "w": 2718,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1542,
+              "w": 1542,
+              "x": 110,
+              "y": 0
+            },
+            {
+              "h": 1542,
+              "w": 1353,
+              "x": 205,
+              "y": 0
+            },
+            {
+              "h": 1542,
+              "w": 771,
+              "x": 496,
+              "y": 0
+            },
+            {
+              "h": 1542,
+              "w": 2718,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1542,
+          "width": 2718
+        },
+        "sizes": {
+          "large": {
+            "h": 1162,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 681,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 386,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/vNYHhqlrB3"
+      }
+    ],
+    "photos": [
+      {
+        "backgroundColor": {
+          "red": 204,
+          "green": 214,
+          "blue": 221
+        },
+        "cropCandidates": [
+          {
+            "h": 1522,
+            "w": 2718,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1542,
+            "w": 1542,
+            "x": 110,
+            "y": 0
+          },
+          {
+            "h": 1542,
+            "w": 1353,
+            "x": 205,
+            "y": 0
+          },
+          {
+            "h": 1542,
+            "w": 771,
+            "x": 496,
+            "y": 0
+          },
+          {
+            "h": 1542,
+            "w": 2718,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "expandedUrl": "https://x.com/TradercBTC/status/2016062589973762357/photo/1",
+        "url": "https://pbs.twimg.com/media/G_p8hHBWMAADob0.jpg",
+        "width": 2718,
+        "height": 1542
+      }
+    ],
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDE2MzE4OTkzMTU0NTkyNzY4"
+  }
+}

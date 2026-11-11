@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/G9glbxgbUAAH1vr.png:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2006395058145333754/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2006395058145333754/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/G9glbxgbUAAH1vr.png:large",
+        "localPath": "2006395058145333754/imgs/img-002-G9glbxgbUAAH1vr-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2006395058145333754/imgs/img-002-G9glbxgbUAAH1vr-png-large.png",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2006395058145333754/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2006395058145333754",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2006395058145333754",
+    "title": "trader-c on X: \"爽了\n\n最后一点仓位止盈了\n\n在2025的最后几分钟\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2025-12-31T16:00:33.000Z",
+    "summary": "爽了\n\n最后一点仓位止盈了\n\n在2025的最后几分钟",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/G9glbxgbUAAH1vr.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:41:43.061Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n爽了 最后一点仓位止盈了 在2025的最后几分钟\n\n[0:00 · 2026年1月1日](https://x.com/TradercBTC/status/2006395058145333754) [1497Views](https://x.com/TradercBTC/status/2006395058145333754)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2006395058145333754"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"爽了\n  \n  最后一点仓位止盈了\n  \n  在2025的最后几分钟\" / X\nurl: \"https://x.com/TradercBTC/status/2006395058145333754\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2006395058145333754\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2006395058145333754/imgs/img-002-G9glbxgbUAAH1vr-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2025-12-31T16:00:33.000Z\"\nsummary: |-\n  爽了\n  \n  最后一点仓位止盈了\n  \n  在2025的最后几分钟\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:41:43.061Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"爽了\n\n最后一点仓位止盈了\n\n在2025的最后几分钟\" / X\n\n[![@TradercBTC](2006395058145333754/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n爽了 最后一点仓位止盈了 在2025的最后几分钟\n\n[0:00 · 2026年1月1日](https://x.com/TradercBTC/status/2006395058145333754) [1497Views](https://x.com/TradercBTC/status/2006395058145333754)"
+}

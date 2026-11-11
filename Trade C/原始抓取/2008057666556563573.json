@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/G94NXzNWMAApoKl.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2008057666556563573/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2008057666556563573/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/G94NXzNWMAApoKl.jpg:large",
+        "localPath": "2008057666556563573/imgs/img-002-G94NXzNWMAApoKl-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2008057666556563573/imgs/img-002-G94NXzNWMAApoKl-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2008057666556563573/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2008057666556563573",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2008057666556563573",
+    "title": "trader-c on X: \"$BTC 触碰到了橙色区域，等待二测，看看市场上方阻力的抛压\n\n预计周三或者周四能看到周k的极值\n\n总的来说计划是周内做多 $SOL 和月内空 $BTC 和 $ETH\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-01-05T06:07:10.000Z",
+    "summary": "$BTC 触碰到了橙色区域，等待二测，看看市场上方阻力的抛压\n\n预计周三或者周四能看到周k的极值\n\n总的来说计划是周内做多 $SOL 和月内空 $BTC 和 $ETH",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/G94NXzNWMAApoKl.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:54:31.617Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[$BTC](https://x.com/search?q=$BTC) 触碰到了橙色区域，等待二测，看看市场上方阻力的抛压 预计周三或者周四能看到周k的极值 总的来说计划是周内做多 [$SOL](https://x.com/search?q=$SOL) 和月内空 [$BTC](https://x.com/search?q=$BTC) 和 [$ETH](https://x.com/search?q=$ETH)\n\n实际上我们并不能确定它什么时候开始下跌 但是我愿意在 [$BTC](https://x.com/search?q=$BTC) 相对高位去建立空单 因为它上一周连续阳k，削弱了我对空单的信心 但是并未出现非常强大的阳k来作为支撑，所以我保持在高位做空的想法 并考虑在前面多次未突破的阻力位建立空单 最理想的状态是看到重新测试前面的插针真空区域（橙色）\n\n[14:07 · 2026年1月5日](https://x.com/TradercBTC/status/2008057666556563573) [1.7万Views](https://x.com/TradercBTC/status/2008057666556563573)\n\n[3](https://x.com/i/status/2008057666556563573)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2008057666556563573"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"$BTC 触碰到了橙色区域，等待二测，看看市场上方阻力的抛压\n  \n  预计周三或者周四能看到周k的极值\n  \n  总的来说计划是周内做多 $SOL 和月内空 $BTC 和 $ETH\" / X\nurl: \"https://x.com/TradercBTC/status/2008057666556563573\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2008057666556563573\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2008057666556563573/imgs/img-002-G94NXzNWMAApoKl-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-01-05T06:07:10.000Z\"\nsummary: |-\n  $BTC 触碰到了橙色区域，等待二测，看看市场上方阻力的抛压\n  \n  预计周三或者周四能看到周k的极值\n  \n  总的来说计划是周内做多 $SOL 和月内空 $BTC 和 $ETH\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:54:31.617Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"$BTC 触碰到了橙色区域，等待二测，看看市场上方阻力的抛压\n\n预计周三或者周四能看到周k的极值\n\n总的来说计划是周内做多 $SOL 和月内空 $BTC 和 $ETH\" / X\n\n[![@TradercBTC](2008057666556563573/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[$BTC](https://x.com/search?q=$BTC) 触碰到了橙色区域，等待二测，看看市场上方阻力的抛压 预计周三或者周四能看到周k的极值 总的来说计划是周内做多 [$SOL](https://x.com/search?q=$SOL) 和月内空 [$BTC](https://x.com/search?q=$BTC) 和 [$ETH](https://x.com/search?q=$ETH)\n\n实际上我们并不能确定它什么时候开始下跌 但是我愿意在 [$BTC](https://x.com/search?q=$BTC) 相对高位去建立空单 因为它上一周连续阳k，削弱了我对空单的信心 但是并未出现非常强大的阳k来作为支撑，所以我保持在高位做空的想法 并考虑在前面多次未突破的阻力位建立空单 最理想的状态是看到重新测试前面的插针真空区域（橙色）\n\n[14:07 · 2026年1月5日](https://x.com/TradercBTC/status/2008057666556563573) [1.7万Views](https://x.com/TradercBTC/status/2008057666556563573)\n\n[3](https://x.com/i/status/2008057666556563573)"
+}

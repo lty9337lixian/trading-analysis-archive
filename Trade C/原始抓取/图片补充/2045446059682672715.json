@@ -1,0 +1,37 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 40,
+  "lang": "zh",
+  "created_at": "2026-04-18T10:15:17.000Z",
+  "display_text_range": [
+    0,
+    138
+  ],
+  "entities": {},
+  "id_str": "2045446059682672715",
+  "text": "\"会管理已有头寸的人是真正的交易者。\"\n\n \"卖\"只是管理头寸的一部分。\n\n完整的头寸管理包括：\n何时止损（控制最大损失）、何时部分止盈（锁定利润降低风险）、何时加仓（在逻辑被确认后放大收益）、何时全部离场（收益最大化或判断失效）、何时不操作（持有等待是最难的\"出场\"形式）。",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2045446059682672715"
+    ],
+    "editable_until_msecs": "1776510917000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 4,
+  "news_action_type": "conversation",
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDQ1NDQ2MDU5NjExMzc3NjY0"
+  }
+}

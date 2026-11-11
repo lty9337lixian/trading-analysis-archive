@@ -1,0 +1,88 @@
+[info] Reusing Chrome debugger at http://127.0.0.1:57385 for profile /Users/lu/Library/Application Support/baoyu-skills/chrome-profile
+[info] Loading https://x.com/TradercBTC/status/2011088937830453261 with generic adapter
+[info] Downloaded 4 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2011088937830453261.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/G-jRiqmbEAAH27h.png:large",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/G-jSRA1bcAAFZkG?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/G-ETyCvXYAALXae?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/G-jRiqmbEAAH27h.png:large",
+        "localPath": "2011088937830453261/imgs/img-001-G-jRiqmbEAAH27h-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2011088937830453261/imgs/img-001-G-jRiqmbEAAH27h-png-large.png",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2011088937830453261/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2011088937830453261/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/G-jSRA1bcAAFZkG?format=webp&name=medium",
+        "localPath": "2011088937830453261/imgs/img-003-G-jSRA1bcAAFZkG.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2011088937830453261/imgs/img-003-G-jSRA1bcAAFZkG.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/G-ETyCvXYAALXae?format=webp&name=medium",
+        "localPath": "2011088937830453261/imgs/img-004-G-ETyCvXYAALXae.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2011088937830453261/imgs/img-004-G-ETyCvXYAALXae.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 4,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2011088937830453261/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2011088937830453261",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2011088937830453261",
+    "title": "trader-c on X: \"$SOL 拒绝下跌，没有形成钻石顶，走了一个震荡 我们以大周期为级别来观察 发现日线一直在一个上升结构（图中是反转的） 但是现在无疑形成来短暂的顶部，很大可能要走一个回调趋势 那么底下有一个大缺口，对应 $BTC 大概是在96k到99k一带 因为最近的这个震荡确实够久，满足产生行情的前提 看会不会去下方缺口处进行价格测试 现在先看突破这个小区间的价格表现 最近真的不能做趋势 趋势已经死了。。。。\"",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-01-13T14:52:21.000Z",
+    "summary": "$SOL 拒绝下跌，没有形成钻石顶，走了一个震荡\n\n我们以大周期为级别来观察\n\n发现日线一直在一个上升结构（图中是反转的）\n\n但是现在无疑形成来短暂的顶部，很大可能要走一个回调趋势\n\n那么底下有一个大缺口，对应 $BTC  大概是在96k到99k一带\n\n因为最近的这个震荡确实够久，满足产生行情的前提\n\n看会不会去下方缺口处进行价格测试\n\n现在先看突破这个小区间的价格表现\n\n最近真的不能做趋势\n\n趋势已经死了。。。。",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/G-jRiqmbEAAH27h.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:42:26.320Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[$SOL](https://x.com/search?q=$SOL) 拒绝下跌，没有形成钻石顶，走了一个震荡 我们以大周期为级别来观察 发现日线一直在一个上升结构（图中是反转的） 但是现在无疑形成来短暂的顶部，很大可能要走一个回调趋势 那么底下有一个大缺口，对应 [$BTC](https://x.com/search?q=$BTC) 大概是在96k到99k一带 因为最近的这个震荡确实够久，满足产生行情的前提 看会不会去下方缺口处进行价格测试 现在先看突破这个小区间的价格表现 最近真的不能做趋势 趋势已经死了。。。。\n\n[![](https://pbs.twimg.com/media/G-jSRA1bcAAFZkG?format=webp&name=medium)](https://x.com/TradercBTC/status/2011088937830453261/photo/2)\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[1月7日](https://x.com/TradercBTC/status/2008910015269155202)\n\n[$SOL](https://x.com/search?q=$SOL) 我的计划\n\n[![](https://pbs.twimg.com/media/G-ETyCvXYAALXae?format=webp&name=medium)](https://x.com/TradercBTC/status/2008910015269155202/photo/1)\n\n[22:52 · 2026年1月13日](https://x.com/TradercBTC/status/2011088937830453261)[1555Views](https://x.com/TradercBTC/status/2011088937830453261)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2011088937830453261"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"$SOL 拒绝下跌，没有形成钻石顶，走了一个震荡 我们以大周期为级别来观察 发现日线一直在一个上升结构（图中是反转的） 但是现在无疑形成来短暂的顶部，很大可能要走一个回调趋势 那么底下有一个大缺口，对应 $BTC 大概是在96k到99k一带 因为最近的这个震荡确实够久，满足产生行情的前提 看会不会去下方缺口处进行价格测试 现在先看突破这个小区间的价格表现 最近真的不能做趋势 趋势已经死了。。。。\\\"\"\nurl: \"https://x.com/TradercBTC/status/2011088937830453261\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2011088937830453261\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2011088937830453261/imgs/img-001-G-jRiqmbEAAH27h-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-01-13T14:52:21.000Z\"\nsummary: |-\n  $SOL 拒绝下跌，没有形成钻石顶，走了一个震荡\n  \n  我们以大周期为级别来观察\n  \n  发现日线一直在一个上升结构（图中是反转的）\n  \n  但是现在无疑形成来短暂的顶部，很大可能要走一个回调趋势\n  \n  那么底下有一个大缺口，对应 $BTC  大概是在96k到99k一带\n  \n  因为最近的这个震荡确实够久，满足产生行情的前提\n  \n  看会不会去下方缺口处进行价格测试\n  \n  现在先看突破这个小区间的价格表现\n  \n  最近真的不能做趋势\n  \n  趋势已经死了。。。。\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:42:26.320Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"$SOL 拒绝下跌，没有形成钻石顶，走了一个震荡 我们以大周期为级别来观察 发现日线一直在一个上升结构（图中是反转的） 但是现在无疑形成来短暂的顶部，很大可能要走一个回调趋势 那么底下有一个大缺口，对应 $BTC 大概是在96k到99k一带 因为最近的这个震荡确实够久，满足产生行情的前提 看会不会去下方缺口处进行价格测试 现在先看突破这个小区间的价格表现 最近真的不能做趋势 趋势已经死了。。。。\"\n\n[![@TradercBTC](2011088937830453261/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[$SOL](https://x.com/search?q=$SOL) 拒绝下跌，没有形成钻石顶，走了一个震荡 我们以大周期为级别来观察 发现日线一直在一个上升结构（图中是反转的） 但是现在无疑形成来短暂的顶部，很大可能要走一个回调趋势 那么底下有一个大缺口，对应 [$BTC](https://x.com/search?q=$BTC) 大概是在96k到99k一带 因为最近的这个震荡确实够久，满足产生行情的前提 看会不会去下方缺口处进行价格测试 现在先看突破这个小区间的价格表现 最近真的不能做趋势 趋势已经死了。。。。\n\n[![](2011088937830453261/imgs/img-003-G-jSRA1bcAAFZkG.webp)](https://x.com/TradercBTC/status/2011088937830453261/photo/2)\n\n[![@TradercBTC](2011088937830453261/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[1月7日](https://x.com/TradercBTC/status/2008910015269155202)\n\n[$SOL](https://x.com/search?q=$SOL) 我的计划\n\n[![](2011088937830453261/imgs/img-004-G-ETyCvXYAALXae.webp)](https://x.com/TradercBTC/status/2008910015269155202/photo/1)\n\n[22:52 · 2026年1月13日](https://x.com/TradercBTC/status/2011088937830453261)[1555Views](https://x.com/TradercBTC/status/2011088937830453261)"
+}

@@ -1,0 +1,169 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 14,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-07-09T16:49:18.000Z",
+  "display_text_range": [
+    0,
+    55
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/n9T0RzGGCn",
+        "expanded_url": "https://x.com/TradercBTC/status/2075261019392467086/photo/1",
+        "indices": [
+          55,
+          78
+        ],
+        "url": "https://t.co/n9T0RzGGCn"
+      }
+    ]
+  },
+  "id_str": "2075261019392467086",
+  "text": "计划做多BTC🤔\n\n止损用6H的atr，也就是6w\n\n止盈用区间顶部，2倍盈亏\n\n计划成本区间为62到615 https://t.co/n9T0RzGGCn",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2075261019392467086"
+    ],
+    "editable_until_msecs": "1783619358000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/n9T0RzGGCn",
+      "expanded_url": "https://x.com/TradercBTC/status/2075261019392467086/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        55,
+        78
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HMzOplyasAAMkWT.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1233,
+            "w": 2202,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1474,
+            "w": 1474,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1474,
+            "w": 1293,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1474,
+            "w": 737,
+            "x": 127,
+            "y": 0
+          },
+          {
+            "h": 1474,
+            "w": 2202,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1474,
+        "width": 2202
+      },
+      "sizes": {
+        "large": {
+          "h": 1371,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 803,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 455,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/n9T0RzGGCn"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1233,
+          "w": 2202,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1474,
+          "w": 1474,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1474,
+          "w": 1293,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1474,
+          "w": 737,
+          "x": 127,
+          "y": 0
+        },
+        {
+          "h": 1474,
+          "w": 2202,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2075261019392467086/photo/1",
+      "url": "https://pbs.twimg.com/media/HMzOplyasAAMkWT.jpg",
+      "width": 2202,
+      "height": 1474
+    }
+  ],
+  "conversation_count": 2,
+  "news_action_type": "conversation",
+  "isEdited": false,
+  "isStaleEdit": false
+}

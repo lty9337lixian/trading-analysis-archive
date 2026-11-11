@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HNwJveEb0AEmezO.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2079550382678892630/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2079550382678892630/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HNwJveEb0AEmezO.jpg:large",
+        "localPath": "2079550382678892630/imgs/img-002-HNwJveEb0AEmezO-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2079550382678892630/imgs/img-002-HNwJveEb0AEmezO-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2079550382678892630/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2079550382678892630",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2079550382678892630",
+    "title": "trader-c on X: \"$BTC 马上达到我们的止盈位置\n\n计划拿到8%就离场\n\n同样的，和之前推文里说的那样，我并不认为这里就是底部\n\n我们在周线并未形成MSS的结构破坏，至少我认为出现这种情况，才是真正底部出现的信号\n\n底部是走出来的\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-07-21T12:53:42.000Z",
+    "summary": "$BTC 马上达到我们的止盈位置\n\n计划拿到8%就离场\n\n同样的，和之前推文里说的那样，我并不认为这里就是底部\n\n我们在周线并未形成MSS的结构破坏，至少我认为出现这种情况，才是真正底部出现的信号\n\n底部是走出来的",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HNwJveEb0AEmezO.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:03:22.858Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t[$BTC](https://x.com/search?q=$BTC) 马上达到我们的止盈位置 计划拿到8%就离场 同样的，和之前推文里说的那样，我并不认为这里就是底部 我们在周线并未形成MSS的结构破坏，至少我认为出现这种情况，才是真正底部出现的信号 底部是走出来的\n\t[20:53 · 2026年7月21日](https://x.com/TradercBTC/status/2079550382678892630) [1.1万Views](https://x.com/TradercBTC/status/2079550382678892630)\n\tOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2079550382678892630"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"$BTC 马上达到我们的止盈位置\n  \n  计划拿到8%就离场\n  \n  同样的，和之前推文里说的那样，我并不认为这里就是底部\n  \n  我们在周线并未形成MSS的结构破坏，至少我认为出现这种情况，才是真正底部出现的信号\n  \n  底部是走出来的\" / X\nurl: \"https://x.com/TradercBTC/status/2079550382678892630\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2079550382678892630\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2079550382678892630/imgs/img-002-HNwJveEb0AEmezO-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-07-21T12:53:42.000Z\"\nsummary: |-\n  $BTC 马上达到我们的止盈位置\n  \n  计划拿到8%就离场\n  \n  同样的，和之前推文里说的那样，我并不认为这里就是底部\n  \n  我们在周线并未形成MSS的结构破坏，至少我认为出现这种情况，才是真正底部出现的信号\n  \n  底部是走出来的\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:03:22.858Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"$BTC 马上达到我们的止盈位置\n\n计划拿到8%就离场\n\n同样的，和之前推文里说的那样，我并不认为这里就是底部\n\n我们在周线并未形成MSS的结构破坏，至少我认为出现这种情况，才是真正底部出现的信号\n\n底部是走出来的\" / X\n\n- [![@TradercBTC](2079550382678892630/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t[$BTC](https://x.com/search?q=$BTC) 马上达到我们的止盈位置 计划拿到8%就离场 同样的，和之前推文里说的那样，我并不认为这里就是底部 我们在周线并未形成MSS的结构破坏，至少我认为出现这种情况，才是真正底部出现的信号 底部是走出来的\n\t[20:53 · 2026年7月21日](https://x.com/TradercBTC/status/2079550382678892630) [1.1万Views](https://x.com/TradercBTC/status/2079550382678892630)\n\tOnly some accounts can reply."
+}

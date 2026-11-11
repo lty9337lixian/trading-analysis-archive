@@ -1,0 +1,98 @@
+[info] Loading https://x.com/TradercBTC/status/2077690349611585554 with generic adapter
+[info] Downloaded 5 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2077690349611585554.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HNVutVOasAAvyuI.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HNVu0aqbgAEmiAw?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HNVu4TPasAAqSiR?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HNRD6veb0AAYa3X?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/HNVutVOasAAvyuI.jpg:large",
+        "localPath": "2077690349611585554/imgs/img-001-HNVutVOasAAvyuI-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2077690349611585554/imgs/img-001-HNVutVOasAAvyuI-jpg-large.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2077690349611585554/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2077690349611585554/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HNVu0aqbgAEmiAw?format=webp&name=medium",
+        "localPath": "2077690349611585554/imgs/img-003-HNVu0aqbgAEmiAw.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2077690349611585554/imgs/img-003-HNVu0aqbgAEmiAw.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HNVu4TPasAAqSiR?format=webp&name=medium",
+        "localPath": "2077690349611585554/imgs/img-004-HNVu4TPasAAqSiR.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2077690349611585554/imgs/img-004-HNVu4TPasAAqSiR.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HNRD6veb0AAYa3X?format=webp&name=medium",
+        "localPath": "2077690349611585554/imgs/img-005-HNRD6veb0AAYa3X.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2077690349611585554/imgs/img-005-HNRD6veb0AAYa3X.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 5,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2077690349611585554/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2077690349611585554",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2077690349611585554",
+    "title": "trader-c on X: \"指标使用技巧+1 如图所示，现在1H图表显示的是下跌状态 小级别的5m和15m，15m显示的是低波动震荡，等待突破，5m显示的是宽幅震荡 组合起来，我们对市场行情有一个基础判断 因此我们的逻辑是： 1H为大前提：找机会做空 15m：震荡——5m震荡，在5m等待震荡顶部出现做空信号，入场做空 证伪（止损）逻辑：5m没有出现做空信号，或出现做空信号之后没有突破15m的震荡，向上突破，止损离场。 止盈参考入场周期的指标止盈位。 假设我们5m入场做空，止盈止损参考为会根据指标判断市场走势，从而发生改变。 但是尽量以入场时价格的参考止盈位置为主 如…",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-07-16T09:42:35.000Z",
+    "summary": "指标使用技巧+1\n\n如图所示，现在1H图表显示的是下跌状态\n\n小级别的5m和15m，15m显示的是低波动震荡，等待突破，5m显示的是宽幅震荡\n\n组合起来，我们对市场行情有一个基础判断\n\n因此我们的逻辑是：\n\n1H为大前提：找机会做空\n\n15m：震荡——5m震荡，在5m等待震荡顶部出现做空信号，入场做空\n\n证伪（止损）逻辑：5m没有出现做空信号，或出现做空信号之后没有突破15m的震荡，向上突破，止损离场。\n\n止盈参考入场周期的指标止盈位。\n\n假设我们5m入场做空，止盈止损参考为会根据指标判断市场走势，从而发生改变。\n\n但是尽量以入场时价格的参考止盈位置为主\n\n如果下跌流畅进入趋势模式，则可以参…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HNVutVOasAAvyuI.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:02:52.057Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n指标使用技巧+1 如图所示，现在1H图表显示的是下跌状态 小级别的5m和15m，15m显示的是低波动震荡，等待突破，5m显示的是宽幅震荡 组合起来，我们对市场行情有一个基础判断 因此我们的逻辑是： 1H为大前提：找机会做空 15m：震荡——5m震荡，在5m等待震荡顶部出现做空信号，入场做空 证伪（止损）逻辑：5m没有出现做空信号，或出现做空信号之后没有突破15m的震荡，向上突破，止损离场。 止盈参考入场周期的指标止盈位。 假设我们5m入场做空，止盈止损参考为会根据指标判断市场走势，从而发生改变。 但是尽量以入场时价格的参考止盈位置为主 如果下跌流畅进入趋势模式，则可以参考第一次出现趋势模式时的止盈3。\n\n[![](https://pbs.twimg.com/media/HNVu0aqbgAEmiAw?format=webp&name=medium)](https://x.com/TradercBTC/status/2077690349611585554/photo/2)\n\n[![](https://pbs.twimg.com/media/HNVu4TPasAAqSiR?format=webp&name=medium)](https://x.com/TradercBTC/status/2077690349611585554/photo/3)\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[7月15日](https://x.com/TradercBTC/status/2077362117896974495)\n\n已上线 300💲/年，订阅者主页进discord，有订阅地址。 作用： 「1. 现在是什么行情？ 2. 当前价格在什么位置？ 3. 这种行情下应该遵守什么方向约束？ 4. 按照当前波动，止损止盈大概应该放多远？」\n\n[![](https://pbs.twimg.com/media/HNRD6veb0AAYa3X?format=webp&name=medium)](https://x.com/TradercBTC/status/2077362117896974495/photo/1)\n\n[17:42 · 2026年7月16日](https://x.com/TradercBTC/status/2077690349611585554)[1.2万Views](https://x.com/TradercBTC/status/2077690349611585554)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2077690349611585554"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"指标使用技巧+1 如图所示，现在1H图表显示的是下跌状态 小级别的5m和15m，15m显示的是低波动震荡，等待突破，5m显示的是宽幅震荡 组合起来，我们对市场行情有一个基础判断 因此我们的逻辑是： 1H为大前提：找机会做空 15m：震荡——5m震荡，在5m等待震荡顶部出现做空信号，入场做空 证伪（止损）逻辑：5m没有出现做空信号，或出现做空信号之后没有突破15m的震荡，向上突破，止损离场。 止盈参考入场周期的指标止盈位。 假设我们5m入场做空，止盈止损参考为会根据指标判断市场走势，从而发生改变。 但是尽量以入场时价格的参考止盈位置为主 如…\"\nurl: \"https://x.com/TradercBTC/status/2077690349611585554\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2077690349611585554\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2077690349611585554/imgs/img-001-HNVutVOasAAvyuI-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-07-16T09:42:35.000Z\"\nsummary: |-\n  指标使用技巧+1\n  \n  如图所示，现在1H图表显示的是下跌状态\n  \n  小级别的5m和15m，15m显示的是低波动震荡，等待突破，5m显示的是宽幅震荡\n  \n  组合起来，我们对市场行情有一个基础判断\n  \n  因此我们的逻辑是：\n  \n  1H为大前提：找机会做空\n  \n  15m：震荡——5m震荡，在5m等待震荡顶部出现做空信号，入场做空\n  \n  证伪（止损）逻辑：5m没有出现做空信号，或出现做空信号之后没有突破15m的震荡，向上突破，止损离场。\n  \n  止盈参考入场周期的指标止盈位。\n  \n  假设我们5m入场做空，止盈止损参考为会根据指标判断市场走势，从而发生改变。\n  \n  但是尽量以入场时价格的参考止盈位置为主\n  \n  如果下跌流畅进入趋势模式，则可以参…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:02:52.057Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"指标使用技巧+1 如图所示，现在1H图表显示的是下跌状态 小级别的5m和15m，15m显示的是低波动震荡，等待突破，5m显示的是宽幅震荡 组合起来，我们对市场行情有一个基础判断 因此我们的逻辑是： 1H为大前提：找机会做空 15m：震荡——5m震荡，在5m等待震荡顶部出现做空信号，入场做空 证伪（止损）逻辑：5m没有出现做空信号，或出现做空信号之后没有突破15m的震荡，向上突破，止损离场。 止盈参考入场周期的指标止盈位。 假设我们5m入场做空，止盈止损参考为会根据指标判断市场走势，从而发生改变。 但是尽量以入场时价格的参考止盈位置为主 如…\n\n[![@TradercBTC](2077690349611585554/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n指标使用技巧+1 如图所示，现在1H图表显示的是下跌状态 小级别的5m和15m，15m显示的是低波动震荡，等待突破，5m显示的是宽幅震荡 组合起来，我们对市场行情有一个基础判断 因此我们的逻辑是： 1H为大前提：找机会做空 15m：震荡——5m震荡，在5m等待震荡顶部出现做空信号，入场做空 证伪（止损）逻辑：5m没有出现做空信号，或出现做空信号之后没有突破15m的震荡，向上突破，止损离场。 止盈参考入场周期的指标止盈位。 假设我们5m入场做空，止盈止损参考为会根据指标判断市场走势，从而发生改变。 但是尽量以入场时价格的参考止盈位置为主 如果下跌流畅进入趋势模式，则可以参考第一次出现趋势模式时的止盈3。\n\n[![](2077690349611585554/imgs/img-003-HNVu0aqbgAEmiAw.webp)](https://x.com/TradercBTC/status/2077690349611585554/photo/2)\n\n[![](2077690349611585554/imgs/img-004-HNVu4TPasAAqSiR.webp)](https://x.com/TradercBTC/status/2077690349611585554/photo/3)\n\n[![@TradercBTC](2077690349611585554/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[7月15日](https://x.com/TradercBTC/status/2077362117896974495)\n\n已上线 300💲/年，订阅者主页进discord，有订阅地址。 作用： 「1. 现在是什么行情？ 2. 当前价格在什么位置？ 3. 这种行情下应该遵守什么方向约束？ 4. 按照当前波动，止损止盈大概应该放多远？」\n\n[![](2077690349611585554/imgs/img-005-HNRD6veb0AAYa3X.webp)](https://x.com/TradercBTC/status/2077362117896974495/photo/1)\n\n[17:42 · 2026年7月16日](https://x.com/TradercBTC/status/2077690349611585554)[1.2万Views](https://x.com/TradercBTC/status/2077690349611585554)\n\nOnly some accounts can reply."
+}

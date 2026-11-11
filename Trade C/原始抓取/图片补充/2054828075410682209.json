@@ -1,0 +1,94 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 4,
+  "in_reply_to_screen_name": "MakeEvenBetter",
+  "in_reply_to_status_id_str": "2054827728470507673",
+  "in_reply_to_user_id_str": "1911591979739152384",
+  "lang": "zh",
+  "created_at": "2026-05-14T07:36:04.000Z",
+  "display_text_range": [
+    16,
+    69
+  ],
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1911591979739152384",
+        "indices": [
+          0,
+          15
+        ],
+        "name": "FD.Axe",
+        "screen_name": "MakeEvenBetter"
+      }
+    ]
+  },
+  "id_str": "2054828075410682209",
+  "text": "@MakeEvenBetter 当然可以，这是非常优秀的做法\n\n不过止损取决于你的交易逻辑，入场前你对这笔交易的预期是什么，主要是依据这个",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2054828075410682209"
+    ],
+    "editable_until_msecs": "1778747764000",
+    "edits_remaining": "5",
+    "is_edit_eligible": false
+  },
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "parent": {
+    "favorite_count": 0,
+    "lang": "zh",
+    "reply_count": 1,
+    "retweet_count": 0,
+    "created_at": "2026-05-14T07:34:41.000Z",
+    "display_text_range": [
+      12,
+      48
+    ],
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1921065617479921670",
+          "indices": [
+            0,
+            11
+          ],
+          "name": "trader-c",
+          "screen_name": "TradercBTC"
+        }
+      ]
+    },
+    "id_str": "2054827728470507673",
+    "text": "@TradercBTC 大佬 请教下，止损的位置是不是放到前低会好一些？ 就是底部那个支撑的位置",
+    "user": {
+      "id_str": "1911591979739152384",
+      "name": "FD.Axe",
+      "screen_name": "MakeEvenBetter",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2061021988991516672/MjYKshZ7_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2054827728470507673"
+      ],
+      "editable_until_msecs": "1778747681000",
+      "edits_remaining": "5",
+      "is_edit_eligible": false
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

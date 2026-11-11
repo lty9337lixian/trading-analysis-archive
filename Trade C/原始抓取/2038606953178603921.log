@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2038606953178603921 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2038606953178603921.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HEqV_nvbAAAsVKU.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2038606953178603921/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2038606953178603921/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HEqV_nvbAAAsVKU.jpg:large",
+        "localPath": "2038606953178603921/imgs/img-002-HEqV_nvbAAAsVKU-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2038606953178603921/imgs/img-002-HEqV_nvbAAAsVKU-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2038606953178603921/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2038606953178603921",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2038606953178603921",
+    "title": "trader-c on X: \"我是傻逼。。。。\n\n我还以为才亏了三千多\n\n结构亏了4200💲\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-03-30T13:19:07.000Z",
+    "summary": "我是傻逼。。。。\n\n我还以为才亏了三千多\n\n结构亏了4200💲",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HEqV_nvbAAAsVKU.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:59:48.172Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n我是傻逼。。。。 我还以为才亏了三千多 结构亏了4200💲\n\n继续使用Claude code帮助我复盘 之前3.9那波上涨亏了我三千多💲，非常伤心 我感觉我很长时间没有专心交易了，导致我交易亏损很多 交易和其他生意一样，如果你不专心，你就会损失，这将逼迫你必须保持一个良好的生活状态和专注力\n\n[21:19 · 2026年3月30日](https://x.com/TradercBTC/status/2038606953178603921) [1.3万Views](https://x.com/TradercBTC/status/2038606953178603921)\n\n[3](https://x.com/i/status/2038606953178603921)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2038606953178603921"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"我是傻逼。。。。\n  \n  我还以为才亏了三千多\n  \n  结构亏了4200💲\" / X\nurl: \"https://x.com/TradercBTC/status/2038606953178603921\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2038606953178603921\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2038606953178603921/imgs/img-002-HEqV_nvbAAAsVKU-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-03-30T13:19:07.000Z\"\nsummary: |-\n  我是傻逼。。。。\n  \n  我还以为才亏了三千多\n  \n  结构亏了4200💲\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:59:48.172Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"我是傻逼。。。。\n\n我还以为才亏了三千多\n\n结构亏了4200💲\" / X\n\n[![@TradercBTC](2038606953178603921/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n我是傻逼。。。。 我还以为才亏了三千多 结构亏了4200💲\n\n继续使用Claude code帮助我复盘 之前3.9那波上涨亏了我三千多💲，非常伤心 我感觉我很长时间没有专心交易了，导致我交易亏损很多 交易和其他生意一样，如果你不专心，你就会损失，这将逼迫你必须保持一个良好的生活状态和专注力\n\n[21:19 · 2026年3月30日](https://x.com/TradercBTC/status/2038606953178603921) [1.3万Views](https://x.com/TradercBTC/status/2038606953178603921)\n\n[3](https://x.com/i/status/2038606953178603921)"
+}

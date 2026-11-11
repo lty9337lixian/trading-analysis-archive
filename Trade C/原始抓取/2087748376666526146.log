@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2087748376666526146 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2087748376666526146.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HPkrGb-bcAAvJZa.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2087748376666526146/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2087748376666526146/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HPkrGb-bcAAvJZa.jpg:large",
+        "localPath": "2087748376666526146/imgs/img-002-HPkrGb-bcAAvJZa-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2087748376666526146/imgs/img-002-HPkrGb-bcAAvJZa-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2087748376666526146/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2087748376666526146",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2087748376666526146",
+    "title": "trader-c on X: \"兄弟们，你们可以尝试学一下我之前写的「方向结构，趋势，区间，四类交易机会」内容来分析，我后续开个帖，我们一起讨论\n\n比如 $HYPE 前一段下跌趋势的结构高点形成的支撑阻力互换位置被打破\n\n下跌趋势的动能衰减，进入区间\n\n而且上涨趋势出现了推动再推动所以如果突破前高就是更加确定反转趋势\n\n在这里做多，押注突破是合理的选择\n\n失效条件很明确，就是无法突破，或者突破受阻，回落到前小周期的（上涨结构形成的结构低点），形成区间或者下跌再推动\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-13T03:49:36.000Z",
+    "summary": "兄弟们，你们可以尝试学一下我之前写的「方向结构，趋势，区间，四类交易机会」内容来分析，我后续开个帖，我们一起讨论\n\n比如 $HYPE 前一段下跌趋势的结构高点形成的支撑阻力互换位置被打破\n\n下跌趋势的动能衰减，进入区间\n\n而且上涨趋势出现了推动再推动所以如果突破前高就是更加确定反转趋势\n\n在这里做多，押注突破是合理的选择\n\n失效条件很明确，就是无法突破，或者突破受阻，回落到前小周期的（上涨结构形成的结构低点），形成区间或者下跌再推动",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HPkrGb-bcAAvJZa.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:05:17.863Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t兄弟们，你们可以尝试学一下我之前写的「方向结构，趋势，区间，四类交易机会」内容来分析，我后续开个帖，我们一起讨论 比如 [$HYPE](https://x.com/search?q=$HYPE) 前一段下跌趋势的结构高点形成的支撑阻力互换位置被打破 下跌趋势的动能衰减，进入区间 而且上涨趋势出现了推动再推动所以如果突破前高就是更加确定反转趋势 在这里做多，押注突破是合理的选择 失效条件很明确，就是无法突破，或者突破受阻，回落到前小周期的（上涨结构形成的结构低点），形成区间或者下跌再推动\n\t[11:49 · 2026年8月13日](https://x.com/TradercBTC/status/2087748376666526146) [8273Views](https://x.com/TradercBTC/status/2087748376666526146)\n\t[1](https://x.com/i/status/2087748376666526146)\n\tOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2087748376666526146"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"兄弟们，你们可以尝试学一下我之前写的「方向结构，趋势，区间，四类交易机会」内容来分析，我后续开个帖，我们一起讨论\n  \n  比如 $HYPE 前一段下跌趋势的结构高点形成的支撑阻力互换位置被打破\n  \n  下跌趋势的动能衰减，进入区间\n  \n  而且上涨趋势出现了推动再推动所以如果突破前高就是更加确定反转趋势\n  \n  在这里做多，押注突破是合理的选择\n  \n  失效条件很明确，就是无法突破，或者突破受阻，回落到前小周期的（上涨结构形成的结构低点），形成区间或者下跌再推动\" / X\nurl: \"https://x.com/TradercBTC/status/2087748376666526146\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2087748376666526146\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2087748376666526146/imgs/img-002-HPkrGb-bcAAvJZa-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-13T03:49:36.000Z\"\nsummary: |-\n  兄弟们，你们可以尝试学一下我之前写的「方向结构，趋势，区间，四类交易机会」内容来分析，我后续开个帖，我们一起讨论\n  \n  比如 $HYPE 前一段下跌趋势的结构高点形成的支撑阻力互换位置被打破\n  \n  下跌趋势的动能衰减，进入区间\n  \n  而且上涨趋势出现了推动再推动所以如果突破前高就是更加确定反转趋势\n  \n  在这里做多，押注突破是合理的选择\n  \n  失效条件很明确，就是无法突破，或者突破受阻，回落到前小周期的（上涨结构形成的结构低点），形成区间或者下跌再推动\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:05:17.863Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"兄弟们，你们可以尝试学一下我之前写的「方向结构，趋势，区间，四类交易机会」内容来分析，我后续开个帖，我们一起讨论\n\n比如 $HYPE 前一段下跌趋势的结构高点形成的支撑阻力互换位置被打破\n\n下跌趋势的动能衰减，进入区间\n\n而且上涨趋势出现了推动再推动所以如果突破前高就是更加确定反转趋势\n\n在这里做多，押注突破是合理的选择\n\n失效条件很明确，就是无法突破，或者突破受阻，回落到前小周期的（上涨结构形成的结构低点），形成区间或者下跌再推动\" / X\n\n- [![@TradercBTC](2087748376666526146/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t兄弟们，你们可以尝试学一下我之前写的「方向结构，趋势，区间，四类交易机会」内容来分析，我后续开个帖，我们一起讨论 比如 [$HYPE](https://x.com/search?q=$HYPE) 前一段下跌趋势的结构高点形成的支撑阻力互换位置被打破 下跌趋势的动能衰减，进入区间 而且上涨趋势出现了推动再推动所以如果突破前高就是更加确定反转趋势 在这里做多，押注突破是合理的选择 失效条件很明确，就是无法突破，或者突破受阻，回落到前小周期的（上涨结构形成的结构低点），形成区间或者下跌再推动\n\t[11:49 · 2026年8月13日](https://x.com/TradercBTC/status/2087748376666526146) [8273Views](https://x.com/TradercBTC/status/2087748376666526146)\n\t[1](https://x.com/i/status/2087748376666526146)\n\tOnly some accounts can reply."
+}

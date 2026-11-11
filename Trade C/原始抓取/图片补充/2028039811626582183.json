@@ -1,0 +1,336 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 7,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-03-01T09:29:04.000Z",
+  "display_text_range": [
+    0,
+    133
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/03YwLzzy0P",
+        "expanded_url": "https://x.com/TradercBTC/status/2028039811626582183/photo/1",
+        "indices": [
+          134,
+          157
+        ],
+        "url": "https://t.co/03YwLzzy0P"
+      }
+    ]
+  },
+  "id_str": "2028039811626582183",
+  "text": "哥，我这个是我自己筛选关注的板块，不是所有的板块排名\n\n电网设备和油气开采这都是我先加入到自选里，然后再扩充的\n\n也就是说，这个排名只是限于我关注的行业板块，而非全部\n\n我的想法是采取了代表性的行业来代表某一类资产\n\n如果要达到你说的效果，是需要把全行业板块加进去的 https://t.co/03YwLzzy0P",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2028039811626582183"
+    ],
+    "editable_until_msecs": "1772360944000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/03YwLzzy0P",
+      "expanded_url": "https://x.com/TradercBTC/status/2028039811626582183/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        134,
+        157
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HCUKo0TaoAAvbeu.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1420,
+            "w": 2536,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1420,
+            "w": 1420,
+            "x": 64,
+            "y": 0
+          },
+          {
+            "h": 1420,
+            "w": 1246,
+            "x": 151,
+            "y": 0
+          },
+          {
+            "h": 1420,
+            "w": 710,
+            "x": 419,
+            "y": 0
+          },
+          {
+            "h": 1420,
+            "w": 2816,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1420,
+        "width": 2816
+      },
+      "sizes": {
+        "large": {
+          "h": 1033,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 605,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 343,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/03YwLzzy0P"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1420,
+          "w": 2536,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1420,
+          "w": 1420,
+          "x": 64,
+          "y": 0
+        },
+        {
+          "h": 1420,
+          "w": 1246,
+          "x": 151,
+          "y": 0
+        },
+        {
+          "h": 1420,
+          "w": 710,
+          "x": 419,
+          "y": 0
+        },
+        {
+          "h": 1420,
+          "w": 2816,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2028039811626582183/photo/1",
+      "url": "https://pbs.twimg.com/media/HCUKo0TaoAAvbeu.jpg",
+      "width": 2816,
+      "height": 1420
+    }
+  ],
+  "conversation_count": 2,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "favorite_count": 310,
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "reply_count": 22,
+    "retweet_count": 85,
+    "created_at": "2026-03-01T06:19:41.000Z",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "entities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/IkXtbnNgtq",
+          "expanded_url": "https://x.com/cnfinancewatch/status/2027992152031301747/photo/1",
+          "indices": [
+            90,
+            113
+          ],
+          "url": "https://t.co/IkXtbnNgtq"
+        }
+      ]
+    },
+    "id_str": "2027992152031301747",
+    "text": "价值1000万的ETF板块轮动模型｜今天直接公开\n\n我厌倦了短线个股之后，长期做ETF轮动策略投资，依靠一套非常简单的量化方法，获得了年化35%的成绩。现在就公开出来，给华粉们。 https://t.co/IkXtbnNgtq",
+    "user": {
+      "id_str": "137332930",
+      "name": "华尔街观察 Xtrader",
+      "screen_name": "cnfinancewatch",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1941688088968765440/_z4ORqUF_normal.jpg"
+    },
+    "edit_control": {
+      "initial_tweet_id": "2027990353194979563",
+      "edit_tweet_ids": [
+        "2027990353194979563",
+        "2027992152031301747"
+      ],
+      "editable_until_msecs": "1772349153000",
+      "edits_remaining": "4",
+      "is_edit_eligible": true
+    },
+    "mediaDetails": [
+      {
+        "display_url": "pic.x.com/IkXtbnNgtq",
+        "expanded_url": "https://x.com/cnfinancewatch/status/2027992152031301747/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "indices": [
+          90,
+          113
+        ],
+        "media_url_https": "https://pbs.twimg.com/media/HCTgHFTasAADKY5.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 275,
+              "w": 491,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 275,
+              "w": 275,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 275,
+              "w": 241,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 275,
+              "w": 138,
+              "x": 4,
+              "y": 0
+            },
+            {
+              "h": 275,
+              "w": 590,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 275,
+          "width": 590
+        },
+        "sizes": {
+          "large": {
+            "h": 275,
+            "resize": "fit",
+            "w": 590
+          },
+          "medium": {
+            "h": 275,
+            "resize": "fit",
+            "w": 590
+          },
+          "small": {
+            "h": 275,
+            "resize": "fit",
+            "w": 590
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/IkXtbnNgtq"
+      }
+    ],
+    "photos": [
+      {
+        "backgroundColor": {
+          "red": 204,
+          "green": 214,
+          "blue": 221
+        },
+        "cropCandidates": [
+          {
+            "h": 275,
+            "w": 491,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 275,
+            "w": 275,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 275,
+            "w": 241,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 275,
+            "w": 138,
+            "x": 4,
+            "y": 0
+          },
+          {
+            "h": 275,
+            "w": 590,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "expandedUrl": "https://x.com/cnfinancewatch/status/2027992152031301747/photo/1",
+        "url": "https://pbs.twimg.com/media/HCTgHFTasAADKY5.jpg",
+        "width": 590,
+        "height": 275
+      }
+    ],
+    "isEdited": true,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDI4MDM5ODExNTY3OTMxMzky"
+  }
+}

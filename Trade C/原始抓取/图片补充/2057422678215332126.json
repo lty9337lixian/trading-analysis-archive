@@ -1,0 +1,37 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 102,
+  "lang": "zh",
+  "created_at": "2026-05-21T11:26:06.000Z",
+  "display_text_range": [
+    0,
+    138
+  ],
+  "entities": {},
+  "id_str": "2057422678215332126",
+  "text": "第一步：建立交易系统\n\n定义清晰的入场信号（技术指标、价格形态）\n设定明确的出场规则（目标价、移动止损）\n制定严格的止损线（永远不要\"扛单\"）\n\n第二步：资金管理\n\n单笔交易风险不超过账户总额的1%\n分散投资，避免过度集中\n总风险敞口控制在账户的5-10%\n\n第三步：验证系统",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2057422678215332126"
+    ],
+    "editable_until_msecs": "1779366366000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 23,
+  "news_action_type": "conversation",
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDU3NDIyNjc4MTY0OTUxMDQw"
+  }
+}

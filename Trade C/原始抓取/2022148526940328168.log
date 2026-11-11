@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2022148526940328168 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2022148526940328168.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HBAbl21aQAAS22B.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2022148526940328168/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2022148526940328168/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HBAbl21aQAAS22B.jpg:large",
+        "localPath": "2022148526940328168/imgs/img-002-HBAbl21aQAAS22B-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2022148526940328168/imgs/img-002-HBAbl21aQAAS22B-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2022148526940328168/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2022148526940328168",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2022148526940328168",
+    "title": "trader-c on X: \"以下是关于  $SPX  $NDX 和 MAG7 的更新👇\n\n这将会成为固定栏目，我将每周对于美股，日经指数，上证指数，黄金以及其他追踪的行业板块和大宗商品进行更新\n\n逻辑链是视频为主，推特以长线呈更新持仓。\n\n让我们开始吧：\n\n$SPX 高位横盘，价格出现背离和潜在的头肩顶形态\n\n伴随着NDX和七巨头的资金撤离，意味着买方力量动能随着时间不断减弱。\n\n1️⃣从周期上说：\n同时美元指数主基调下跌，美债上涨，美股引来弱美元周期的宏观范式转换\n\n2️⃣从结构上说：\n宏观缺乏买盘动能，资金开始撤离轮动到防守，价格处于新高横盘，这一位置具备结构上的势能。\n\n价格缺乏… / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-13T03:19:13.000Z",
+    "summary": "以下是关于  $SPX  $NDX 和 MAG7 的更新👇\n\n这将会成为固定栏目，我将每周对于美股，日经指数，上证指数，黄金以及其他追踪的行业板块和大宗商品进行更新\n\n逻辑链是视频为主，推特以长线呈更新持仓。\n\n让我们开始吧：\n\n$SPX 高位横盘，价格出现背离和潜在的头肩顶形态\n\n伴随着NDX和七巨头的资金撤离，意味着买方力量动能随着时间不断减弱。\n\n1️⃣从周期上说：\n同时美元指数主基调下跌，美债上涨，美股引来弱美元周期的宏观范式转换\n\n2️⃣从结构上说：\n宏观缺乏买盘动能，资金开始撤离轮动到防守，价格处于新高横盘，这一位置具备结构上的势能。\n\n价格缺乏动能后的自然下跌势能，配合一部分…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HBAbl21aQAAS22B.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:57:58.280Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t以下是关于 [$SPX](https://x.com/search?q=$SPX) [$NDX](https://x.com/search?q=$NDX) 和 MAG7 的更新👇 这将会成为固定栏目，我将每周对于美股，日经指数，上证指数，黄金以及其他追踪的行业板块和大宗商品进行更新 逻辑链是视频为主，推特以长线呈更新持仓。 让我们开始吧： [$SPX](https://x.com/search?q=$SPX) 高位横盘，价格出现背离和潜在的头肩顶形态 伴随着NDX和七巨头的资金撤离，意味着买方力量动能随着时间不断减弱。 1️⃣从周期上说： 同时美元指数主基调下跌，美债上涨，美股引来弱美元周期的宏观范式转换 2️⃣从结构上说： 宏观缺乏买盘动能，资金开始撤离轮动到防守，价格处于新高横盘，这一位置具备结构上的势能。 价格缺乏动能后的自然下跌势能，配合一部分做对冲或者卖盘的动能 个人态度： 面临风险，调整进攻账户和防御账户的比例，降低单一风险，获利了结。 以及对价格表现弱势的标的适当做空。 以期权或者CFD形式押注下跌。 注意防守的同时少部分押注下跌的可能。\n\t[11:19 · 2026年2月13日](https://x.com/TradercBTC/status/2022148526940328168) [1543Views](https://x.com/TradercBTC/status/2022148526940328168)\n\t[2](https://x.com/i/status/2022148526940328168)\n- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[$TSLA](https://x.com/search?q=$TSLA) 首先前面我们有一波流畅的下跌 随后我们看到价格在一倍MM的位置以及之前的低点的到来买盘支撑 随后连续三天大阳上涨 短期而言，特斯拉仍然是一个强势的标的，虽然跌破箱体震荡，但是非常强死拉回"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2022148526940328168"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"以下是关于  $SPX  $NDX 和 MAG7 的更新👇\n  \n  这将会成为固定栏目，我将每周对于美股，日经指数，上证指数，黄金以及其他追踪的行业板块和大宗商品进行更新\n  \n  逻辑链是视频为主，推特以长线呈更新持仓。\n  \n  让我们开始吧：\n  \n  $SPX 高位横盘，价格出现背离和潜在的头肩顶形态\n  \n  伴随着NDX和七巨头的资金撤离，意味着买方力量动能随着时间不断减弱。\n  \n  1️⃣从周期上说：\n  同时美元指数主基调下跌，美债上涨，美股引来弱美元周期的宏观范式转换\n  \n  2️⃣从结构上说：\n  宏观缺乏买盘动能，资金开始撤离轮动到防守，价格处于新高横盘，这一位置具备结构上的势能。\n  \n  价格缺乏… / X\nurl: \"https://x.com/TradercBTC/status/2022148526940328168\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2022148526940328168\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2022148526940328168/imgs/img-002-HBAbl21aQAAS22B-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-13T03:19:13.000Z\"\nsummary: |-\n  以下是关于  $SPX  $NDX 和 MAG7 的更新👇\n  \n  这将会成为固定栏目，我将每周对于美股，日经指数，上证指数，黄金以及其他追踪的行业板块和大宗商品进行更新\n  \n  逻辑链是视频为主，推特以长线呈更新持仓。\n  \n  让我们开始吧：\n  \n  $SPX 高位横盘，价格出现背离和潜在的头肩顶形态\n  \n  伴随着NDX和七巨头的资金撤离，意味着买方力量动能随着时间不断减弱。\n  \n  1️⃣从周期上说：\n  同时美元指数主基调下跌，美债上涨，美股引来弱美元周期的宏观范式转换\n  \n  2️⃣从结构上说：\n  宏观缺乏买盘动能，资金开始撤离轮动到防守，价格处于新高横盘，这一位置具备结构上的势能。\n  \n  价格缺乏动能后的自然下跌势能，配合一部分…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:57:58.280Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"以下是关于  $SPX  $NDX 和 MAG7 的更新👇\n\n这将会成为固定栏目，我将每周对于美股，日经指数，上证指数，黄金以及其他追踪的行业板块和大宗商品进行更新\n\n逻辑链是视频为主，推特以长线呈更新持仓。\n\n让我们开始吧：\n\n$SPX 高位横盘，价格出现背离和潜在的头肩顶形态\n\n伴随着NDX和七巨头的资金撤离，意味着买方力量动能随着时间不断减弱。\n\n1️⃣从周期上说：\n同时美元指数主基调下跌，美债上涨，美股引来弱美元周期的宏观范式转换\n\n2️⃣从结构上说：\n宏观缺乏买盘动能，资金开始撤离轮动到防守，价格处于新高横盘，这一位置具备结构上的势能。\n\n价格缺乏… / X\n\n- [![@TradercBTC](2022148526940328168/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t以下是关于 [$SPX](https://x.com/search?q=$SPX) [$NDX](https://x.com/search?q=$NDX) 和 MAG7 的更新👇 这将会成为固定栏目，我将每周对于美股，日经指数，上证指数，黄金以及其他追踪的行业板块和大宗商品进行更新 逻辑链是视频为主，推特以长线呈更新持仓。 让我们开始吧： [$SPX](https://x.com/search?q=$SPX) 高位横盘，价格出现背离和潜在的头肩顶形态 伴随着NDX和七巨头的资金撤离，意味着买方力量动能随着时间不断减弱。 1️⃣从周期上说： 同时美元指数主基调下跌，美债上涨，美股引来弱美元周期的宏观范式转换 2️⃣从结构上说： 宏观缺乏买盘动能，资金开始撤离轮动到防守，价格处于新高横盘，这一位置具备结构上的势能。 价格缺乏动能后的自然下跌势能，配合一部分做对冲或者卖盘的动能 个人态度： 面临风险，调整进攻账户和防御账户的比例，降低单一风险，获利了结。 以及对价格表现弱势的标的适当做空。 以期权或者CFD形式押注下跌。 注意防守的同时少部分押注下跌的可能。\n\t[11:19 · 2026年2月13日](https://x.com/TradercBTC/status/2022148526940328168) [1543Views](https://x.com/TradercBTC/status/2022148526940328168)\n\t[2](https://x.com/i/status/2022148526940328168)\n- [![@TradercBTC](2022148526940328168/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[$TSLA](https://x.com/search?q=$TSLA) 首先前面我们有一波流畅的下跌 随后我们看到价格在一倍MM的位置以及之前的低点的到来买盘支撑 随后连续三天大阳上涨 短期而言，特斯拉仍然是一个强势的标的，虽然跌破箱体震荡，但是非常强死拉回"
+}

@@ -1,0 +1,109 @@
+[info] Loading https://x.com/TradercBTC/status/2078144783974088744 with generic adapter
+[info] Downloaded 6 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2078144783974088744.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HNcJnobboAE-mKU.png:large",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HNcLc42aYAAUtuS?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HNcMb0JasAA7DwF?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HNcNI0ib0AAO_ju?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HNRD6veb0AAYa3X?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/HNcJnobboAE-mKU.png:large",
+        "localPath": "2078144783974088744/imgs/img-001-HNcJnobboAE-mKU-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2078144783974088744/imgs/img-001-HNcJnobboAE-mKU-png-large.png",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2078144783974088744/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2078144783974088744/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HNcLc42aYAAUtuS?format=webp&name=medium",
+        "localPath": "2078144783974088744/imgs/img-003-HNcLc42aYAAUtuS.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2078144783974088744/imgs/img-003-HNcLc42aYAAUtuS.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HNcMb0JasAA7DwF?format=webp&name=medium",
+        "localPath": "2078144783974088744/imgs/img-004-HNcMb0JasAA7DwF.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2078144783974088744/imgs/img-004-HNcMb0JasAA7DwF.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HNcNI0ib0AAO_ju?format=webp&name=medium",
+        "localPath": "2078144783974088744/imgs/img-005-HNcNI0ib0AAO_ju.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2078144783974088744/imgs/img-005-HNcNI0ib0AAO_ju.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HNRD6veb0AAYa3X?format=webp&name=medium",
+        "localPath": "2078144783974088744/imgs/img-006-HNRD6veb0AAYa3X.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2078144783974088744/imgs/img-006-HNRD6veb0AAYa3X.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 6,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2078144783974088744/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2078144783974088744",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2078144783974088744",
+    "title": "trader-c on X: \"假设我们做日内的话，比如说做5分钟，它的15分钟和5分钟其实都是宽幅震荡的时候 你可以根据出现信号K，之后入场，按照止盈止损去做一个1:1的盈亏比 包括即使我们看到那个在上涨的一个宽通道里，但是我们的入场位置可能偏向于通道的中部， 那么尽可能的就是要根据市场的走势，我们初始目标位按照1:1去进行。 如果推进得特别干脆，可以放到上面的止盈2的位置。 但是如果重叠K比较多，行情走的比较磨叽的话，我们其实达到止盈1的位置就可以 同样的当我们看到15分钟级别是一个震荡，但是前面明显有一个非常强劲的信号K，推进的非常干净，出现了二次场的信号K，然后这个信号K…",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-07-17T15:48:21.000Z",
+    "summary": "假设我们做日内的话，比如说做5分钟，它的15分钟和5分钟其实都是宽幅震荡的时候\n\n你可以根据出现信号K，之后入场，按照止盈止损去做一个1:1的盈亏比\n\n包括即使我们看到那个在上涨的一个宽通道里，但是我们的入场位置可能偏向于通道的中部，\n\n那么尽可能的就是要根据市场的走势，我们初始目标位按照1:1去进行。\n\n如果推进得特别干脆，可以放到上面的止盈2的位置。\n\n但是如果重叠K比较多，行情走的比较磨叽的话，我们其实达到止盈1的位置就可以\n\n同样的当我们看到15分钟级别是一个震荡，但是前面明显有一个非常强劲的信号K，推进的非常干净，出现了二次场的信号K，然后这个信号K是一个非常强劲的K线\n\n我们就可…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HNcJnobboAE-mKU.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:03:05.141Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n假设我们做日内的话，比如说做5分钟，它的15分钟和5分钟其实都是宽幅震荡的时候 你可以根据出现信号K，之后入场，按照止盈止损去做一个1:1的盈亏比 包括即使我们看到那个在上涨的一个宽通道里，但是我们的入场位置可能偏向于通道的中部， 那么尽可能的就是要根据市场的走势，我们初始目标位按照1:1去进行。 如果推进得特别干脆，可以放到上面的止盈2的位置。 但是如果重叠K比较多，行情走的比较磨叽的话，我们其实达到止盈1的位置就可以 同样的当我们看到15分钟级别是一个震荡，但是前面明显有一个非常强劲的信号K，推进的非常干净，出现了二次场的信号K，然后这个信号K是一个非常强劲的K线 我们就可以尝试即使在震荡或者说宽幅震荡里面，我们可以将初始目标位作为一个止盈2的位置。 因为指标的止盈止损是会移动的，所以在入场之后，如果达到了止盈1的位置，可以将止损移动到保本儿。 因为一般达到止盈1的位置，比如说图4达到止盈1的位置，它的止损线也差不多达到了保本的位置\n\n[![](https://pbs.twimg.com/media/HNcLc42aYAAUtuS?format=webp&name=medium)](https://x.com/TradercBTC/status/2078144783974088744/photo/2)\n\n[![](https://pbs.twimg.com/media/HNcMb0JasAA7DwF?format=webp&name=medium)](https://x.com/TradercBTC/status/2078144783974088744/photo/3)\n\n[![](https://pbs.twimg.com/media/HNcNI0ib0AAO_ju?format=webp&name=medium)](https://x.com/TradercBTC/status/2078144783974088744/photo/4)\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n已上线 300💲/年，订阅者主页进discord，有订阅地址。 作用： 「1. 现在是什么行情？ 2. 当前价格在什么位置？ 3. 这种行情下应该遵守什么方向约束？ 4. 按照当前波动，止损止盈大概应该放多远？」\n\n[![](https://pbs.twimg.com/media/HNRD6veb0AAYa3X?format=webp&name=medium)](https://x.com/TradercBTC/status/2077362117896974495/photo/1)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2078144783974088744"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"假设我们做日内的话，比如说做5分钟，它的15分钟和5分钟其实都是宽幅震荡的时候 你可以根据出现信号K，之后入场，按照止盈止损去做一个1:1的盈亏比 包括即使我们看到那个在上涨的一个宽通道里，但是我们的入场位置可能偏向于通道的中部， 那么尽可能的就是要根据市场的走势，我们初始目标位按照1:1去进行。 如果推进得特别干脆，可以放到上面的止盈2的位置。 但是如果重叠K比较多，行情走的比较磨叽的话，我们其实达到止盈1的位置就可以 同样的当我们看到15分钟级别是一个震荡，但是前面明显有一个非常强劲的信号K，推进的非常干净，出现了二次场的信号K，然后这个信号K…\"\nurl: \"https://x.com/TradercBTC/status/2078144783974088744\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2078144783974088744\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2078144783974088744/imgs/img-001-HNcJnobboAE-mKU-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-07-17T15:48:21.000Z\"\nsummary: |-\n  假设我们做日内的话，比如说做5分钟，它的15分钟和5分钟其实都是宽幅震荡的时候\n  \n  你可以根据出现信号K，之后入场，按照止盈止损去做一个1:1的盈亏比\n  \n  包括即使我们看到那个在上涨的一个宽通道里，但是我们的入场位置可能偏向于通道的中部，\n  \n  那么尽可能的就是要根据市场的走势，我们初始目标位按照1:1去进行。\n  \n  如果推进得特别干脆，可以放到上面的止盈2的位置。\n  \n  但是如果重叠K比较多，行情走的比较磨叽的话，我们其实达到止盈1的位置就可以\n  \n  同样的当我们看到15分钟级别是一个震荡，但是前面明显有一个非常强劲的信号K，推进的非常干净，出现了二次场的信号K，然后这个信号K是一个非常强劲的K线\n  \n  我们就可…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:03:05.141Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"假设我们做日内的话，比如说做5分钟，它的15分钟和5分钟其实都是宽幅震荡的时候 你可以根据出现信号K，之后入场，按照止盈止损去做一个1:1的盈亏比 包括即使我们看到那个在上涨的一个宽通道里，但是我们的入场位置可能偏向于通道的中部， 那么尽可能的就是要根据市场的走势，我们初始目标位按照1:1去进行。 如果推进得特别干脆，可以放到上面的止盈2的位置。 但是如果重叠K比较多，行情走的比较磨叽的话，我们其实达到止盈1的位置就可以 同样的当我们看到15分钟级别是一个震荡，但是前面明显有一个非常强劲的信号K，推进的非常干净，出现了二次场的信号K，然后这个信号K…\n\n[![@TradercBTC](2078144783974088744/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n假设我们做日内的话，比如说做5分钟，它的15分钟和5分钟其实都是宽幅震荡的时候 你可以根据出现信号K，之后入场，按照止盈止损去做一个1:1的盈亏比 包括即使我们看到那个在上涨的一个宽通道里，但是我们的入场位置可能偏向于通道的中部， 那么尽可能的就是要根据市场的走势，我们初始目标位按照1:1去进行。 如果推进得特别干脆，可以放到上面的止盈2的位置。 但是如果重叠K比较多，行情走的比较磨叽的话，我们其实达到止盈1的位置就可以 同样的当我们看到15分钟级别是一个震荡，但是前面明显有一个非常强劲的信号K，推进的非常干净，出现了二次场的信号K，然后这个信号K是一个非常强劲的K线 我们就可以尝试即使在震荡或者说宽幅震荡里面，我们可以将初始目标位作为一个止盈2的位置。 因为指标的止盈止损是会移动的，所以在入场之后，如果达到了止盈1的位置，可以将止损移动到保本儿。 因为一般达到止盈1的位置，比如说图4达到止盈1的位置，它的止损线也差不多达到了保本的位置\n\n[![](2078144783974088744/imgs/img-003-HNcLc42aYAAUtuS.webp)](https://x.com/TradercBTC/status/2078144783974088744/photo/2)\n\n[![](2078144783974088744/imgs/img-004-HNcMb0JasAA7DwF.webp)](https://x.com/TradercBTC/status/2078144783974088744/photo/3)\n\n[![](2078144783974088744/imgs/img-005-HNcNI0ib0AAO_ju.webp)](https://x.com/TradercBTC/status/2078144783974088744/photo/4)\n\n[![@TradercBTC](2078144783974088744/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n已上线 300💲/年，订阅者主页进discord，有订阅地址。 作用： 「1. 现在是什么行情？ 2. 当前价格在什么位置？ 3. 这种行情下应该遵守什么方向约束？ 4. 按照当前波动，止损止盈大概应该放多远？」\n\n[![](2078144783974088744/imgs/img-006-HNRD6veb0AAYa3X.webp)](https://x.com/TradercBTC/status/2077362117896974495/photo/1)\n\nOnly some accounts can reply."
+}

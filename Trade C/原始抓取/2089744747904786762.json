@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HQBDgtyaAAAWBa_.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2089744747904786762/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2089744747904786762/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HQBDgtyaAAAWBa_.jpg:large",
+        "localPath": "2089744747904786762/imgs/img-002-HQBDgtyaAAAWBa_-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2089744747904786762/imgs/img-002-HQBDgtyaAAAWBa_-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2089744747904786762/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2089744747904786762",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2089744747904786762",
+    "title": "trader-c on X: \"直播看了 $CRCL ，押注一个突破\n \n下跌，进入修正，再推动没有创造新低，反而形成了深度回调，突破修正箱体\n\n但是现在没有看到上涨，再推动，所以不能认为反转\n\n但是可以进行押注反转，止损放在箱体里，按照波动率ATR止损\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-18T16:02:28.000Z",
+    "summary": "直播看了 $CRCL ，押注一个突破\n \n下跌，进入修正，再推动没有创造新低，反而形成了深度回调，突破修正箱体\n\n但是现在没有看到上涨，再推动，所以不能认为反转\n\n但是可以进行押注反转，止损放在箱体里，按照波动率ATR止损",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HQBDgtyaAAAWBa_.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:05:47.712Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n直播看了 [$CRCL](https://x.com/search?q=$CRCL) ，押注一个突破 下跌，进入修正，再推动没有创造新低，反而形成了深度回调，突破修正箱体 但是现在没有看到上涨，再推动，所以不能认为反转 但是可以进行押注反转，止损放在箱体里，按照波动率ATR止损\n\n[0:02 · 2026年8月19日](https://x.com/TradercBTC/status/2089744747904786762) [1.2万Views](https://x.com/TradercBTC/status/2089744747904786762)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2089744747904786762"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"直播看了 $CRCL ，押注一个突破\n   \n  下跌，进入修正，再推动没有创造新低，反而形成了深度回调，突破修正箱体\n  \n  但是现在没有看到上涨，再推动，所以不能认为反转\n  \n  但是可以进行押注反转，止损放在箱体里，按照波动率ATR止损\" / X\nurl: \"https://x.com/TradercBTC/status/2089744747904786762\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2089744747904786762\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2089744747904786762/imgs/img-002-HQBDgtyaAAAWBa_-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-18T16:02:28.000Z\"\nsummary: |-\n  直播看了 $CRCL ，押注一个突破\n   \n  下跌，进入修正，再推动没有创造新低，反而形成了深度回调，突破修正箱体\n  \n  但是现在没有看到上涨，再推动，所以不能认为反转\n  \n  但是可以进行押注反转，止损放在箱体里，按照波动率ATR止损\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:05:47.712Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"直播看了 $CRCL ，押注一个突破\n \n下跌，进入修正，再推动没有创造新低，反而形成了深度回调，突破修正箱体\n\n但是现在没有看到上涨，再推动，所以不能认为反转\n\n但是可以进行押注反转，止损放在箱体里，按照波动率ATR止损\" / X\n\n[![@TradercBTC](2089744747904786762/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n直播看了 [$CRCL](https://x.com/search?q=$CRCL) ，押注一个突破 下跌，进入修正，再推动没有创造新低，反而形成了深度回调，突破修正箱体 但是现在没有看到上涨，再推动，所以不能认为反转 但是可以进行押注反转，止损放在箱体里，按照波动率ATR止损\n\n[0:02 · 2026年8月19日](https://x.com/TradercBTC/status/2089744747904786762) [1.2万Views](https://x.com/TradercBTC/status/2089744747904786762)\n\nOnly some accounts can reply."
+}

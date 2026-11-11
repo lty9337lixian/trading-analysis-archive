@@ -1,0 +1,14 @@
+[
+  [
+    "01",
+    "Preserve the entire infographic layout, palette, typography and all other panels. Correct ONLY the upper-right candlestick panel: remove ALL small OHLC price annotations and their dotted guide lines (最高价,最低价,开盘价,收盘价 and malformed variants). Draw clean four canonical candlesticks labelled only 长上影线, 长下影线, 大实体, 十字星. First small body at bottom with long upper wick; second small body near top with long lower wick; third large body with tiny wicks; fourth open and close exactly same height forming cross. Under each use short captions 上方受阻, 下方承接, 单向推进, 暂时平衡. Keep title and other text unchanged."
+  ],
+  [
+    "07",
+    "Correct ONLY the middle-right 楔形 diagram. Currently it is a symmetrical triangle, which is wrong for this lesson. Replace with a RISING WEDGE: both lower support and upper resistance slope upward left to right, lower boundary steeper than upper, converging toward upper right. Price makes exactly three rising peaks inside, each gain smaller, then breaks downward through rising lower boundary. Label 上升楔形 and 第一推 第二推 第三推. Remove the inaccurate label 下降趋势线. Keep every other panel and all other text unchanged."
+  ],
+  [
+    "08",
+    "Keep overall infographic intact. Correct the bottom four-dimensions cards to avoid unverified statistical assertions. Replace text under 距离 exactly with: “观察离开区域的幅度，不单独据此预测回补。” Replace text under 时间 exactly with: “记录多久没有回访，结合新结构持续更新。” Keep all other panels. In bull and bear panel header replace 谁的解释更能持续，谁就更占优 with “谁的推进更能维持，谁更占优”."
+  ]
+]

@@ -1,0 +1,175 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 10,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-02-14T03:40:19.000Z",
+  "display_text_range": [
+    0,
+    52
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/YE7mMT4zD5",
+        "expanded_url": "https://x.com/TradercBTC/status/2022516225646158091/photo/1",
+        "indices": [
+          53,
+          76
+        ],
+        "url": "https://t.co/YE7mMT4zD5"
+      }
+    ],
+    "symbols": [
+      {
+        "indices": [
+          0,
+          4
+        ],
+        "text": "BTC"
+      }
+    ]
+  },
+  "id_str": "2022516225646158091",
+  "text": "$BTC 周五走的很不错，日线收的很好\n\n完成了一次结构突破，短暂达成了做多条件\n\n将持续关注，等待机会 https://t.co/YE7mMT4zD5",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2022516225646158091"
+    ],
+    "editable_until_msecs": "1771044019000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/YE7mMT4zD5",
+      "expanded_url": "https://x.com/TradercBTC/status/2022516225646158091/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        53,
+        76
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HBFrjT7aMAAWr_C.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1364,
+            "w": 2436,
+            "x": 1,
+            "y": 0
+          },
+          {
+            "h": 1364,
+            "w": 1364,
+            "x": 537,
+            "y": 0
+          },
+          {
+            "h": 1364,
+            "w": 1196,
+            "x": 621,
+            "y": 0
+          },
+          {
+            "h": 1364,
+            "w": 682,
+            "x": 878,
+            "y": 0
+          },
+          {
+            "h": 1364,
+            "w": 2574,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1364,
+        "width": 2574
+      },
+      "sizes": {
+        "large": {
+          "h": 1085,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 636,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 360,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/YE7mMT4zD5"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1364,
+          "w": 2436,
+          "x": 1,
+          "y": 0
+        },
+        {
+          "h": 1364,
+          "w": 1364,
+          "x": 537,
+          "y": 0
+        },
+        {
+          "h": 1364,
+          "w": 1196,
+          "x": 621,
+          "y": 0
+        },
+        {
+          "h": 1364,
+          "w": 682,
+          "x": 878,
+          "y": 0
+        },
+        {
+          "h": 1364,
+          "w": 2574,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2022516225646158091/photo/1",
+      "url": "https://pbs.twimg.com/media/HBFrjT7aMAAWr_C.jpg",
+      "width": 2574,
+      "height": 1364
+    }
+  ],
+  "conversation_count": 2,
+  "news_action_type": "conversation",
+  "isEdited": false,
+  "isStaleEdit": false
+}

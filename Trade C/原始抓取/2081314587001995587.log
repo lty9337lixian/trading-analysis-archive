@@ -1,0 +1,98 @@
+[info] Loading https://x.com/TradercBTC/status/2081314587001995587 with generic adapter
+[info] Downloaded 5 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2081314587001995587.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HOJOP2RaYAAfG9o?format=webp&name=small",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HOJOT2SbkAAPytZ?format=webp&name=small",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HOJOXEFbcAA17ou?format=webp&name=small",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2081314587001995587/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2081314587001995587/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2081314587001995587/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2081314587001995587/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HOJOP2RaYAAfG9o?format=webp&name=small",
+        "localPath": "2081314587001995587/imgs/img-003-HOJOP2RaYAAfG9o.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2081314587001995587/imgs/img-003-HOJOP2RaYAAfG9o.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HOJOT2SbkAAPytZ?format=webp&name=small",
+        "localPath": "2081314587001995587/imgs/img-004-HOJOT2SbkAAPytZ.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2081314587001995587/imgs/img-004-HOJOT2SbkAAPytZ.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HOJOXEFbcAA17ou?format=webp&name=small",
+        "localPath": "2081314587001995587/imgs/img-005-HOJOXEFbcAA17ou.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2081314587001995587/imgs/img-005-HOJOXEFbcAA17ou.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 5,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2081314587001995587/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2081314587001995587",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2081314587001995587",
+    "title": "trader-c on X: \"BTC市场定性 日线处于宽幅震荡，动能均衡，价格位于通道上沿附近，当前位置偏向空头。 6H已经由上涨转为震荡，并进一步进入窄幅下跌通道，动能为强下跌，说明中周期空头占据主导。 1H由上涨通道转为宽幅震荡，但动能仍然上涨，说明当前可能处于6H下跌结构中的短线反弹阶段。 主要计划 整体偏空，但不直接追空。 等待1H上涨动能退化为均衡或下跌动能，或者1H宽幅震荡向下破位，使其重新与6H方向一致，再寻找做空机会。 止盈优先参考1H震荡下沿及6H前低；如果1H与6H形成空头共振，可进一步观察日线震荡中部或下方支撑。 备选计划 如果1H上涨继续延伸，只将其视为短线反弹…",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-07-26T09:44:01.000Z",
+    "summary": "BTC市场定性\n日线处于宽幅震荡，动能均衡，价格位于通道上沿附近，当前位置偏向空头。\n6H已经由上涨转为震荡，并进一步进入窄幅下跌通道，动能为强下跌，说明中周期空头占据主导。\n1H由上涨通道转为宽幅震荡，但动能仍然上涨，说明当前可能处于6H下跌结构中的短线反弹阶段。\n\n主要计划\n整体偏空，但不直接追空。\n等待1H上涨动能退化为均衡或下跌动能，或者1H宽幅震荡向下破位，使其重新与6H方向一致，再寻找做空机会。\n止盈优先参考1H震荡下沿及6H前低；如果1H与6H形成空头共振，可进一步观察日线震荡中部或下方支撑。\n\n备选计划\n如果1H上涨继续延伸，只将其视为短线反弹。\n除非6H强下跌动能明显衰减、…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:04:15.375Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\nBTC市场定性 日线处于宽幅震荡，动能均衡，价格位于通道上沿附近，当前位置偏向空头。 6H已经由上涨转为震荡，并进一步进入窄幅下跌通道，动能为强下跌，说明中周期空头占据主导。 1H由上涨通道转为宽幅震荡，但动能仍然上涨，说明当前可能处于6H下跌结构中的短线反弹阶段。 主要计划 整体偏空，但不直接追空。 等待1H上涨动能退化为均衡或下跌动能，或者1H宽幅震荡向下破位，使其重新与6H方向一致，再寻找做空机会。 止盈优先参考1H震荡下沿及6H前低；如果1H与6H形成空头共振，可进一步观察日线震荡中部或下方支撑。 备选计划 如果1H上涨继续延伸，只将其视为短线反弹。 除非6H强下跌动能明显衰减、下跌通道遭到破坏，并转为均衡或上涨，否则不把1H上涨视为中周期反转。 若进行短线做多，应降低预期，并在6H阻力位或日线震荡上沿附近及时止盈。 方向上优先偏空，节奏上等待1H反弹结束；当前不是追空点，也不是理想的波段做多环境。\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n下周市场快照：BTC 日线高等框架：宽幅震荡，动能均衡，位置偏通道上沿。 6H中等框架：窄幅上涨通道转震荡进入窄幅下跌通道，动能强下跌 1H低等框架：上涨通道转宽幅震荡，动能上涨。 组合起来：日线震荡高位，6H主跌，1H反弹。\n\n[![](https://pbs.twimg.com/media/HOJOP2RaYAAfG9o?format=webp&name=small)](https://x.com/TradercBTC/status/2081314373721866671/photo/1)\n\n[![](https://pbs.twimg.com/media/HOJOT2SbkAAPytZ?format=webp&name=small)](https://x.com/TradercBTC/status/2081314373721866671/photo/2)\n\n[![](https://pbs.twimg.com/media/HOJOXEFbcAA17ou?format=webp&name=small)](https://x.com/TradercBTC/status/2081314373721866671/photo/3)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2081314587001995587"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"BTC市场定性 日线处于宽幅震荡，动能均衡，价格位于通道上沿附近，当前位置偏向空头。 6H已经由上涨转为震荡，并进一步进入窄幅下跌通道，动能为强下跌，说明中周期空头占据主导。 1H由上涨通道转为宽幅震荡，但动能仍然上涨，说明当前可能处于6H下跌结构中的短线反弹阶段。 主要计划 整体偏空，但不直接追空。 等待1H上涨动能退化为均衡或下跌动能，或者1H宽幅震荡向下破位，使其重新与6H方向一致，再寻找做空机会。 止盈优先参考1H震荡下沿及6H前低；如果1H与6H形成空头共振，可进一步观察日线震荡中部或下方支撑。 备选计划 如果1H上涨继续延伸，只将其视为短线反弹…\"\nurl: \"https://x.com/TradercBTC/status/2081314587001995587\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2081314587001995587\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2081314587001995587/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-07-26T09:44:01.000Z\"\nsummary: |-\n  BTC市场定性\n  日线处于宽幅震荡，动能均衡，价格位于通道上沿附近，当前位置偏向空头。\n  6H已经由上涨转为震荡，并进一步进入窄幅下跌通道，动能为强下跌，说明中周期空头占据主导。\n  1H由上涨通道转为宽幅震荡，但动能仍然上涨，说明当前可能处于6H下跌结构中的短线反弹阶段。\n  \n  主要计划\n  整体偏空，但不直接追空。\n  等待1H上涨动能退化为均衡或下跌动能，或者1H宽幅震荡向下破位，使其重新与6H方向一致，再寻找做空机会。\n  止盈优先参考1H震荡下沿及6H前低；如果1H与6H形成空头共振，可进一步观察日线震荡中部或下方支撑。\n  \n  备选计划\n  如果1H上涨继续延伸，只将其视为短线反弹。\n  除非6H强下跌动能明显衰减、…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:04:15.375Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"BTC市场定性 日线处于宽幅震荡，动能均衡，价格位于通道上沿附近，当前位置偏向空头。 6H已经由上涨转为震荡，并进一步进入窄幅下跌通道，动能为强下跌，说明中周期空头占据主导。 1H由上涨通道转为宽幅震荡，但动能仍然上涨，说明当前可能处于6H下跌结构中的短线反弹阶段。 主要计划 整体偏空，但不直接追空。 等待1H上涨动能退化为均衡或下跌动能，或者1H宽幅震荡向下破位，使其重新与6H方向一致，再寻找做空机会。 止盈优先参考1H震荡下沿及6H前低；如果1H与6H形成空头共振，可进一步观察日线震荡中部或下方支撑。 备选计划 如果1H上涨继续延伸，只将其视为短线反弹…\n\n[![@TradercBTC](2081314587001995587/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\nBTC市场定性 日线处于宽幅震荡，动能均衡，价格位于通道上沿附近，当前位置偏向空头。 6H已经由上涨转为震荡，并进一步进入窄幅下跌通道，动能为强下跌，说明中周期空头占据主导。 1H由上涨通道转为宽幅震荡，但动能仍然上涨，说明当前可能处于6H下跌结构中的短线反弹阶段。 主要计划 整体偏空，但不直接追空。 等待1H上涨动能退化为均衡或下跌动能，或者1H宽幅震荡向下破位，使其重新与6H方向一致，再寻找做空机会。 止盈优先参考1H震荡下沿及6H前低；如果1H与6H形成空头共振，可进一步观察日线震荡中部或下方支撑。 备选计划 如果1H上涨继续延伸，只将其视为短线反弹。 除非6H强下跌动能明显衰减、下跌通道遭到破坏，并转为均衡或上涨，否则不把1H上涨视为中周期反转。 若进行短线做多，应降低预期，并在6H阻力位或日线震荡上沿附近及时止盈。 方向上优先偏空，节奏上等待1H反弹结束；当前不是追空点，也不是理想的波段做多环境。\n\n[![@TradercBTC](2081314587001995587/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n下周市场快照：BTC 日线高等框架：宽幅震荡，动能均衡，位置偏通道上沿。 6H中等框架：窄幅上涨通道转震荡进入窄幅下跌通道，动能强下跌 1H低等框架：上涨通道转宽幅震荡，动能上涨。 组合起来：日线震荡高位，6H主跌，1H反弹。\n\n[![](2081314587001995587/imgs/img-003-HOJOP2RaYAAfG9o.webp)](https://x.com/TradercBTC/status/2081314373721866671/photo/1)\n\n[![](2081314587001995587/imgs/img-004-HOJOT2SbkAAPytZ.webp)](https://x.com/TradercBTC/status/2081314373721866671/photo/2)\n\n[![](2081314587001995587/imgs/img-005-HOJOXEFbcAA17ou.webp)](https://x.com/TradercBTC/status/2081314373721866671/photo/3)\n\nOnly some accounts can reply."
+}

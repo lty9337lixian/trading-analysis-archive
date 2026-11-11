@@ -1,0 +1,58 @@
+[info] Loading https://x.com/TradercBTC/status/2045443493473239354 with generic adapter
+[info] Downloaded 1 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2045443493473239354.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2045443493473239354/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2045443493473239354/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2045443493473239354/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2045443493473239354",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2045443493473239354",
+    "title": "trader-c on X: \"入场逻辑的核心问题是：\"当前市场状态是否符合我的交易条件？\" \n\n出场逻辑的核心问题是：\"我当前仓位的风险回报比是否仍然合理？\"\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-04-18T10:05:06.000Z",
+    "summary": "入场逻辑的核心问题是：\"当前市场状态是否符合我的交易条件？\" \n\n出场逻辑的核心问题是：\"我当前仓位的风险回报比是否仍然合理？\"",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:00:25.281Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n入场逻辑的核心问题是：\"当前市场状态是否符合我的交易条件？\" 出场逻辑的核心问题是：\"我当前仓位的风险回报比是否仍然合理？\"\n\n[18:05 · 2026年4月18日](https://x.com/TradercBTC/status/2045443493473239354) [1038Views](https://x.com/TradercBTC/status/2045443493473239354)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2045443493473239354"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"入场逻辑的核心问题是：\"当前市场状态是否符合我的交易条件？\" \n  \n  出场逻辑的核心问题是：\"我当前仓位的风险回报比是否仍然合理？\"\" / X\nurl: \"https://x.com/TradercBTC/status/2045443493473239354\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2045443493473239354\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2045443493473239354/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-04-18T10:05:06.000Z\"\nsummary: |-\n  入场逻辑的核心问题是：\"当前市场状态是否符合我的交易条件？\" \n  \n  出场逻辑的核心问题是：\"我当前仓位的风险回报比是否仍然合理？\"\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:00:25.281Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"入场逻辑的核心问题是：\"当前市场状态是否符合我的交易条件？\" \n\n出场逻辑的核心问题是：\"我当前仓位的风险回报比是否仍然合理？\"\" / X\n\n[![@TradercBTC](2045443493473239354/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n入场逻辑的核心问题是：\"当前市场状态是否符合我的交易条件？\" 出场逻辑的核心问题是：\"我当前仓位的风险回报比是否仍然合理？\"\n\n[18:05 · 2026年4月18日](https://x.com/TradercBTC/status/2045443493473239354) [1038Views](https://x.com/TradercBTC/status/2045443493473239354)"
+}

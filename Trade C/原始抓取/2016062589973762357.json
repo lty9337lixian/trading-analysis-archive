@@ -1,0 +1,73 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/G_p8hHBWMAADob0.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/G_jzdchbMAAICgi?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/G_p8hHBWMAADob0.jpg:large",
+        "localPath": "2016062589973762357/imgs/img-001-G_p8hHBWMAADob0-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2016062589973762357/imgs/img-001-G_p8hHBWMAADob0-jpg-large.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2016062589973762357/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2016062589973762357/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/G_jzdchbMAAICgi?format=webp&name=medium",
+        "localPath": "2016062589973762357/imgs/img-003-G_jzdchbMAAICgi.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2016062589973762357/imgs/img-003-G_jzdchbMAAICgi.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 3,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2016062589973762357/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2016062589973762357",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2016062589973762357",
+    "title": "trader-c on X: \"持续更新 $BTC 昨天晚上波动巨大，来回画门 形成的原因是因为背后买卖双方的大资金在这里产生了分歧 他们用资金来测试市场的供应和需求 很明显，在一阵插针行情之后，价格继续向上 1h级别已经产生了HH和HL，但是我们没有看到结构的突破 在亚洲时区，价格触碰了MSS的阻力位置，突破失败（实际上亚洲时区流动性比较捞，倒也正常） 现在只要保持低点不被跌破，就可以期待一下美区活跃的时候来一个痛快的大阳线去突破 要强调的是，我们仍然保持强观点弱持有的想法 我正在观察15min的图表，等待这15min图表下跌趋势被打破，然后建立30%的仓位去左侧押注一…",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-01-27T08:15:52.000Z",
+    "summary": "持续更新 $BTC \n\n昨天晚上波动巨大，来回画门\n\n形成的原因是因为背后买卖双方的大资金在这里产生了分歧\n\n他们用资金来测试市场的供应和需求\n\n很明显，在一阵插针行情之后，价格继续向上\n\n1h级别已经产生了HH和HL，但是我们没有看到结构的突破\n\n在亚洲时区，价格触碰了MSS的阻力位置，突破失败（实际上亚洲时区流动性比较捞，倒也正常）\n\n现在只要保持低点不被跌破，就可以期待一下美区活跃的时候来一个痛快的大阳线去突破\n\n要强调的是，我们仍然保持强观点弱持有的想法\n\n我正在观察15min的图表，等待这15min图表下跌趋势被打破，然后建立30%的仓位去左侧押注一手突破",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/G_p8hHBWMAADob0.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:55:21.374Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n持续更新 [$BTC](https://x.com/search?q=$BTC) 昨天晚上波动巨大，来回画门 形成的原因是因为背后买卖双方的大资金在这里产生了分歧 他们用资金来测试市场的供应和需求 很明显，在一阵插针行情之后，价格继续向上 1h级别已经产生了HH和HL，但是我们没有看到结构的突破 在亚洲时区，价格触碰了MSS的阻力位置，突破失败（实际上亚洲时区流动性比较捞，倒也正常） 现在只要保持低点不被跌破，就可以期待一下美区活跃的时候来一个痛快的大阳线去突破 要强调的是，我们仍然保持强观点弱持有的想法 我正在观察15min的图表，等待这15min图表下跌趋势被打破，然后建立30%的仓位去左侧押注一手突破\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[1月26日](https://x.com/TradercBTC/status/2015629441050022147)\n\n[$BTC](https://x.com/search?q=$BTC) 更新1H级别的价格行为解盘 目前已经进入了一层限价单，这是一个小仓位左侧埋伏单 等待走出MSS的突破结构，这样就正式确定了多军的强度，就可以上仓位了\n\n[![](https://pbs.twimg.com/media/G_jzdchbMAAICgi?format=webp&name=medium)](https://x.com/TradercBTC/status/2015629441050022147/photo/1)\n\n[16:15 · 2026年1月27日](https://x.com/TradercBTC/status/2016062589973762357)[1.3万Views](https://x.com/TradercBTC/status/2016062589973762357)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2016062589973762357"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"持续更新 $BTC 昨天晚上波动巨大，来回画门 形成的原因是因为背后买卖双方的大资金在这里产生了分歧 他们用资金来测试市场的供应和需求 很明显，在一阵插针行情之后，价格继续向上 1h级别已经产生了HH和HL，但是我们没有看到结构的突破 在亚洲时区，价格触碰了MSS的阻力位置，突破失败（实际上亚洲时区流动性比较捞，倒也正常） 现在只要保持低点不被跌破，就可以期待一下美区活跃的时候来一个痛快的大阳线去突破 要强调的是，我们仍然保持强观点弱持有的想法 我正在观察15min的图表，等待这15min图表下跌趋势被打破，然后建立30%的仓位去左侧押注一…\"\nurl: \"https://x.com/TradercBTC/status/2016062589973762357\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2016062589973762357\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2016062589973762357/imgs/img-001-G_p8hHBWMAADob0-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-01-27T08:15:52.000Z\"\nsummary: |-\n  持续更新 $BTC \n  \n  昨天晚上波动巨大，来回画门\n  \n  形成的原因是因为背后买卖双方的大资金在这里产生了分歧\n  \n  他们用资金来测试市场的供应和需求\n  \n  很明显，在一阵插针行情之后，价格继续向上\n  \n  1h级别已经产生了HH和HL，但是我们没有看到结构的突破\n  \n  在亚洲时区，价格触碰了MSS的阻力位置，突破失败（实际上亚洲时区流动性比较捞，倒也正常）\n  \n  现在只要保持低点不被跌破，就可以期待一下美区活跃的时候来一个痛快的大阳线去突破\n  \n  要强调的是，我们仍然保持强观点弱持有的想法\n  \n  我正在观察15min的图表，等待这15min图表下跌趋势被打破，然后建立30%的仓位去左侧押注一手突破\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:55:21.374Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"持续更新 $BTC 昨天晚上波动巨大，来回画门 形成的原因是因为背后买卖双方的大资金在这里产生了分歧 他们用资金来测试市场的供应和需求 很明显，在一阵插针行情之后，价格继续向上 1h级别已经产生了HH和HL，但是我们没有看到结构的突破 在亚洲时区，价格触碰了MSS的阻力位置，突破失败（实际上亚洲时区流动性比较捞，倒也正常） 现在只要保持低点不被跌破，就可以期待一下美区活跃的时候来一个痛快的大阳线去突破 要强调的是，我们仍然保持强观点弱持有的想法 我正在观察15min的图表，等待这15min图表下跌趋势被打破，然后建立30%的仓位去左侧押注一…\n\n[![@TradercBTC](2016062589973762357/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n持续更新 [$BTC](https://x.com/search?q=$BTC) 昨天晚上波动巨大，来回画门 形成的原因是因为背后买卖双方的大资金在这里产生了分歧 他们用资金来测试市场的供应和需求 很明显，在一阵插针行情之后，价格继续向上 1h级别已经产生了HH和HL，但是我们没有看到结构的突破 在亚洲时区，价格触碰了MSS的阻力位置，突破失败（实际上亚洲时区流动性比较捞，倒也正常） 现在只要保持低点不被跌破，就可以期待一下美区活跃的时候来一个痛快的大阳线去突破 要强调的是，我们仍然保持强观点弱持有的想法 我正在观察15min的图表，等待这15min图表下跌趋势被打破，然后建立30%的仓位去左侧押注一手突破\n\n[![@TradercBTC](2016062589973762357/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[1月26日](https://x.com/TradercBTC/status/2015629441050022147)\n\n[$BTC](https://x.com/search?q=$BTC) 更新1H级别的价格行为解盘 目前已经进入了一层限价单，这是一个小仓位左侧埋伏单 等待走出MSS的突破结构，这样就正式确定了多军的强度，就可以上仓位了\n\n[![](2016062589973762357/imgs/img-003-G_jzdchbMAAICgi.webp)](https://x.com/TradercBTC/status/2015629441050022147/photo/1)\n\n[16:15 · 2026年1月27日](https://x.com/TradercBTC/status/2016062589973762357)[1.3万Views](https://x.com/TradercBTC/status/2016062589973762357)"
+}

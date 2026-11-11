@@ -1,0 +1,62 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 50,
+  "lang": "zxx",
+  "possibly_sensitive": false,
+  "created_at": "2026-04-02T12:07:27.000Z",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2037…",
+        "expanded_url": "http://x.com/i/article/2037463792687476736",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/fnXTedZs65"
+      }
+    ]
+  },
+  "id_str": "2039676078898430437",
+  "text": "https://t.co/fnXTedZs65",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2039676078898430437"
+    ],
+    "editable_until_msecs": "1775135247000",
+    "edits_remaining": "5",
+    "is_edit_eligible": false
+  },
+  "conversation_count": 1,
+  "news_action_type": "conversation",
+  "article": {
+    "cover_media": {
+      "id": "QXBpTWVkaWE6DAAFCgABHE5dNEgaIAAKAAIaqP8AOBtwBgAA",
+      "media_info": {
+        "__typename": "ApiImage",
+        "original_img_height": 656,
+        "original_img_url": "https://pbs.twimg.com/media/HE5dNEgaIAAASB2.jpg",
+        "original_img_width": 1640
+      }
+    },
+    "id": "QXJ0aWNsZUVudGl0eToyMDM3NDYzNzkyNjg3NDc2NzM2",
+    "preview_text": "1993年，桥水基金的创始人雷·达里奥收到了一份来自他最高级别下属的联名备忘录。内容很直接：他们认为达里奥的管理方式存在严重问题。措辞并不客气。",
+    "rest_id": "2037463792687476736",
+    "title": "那些暴跌时最安静的人，后来怎样了"
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

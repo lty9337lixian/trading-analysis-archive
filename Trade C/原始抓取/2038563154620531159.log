@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2038563154620531159 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2038563154620531159.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HEpuBf6aMAA08Wm.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2038563154620531159/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2038563154620531159/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HEpuBf6aMAA08Wm.jpg:large",
+        "localPath": "2038563154620531159/imgs/img-002-HEpuBf6aMAA08Wm-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2038563154620531159/imgs/img-002-HEpuBf6aMAA08Wm-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2038563154620531159/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2038563154620531159",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2038563154620531159",
+    "title": "trader-c on X: \"继续使用Claude code帮助我复盘\n\n之前3.9那波上涨亏了我三千多💲，非常伤心\n\n我感觉我很长时间没有专心交易了，导致我交易亏损很多\n\n交易和其他生意一样，如果你不专心，你就会损失，这将逼迫你必须保持一个良好的生活状态和专注力\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-03-30T10:25:05.000Z",
+    "summary": "继续使用Claude code帮助我复盘\n\n之前3.9那波上涨亏了我三千多💲，非常伤心\n\n我感觉我很长时间没有专心交易了，导致我交易亏损很多\n\n交易和其他生意一样，如果你不专心，你就会损失，这将逼迫你必须保持一个良好的生活状态和专注力",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HEpuBf6aMAA08Wm.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:53:15.038Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t继续使用Claude code帮助我复盘 之前3.9那波上涨亏了我三千多💲，非常伤心 我感觉我很长时间没有专心交易了，导致我交易亏损很多 交易和其他生意一样，如果你不专心，你就会损失，这将逼迫你必须保持一个良好的生活状态和专注力\n\t[18:25 · 2026年3月30日](https://x.com/TradercBTC/status/2038563154620531159) [3.2万Views](https://x.com/TradercBTC/status/2038563154620531159)\n\t[4](https://x.com/i/status/2038563154620531159)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2038563154620531159"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"继续使用Claude code帮助我复盘\n  \n  之前3.9那波上涨亏了我三千多💲，非常伤心\n  \n  我感觉我很长时间没有专心交易了，导致我交易亏损很多\n  \n  交易和其他生意一样，如果你不专心，你就会损失，这将逼迫你必须保持一个良好的生活状态和专注力\" / X\nurl: \"https://x.com/TradercBTC/status/2038563154620531159\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2038563154620531159\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2038563154620531159/imgs/img-002-HEpuBf6aMAA08Wm-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-03-30T10:25:05.000Z\"\nsummary: |-\n  继续使用Claude code帮助我复盘\n  \n  之前3.9那波上涨亏了我三千多💲，非常伤心\n  \n  我感觉我很长时间没有专心交易了，导致我交易亏损很多\n  \n  交易和其他生意一样，如果你不专心，你就会损失，这将逼迫你必须保持一个良好的生活状态和专注力\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:53:15.038Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"继续使用Claude code帮助我复盘\n\n之前3.9那波上涨亏了我三千多💲，非常伤心\n\n我感觉我很长时间没有专心交易了，导致我交易亏损很多\n\n交易和其他生意一样，如果你不专心，你就会损失，这将逼迫你必须保持一个良好的生活状态和专注力\" / X\n\n- [![@TradercBTC](2038563154620531159/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t继续使用Claude code帮助我复盘 之前3.9那波上涨亏了我三千多💲，非常伤心 我感觉我很长时间没有专心交易了，导致我交易亏损很多 交易和其他生意一样，如果你不专心，你就会损失，这将逼迫你必须保持一个良好的生活状态和专注力\n\t[18:25 · 2026年3月30日](https://x.com/TradercBTC/status/2038563154620531159) [3.2万Views](https://x.com/TradercBTC/status/2038563154620531159)\n\t[4](https://x.com/i/status/2038563154620531159)"
+}

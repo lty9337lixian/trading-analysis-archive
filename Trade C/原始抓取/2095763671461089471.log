@@ -1,0 +1,71 @@
+[warn] No running Chrome debugger found for profile /Users/lu/Library/Application Support/baoyu-skills/chrome-profile. Launching Chrome with that profile.
+[info] Loading https://x.com/TradercBTC/status/2095763671461089471 with x adapter
+[info] Adapter x returned no structured document; falling back to generic extraction
+[info] Loading https://x.com/TradercBTC/status/2095763671461089471 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2095763671461089471.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "login": {
+    "provider": "x",
+    "state": "unknown"
+  },
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HRWlicXbEAAA9z4.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2095763671461089471/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2095763671461089471/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HRWlicXbEAAA9z4.jpg:large",
+        "localPath": "2095763671461089471/imgs/img-002-HRWlicXbEAAA9z4-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2095763671461089471/imgs/img-002-HRWlicXbEAAA9z4-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2095763671461089471/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2095763671461089471",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2095763671461089471",
+    "title": "trader-c on X: \"复盘的时候一看，简直是tm顶级节奏🤣\n\n先黄再绿\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-09-04T06:39:31.000Z",
+    "summary": "复盘的时候一看，简直是tm顶级节奏🤣\n\n先黄再绿",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HRWlicXbEAAA9z4.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:39:02.934Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n复盘的时候一看，简直是tm顶级节奏🤣 先黄再绿\n\n[14:39 · 2026年9月4日](https://x.com/TradercBTC/status/2095763671461089471) [2464Views](https://x.com/TradercBTC/status/2095763671461089471)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2095763671461089471"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"复盘的时候一看，简直是tm顶级节奏🤣\n  \n  先黄再绿\" / X\nurl: \"https://x.com/TradercBTC/status/2095763671461089471\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2095763671461089471\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2095763671461089471/imgs/img-002-HRWlicXbEAAA9z4-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-09-04T06:39:31.000Z\"\nsummary: |-\n  复盘的时候一看，简直是tm顶级节奏🤣\n  \n  先黄再绿\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:39:02.934Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"复盘的时候一看，简直是tm顶级节奏🤣\n\n先黄再绿\" / X\n\n[![@TradercBTC](2095763671461089471/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n复盘的时候一看，简直是tm顶级节奏🤣 先黄再绿\n\n[14:39 · 2026年9月4日](https://x.com/TradercBTC/status/2095763671461089471) [2464Views](https://x.com/TradercBTC/status/2095763671461089471)\n\nOnly some accounts can reply."
+}

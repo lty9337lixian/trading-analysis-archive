@@ -1,0 +1,58 @@
+[info] Loading https://x.com/TradercBTC/status/2086767496414274017 with generic adapter
+[info] Downloaded 1 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2086767496414274017.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2086767496414274017/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2086767496414274017/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2086767496414274017/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2086767496414274017",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2086767496414274017",
+    "title": "trader-c on X: \"推交易书：《The Art and Science of Technical Analysis》\n\n好像只有繁体中文版：《關鍵買賣點：突破實戰交易的科學與藝術》\n\n整体看下来，有必要读的就这几章：\n\n「第1章：交易优势防止把技术分析学成图形记忆。\n\n第3章：趋势特别是回调结构。\n\n第5章：趋势与区间的界面这是突破、失败突破、趋势终结和反转的共同基础。\n\n第6章：实用交易模板负责从判断走向执行。\n\n第8章：交易管理同一个入场逻辑，管理方式不同，结果分布可能完全不同。\n\n第9章：风险管理决定能否穿越连亏与模型失效期。\n\n第12章：成为交易者把书中方法转化为你自己的… / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-10T10:51:56.000Z",
+    "summary": "推交易书：《The Art and Science of Technical Analysis》\n\n好像只有繁体中文版：《關鍵買賣點：突破實戰交易的科學與藝術》\n\n整体看下来，有必要读的就这几章：\n\n「第1章：交易优势防止把技术分析学成图形记忆。\n\n第3章：趋势特别是回调结构。\n\n第5章：趋势与区间的界面这是突破、失败突破、趋势终结和反转的共同基础。\n\n第6章：实用交易模板负责从判断走向执行。\n\n第8章：交易管理同一个入场逻辑，管理方式不同，结果分布可能完全不同。\n\n第9章：风险管理决定能否穿越连亏与模型失效期。\n\n第12章：成为交易者把书中方法转化为你自己的、可验证的交易流程。\n」\n\n作者…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:04:44.740Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t推交易书：《The Art and Science of Technical Analysis》 好像只有繁体中文版：《關鍵買賣點：突破實戰交易的科學與藝術》 整体看下来，有必要读的就这几章： 「第1章：交易优势防止把技术分析学成图形记忆。 第3章：趋势特别是回调结构。 第5章：趋势与区间的界面这是突破、失败突破、趋势终结和反转的共同基础。 第6章：实用交易模板负责从判断走向执行。 第8章：交易管理同一个入场逻辑，管理方式不同，结果分布可能完全不同。 第9章：风险管理决定能否穿越连亏与模型失效期。 第12章：成为交易者把书中方法转化为你自己的、可验证的交易流程。 」 作者针对交易的问题，提出了一个核心问题： 在大多数价格波动近似随机、传统技术指标又常被误用的情况下，交易者如何识别少数真正存在统计优势的市场状态，并将这种优势转化为可重复、可管理风险的交易？ 这个总问题又包含四个子问题： 技术分析为什么有时有效、有时无效？ 如何从价格行为中识别买卖压力失衡？ 如何把市场结构转化为具体交易策略？ 即使策略有优势，交易者如何避免被风险、执行和心理问题摧毁？ 作者的回答是：技术分析不是预测图形的魔法，而是在买卖压力真实失衡、价格暂时偏离随机状态时，识别条件性优势，并通过结构化执行与风险管理反复利用这种优势\n\t[18:51 · 2026年8月10日](https://x.com/TradercBTC/status/2086767496414274017) [2.6万Views](https://x.com/TradercBTC/status/2086767496414274017)\n\t[2](https://x.com/i/status/2086767496414274017)\n\tOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2086767496414274017"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"推交易书：《The Art and Science of Technical Analysis》\n  \n  好像只有繁体中文版：《關鍵買賣點：突破實戰交易的科學與藝術》\n  \n  整体看下来，有必要读的就这几章：\n  \n  「第1章：交易优势防止把技术分析学成图形记忆。\n  \n  第3章：趋势特别是回调结构。\n  \n  第5章：趋势与区间的界面这是突破、失败突破、趋势终结和反转的共同基础。\n  \n  第6章：实用交易模板负责从判断走向执行。\n  \n  第8章：交易管理同一个入场逻辑，管理方式不同，结果分布可能完全不同。\n  \n  第9章：风险管理决定能否穿越连亏与模型失效期。\n  \n  第12章：成为交易者把书中方法转化为你自己的… / X\nurl: \"https://x.com/TradercBTC/status/2086767496414274017\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2086767496414274017\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2086767496414274017/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-10T10:51:56.000Z\"\nsummary: |-\n  推交易书：《The Art and Science of Technical Analysis》\n  \n  好像只有繁体中文版：《關鍵買賣點：突破實戰交易的科學與藝術》\n  \n  整体看下来，有必要读的就这几章：\n  \n  「第1章：交易优势防止把技术分析学成图形记忆。\n  \n  第3章：趋势特别是回调结构。\n  \n  第5章：趋势与区间的界面这是突破、失败突破、趋势终结和反转的共同基础。\n  \n  第6章：实用交易模板负责从判断走向执行。\n  \n  第8章：交易管理同一个入场逻辑，管理方式不同，结果分布可能完全不同。\n  \n  第9章：风险管理决定能否穿越连亏与模型失效期。\n  \n  第12章：成为交易者把书中方法转化为你自己的、可验证的交易流程。\n  」\n  \n  作者…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:04:44.740Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"推交易书：《The Art and Science of Technical Analysis》\n\n好像只有繁体中文版：《關鍵買賣點：突破實戰交易的科學與藝術》\n\n整体看下来，有必要读的就这几章：\n\n「第1章：交易优势防止把技术分析学成图形记忆。\n\n第3章：趋势特别是回调结构。\n\n第5章：趋势与区间的界面这是突破、失败突破、趋势终结和反转的共同基础。\n\n第6章：实用交易模板负责从判断走向执行。\n\n第8章：交易管理同一个入场逻辑，管理方式不同，结果分布可能完全不同。\n\n第9章：风险管理决定能否穿越连亏与模型失效期。\n\n第12章：成为交易者把书中方法转化为你自己的… / X\n\n- [![@TradercBTC](2086767496414274017/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t推交易书：《The Art and Science of Technical Analysis》 好像只有繁体中文版：《關鍵買賣點：突破實戰交易的科學與藝術》 整体看下来，有必要读的就这几章： 「第1章：交易优势防止把技术分析学成图形记忆。 第3章：趋势特别是回调结构。 第5章：趋势与区间的界面这是突破、失败突破、趋势终结和反转的共同基础。 第6章：实用交易模板负责从判断走向执行。 第8章：交易管理同一个入场逻辑，管理方式不同，结果分布可能完全不同。 第9章：风险管理决定能否穿越连亏与模型失效期。 第12章：成为交易者把书中方法转化为你自己的、可验证的交易流程。 」 作者针对交易的问题，提出了一个核心问题： 在大多数价格波动近似随机、传统技术指标又常被误用的情况下，交易者如何识别少数真正存在统计优势的市场状态，并将这种优势转化为可重复、可管理风险的交易？ 这个总问题又包含四个子问题： 技术分析为什么有时有效、有时无效？ 如何从价格行为中识别买卖压力失衡？ 如何把市场结构转化为具体交易策略？ 即使策略有优势，交易者如何避免被风险、执行和心理问题摧毁？ 作者的回答是：技术分析不是预测图形的魔法，而是在买卖压力真实失衡、价格暂时偏离随机状态时，识别条件性优势，并通过结构化执行与风险管理反复利用这种优势\n\t[18:51 · 2026年8月10日](https://x.com/TradercBTC/status/2086767496414274017) [2.6万Views](https://x.com/TradercBTC/status/2086767496414274017)\n\t[2](https://x.com/i/status/2086767496414274017)\n\tOnly some accounts can reply."
+}

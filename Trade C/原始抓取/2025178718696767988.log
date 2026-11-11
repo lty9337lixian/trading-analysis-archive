@@ -1,0 +1,69 @@
+[info] Loading https://x.com/TradercBTC/status/2025178718696767988 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2025178718696767988.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1662645462774726661/Hi0qigZl_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2025178718696767988/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2025178718696767988/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1662645462774726661/Hi0qigZl_400x400.jpg",
+        "localPath": "2025178718696767988/imgs/img-002-Hi0qigZl_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2025178718696767988/imgs/img-002-Hi0qigZl_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2025178718696767988/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2025178718696767988",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2025178718696767988",
+    "title": "trader-c on X: \"好文，过早止盈实际上是一种温水煮青蛙的慢性死亡\n\n我认为应该加入一个限制，前提是你在做左侧交易或者突破交易。\n\n过早止盈 = 放弃验证= 用\"感觉安全\"替代\"价格告诉我什么\"\n= 违背之前我们说的Price is Truth原则\n\n如果你提前入场，（追求更高盈亏比）， 但是过早止盈（害怕风险）\n\n相当于你承担了提前入场的高失败率 ，放弃了突破后的大盈利这是对系统优势的破坏\n\n文中给出了一个解决方法，在价格朝向你有利的方向移动之后，如果趋势强劲，你可以使用ATR追踪止损。\n\n文中内容总结如下：\n\n1. 不对称收益系统\n许多盈利的交易系统不依赖\"高胜率\"，而是依赖… / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-21T12:00:07.000Z",
+    "summary": "好文，过早止盈实际上是一种温水煮青蛙的慢性死亡\n\n我认为应该加入一个限制，前提是你在做左侧交易或者突破交易。\n\n过早止盈 = 放弃验证= 用\"感觉安全\"替代\"价格告诉我什么\"\n= 违背之前我们说的Price is Truth原则\n\n如果你提前入场，（追求更高盈亏比）， 但是过早止盈（害怕风险）\n\n相当于你承担了提前入场的高失败率 ，放弃了突破后的大盈利这是对系统优势的破坏\n\n文中给出了一个解决方法，在价格朝向你有利的方向移动之后，如果趋势强劲，你可以使用ATR追踪止损。\n\n文中内容总结如下：\n\n1. 不对称收益系统\n许多盈利的交易系统不依赖\"高胜率\"，而是依赖\"大赚小赔\"的数学结构：\n典型结…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:58:42.533Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t好文，过早止盈实际上是一种温水煮青蛙的慢性死亡 我认为应该加入一个限制，前提是你在做左侧交易或者突破交易。 过早止盈 = 放弃验证= 用\"感觉安全\"替代\"价格告诉我什么\" = 违背之前我们说的Price is Truth原则 如果你提前入场，（追求更高盈亏比）， 但是过早止盈（害怕风险） 相当于你承担了提前入场的高失败率 ，放弃了突破后的大盈利这是对系统优势的破坏 文中给出了一个解决方法，在价格朝向你有利的方向移动之后，如果趋势强劲，你可以使用ATR追踪止损。 文中内容总结如下： 1. 不对称收益系统 许多盈利的交易系统不依赖\"高胜率\"，而是依赖\"大赚小赔\"的数学结构： 典型结构：许多小亏损+少量小盈利+罕见但巨大的盈利 =系统的真正优势来源 2. 过早止盈的致命问题 场景结果保持原系统小亏损固定 + 大盈利 = 正期望 过早止盈小亏损固定 + 盈利缩水 = 负期望值 即使胜率\"提高\"，系统的数学优势也会消失。 3. 风险厌恶的心理陷阱 人类天生风险厌恶，表现为 ✗ 亏损的痛苦 > 盈利的快乐 ✗ 不确定性消失时的\"解脱感\" ✗ 持有浮盈时的焦虑 这导致典型的错误模式，截断盈利，持有亏损 — 恰恰与不对称系统的要求相反 4. 舒适感 vs. 实际表现 过早止盈让你\"感觉良好\"： ✓ 更高的胜率 ✓ 频繁的正反馈 ✓ 暂时平滑的资金曲线 但暗中破坏： ✗ 真正的盈利驱动力（大赚机会）被消灭 ✗ 亏损规模不变 ✗ 期望值悄然侵蚀\n\t[20:00 · 2026年2月21日](https://x.com/TradercBTC/status/2025178718696767988) [1.5万Views](https://x.com/TradercBTC/status/2025178718696767988)\n\t[3](https://x.com/i/status/2025178718696767988)\n- [![@ThN2N7oq3O69615](https://pbs.twimg.com/profile_images/1662645462774726661/Hi0qigZl_400x400.jpg)](https://x.com/ThN2N7oq3O69615)\n\t我覺得還是買入跟賣出的準則不同導致的，如果你是參考大周期的指標，比如你是參考月線超賣進場，那最好持有到月線超買出場。分批買就最好是分批賣。本質上還是交易準則的對稱性。"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2025178718696767988"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"好文，过早止盈实际上是一种温水煮青蛙的慢性死亡\n  \n  我认为应该加入一个限制，前提是你在做左侧交易或者突破交易。\n  \n  过早止盈 = 放弃验证= 用\"感觉安全\"替代\"价格告诉我什么\"\n  = 违背之前我们说的Price is Truth原则\n  \n  如果你提前入场，（追求更高盈亏比）， 但是过早止盈（害怕风险）\n  \n  相当于你承担了提前入场的高失败率 ，放弃了突破后的大盈利这是对系统优势的破坏\n  \n  文中给出了一个解决方法，在价格朝向你有利的方向移动之后，如果趋势强劲，你可以使用ATR追踪止损。\n  \n  文中内容总结如下：\n  \n  1. 不对称收益系统\n  许多盈利的交易系统不依赖\"高胜率\"，而是依赖… / X\nurl: \"https://x.com/TradercBTC/status/2025178718696767988\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2025178718696767988\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2025178718696767988/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-21T12:00:07.000Z\"\nsummary: |-\n  好文，过早止盈实际上是一种温水煮青蛙的慢性死亡\n  \n  我认为应该加入一个限制，前提是你在做左侧交易或者突破交易。\n  \n  过早止盈 = 放弃验证= 用\"感觉安全\"替代\"价格告诉我什么\"\n  = 违背之前我们说的Price is Truth原则\n  \n  如果你提前入场，（追求更高盈亏比）， 但是过早止盈（害怕风险）\n  \n  相当于你承担了提前入场的高失败率 ，放弃了突破后的大盈利这是对系统优势的破坏\n  \n  文中给出了一个解决方法，在价格朝向你有利的方向移动之后，如果趋势强劲，你可以使用ATR追踪止损。\n  \n  文中内容总结如下：\n  \n  1. 不对称收益系统\n  许多盈利的交易系统不依赖\"高胜率\"，而是依赖\"大赚小赔\"的数学结构：\n  典型结…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:58:42.533Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"好文，过早止盈实际上是一种温水煮青蛙的慢性死亡\n\n我认为应该加入一个限制，前提是你在做左侧交易或者突破交易。\n\n过早止盈 = 放弃验证= 用\"感觉安全\"替代\"价格告诉我什么\"\n= 违背之前我们说的Price is Truth原则\n\n如果你提前入场，（追求更高盈亏比）， 但是过早止盈（害怕风险）\n\n相当于你承担了提前入场的高失败率 ，放弃了突破后的大盈利这是对系统优势的破坏\n\n文中给出了一个解决方法，在价格朝向你有利的方向移动之后，如果趋势强劲，你可以使用ATR追踪止损。\n\n文中内容总结如下：\n\n1. 不对称收益系统\n许多盈利的交易系统不依赖\"高胜率\"，而是依赖… / X\n\n- [![@TradercBTC](2025178718696767988/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t好文，过早止盈实际上是一种温水煮青蛙的慢性死亡 我认为应该加入一个限制，前提是你在做左侧交易或者突破交易。 过早止盈 = 放弃验证= 用\"感觉安全\"替代\"价格告诉我什么\" = 违背之前我们说的Price is Truth原则 如果你提前入场，（追求更高盈亏比）， 但是过早止盈（害怕风险） 相当于你承担了提前入场的高失败率 ，放弃了突破后的大盈利这是对系统优势的破坏 文中给出了一个解决方法，在价格朝向你有利的方向移动之后，如果趋势强劲，你可以使用ATR追踪止损。 文中内容总结如下： 1. 不对称收益系统 许多盈利的交易系统不依赖\"高胜率\"，而是依赖\"大赚小赔\"的数学结构： 典型结构：许多小亏损+少量小盈利+罕见但巨大的盈利 =系统的真正优势来源 2. 过早止盈的致命问题 场景结果保持原系统小亏损固定 + 大盈利 = 正期望 过早止盈小亏损固定 + 盈利缩水 = 负期望值 即使胜率\"提高\"，系统的数学优势也会消失。 3. 风险厌恶的心理陷阱 人类天生风险厌恶，表现为 ✗ 亏损的痛苦 > 盈利的快乐 ✗ 不确定性消失时的\"解脱感\" ✗ 持有浮盈时的焦虑 这导致典型的错误模式，截断盈利，持有亏损 — 恰恰与不对称系统的要求相反 4. 舒适感 vs. 实际表现 过早止盈让你\"感觉良好\"： ✓ 更高的胜率 ✓ 频繁的正反馈 ✓ 暂时平滑的资金曲线 但暗中破坏： ✗ 真正的盈利驱动力（大赚机会）被消灭 ✗ 亏损规模不变 ✗ 期望值悄然侵蚀\n\t[20:00 · 2026年2月21日](https://x.com/TradercBTC/status/2025178718696767988) [1.5万Views](https://x.com/TradercBTC/status/2025178718696767988)\n\t[3](https://x.com/i/status/2025178718696767988)\n- [![@ThN2N7oq3O69615](2025178718696767988/imgs/img-002-Hi0qigZl_400x400.jpg)](https://x.com/ThN2N7oq3O69615)\n\t我覺得還是買入跟賣出的準則不同導致的，如果你是參考大周期的指標，比如你是參考月線超賣進場，那最好持有到月線超買出場。分批買就最好是分批賣。本質上還是交易準則的對稱性。"
+}

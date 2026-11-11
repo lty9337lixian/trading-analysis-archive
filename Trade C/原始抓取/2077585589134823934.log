@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2077585589134823934 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2077585589134823934.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HNUQTmsa8AAkjQb.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2077585589134823934/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2077585589134823934/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HNUQTmsa8AAkjQb.jpg:large",
+        "localPath": "2077585589134823934/imgs/img-002-HNUQTmsa8AAkjQb-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2077585589134823934/imgs/img-002-HNUQTmsa8AAkjQb-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2077585589134823934/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2077585589134823934",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2077585589134823934",
+    "title": "trader-c on X: \"有点意思\n\n一般来说第一次从震荡识别到趋势，进入趋势的状态且动能足够的情况\n\n这时候的止盈位置是一个相对比较合理的地方，足够的空间，而且止损可以随着行情的发展动态止损\n\n趋势和震荡的止盈区别也很明确\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-07-16T02:46:18.000Z",
+    "summary": "有点意思\n\n一般来说第一次从震荡识别到趋势，进入趋势的状态且动能足够的情况\n\n这时候的止盈位置是一个相对比较合理的地方，足够的空间，而且止损可以随着行情的发展动态止损\n\n趋势和震荡的止盈区别也很明确",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HNUQTmsa8AAkjQb.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:02:44.482Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t有点意思 一般来说第一次从震荡识别到趋势，进入趋势的状态且动能足够的情况 这时候的止盈位置是一个相对比较合理的地方，足够的空间，而且止损可以随着行情的发展动态止损 趋势和震荡的止盈区别也很明确\n\t[10:46 · 2026年7月16日](https://x.com/TradercBTC/status/2077585589134823934) [4438Views](https://x.com/TradercBTC/status/2077585589134823934)\n\tOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2077585589134823934"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"有点意思\n  \n  一般来说第一次从震荡识别到趋势，进入趋势的状态且动能足够的情况\n  \n  这时候的止盈位置是一个相对比较合理的地方，足够的空间，而且止损可以随着行情的发展动态止损\n  \n  趋势和震荡的止盈区别也很明确\" / X\nurl: \"https://x.com/TradercBTC/status/2077585589134823934\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2077585589134823934\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2077585589134823934/imgs/img-002-HNUQTmsa8AAkjQb-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-07-16T02:46:18.000Z\"\nsummary: |-\n  有点意思\n  \n  一般来说第一次从震荡识别到趋势，进入趋势的状态且动能足够的情况\n  \n  这时候的止盈位置是一个相对比较合理的地方，足够的空间，而且止损可以随着行情的发展动态止损\n  \n  趋势和震荡的止盈区别也很明确\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:02:44.482Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"有点意思\n\n一般来说第一次从震荡识别到趋势，进入趋势的状态且动能足够的情况\n\n这时候的止盈位置是一个相对比较合理的地方，足够的空间，而且止损可以随着行情的发展动态止损\n\n趋势和震荡的止盈区别也很明确\" / X\n\n- [![@TradercBTC](2077585589134823934/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t有点意思 一般来说第一次从震荡识别到趋势，进入趋势的状态且动能足够的情况 这时候的止盈位置是一个相对比较合理的地方，足够的空间，而且止损可以随着行情的发展动态止损 趋势和震荡的止盈区别也很明确\n\t[10:46 · 2026年7月16日](https://x.com/TradercBTC/status/2077585589134823934) [4438Views](https://x.com/TradercBTC/status/2077585589134823934)\n\tOnly some accounts can reply."
+}

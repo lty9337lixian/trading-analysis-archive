@@ -1,0 +1,67 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 6,
+  "lang": "zh",
+  "created_at": "2026-02-27T05:02:31.000Z",
+  "display_text_range": [
+    0,
+    117
+  ],
+  "entities": {},
+  "id_str": "2027247952830603442",
+  "text": "拉拢关系从小事开始，建仓也要从试探性买入开始。\n\n我对金字塔加仓的理解是，当你对某只股票产生兴趣时，不要一次性建立大仓位，而应该先买入少量试探。\n\n有了持仓之后，你会自然而然地更加关注这只股票，随着了解的深入和走势的验证，再逐步加仓。",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2027247952830603442"
+    ],
+    "editable_until_msecs": "1772172151000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 1,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "favorite_count": 76,
+    "lang": "zh",
+    "reply_count": 3,
+    "retweet_count": 14,
+    "created_at": "2026-02-27T04:50:35.000Z",
+    "display_text_range": [
+      0,
+      134
+    ],
+    "entities": {},
+    "id_str": "2027244952284209272",
+    "text": "根据这个内容，我选了天赐材料和特变电工两只股票\n\n其他的我其实不太懂，就简单结合了基本面和技术面（以技术面为主）\n\n现在我对基本面和技术面的理解就是，一个是价格结构，一个是行业以及题材的动能周期\n\n所以顺序是先选有动能的题材，然后筛选个股基本面较好，pe什么的都不错。",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2027244952284209272"
+      ],
+      "editable_until_msecs": "1772171435000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

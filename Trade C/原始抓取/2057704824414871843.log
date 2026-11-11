@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2057704824414871843 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2057704824414871843.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HI5vc8_aoAAnvhv.png:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2057704824414871843/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2057704824414871843/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HI5vc8_aoAAnvhv.png:large",
+        "localPath": "2057704824414871843/imgs/img-002-HI5vc8_aoAAnvhv-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2057704824414871843/imgs/img-002-HI5vc8_aoAAnvhv-png-large.png",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2057704824414871843/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2057704824414871843",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2057704824414871843",
+    "title": "trader-c on X: \"现价空了BTC\n\n总共打算打三笔仓，跌破75000再加一层。第一层止损再上面\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-05-22T06:07:15.000Z",
+    "summary": "现价空了BTC\n\n总共打算打三笔仓，跌破75000再加一层。第一层止损再上面",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HI5vc8_aoAAnvhv.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:01:37.188Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n现价空了BTC 总共打算打三笔仓，跌破75000再加一层。第一层止损再上面\n\n[14:07 · 2026年5月22日](https://x.com/TradercBTC/status/2057704824414871843) [2万Views](https://x.com/TradercBTC/status/2057704824414871843)\n\n[42](https://x.com/i/status/2057704824414871843)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2057704824414871843"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"现价空了BTC\n  \n  总共打算打三笔仓，跌破75000再加一层。第一层止损再上面\" / X\nurl: \"https://x.com/TradercBTC/status/2057704824414871843\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2057704824414871843\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2057704824414871843/imgs/img-002-HI5vc8_aoAAnvhv-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-05-22T06:07:15.000Z\"\nsummary: |-\n  现价空了BTC\n  \n  总共打算打三笔仓，跌破75000再加一层。第一层止损再上面\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:01:37.188Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"现价空了BTC\n\n总共打算打三笔仓，跌破75000再加一层。第一层止损再上面\" / X\n\n[![@TradercBTC](2057704824414871843/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n现价空了BTC 总共打算打三笔仓，跌破75000再加一层。第一层止损再上面\n\n[14:07 · 2026年5月22日](https://x.com/TradercBTC/status/2057704824414871843) [2万Views](https://x.com/TradercBTC/status/2057704824414871843)\n\n[42](https://x.com/i/status/2057704824414871843)"
+}

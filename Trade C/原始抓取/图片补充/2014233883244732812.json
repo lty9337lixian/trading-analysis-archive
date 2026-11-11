@@ -1,0 +1,37 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 44,
+  "lang": "zh",
+  "created_at": "2026-01-22T07:09:15.000Z",
+  "display_text_range": [
+    0,
+    138
+  ],
+  "entities": {},
+  "id_str": "2014233883244732812",
+  "text": "交易是一个循环看山是山，看山不是山，看山还是山的过程\n\n一年前我以为我已经掌握了交易，到今天，我盈利的还是没有去年那一次多，但是我认为我的交易水平和当时已经不在一个level\n\n这一年边实践边学习，有了很多感悟，慢慢写下来\n\nQ：如果只掌握一个名词就能做好交易，你会选择什么？",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2014233883244732812"
+    ],
+    "editable_until_msecs": "1769069355000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 5,
+  "news_action_type": "conversation",
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDE0MjMzODgzMTgxNzQ4MjI0"
+  }
+}

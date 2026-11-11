@@ -1,0 +1,48 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 38,
+  "lang": "zh",
+  "created_at": "2026-08-18T09:35:22.000Z",
+  "display_text_range": [
+    0,
+    149
+  ],
+  "entities": {},
+  "id_str": "2089647332199702634",
+  "text": "实际上市场80%的波动是在20%的时间里发生\n\n你需要做的就是在你的交易周期里，寻找这20%可能会发生的关键位置\n\n然后做出计划，等待执行\n\n在其他80%的时间里，你的交易大多数都是作为流动性，捏可以用控制变量法去实验一下\n\n这是我以及社群里的成员近两个月做日内交易并取得了相对可靠的回报所得到经验",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "initial_tweet_id": "2089646955844833783",
+    "edit_tweet_ids": [
+      "2089646955844833783",
+      "2089647332199702634"
+    ],
+    "editable_until_msecs": "1787049232000",
+    "edits_remaining": "4",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 1,
+  "news_action_type": "conversation",
+  "isEdited": true,
+  "isStaleEdit": false,
+  "previous_counts": {
+    "favorite_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+  },
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDg5NjQ3MzMyMTYxOTgyNDY0"
+  }
+}

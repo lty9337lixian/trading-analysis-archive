@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2020131792590713338 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2020131792590713338.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HAjzDqPaUAAAIAf.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2020131792590713338/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2020131792590713338/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HAjzDqPaUAAAIAf.jpg:large",
+        "localPath": "2020131792590713338/imgs/img-002-HAjzDqPaUAAAIAf-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2020131792590713338/imgs/img-002-HAjzDqPaUAAAIAf-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2020131792590713338/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2020131792590713338",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2020131792590713338",
+    "title": "trader-c on X: \"$HYPE 卧槽，还真往最好的情况发展了\n\n一个假跌破，维持震荡\n\n现在希望有真实买盘去突破\n\n真牛逼，在这种环境下进入下跌趋势没有向下跌穿的\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-07T13:45:26.000Z",
+    "summary": "$HYPE 卧槽，还真往最好的情况发展了\n\n一个假跌破，维持震荡\n\n现在希望有真实买盘去突破\n\n真牛逼，在这种环境下进入下跌趋势没有向下跌穿的",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HAjzDqPaUAAAIAf.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:07:56.804Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[$HYPE](https://x.com/search?q=$HYPE) 卧槽，还真往最好的情况发展了 一个假跌破，维持震荡 现在希望有真实买盘去突破 真牛逼，在这种环境下进入下跌趋势没有向下跌穿的\n\n[$HYPE](https://x.com/search?q=$HYPE) 更新一下 1H级别已经打破了上涨结构，形成了更低的低点和高点 这说明前一段的买方动能已经减弱了 买方看着价格无法突破，开始平仓，不再持有自己仓位，开始卖出。 卖方开始找机会卖出，在打破之后，卖方可能不着急平仓，准备持有自己的空头仓位去拿到更低的位置\n\n[21:45 · 2026年2月7日](https://x.com/TradercBTC/status/2020131792590713338) [1.3万Views](https://x.com/TradercBTC/status/2020131792590713338)\n\n[1](https://x.com/i/status/2020131792590713338)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2020131792590713338"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"$HYPE 卧槽，还真往最好的情况发展了\n  \n  一个假跌破，维持震荡\n  \n  现在希望有真实买盘去突破\n  \n  真牛逼，在这种环境下进入下跌趋势没有向下跌穿的\" / X\nurl: \"https://x.com/TradercBTC/status/2020131792590713338\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2020131792590713338\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2020131792590713338/imgs/img-002-HAjzDqPaUAAAIAf-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-07T13:45:26.000Z\"\nsummary: |-\n  $HYPE 卧槽，还真往最好的情况发展了\n  \n  一个假跌破，维持震荡\n  \n  现在希望有真实买盘去突破\n  \n  真牛逼，在这种环境下进入下跌趋势没有向下跌穿的\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:07:56.804Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"$HYPE 卧槽，还真往最好的情况发展了\n\n一个假跌破，维持震荡\n\n现在希望有真实买盘去突破\n\n真牛逼，在这种环境下进入下跌趋势没有向下跌穿的\" / X\n\n[![@TradercBTC](2020131792590713338/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[$HYPE](https://x.com/search?q=$HYPE) 卧槽，还真往最好的情况发展了 一个假跌破，维持震荡 现在希望有真实买盘去突破 真牛逼，在这种环境下进入下跌趋势没有向下跌穿的\n\n[$HYPE](https://x.com/search?q=$HYPE) 更新一下 1H级别已经打破了上涨结构，形成了更低的低点和高点 这说明前一段的买方动能已经减弱了 买方看着价格无法突破，开始平仓，不再持有自己仓位，开始卖出。 卖方开始找机会卖出，在打破之后，卖方可能不着急平仓，准备持有自己的空头仓位去拿到更低的位置\n\n[21:45 · 2026年2月7日](https://x.com/TradercBTC/status/2020131792590713338) [1.3万Views](https://x.com/TradercBTC/status/2020131792590713338)\n\n[1](https://x.com/i/status/2020131792590713338)"
+}

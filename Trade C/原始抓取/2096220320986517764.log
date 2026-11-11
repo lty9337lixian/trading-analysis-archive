@@ -1,0 +1,71 @@
+[warn] No running Chrome debugger found for profile /Users/lu/Library/Application Support/baoyu-skills/chrome-profile. Launching Chrome with that profile.
+[info] Loading https://x.com/TradercBTC/status/2096220320986517764 with x adapter
+[info] Adapter x returned no structured document; falling back to generic extraction
+[info] Loading https://x.com/TradercBTC/status/2096220320986517764 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2096220320986517764.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "login": {
+    "provider": "x",
+    "state": "unknown"
+  },
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HRdExMKaIAAj3G0.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2096220320986517764/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2096220320986517764/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HRdExMKaIAAj3G0.jpg:large",
+        "localPath": "2096220320986517764/imgs/img-002-HRdExMKaIAAj3G0-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2096220320986517764/imgs/img-002-HRdExMKaIAAj3G0-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2096220320986517764/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2096220320986517764",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2096220320986517764",
+    "title": "trader-c on X: \"虽然上一周SOL处理的不好\n\n但是仍然继续\n\n周五非农跌的时候，抄了SOL，当时我说这是一波天赐良机\n\n有望发展为一波史诗级级抄底\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-09-05T12:54:05.000Z",
+    "summary": "虽然上一周SOL处理的不好\n\n但是仍然继续\n\n周五非农跌的时候，抄了SOL，当时我说这是一波天赐良机\n\n有望发展为一波史诗级级抄底",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HRdExMKaIAAj3G0.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:36:50.414Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n虽然上一周SOL处理的不好 但是仍然继续 周五非农跌的时候，抄了SOL，当时我说这是一波天赐良机 有望发展为一波史诗级级抄底\n\n[20:54 · 2026年9月5日](https://x.com/TradercBTC/status/2096220320986517764) [1718Views](https://x.com/TradercBTC/status/2096220320986517764)\n\n[1](https://x.com/i/status/2096220320986517764)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2096220320986517764"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"虽然上一周SOL处理的不好\n  \n  但是仍然继续\n  \n  周五非农跌的时候，抄了SOL，当时我说这是一波天赐良机\n  \n  有望发展为一波史诗级级抄底\" / X\nurl: \"https://x.com/TradercBTC/status/2096220320986517764\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2096220320986517764\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2096220320986517764/imgs/img-002-HRdExMKaIAAj3G0-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-09-05T12:54:05.000Z\"\nsummary: |-\n  虽然上一周SOL处理的不好\n  \n  但是仍然继续\n  \n  周五非农跌的时候，抄了SOL，当时我说这是一波天赐良机\n  \n  有望发展为一波史诗级级抄底\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:36:50.414Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"虽然上一周SOL处理的不好\n\n但是仍然继续\n\n周五非农跌的时候，抄了SOL，当时我说这是一波天赐良机\n\n有望发展为一波史诗级级抄底\" / X\n\n[![@TradercBTC](2096220320986517764/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n虽然上一周SOL处理的不好 但是仍然继续 周五非农跌的时候，抄了SOL，当时我说这是一波天赐良机 有望发展为一波史诗级级抄底\n\n[20:54 · 2026年9月5日](https://x.com/TradercBTC/status/2096220320986517764) [1718Views](https://x.com/TradercBTC/status/2096220320986517764)\n\n[1](https://x.com/i/status/2096220320986517764)\n\nOnly some accounts can reply."
+}

@@ -1,0 +1,109 @@
+[info] Loading https://x.com/TradercBTC/status/2078712820074746331 with generic adapter
+[info] Downloaded 6 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2078712820074746331.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HNkQ931aoAAZg15.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HNkSE09bsAAcfSD?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HNkPgjDaEAAU7qq?format=webp&name=small",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HNkP7dLbUAAsYc1?format=webp&name=small",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HNkQGtlbgAAdIjt?format=webp&name=small",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/HNkQ931aoAAZg15.jpg:large",
+        "localPath": "2078712820074746331/imgs/img-001-HNkQ931aoAAZg15-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2078712820074746331/imgs/img-001-HNkQ931aoAAZg15-jpg-large.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2078712820074746331/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2078712820074746331/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HNkSE09bsAAcfSD?format=webp&name=medium",
+        "localPath": "2078712820074746331/imgs/img-003-HNkSE09bsAAcfSD.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2078712820074746331/imgs/img-003-HNkSE09bsAAcfSD.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HNkPgjDaEAAU7qq?format=webp&name=small",
+        "localPath": "2078712820074746331/imgs/img-004-HNkPgjDaEAAU7qq.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2078712820074746331/imgs/img-004-HNkPgjDaEAAU7qq.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HNkP7dLbUAAsYc1?format=webp&name=small",
+        "localPath": "2078712820074746331/imgs/img-005-HNkP7dLbUAAsYc1.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2078712820074746331/imgs/img-005-HNkP7dLbUAAsYc1.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HNkQGtlbgAAdIjt?format=webp&name=small",
+        "localPath": "2078712820074746331/imgs/img-006-HNkQGtlbgAAdIjt.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2078712820074746331/imgs/img-006-HNkQGtlbgAAdIjt.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 6,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2078712820074746331/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2078712820074746331",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2078712820074746331",
+    "title": "trader-c on X: \"从结构来看BTC 第一次下跌跌了30个点，但是回调只有8个点，这说明卖方的动作非常的强劲 第二次下跌了几乎相等的幅度，但是回调上升到了24个点 我们认为回调的幅度，它某种程度上来说决定了趋势的动能 回调浅肯定代表趋势的动能强，回调深肯定代表趋势的动能相对来说会弱一些 因此第三次下跌，也就是这一次下跌的是28个点 首先，从图表上次低点上来说，它确实形成了某种程度的底背离 但是从下跌幅度来说，它并没有形成明显的底背离，每一次下跌都是30个点左右，因此，我认为下跌的趋势动能还是在持续当中 现在目前就要看这一波回调的情况，如果回调浅的话，那么后续的下…",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-07-19T05:25:31.000Z",
+    "summary": "从结构来看BTC \n\n第一次下跌跌了30个点，但是回调只有8个点，这说明卖方的动作非常的强劲\n\n第二次下跌了几乎相等的幅度，但是回调上升到了24个点\n\n我们认为回调的幅度，它某种程度上来说决定了趋势的动能\n\n回调浅肯定代表趋势的动能强，回调深肯定代表趋势的动能相对来说会弱一些\n\n因此第三次下跌，也就是这一次下跌的是28个点\n\n首先，从图表上次低点上来说，它确实形成了某种程度的底背离\n\n但是从下跌幅度来说，它并没有形成明显的底背离，每一次下跌都是30个点左右，因此，我认为下跌的趋势动能还是在持续当中\n\n现在目前就要看这一波回调的情况，如果回调浅的话，那么后续的下跌动能幅度可能仍然能保持在30个…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HNkQ931aoAAZg15.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:03:11.442Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n从结构来看BTC 第一次下跌跌了30个点，但是回调只有8个点，这说明卖方的动作非常的强劲 第二次下跌了几乎相等的幅度，但是回调上升到了24个点 我们认为回调的幅度，它某种程度上来说决定了趋势的动能 回调浅肯定代表趋势的动能强，回调深肯定代表趋势的动能相对来说会弱一些 因此第三次下跌，也就是这一次下跌的是28个点 首先，从图表上次低点上来说，它确实形成了某种程度的底背离 但是从下跌幅度来说，它并没有形成明显的底背离，每一次下跌都是30个点左右，因此，我认为下跌的趋势动能还是在持续当中 现在目前就要看这一波回调的情况，如果回调浅的话，那么后续的下跌动能幅度可能仍然能保持在30个点左右， 甚至如果是最后一次下跌，它可能会出现一次抛售高潮的情况，如果这一次回调幅度超过20个点，那就可能从下跌趋势转为震荡趋势 因此根据下跌幅度画个剧本，涨到68000或者70000附近开始下一波下跌（纯猜测）\n\n[![](https://pbs.twimg.com/media/HNkSE09bsAAcfSD?format=webp&name=medium)](https://x.com/TradercBTC/status/2078712820074746331/photo/2)\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n指标显示，从周线到日线到6小时的动能都是平衡 也就是上下猜方向的时候 但是结合我们三次追踪，可以很明显看到它的变化 上周没有跌下去，结合周线，向上的概率还是更大一些\n\n[![](https://pbs.twimg.com/media/HNkPgjDaEAAU7qq?format=webp&name=small)](https://x.com/TradercBTC/status/2078710883203903703/photo/1)\n\n[![](https://pbs.twimg.com/media/HNkP7dLbUAAsYc1?format=webp&name=small)](https://x.com/TradercBTC/status/2078710883203903703/photo/2)\n\n[![](https://pbs.twimg.com/media/HNkQGtlbgAAdIjt?format=webp&name=small)](https://x.com/TradercBTC/status/2078710883203903703/photo/3)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2078712820074746331"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"从结构来看BTC 第一次下跌跌了30个点，但是回调只有8个点，这说明卖方的动作非常的强劲 第二次下跌了几乎相等的幅度，但是回调上升到了24个点 我们认为回调的幅度，它某种程度上来说决定了趋势的动能 回调浅肯定代表趋势的动能强，回调深肯定代表趋势的动能相对来说会弱一些 因此第三次下跌，也就是这一次下跌的是28个点 首先，从图表上次低点上来说，它确实形成了某种程度的底背离 但是从下跌幅度来说，它并没有形成明显的底背离，每一次下跌都是30个点左右，因此，我认为下跌的趋势动能还是在持续当中 现在目前就要看这一波回调的情况，如果回调浅的话，那么后续的下…\"\nurl: \"https://x.com/TradercBTC/status/2078712820074746331\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2078712820074746331\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2078712820074746331/imgs/img-001-HNkQ931aoAAZg15-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-07-19T05:25:31.000Z\"\nsummary: |-\n  从结构来看BTC \n  \n  第一次下跌跌了30个点，但是回调只有8个点，这说明卖方的动作非常的强劲\n  \n  第二次下跌了几乎相等的幅度，但是回调上升到了24个点\n  \n  我们认为回调的幅度，它某种程度上来说决定了趋势的动能\n  \n  回调浅肯定代表趋势的动能强，回调深肯定代表趋势的动能相对来说会弱一些\n  \n  因此第三次下跌，也就是这一次下跌的是28个点\n  \n  首先，从图表上次低点上来说，它确实形成了某种程度的底背离\n  \n  但是从下跌幅度来说，它并没有形成明显的底背离，每一次下跌都是30个点左右，因此，我认为下跌的趋势动能还是在持续当中\n  \n  现在目前就要看这一波回调的情况，如果回调浅的话，那么后续的下跌动能幅度可能仍然能保持在30个…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:03:11.442Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"从结构来看BTC 第一次下跌跌了30个点，但是回调只有8个点，这说明卖方的动作非常的强劲 第二次下跌了几乎相等的幅度，但是回调上升到了24个点 我们认为回调的幅度，它某种程度上来说决定了趋势的动能 回调浅肯定代表趋势的动能强，回调深肯定代表趋势的动能相对来说会弱一些 因此第三次下跌，也就是这一次下跌的是28个点 首先，从图表上次低点上来说，它确实形成了某种程度的底背离 但是从下跌幅度来说，它并没有形成明显的底背离，每一次下跌都是30个点左右，因此，我认为下跌的趋势动能还是在持续当中 现在目前就要看这一波回调的情况，如果回调浅的话，那么后续的下…\n\n[![@TradercBTC](2078712820074746331/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n从结构来看BTC 第一次下跌跌了30个点，但是回调只有8个点，这说明卖方的动作非常的强劲 第二次下跌了几乎相等的幅度，但是回调上升到了24个点 我们认为回调的幅度，它某种程度上来说决定了趋势的动能 回调浅肯定代表趋势的动能强，回调深肯定代表趋势的动能相对来说会弱一些 因此第三次下跌，也就是这一次下跌的是28个点 首先，从图表上次低点上来说，它确实形成了某种程度的底背离 但是从下跌幅度来说，它并没有形成明显的底背离，每一次下跌都是30个点左右，因此，我认为下跌的趋势动能还是在持续当中 现在目前就要看这一波回调的情况，如果回调浅的话，那么后续的下跌动能幅度可能仍然能保持在30个点左右， 甚至如果是最后一次下跌，它可能会出现一次抛售高潮的情况，如果这一次回调幅度超过20个点，那就可能从下跌趋势转为震荡趋势 因此根据下跌幅度画个剧本，涨到68000或者70000附近开始下一波下跌（纯猜测）\n\n[![](2078712820074746331/imgs/img-003-HNkSE09bsAAcfSD.webp)](https://x.com/TradercBTC/status/2078712820074746331/photo/2)\n\n[![@TradercBTC](2078712820074746331/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n指标显示，从周线到日线到6小时的动能都是平衡 也就是上下猜方向的时候 但是结合我们三次追踪，可以很明显看到它的变化 上周没有跌下去，结合周线，向上的概率还是更大一些\n\n[![](2078712820074746331/imgs/img-004-HNkPgjDaEAAU7qq.webp)](https://x.com/TradercBTC/status/2078710883203903703/photo/1)\n\n[![](2078712820074746331/imgs/img-005-HNkP7dLbUAAsYc1.webp)](https://x.com/TradercBTC/status/2078710883203903703/photo/2)\n\n[![](2078712820074746331/imgs/img-006-HNkQGtlbgAAdIjt.webp)](https://x.com/TradercBTC/status/2078710883203903703/photo/3)\n\nOnly some accounts can reply."
+}

@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HHczzbUagAAF41n.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2051165446783807531/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2051165446783807531/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HHczzbUagAAF41n.jpg:large",
+        "localPath": "2051165446783807531/imgs/img-002-HHczzbUagAAF41n-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2051165446783807531/imgs/img-002-HHczzbUagAAF41n-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2051165446783807531/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2051165446783807531",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2051165446783807531",
+    "title": "trader-c on X: \"手贱挂了四单stop\n\n刚好触发给我上去扫损了，因为我在睡觉，所以没有提前离场。。。。\n\n呜呜呜呜😭\n\n但是对黄金还是保持向下的交易偏见，这会清醒了\n\n等待一个好机会入场。。。\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-05-04T05:02:05.000Z",
+    "summary": "手贱挂了四单stop\n\n刚好触发给我上去扫损了，因为我在睡觉，所以没有提前离场。。。。\n\n呜呜呜呜😭\n\n但是对黄金还是保持向下的交易偏见，这会清醒了\n\n等待一个好机会入场。。。",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HHczzbUagAAF41n.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:01:04.756Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t手贱挂了四单stop 刚好触发给我上去扫损了，因为我在睡觉，所以没有提前离场。。。。 呜呜呜呜😭 但是对黄金还是保持向下的交易偏见，这会清醒了 等待一个好机会入场。。。\n\t[13:02 · 2026年5月4日](https://x.com/TradercBTC/status/2051165446783807531) [1895Views](https://x.com/TradercBTC/status/2051165446783807531)\n\t[2](https://x.com/i/status/2051165446783807531)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2051165446783807531"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"手贱挂了四单stop\n  \n  刚好触发给我上去扫损了，因为我在睡觉，所以没有提前离场。。。。\n  \n  呜呜呜呜😭\n  \n  但是对黄金还是保持向下的交易偏见，这会清醒了\n  \n  等待一个好机会入场。。。\" / X\nurl: \"https://x.com/TradercBTC/status/2051165446783807531\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2051165446783807531\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2051165446783807531/imgs/img-002-HHczzbUagAAF41n-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-05-04T05:02:05.000Z\"\nsummary: |-\n  手贱挂了四单stop\n  \n  刚好触发给我上去扫损了，因为我在睡觉，所以没有提前离场。。。。\n  \n  呜呜呜呜😭\n  \n  但是对黄金还是保持向下的交易偏见，这会清醒了\n  \n  等待一个好机会入场。。。\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:01:04.756Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"手贱挂了四单stop\n\n刚好触发给我上去扫损了，因为我在睡觉，所以没有提前离场。。。。\n\n呜呜呜呜😭\n\n但是对黄金还是保持向下的交易偏见，这会清醒了\n\n等待一个好机会入场。。。\" / X\n\n- [![@TradercBTC](2051165446783807531/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t手贱挂了四单stop 刚好触发给我上去扫损了，因为我在睡觉，所以没有提前离场。。。。 呜呜呜呜😭 但是对黄金还是保持向下的交易偏见，这会清醒了 等待一个好机会入场。。。\n\t[13:02 · 2026年5月4日](https://x.com/TradercBTC/status/2051165446783807531) [1895Views](https://x.com/TradercBTC/status/2051165446783807531)\n\t[2](https://x.com/i/status/2051165446783807531)"
+}

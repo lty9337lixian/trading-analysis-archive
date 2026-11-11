@@ -1,0 +1,37 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 8,
+  "lang": "zh",
+  "created_at": "2026-08-15T07:34:14.000Z",
+  "display_text_range": [
+    0,
+    150
+  ],
+  "entities": {},
+  "id_str": "2088529685357715924",
+  "text": "每日研究问题之：\n\n「1:写作是否真的能改善思考与预测，而不只是改善表达？\n2:事前记录、概率预测、证伪条件分别在纠正什么认知偏差？\n3:“价格—预期差—催化剂”的结构为什么适用于二级市场？\n4:复盘和反馈在什么条件下有效，何时反而制造过拟合？\n5:有没有研究直接证明“写投研文章能提高交易收益”？」",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2088529685357715924"
+    ],
+    "editable_until_msecs": "1786782854000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "isEdited": false,
+  "isStaleEdit": false
+}

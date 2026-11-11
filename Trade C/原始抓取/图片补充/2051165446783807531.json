@@ -1,0 +1,199 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 3,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-05-04T05:02:05.000Z",
+  "display_text_range": [
+    0,
+    89
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/1frznC1asP",
+        "expanded_url": "https://x.com/TradercBTC/status/2051165446783807531/photo/1",
+        "indices": [
+          89,
+          112
+        ],
+        "url": "https://t.co/1frznC1asP"
+      }
+    ]
+  },
+  "id_str": "2051165446783807531",
+  "text": "手贱挂了四单stop\n\n刚好触发给我上去扫损了，因为我在睡觉，所以没有提前离场。。。。\n\n呜呜呜呜😭\n\n但是对黄金还是保持向下的交易偏见，这会清醒了\n\n等待一个好机会入场。。。 https://t.co/1frznC1asP",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2051165446783807531"
+    ],
+    "editable_until_msecs": "1777874525000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/1frznC1asP",
+      "expanded_url": "https://x.com/TradercBTC/status/2051165446783807531/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        89,
+        112
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HHczzbUagAAF41n.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1445,
+            "w": 2580,
+            "x": 0,
+            "y": 245
+          },
+          {
+            "h": 1846,
+            "w": 1846,
+            "x": 734,
+            "y": 0
+          },
+          {
+            "h": 1846,
+            "w": 1619,
+            "x": 961,
+            "y": 0
+          },
+          {
+            "h": 1846,
+            "w": 923,
+            "x": 1657,
+            "y": 0
+          },
+          {
+            "h": 1846,
+            "w": 2580,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1846,
+        "width": 2580
+      },
+      "sizes": {
+        "large": {
+          "h": 1465,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 859,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 487,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/1frznC1asP"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1445,
+          "w": 2580,
+          "x": 0,
+          "y": 245
+        },
+        {
+          "h": 1846,
+          "w": 1846,
+          "x": 734,
+          "y": 0
+        },
+        {
+          "h": 1846,
+          "w": 1619,
+          "x": 961,
+          "y": 0
+        },
+        {
+          "h": 1846,
+          "w": 923,
+          "x": 1657,
+          "y": 0
+        },
+        {
+          "h": 1846,
+          "w": 2580,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2051165446783807531/photo/1",
+      "url": "https://pbs.twimg.com/media/HHczzbUagAAF41n.jpg",
+      "width": 2580,
+      "height": 1846
+    }
+  ],
+  "conversation_count": 2,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "favorite_count": 21,
+    "lang": "zh",
+    "reply_count": 6,
+    "retweet_count": 0,
+    "created_at": "2026-05-04T04:57:10.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "entities": {},
+    "id_str": "2051164205378896144",
+    "text": "早上挂了四单，起来全损，一周白干。。。",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2051164205378896144"
+      ],
+      "editable_until_msecs": "1777874230000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

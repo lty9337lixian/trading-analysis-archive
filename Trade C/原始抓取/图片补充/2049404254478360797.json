@@ -1,0 +1,186 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 3,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-04-29T08:23:45.000Z",
+  "display_text_range": [
+    0,
+    112
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/uQP5eWI418",
+        "expanded_url": "https://x.com/TradercBTC/status/2049404254478360797/photo/1",
+        "indices": [
+          113,
+          136
+        ],
+        "url": "https://t.co/uQP5eWI418"
+      }
+    ],
+    "symbols": [
+      {
+        "indices": [
+          6,
+          10
+        ],
+        "text": "BTC"
+      }
+    ]
+  },
+  "id_str": "2049404254478360797",
+  "text": "我计划做多 $BTC ，但是我担心在阻力位出现反应\n\n这个位置很不好\n\n因此我只能采用一般的仓位进行\n\n目标是前一段的MM\n\n因为1h级别的上涨从一个走势平缓的上涨变为走势陡峭的上涨，这表明动能在增强\n\n我想博弈一下这个过程 https://t.co/uQP5eWI418",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "initial_tweet_id": "2049403972478447703",
+    "edit_tweet_ids": [
+      "2049403972478447703",
+      "2049404254478360797"
+    ],
+    "editable_until_msecs": "1777454557000",
+    "edits_remaining": "4",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/uQP5eWI418",
+      "expanded_url": "https://x.com/TradercBTC/status/2049404254478360797/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        113,
+        136
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HHDxU6RagAAwKTs.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1501,
+            "w": 2680,
+            "x": 0,
+            "y": 89
+          },
+          {
+            "h": 1590,
+            "w": 1590,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1590,
+            "w": 1395,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1590,
+            "w": 795,
+            "x": 205,
+            "y": 0
+          },
+          {
+            "h": 1590,
+            "w": 2680,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1590,
+        "width": 2680
+      },
+      "sizes": {
+        "large": {
+          "h": 1215,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 712,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 403,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/uQP5eWI418"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1501,
+          "w": 2680,
+          "x": 0,
+          "y": 89
+        },
+        {
+          "h": 1590,
+          "w": 1590,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1590,
+          "w": 1395,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1590,
+          "w": 795,
+          "x": 205,
+          "y": 0
+        },
+        {
+          "h": 1590,
+          "w": 2680,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2049404254478360797/photo/1",
+      "url": "https://pbs.twimg.com/media/HHDxU6RagAAwKTs.jpg",
+      "width": 2680,
+      "height": 1590
+    }
+  ],
+  "conversation_count": 4,
+  "news_action_type": "conversation",
+  "isEdited": true,
+  "isStaleEdit": false,
+  "previous_counts": {
+    "favorite_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+  },
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDQ5NDA0MjU0NDE1NDI5NjMy"
+  }
+}

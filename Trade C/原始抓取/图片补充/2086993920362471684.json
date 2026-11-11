@@ -1,0 +1,346 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 11,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-08-11T01:51:39.000Z",
+  "display_text_range": [
+    0,
+    83
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/z47PbWx7Kv",
+        "expanded_url": "https://x.com/TradercBTC/status/2086993920362471684/photo/1",
+        "indices": [
+          84,
+          107
+        ],
+        "url": "https://t.co/z47PbWx7Kv"
+      }
+    ]
+  },
+  "id_str": "2086993920362471684",
+  "text": "接到了，算上上面的3个仓，目前浮亏中\n\n（哎我是傻逼，明明知道BTC清扫流动性的程度很强，我几乎一定能挂到单子，非要上面进3个）\n\n入场成功，接下来就看市场怎么发展了 https://t.co/z47PbWx7Kv",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2086993920362471684"
+    ],
+    "editable_until_msecs": "1786416699000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/z47PbWx7Kv",
+      "expanded_url": "https://x.com/TradercBTC/status/2086993920362471684/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        84,
+        107
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HPZ9nHtbIAAnhXf.png",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1354,
+            "w": 2418,
+            "x": 61,
+            "y": 0
+          },
+          {
+            "h": 1354,
+            "w": 1354,
+            "x": 593,
+            "y": 0
+          },
+          {
+            "h": 1354,
+            "w": 1188,
+            "x": 676,
+            "y": 0
+          },
+          {
+            "h": 1354,
+            "w": 677,
+            "x": 932,
+            "y": 0
+          },
+          {
+            "h": 1354,
+            "w": 2676,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1354,
+        "width": 2676
+      },
+      "sizes": {
+        "large": {
+          "h": 1036,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 607,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 344,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/z47PbWx7Kv"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1354,
+          "w": 2418,
+          "x": 61,
+          "y": 0
+        },
+        {
+          "h": 1354,
+          "w": 1354,
+          "x": 593,
+          "y": 0
+        },
+        {
+          "h": 1354,
+          "w": 1188,
+          "x": 676,
+          "y": 0
+        },
+        {
+          "h": 1354,
+          "w": 677,
+          "x": 932,
+          "y": 0
+        },
+        {
+          "h": 1354,
+          "w": 2676,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2086993920362471684/photo/1",
+      "url": "https://pbs.twimg.com/media/HPZ9nHtbIAAnhXf.png",
+      "width": 2676,
+      "height": 1354
+    }
+  ],
+  "conversation_count": 1,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "conversation_control": {
+      "policy": "Verified"
+    },
+    "favorite_count": 12,
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "reply_count": 1,
+    "retweet_count": 2,
+    "created_at": "2026-08-09T13:56:48.000Z",
+    "display_text_range": [
+      0,
+      93
+    ],
+    "entities": {
+      "media": [
+        {
+          "display_url": "pic.x.com/mGxBKc0RSy",
+          "expanded_url": "https://x.com/TradercBTC/status/2086451632456491488/photo/1",
+          "indices": [
+            94,
+            117
+          ],
+          "url": "https://t.co/mGxBKc0RSy"
+        }
+      ],
+      "symbols": [
+        {
+          "indices": [
+            46,
+            50
+          ],
+          "text": "BTC"
+        }
+      ]
+    },
+    "id_str": "2086451632456491488",
+    "text": "合理\n\n最坏的情况亏3个点\n\n一般情况下，大概率能赚3到4个点，一比一的盈亏比\n\n如果押注 $BTC 突破成功，大概率能拿9到12个点，最好的情况拿三倍盈亏比\n\n算下来划算，这笔生意能做 https://t.co/mGxBKc0RSy",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2086451632456491488"
+      ],
+      "editable_until_msecs": "1786287408000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "mediaDetails": [
+      {
+        "display_url": "pic.x.com/mGxBKc0RSy",
+        "expanded_url": "https://x.com/TradercBTC/status/2086451632456491488/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "indices": [
+          94,
+          117
+        ],
+        "media_url_https": "https://pbs.twimg.com/media/HPSQXwobEAAhMkJ.png",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 1294,
+              "w": 2311,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1294,
+              "w": 1294,
+              "x": 358,
+              "y": 0
+            },
+            {
+              "h": 1294,
+              "w": 1135,
+              "x": 438,
+              "y": 0
+            },
+            {
+              "h": 1294,
+              "w": 647,
+              "x": 682,
+              "y": 0
+            },
+            {
+              "h": 1294,
+              "w": 2370,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1294,
+          "width": 2370
+        },
+        "sizes": {
+          "large": {
+            "h": 1118,
+            "resize": "fit",
+            "w": 2048
+          },
+          "medium": {
+            "h": 655,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 371,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/mGxBKc0RSy"
+      }
+    ],
+    "photos": [
+      {
+        "backgroundColor": {
+          "red": 204,
+          "green": 214,
+          "blue": 221
+        },
+        "cropCandidates": [
+          {
+            "h": 1294,
+            "w": 2311,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1294,
+            "w": 1294,
+            "x": 358,
+            "y": 0
+          },
+          {
+            "h": 1294,
+            "w": 1135,
+            "x": 438,
+            "y": 0
+          },
+          {
+            "h": 1294,
+            "w": 647,
+            "x": 682,
+            "y": 0
+          },
+          {
+            "h": 1294,
+            "w": 2370,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "expandedUrl": "https://x.com/TradercBTC/status/2086451632456491488/photo/1",
+        "url": "https://pbs.twimg.com/media/HPSQXwobEAAhMkJ.png",
+        "width": 2370,
+        "height": 1294
+      }
+    ],
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

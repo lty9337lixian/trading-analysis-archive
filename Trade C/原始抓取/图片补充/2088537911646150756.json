@@ -1,0 +1,169 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 11,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-08-15T08:06:55.000Z",
+  "display_text_range": [
+    0,
+    22
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/MGR8iae2KI",
+        "expanded_url": "https://x.com/TradercBTC/status/2088537911646150756/photo/1",
+        "indices": [
+          22,
+          45
+        ],
+        "url": "https://t.co/MGR8iae2KI"
+      }
+    ]
+  },
+  "id_str": "2088537911646150756",
+  "text": "开始和群里复盘黄金（上周其实做的挺好的😂） https://t.co/MGR8iae2KI",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2088537911646150756"
+    ],
+    "editable_until_msecs": "1786784815000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/MGR8iae2KI",
+      "expanded_url": "https://x.com/TradercBTC/status/2088537911646150756/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        22,
+        45
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HPv56ZhbEAANxjm.png",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1316,
+            "w": 2350,
+            "x": 0,
+            "y": 0
+          },
+          {
+            "h": 1316,
+            "w": 1316,
+            "x": 466,
+            "y": 0
+          },
+          {
+            "h": 1316,
+            "w": 1154,
+            "x": 547,
+            "y": 0
+          },
+          {
+            "h": 1316,
+            "w": 658,
+            "x": 795,
+            "y": 0
+          },
+          {
+            "h": 1316,
+            "w": 2646,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1316,
+        "width": 2646
+      },
+      "sizes": {
+        "large": {
+          "h": 1019,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 597,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 338,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/MGR8iae2KI"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1316,
+          "w": 2350,
+          "x": 0,
+          "y": 0
+        },
+        {
+          "h": 1316,
+          "w": 1316,
+          "x": 466,
+          "y": 0
+        },
+        {
+          "h": 1316,
+          "w": 1154,
+          "x": 547,
+          "y": 0
+        },
+        {
+          "h": 1316,
+          "w": 658,
+          "x": 795,
+          "y": 0
+        },
+        {
+          "h": 1316,
+          "w": 2646,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2088537911646150756/photo/1",
+      "url": "https://pbs.twimg.com/media/HPv56ZhbEAANxjm.png",
+      "width": 2646,
+      "height": 1316
+    }
+  ],
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "isEdited": false,
+  "isStaleEdit": false
+}

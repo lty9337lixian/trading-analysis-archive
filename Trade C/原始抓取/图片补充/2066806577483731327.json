@@ -1,0 +1,73 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 10,
+  "lang": "zh",
+  "created_at": "2026-06-16T08:54:22.000Z",
+  "display_text_range": [
+    0,
+    151
+  ],
+  "entities": {},
+  "id_str": "2066806577483731327",
+  "text": "某种程度上而言\n\n稳定盈利确实是一种状态，而非境界\n\n比如今早我挂了黄金，然后随着ATR变动，移动了我的止损\n\n结果刚好打掉我的止损上去\n\n原本我可以赚60个点，但是现在我亏了10个点\n\n这种感觉并不好受\n\n今天总共做了三个决定\n\n一个是买稀土和新能源。\n\n一个是stop的黄金\n\n一个是买了btc的多",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2066806577483731327"
+    ],
+    "editable_until_msecs": "1781603662000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 1,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "conversation_control": {
+      "policy": "ByInvitation"
+    },
+    "favorite_count": 31,
+    "lang": "zh",
+    "reply_count": 0,
+    "retweet_count": 4,
+    "created_at": "2026-06-09T07:22:23.000Z",
+    "display_text_range": [
+      0,
+      134
+    ],
+    "entities": {},
+    "id_str": "2064246715545506216",
+    "text": "世人大多认为，能够稳定盈利，是登峰造极的境界，达到了这个境界就可以一劳永逸，万事都有了依靠。\n\n我偏偏认为不是这样。稳定盈利，不是一成不变的境界，而是需要时时刻刻去维系的状态罢了。\n\n所谓境界，得到了就永远拥有；所谓状态，今天有了，明天却未必还有。\n\n为什么这样说呢？",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2064246715545506216"
+      ],
+      "editable_until_msecs": "1780993343000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDY2ODA2NTc3NDM3NDkxMjAw"
+  }
+}

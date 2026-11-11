@@ -1,0 +1,62 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 89,
+  "lang": "zxx",
+  "possibly_sensitive": false,
+  "created_at": "2026-03-18T08:50:20.000Z",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2034…",
+        "expanded_url": "http://x.com/i/article/2034185698681794560",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/PtL2URsiOY"
+      }
+    ]
+  },
+  "id_str": "2034190656349098256",
+  "text": "https://t.co/PtL2URsiOY",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2034190656349098256"
+    ],
+    "editable_until_msecs": "1773827420000",
+    "edits_remaining": "5",
+    "is_edit_eligible": false
+  },
+  "conversation_count": 0,
+  "news_action_type": "conversation",
+  "article": {
+    "cover_media": {
+      "id": "QXBpTWVkaWE6DAAFCgABHDripQ+bwAAKAAIaqP8AOBtwBgAA",
+      "media_info": {
+        "__typename": "ApiImage",
+        "original_img_height": 639,
+        "original_img_url": "https://pbs.twimg.com/media/HDripQ-bwAA09dE.jpg",
+        "original_img_width": 1597
+      }
+    },
+    "id": "QXJ0aWNsZUVudGl0eToyMDM0MTg1Njk4NjgxNzk0NTYw",
+    "preview_text": "有朋友私信我，好奇我的交易系统，认为我很有纪律性。\n我说我哪有纪律性。关于交易纪律，我以前觉得那些建议是对的，后来觉得不对。\"很多人说的纪律性，甚至AI都说，让你不要贪不要懒，这等于对抗人性。",
+    "rest_id": "2034185698681794560",
+    "title": "让系统替你亏，为什么最好的交易纪律不依赖人性"
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

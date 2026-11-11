@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2018890523868893668 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2018890523868893668.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HASIFxPa4AAto-E.png:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2018890523868893668/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2018890523868893668/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HASIFxPa4AAto-E.png:large",
+        "localPath": "2018890523868893668/imgs/img-002-HASIFxPa4AAto-E-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2018890523868893668/imgs/img-002-HASIFxPa4AAto-E-png-large.png",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2018890523868893668/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2018890523868893668",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2018890523868893668",
+    "title": "trader-c on X: \"买了原油的差价合约。 $WTI\n\n逻辑：\n\n1:大周期的下跌趋势被打破，现在是上涨结构，ema拐头向上，多头分布。\n\n2:之前两年的价格中枢在84到66区间\n\n目标是回到中枢，起码前高，是一个A➕级机会\n（现在来说，群里有人买在低点，那是S级的机会）\n\n周期，盈亏比满足S的条件,但是结构上来说差了意思，不过问题不大。\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-04T03:33:04.000Z",
+    "summary": "买了原油的差价合约。 $WTI\n\n逻辑：\n\n1:大周期的下跌趋势被打破，现在是上涨结构，ema拐头向上，多头分布。\n\n2:之前两年的价格中枢在84到66区间\n\n目标是回到中枢，起码前高，是一个A➕级机会\n（现在来说，群里有人买在低点，那是S级的机会）\n\n周期，盈亏比满足S的条件,但是结构上来说差了意思，不过问题不大。",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HASIFxPa4AAto-E.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:56:01.351Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n买了原油的差价合约。 [$WTI](https://x.com/search?q=$WTI) 逻辑： 1:大周期的下跌趋势被打破，现在是上涨结构，ema拐头向上，多头分布。 2:之前两年的价格中枢在84到66区间 目标是回到中枢，起码前高，是一个A➕级机会 （现在来说，群里有人买在低点，那是S级的机会） 周期，盈亏比满足S的条件,但是结构上来说差了意思，不过问题不大。\n\n[11:33 · 2026年2月4日](https://x.com/TradercBTC/status/2018890523868893668) [1371Views](https://x.com/TradercBTC/status/2018890523868893668)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2018890523868893668"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"买了原油的差价合约。 $WTI\n  \n  逻辑：\n  \n  1:大周期的下跌趋势被打破，现在是上涨结构，ema拐头向上，多头分布。\n  \n  2:之前两年的价格中枢在84到66区间\n  \n  目标是回到中枢，起码前高，是一个A➕级机会\n  （现在来说，群里有人买在低点，那是S级的机会）\n  \n  周期，盈亏比满足S的条件,但是结构上来说差了意思，不过问题不大。\" / X\nurl: \"https://x.com/TradercBTC/status/2018890523868893668\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2018890523868893668\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2018890523868893668/imgs/img-002-HASIFxPa4AAto-E-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-04T03:33:04.000Z\"\nsummary: |-\n  买了原油的差价合约。 $WTI\n  \n  逻辑：\n  \n  1:大周期的下跌趋势被打破，现在是上涨结构，ema拐头向上，多头分布。\n  \n  2:之前两年的价格中枢在84到66区间\n  \n  目标是回到中枢，起码前高，是一个A➕级机会\n  （现在来说，群里有人买在低点，那是S级的机会）\n  \n  周期，盈亏比满足S的条件,但是结构上来说差了意思，不过问题不大。\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:56:01.351Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"买了原油的差价合约。 $WTI\n\n逻辑：\n\n1:大周期的下跌趋势被打破，现在是上涨结构，ema拐头向上，多头分布。\n\n2:之前两年的价格中枢在84到66区间\n\n目标是回到中枢，起码前高，是一个A➕级机会\n（现在来说，群里有人买在低点，那是S级的机会）\n\n周期，盈亏比满足S的条件,但是结构上来说差了意思，不过问题不大。\" / X\n\n[![@TradercBTC](2018890523868893668/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n买了原油的差价合约。 [$WTI](https://x.com/search?q=$WTI) 逻辑： 1:大周期的下跌趋势被打破，现在是上涨结构，ema拐头向上，多头分布。 2:之前两年的价格中枢在84到66区间 目标是回到中枢，起码前高，是一个A➕级机会 （现在来说，群里有人买在低点，那是S级的机会） 周期，盈亏比满足S的条件,但是结构上来说差了意思，不过问题不大。\n\n[11:33 · 2026年2月4日](https://x.com/TradercBTC/status/2018890523868893668) [1371Views](https://x.com/TradercBTC/status/2018890523868893668)"
+}

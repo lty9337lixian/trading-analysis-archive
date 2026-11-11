@@ -1,0 +1,58 @@
+[info] Loading https://x.com/TradercBTC/status/2044668276614332423 with generic adapter
+[info] Downloaded 1 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2044668276614332423.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2044668276614332423/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2044668276614332423/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2044668276614332423/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2044668276614332423",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2044668276614332423",
+    "title": "trader-c on X: \"我要更新这条我说的交易系统\n\n这个描述是不准确的\n\n周期，结构，管理订单\n\n这三个词描述的既不是完整的交易逻辑，也不是完整的交易系统。\n\n这是我交易系统的三个组成模块的名字。\n\n等同于我说\"我的菜是由食材、火候和摆盘组成的\"。\n\n说的没错，但这不是一道菜的菜谱。\n\n菜谱应该是：“什么食材、怎么切、什么火候、炒多久、怎么调味、怎么摆盘。”\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-04-16T06:44:39.000Z",
+    "summary": "我要更新这条我说的交易系统\n\n这个描述是不准确的\n\n周期，结构，管理订单\n\n这三个词描述的既不是完整的交易逻辑，也不是完整的交易系统。\n\n这是我交易系统的三个组成模块的名字。\n\n等同于我说\"我的菜是由食材、火候和摆盘组成的\"。\n\n说的没错，但这不是一道菜的菜谱。\n\n菜谱应该是：“什么食材、怎么切、什么火候、炒多久、怎么调味、怎么摆盘。”",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:00:18.639Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t我要更新这条我说的交易系统 这个描述是不准确的 周期，结构，管理订单 这三个词描述的既不是完整的交易逻辑，也不是完整的交易系统。 这是我交易系统的三个组成模块的名字。 等同于我说\"我的菜是由食材、火候和摆盘组成的\"。 说的没错，但这不是一道菜的菜谱。 菜谱应该是：“什么食材、怎么切、什么火候、炒多久、怎么调味、怎么摆盘。”\n\t[14:44 · 2026年4月16日](https://x.com/TradercBTC/status/2044668276614332423) [9994Views](https://x.com/TradercBTC/status/2044668276614332423)\n\t[9](https://x.com/i/status/2044668276614332423)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2044668276614332423"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"我要更新这条我说的交易系统\n  \n  这个描述是不准确的\n  \n  周期，结构，管理订单\n  \n  这三个词描述的既不是完整的交易逻辑，也不是完整的交易系统。\n  \n  这是我交易系统的三个组成模块的名字。\n  \n  等同于我说\"我的菜是由食材、火候和摆盘组成的\"。\n  \n  说的没错，但这不是一道菜的菜谱。\n  \n  菜谱应该是：“什么食材、怎么切、什么火候、炒多久、怎么调味、怎么摆盘。”\" / X\nurl: \"https://x.com/TradercBTC/status/2044668276614332423\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2044668276614332423\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2044668276614332423/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-04-16T06:44:39.000Z\"\nsummary: |-\n  我要更新这条我说的交易系统\n  \n  这个描述是不准确的\n  \n  周期，结构，管理订单\n  \n  这三个词描述的既不是完整的交易逻辑，也不是完整的交易系统。\n  \n  这是我交易系统的三个组成模块的名字。\n  \n  等同于我说\"我的菜是由食材、火候和摆盘组成的\"。\n  \n  说的没错，但这不是一道菜的菜谱。\n  \n  菜谱应该是：“什么食材、怎么切、什么火候、炒多久、怎么调味、怎么摆盘。”\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:00:18.639Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"我要更新这条我说的交易系统\n\n这个描述是不准确的\n\n周期，结构，管理订单\n\n这三个词描述的既不是完整的交易逻辑，也不是完整的交易系统。\n\n这是我交易系统的三个组成模块的名字。\n\n等同于我说\"我的菜是由食材、火候和摆盘组成的\"。\n\n说的没错，但这不是一道菜的菜谱。\n\n菜谱应该是：“什么食材、怎么切、什么火候、炒多久、怎么调味、怎么摆盘。”\" / X\n\n- [![@TradercBTC](2044668276614332423/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t我要更新这条我说的交易系统 这个描述是不准确的 周期，结构，管理订单 这三个词描述的既不是完整的交易逻辑，也不是完整的交易系统。 这是我交易系统的三个组成模块的名字。 等同于我说\"我的菜是由食材、火候和摆盘组成的\"。 说的没错，但这不是一道菜的菜谱。 菜谱应该是：“什么食材、怎么切、什么火候、炒多久、怎么调味、怎么摆盘。”\n\t[14:44 · 2026年4月16日](https://x.com/TradercBTC/status/2044668276614332423) [9994Views](https://x.com/TradercBTC/status/2044668276614332423)\n\t[9](https://x.com/i/status/2044668276614332423)"
+}

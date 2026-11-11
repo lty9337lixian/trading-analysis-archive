@@ -1,0 +1,88 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 26,
+  "lang": "zh",
+  "created_at": "2026-09-05T16:39:16.000Z",
+  "display_text_range": [
+    0,
+    108
+  ],
+  "entities": {},
+  "id_str": "2096276990559220157",
+  "text": "假设你三天前以一百元买入了一只股票，今天它涨到了一百一十五元，浮盈百分之十五。你正在犹豫要不要卖。\n\n大部分人在这个时刻的思考方式是回头看——\"我的成本是一百元，现在赚了百分之十五，这个利润够不够？要不要落袋为安？\"",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2096276990559220157"
+    ],
+    "editable_until_msecs": "1788629956000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 2,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "favorite_count": 13,
+    "in_reply_to_screen_name": "xth_btc",
+    "in_reply_to_status_id_str": "2096110010170556744",
+    "in_reply_to_user_id_str": "1924363494704771072",
+    "lang": "zh",
+    "reply_count": 1,
+    "retweet_count": 1,
+    "created_at": "2026-09-05T05:37:11.000Z",
+    "display_text_range": [
+      9,
+      57
+    ],
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1924363494704771072",
+          "indices": [
+            0,
+            8
+          ],
+          "name": "xth",
+          "screen_name": "xth_btc"
+        }
+      ]
+    },
+    "id_str": "2096110375385387360",
+    "text": "@xth_btc 或许可以把提前止盈看作是一种逆势摸空的变体？逆势摸空最好别做，那在结构没出来之前止盈也最好别做啦",
+    "user": {
+      "id_str": "1896476760210026496",
+      "name": "seaman",
+      "screen_name": "seaman2049125",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2072981636313206784/xQsUuoee_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2096110375385387360"
+      ],
+      "editable_until_msecs": "1788590231000",
+      "edits_remaining": "5",
+      "is_edit_eligible": false
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDk2Mjc2OTkwNDk2MzEzMzQ0"
+  }
+}

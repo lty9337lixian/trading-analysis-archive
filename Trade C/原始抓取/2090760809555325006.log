@@ -1,0 +1,87 @@
+[info] Loading https://x.com/TradercBTC/status/2090760809555325006 with generic adapter
+[info] Downloaded 4 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2090760809555325006.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HQPfvfRaUAA3HpU.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HQPcPr9bwAATXE6?format=webp&name=small",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HQPcVTeaUAAwmbk?format=webp&name=small",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/HQPfvfRaUAA3HpU.jpg:large",
+        "localPath": "2090760809555325006/imgs/img-001-HQPfvfRaUAA3HpU-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2090760809555325006/imgs/img-001-HQPfvfRaUAA3HpU-jpg-large.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2090760809555325006/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2090760809555325006/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HQPcPr9bwAATXE6?format=webp&name=small",
+        "localPath": "2090760809555325006/imgs/img-003-HQPcPr9bwAATXE6.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2090760809555325006/imgs/img-003-HQPcPr9bwAATXE6.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HQPcVTeaUAAwmbk?format=webp&name=small",
+        "localPath": "2090760809555325006/imgs/img-004-HQPcVTeaUAAwmbk.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2090760809555325006/imgs/img-004-HQPcVTeaUAAwmbk.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 4,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2090760809555325006/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2090760809555325006",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2090760809555325006",
+    "title": "trader-c on X: \"$FARTCOIN 涨势相对一般。走了黄色的预期，和我们下午考虑的一样，上方空间有限，有压制，相对没有其他强势 但是仍然有可能突破大周期阻力位，如果突破大周期阻力位，上方的空间则打开，预估有10%左右的空间，在有底仓的基础上，移动止损，博弈突破是一个比较好的思路， 虽然胜率一般，但是叠加入场的时机比较早，成本良好，存在博弈空间。止损移动保本，接受跌回则这次行情上涨失败的可能。\"",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-21T11:19:56.000Z",
+    "summary": "$FARTCOIN 涨势相对一般。走了黄色的预期，和我们下午考虑的一样，上方空间有限，有压制，相对没有其他强势\n\n但是仍然有可能突破大周期阻力位，如果突破大周期阻力位，上方的空间则打开，预估有10%左右的空间，在有底仓的基础上，移动止损，博弈突破是一个比较好的思路，\n\n虽然胜率一般，但是叠加入场的时机比较早，成本良好，存在博弈空间。止损移动保本，接受跌回则这次行情上涨失败的可能。",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HQPfvfRaUAA3HpU.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:06:00.865Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[$FARTCOIN](https://x.com/search?q=$FARTCOIN) 涨势相对一般。走了黄色的预期，和我们下午考虑的一样，上方空间有限，有压制，相对没有其他强势 但是仍然有可能突破大周期阻力位，如果突破大周期阻力位，上方的空间则打开，预估有10%左右的空间，在有底仓的基础上，移动止损，博弈突破是一个比较好的思路， 虽然胜率一般，但是叠加入场的时机比较早，成本良好，存在博弈空间。止损移动保本，接受跌回则这次行情上涨失败的可能。\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[8月21日](https://x.com/TradercBTC/status/2090756967845535976)\n\n[$FARTCOIN](https://x.com/search?q=$FARTCOIN) 后续\n\n[![](https://pbs.twimg.com/media/HQPcPr9bwAATXE6?format=webp&name=small)](https://x.com/TradercBTC/status/2090756967845535976/photo/1)\n\n[![](https://pbs.twimg.com/media/HQPcVTeaUAAwmbk?format=webp&name=small)](https://x.com/TradercBTC/status/2090756967845535976/photo/2)\n\n[19:19 · 2026年8月21日](https://x.com/TradercBTC/status/2090760809555325006)[2747Views](https://x.com/TradercBTC/status/2090760809555325006)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2090760809555325006"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"$FARTCOIN 涨势相对一般。走了黄色的预期，和我们下午考虑的一样，上方空间有限，有压制，相对没有其他强势 但是仍然有可能突破大周期阻力位，如果突破大周期阻力位，上方的空间则打开，预估有10%左右的空间，在有底仓的基础上，移动止损，博弈突破是一个比较好的思路， 虽然胜率一般，但是叠加入场的时机比较早，成本良好，存在博弈空间。止损移动保本，接受跌回则这次行情上涨失败的可能。\\\"\"\nurl: \"https://x.com/TradercBTC/status/2090760809555325006\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2090760809555325006\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2090760809555325006/imgs/img-001-HQPfvfRaUAA3HpU-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-21T11:19:56.000Z\"\nsummary: |-\n  $FARTCOIN 涨势相对一般。走了黄色的预期，和我们下午考虑的一样，上方空间有限，有压制，相对没有其他强势\n  \n  但是仍然有可能突破大周期阻力位，如果突破大周期阻力位，上方的空间则打开，预估有10%左右的空间，在有底仓的基础上，移动止损，博弈突破是一个比较好的思路，\n  \n  虽然胜率一般，但是叠加入场的时机比较早，成本良好，存在博弈空间。止损移动保本，接受跌回则这次行情上涨失败的可能。\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:06:00.865Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"$FARTCOIN 涨势相对一般。走了黄色的预期，和我们下午考虑的一样，上方空间有限，有压制，相对没有其他强势 但是仍然有可能突破大周期阻力位，如果突破大周期阻力位，上方的空间则打开，预估有10%左右的空间，在有底仓的基础上，移动止损，博弈突破是一个比较好的思路， 虽然胜率一般，但是叠加入场的时机比较早，成本良好，存在博弈空间。止损移动保本，接受跌回则这次行情上涨失败的可能。\"\n\n[![@TradercBTC](2090760809555325006/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[$FARTCOIN](https://x.com/search?q=$FARTCOIN) 涨势相对一般。走了黄色的预期，和我们下午考虑的一样，上方空间有限，有压制，相对没有其他强势 但是仍然有可能突破大周期阻力位，如果突破大周期阻力位，上方的空间则打开，预估有10%左右的空间，在有底仓的基础上，移动止损，博弈突破是一个比较好的思路， 虽然胜率一般，但是叠加入场的时机比较早，成本良好，存在博弈空间。止损移动保本，接受跌回则这次行情上涨失败的可能。\n\n[![@TradercBTC](2090760809555325006/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[8月21日](https://x.com/TradercBTC/status/2090756967845535976)\n\n[$FARTCOIN](https://x.com/search?q=$FARTCOIN) 后续\n\n[![](2090760809555325006/imgs/img-003-HQPcPr9bwAATXE6.webp)](https://x.com/TradercBTC/status/2090756967845535976/photo/1)\n\n[![](2090760809555325006/imgs/img-004-HQPcVTeaUAAwmbk.webp)](https://x.com/TradercBTC/status/2090756967845535976/photo/2)\n\n[19:19 · 2026年8月21日](https://x.com/TradercBTC/status/2090760809555325006)[2747Views](https://x.com/TradercBTC/status/2090760809555325006)\n\nOnly some accounts can reply."
+}

@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2080482942669951082 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2080482942669951082.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HN9b0QcacAAwNZW.png:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2080482942669951082/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2080482942669951082/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HN9b0QcacAAwNZW.png:large",
+        "localPath": "2080482942669951082/imgs/img-002-HN9b0QcacAAwNZW-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2080482942669951082/imgs/img-002-HN9b0QcacAAwNZW-png-large.png",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2080482942669951082/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2080482942669951082",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2080482942669951082",
+    "title": "trader-c on X: \"抄底这玩意干什么 $CRCL \n\n没有形成MSS的突破结构\n\n也没有更高的高点和更高的低点，咋看都还在下跌结构\n\n唯一的理由如果做震荡，拿到区间高点，这是高手\n\n如果不是，那就是前两天进去的被套了。。。\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-07-24T02:39:21.000Z",
+    "summary": "抄底这玩意干什么 $CRCL \n\n没有形成MSS的突破结构\n\n也没有更高的高点和更高的低点，咋看都还在下跌结构\n\n唯一的理由如果做震荡，拿到区间高点，这是高手\n\n如果不是，那就是前两天进去的被套了。。。",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HN9b0QcacAAwNZW.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:03:42.160Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n抄底这玩意干什么 [$CRCL](https://x.com/search?q=$CRCL) 没有形成MSS的突破结构 也没有更高的高点和更高的低点，咋看都还在下跌结构 唯一的理由如果做震荡，拿到区间高点，这是高手 如果不是，那就是前两天进去的被套了。。。\n\n[10:39 · 2026年7月24日](https://x.com/TradercBTC/status/2080482942669951082) [1.6万Views](https://x.com/TradercBTC/status/2080482942669951082)\n\n[1](https://x.com/i/status/2080482942669951082)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2080482942669951082"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"抄底这玩意干什么 $CRCL \n  \n  没有形成MSS的突破结构\n  \n  也没有更高的高点和更高的低点，咋看都还在下跌结构\n  \n  唯一的理由如果做震荡，拿到区间高点，这是高手\n  \n  如果不是，那就是前两天进去的被套了。。。\" / X\nurl: \"https://x.com/TradercBTC/status/2080482942669951082\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2080482942669951082\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2080482942669951082/imgs/img-002-HN9b0QcacAAwNZW-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-07-24T02:39:21.000Z\"\nsummary: |-\n  抄底这玩意干什么 $CRCL \n  \n  没有形成MSS的突破结构\n  \n  也没有更高的高点和更高的低点，咋看都还在下跌结构\n  \n  唯一的理由如果做震荡，拿到区间高点，这是高手\n  \n  如果不是，那就是前两天进去的被套了。。。\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:03:42.160Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"抄底这玩意干什么 $CRCL \n\n没有形成MSS的突破结构\n\n也没有更高的高点和更高的低点，咋看都还在下跌结构\n\n唯一的理由如果做震荡，拿到区间高点，这是高手\n\n如果不是，那就是前两天进去的被套了。。。\" / X\n\n[![@TradercBTC](2080482942669951082/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n抄底这玩意干什么 [$CRCL](https://x.com/search?q=$CRCL) 没有形成MSS的突破结构 也没有更高的高点和更高的低点，咋看都还在下跌结构 唯一的理由如果做震荡，拿到区间高点，这是高手 如果不是，那就是前两天进去的被套了。。。\n\n[10:39 · 2026年7月24日](https://x.com/TradercBTC/status/2080482942669951082) [1.6万Views](https://x.com/TradercBTC/status/2080482942669951082)\n\n[1](https://x.com/i/status/2080482942669951082)\n\nOnly some accounts can reply."
+}

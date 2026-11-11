@@ -1,0 +1,61 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/G_EaZ5uWAAAgxeY.png:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2013419838295646497/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2013419838295646497/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/G_EaZ5uWAAAgxeY.png:large",
+        "localPath": "2013419838295646497/imgs/img-002-G_EaZ5uWAAAgxeY-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2013419838295646497/imgs/img-002-G_EaZ5uWAAAgxeY-png-large.png",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2013419838295646497/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2013419838295646497",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2013419838295646497",
+    "title": "trader-c on X: \"早上 $BTC 插针多单接到了\n\n做好防守，止损上移到成本线，止盈放在区间上方，做一个小级别震荡单\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-01-20T01:14:31.000Z",
+    "summary": "早上 $BTC 插针多单接到了\n\n做好防守，止损上移到成本线，止盈放在区间上方，做一个小级别震荡单",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/G_EaZ5uWAAAgxeY.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:42:44.183Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n早上 [$BTC](https://x.com/search?q=$BTC) 插针多单接到了 做好防守，止损上移到成本线，止盈放在区间上方，做一个小级别震荡单\n\n正在走二推 [$BTC](https://x.com/search?q=$BTC) but该睡觉了，今天是等不到了，只能挂个左侧空单937和底部多单922。 止损会大一些。 简单来说我的逻辑是一段行情走完了，押注它走两天的震荡。 基于大背景和赔率，空单100%仓位，多单50%。\n\n[9:14 · 2026年1月20日](https://x.com/TradercBTC/status/2013419838295646497) [1471Views](https://x.com/TradercBTC/status/2013419838295646497)\n\n[1](https://x.com/i/status/2013419838295646497)"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2013419838295646497"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"早上 $BTC 插针多单接到了\n  \n  做好防守，止损上移到成本线，止盈放在区间上方，做一个小级别震荡单\" / X\nurl: \"https://x.com/TradercBTC/status/2013419838295646497\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2013419838295646497\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2013419838295646497/imgs/img-002-G_EaZ5uWAAAgxeY-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-01-20T01:14:31.000Z\"\nsummary: |-\n  早上 $BTC 插针多单接到了\n  \n  做好防守，止损上移到成本线，止盈放在区间上方，做一个小级别震荡单\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:42:44.183Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"早上 $BTC 插针多单接到了\n\n做好防守，止损上移到成本线，止盈放在区间上方，做一个小级别震荡单\" / X\n\n[![@TradercBTC](2013419838295646497/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n早上 [$BTC](https://x.com/search?q=$BTC) 插针多单接到了 做好防守，止损上移到成本线，止盈放在区间上方，做一个小级别震荡单\n\n正在走二推 [$BTC](https://x.com/search?q=$BTC) but该睡觉了，今天是等不到了，只能挂个左侧空单937和底部多单922。 止损会大一些。 简单来说我的逻辑是一段行情走完了，押注它走两天的震荡。 基于大背景和赔率，空单100%仓位，多单50%。\n\n[9:14 · 2026年1月20日](https://x.com/TradercBTC/status/2013419838295646497) [1471Views](https://x.com/TradercBTC/status/2013419838295646497)\n\n[1](https://x.com/i/status/2013419838295646497)"
+}

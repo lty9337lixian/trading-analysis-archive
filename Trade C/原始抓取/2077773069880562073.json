@@ -1,0 +1,117 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HNW5z_MakAAAr8J.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HNW55wmbgAEVTx9?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HNW6LFWbMAA2YNc?format=webp&name=medium",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HNVutVOasAAvyuI?format=webp&name=small",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HNVu0aqbgAEmiAw?format=webp&name=small",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HNVu4TPasAAqSiR?format=webp&name=small",
+      "kind": "image",
+      "role": "inline"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/HNW5z_MakAAAr8J.jpg:large",
+        "localPath": "2077773069880562073/imgs/img-001-HNW5z_MakAAAr8J-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2077773069880562073/imgs/img-001-HNW5z_MakAAAr8J-jpg-large.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg",
+        "localPath": "2077773069880562073/imgs/img-002-E5MklIEP_normal.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2077773069880562073/imgs/img-002-E5MklIEP_normal.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HNW55wmbgAEVTx9?format=webp&name=medium",
+        "localPath": "2077773069880562073/imgs/img-003-HNW55wmbgAEVTx9.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2077773069880562073/imgs/img-003-HNW55wmbgAEVTx9.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HNW6LFWbMAA2YNc?format=webp&name=medium",
+        "localPath": "2077773069880562073/imgs/img-004-HNW6LFWbMAA2YNc.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2077773069880562073/imgs/img-004-HNW6LFWbMAA2YNc.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HNVutVOasAAvyuI?format=webp&name=small",
+        "localPath": "2077773069880562073/imgs/img-005-HNVutVOasAAvyuI.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2077773069880562073/imgs/img-005-HNVutVOasAAvyuI.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HNVu0aqbgAEmiAw?format=webp&name=small",
+        "localPath": "2077773069880562073/imgs/img-006-HNVu0aqbgAEmiAw.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2077773069880562073/imgs/img-006-HNVu0aqbgAEmiAw.webp",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HNVu4TPasAAqSiR?format=webp&name=small",
+        "localPath": "2077773069880562073/imgs/img-007-HNVu4TPasAAqSiR.webp",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2077773069880562073/imgs/img-007-HNVu4TPasAAqSiR.webp",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 7,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2077773069880562073/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2077773069880562073",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2077773069880562073",
+    "title": "trader-c on X: \"按照同样的逻辑，我们来看一下比特币 大周期以日线为主，入场周期以6小时为主，可以看到日线和6小时的动能，它都是上涨 但是一小时它动能是均衡，而且日线和1小时都是宽幅震荡6小时它是一个宽幅上涨 位置还都在通道中部 因此，我们组合起来，这说明当前的行情，具备上涨动能，但是不强，没有压倒性的力量 而且一小时的动能已经到了均衡，我们都知道，行情的推动是大级别作用小级别，小级别逐步发展影响大级别 一段行情的变化是从小级别开始，逐步发展到大级别，但同时也受到大级别的走势的压制 很大的概率是先去猎取流动性再走出真正的方向 「个人偏向于先上」\"",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-07-16T15:11:17.000Z",
+    "summary": "按照同样的逻辑，我们来看一下比特币\n\n大周期以日线为主，入场周期以6小时为主，可以看到日线和6小时的动能，它都是上涨\n\n但是一小时它动能是均衡，而且日线和1小时都是宽幅震荡6小时它是一个宽幅上涨\n\n位置还都在通道中部\n\n因此，我们组合起来，这说明当前的行情，具备上涨动能，但是不强，没有压倒性的力量\n\n而且一小时的动能已经到了均衡，我们都知道，行情的推动是大级别作用小级别，小级别逐步发展影响大级别\n\n一段行情的变化是从小级别开始，逐步发展到大级别，但同时也受到大级别的走势的压制\n\n很大的概率是先去猎取流动性再走出真正的方向\n\n「个人偏向于先上」",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HNW5z_MakAAAr8J.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:03:01.655Z",
+      "conversionMethod": "legacy:readability",
+      "fallbackReason": "Readability/Turndown produced higher-quality markdown than Defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n按照同样的逻辑，我们来看一下比特币 大周期以日线为主，入场周期以6小时为主，可以看到日线和6小时的动能，它都是上涨 但是一小时它动能是均衡，而且日线和1小时都是宽幅震荡6小时它是一个宽幅上涨 位置还都在通道中部 因此，我们组合起来，这说明当前的行情，具备上涨动能，但是不强，没有压倒性的力量 而且一小时的动能已经到了均衡，我们都知道，行情的推动是大级别作用小级别，小级别逐步发展影响大级别 一段行情的变化是从小级别开始，逐步发展到大级别，但同时也受到大级别的走势的压制 很大的概率是先去猎取流动性再走出真正的方向 「个人偏向于先上」\n\n[![](https://pbs.twimg.com/media/HNW55wmbgAEVTx9?format=webp&name=medium)](https://x.com/TradercBTC/status/2077773069880562073/photo/2)\n\n[![](https://pbs.twimg.com/media/HNW6LFWbMAA2YNc?format=webp&name=medium)](https://x.com/TradercBTC/status/2077773069880562073/photo/3)\n\n[\n\n![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg)\n\n](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[7月16日](https://x.com/TradercBTC/status/2077690349611585554)\n\n指标使用技巧+1 如图所示，现在1H图表显示的是下跌状态 小级别的5m和15m，15m显示的是低波动震荡，等待突破，5m显示的是宽幅震荡 组合起来，我们对市场行情有一个基础判断 因此我们的逻辑是： 1H为大前提：找机会做空 15m：震荡——5m震荡，在5m等待震荡顶部出现做空信号，入场做空\n\n[![](https://pbs.twimg.com/media/HNVutVOasAAvyuI?format=webp&name=small)](https://x.com/TradercBTC/status/2077690349611585554/photo/1)\n\n[![](https://pbs.twimg.com/media/HNVu0aqbgAEmiAw?format=webp&name=small)](https://x.com/TradercBTC/status/2077690349611585554/photo/2)\n\n[![](https://pbs.twimg.com/media/HNVu4TPasAAqSiR?format=webp&name=small)](https://x.com/TradercBTC/status/2077690349611585554/photo/3)\n\n[23:11 · 2026年7月16日](https://x.com/TradercBTC/status/2077773069880562073)[7950Views](https://x.com/TradercBTC/status/2077773069880562073)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2077773069880562073"
+  },
+  "markdown": "---\ntitle: \"trader-c on X: \\\"按照同样的逻辑，我们来看一下比特币 大周期以日线为主，入场周期以6小时为主，可以看到日线和6小时的动能，它都是上涨 但是一小时它动能是均衡，而且日线和1小时都是宽幅震荡6小时它是一个宽幅上涨 位置还都在通道中部 因此，我们组合起来，这说明当前的行情，具备上涨动能，但是不强，没有压倒性的力量 而且一小时的动能已经到了均衡，我们都知道，行情的推动是大级别作用小级别，小级别逐步发展影响大级别 一段行情的变化是从小级别开始，逐步发展到大级别，但同时也受到大级别的走势的压制 很大的概率是先去猎取流动性再走出真正的方向 「个人偏向于先上」\\\"\"\nurl: \"https://x.com/TradercBTC/status/2077773069880562073\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2077773069880562073\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2077773069880562073/imgs/img-001-HNW5z_MakAAAr8J-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-07-16T15:11:17.000Z\"\nsummary: |-\n  按照同样的逻辑，我们来看一下比特币\n  \n  大周期以日线为主，入场周期以6小时为主，可以看到日线和6小时的动能，它都是上涨\n  \n  但是一小时它动能是均衡，而且日线和1小时都是宽幅震荡6小时它是一个宽幅上涨\n  \n  位置还都在通道中部\n  \n  因此，我们组合起来，这说明当前的行情，具备上涨动能，但是不强，没有压倒性的力量\n  \n  而且一小时的动能已经到了均衡，我们都知道，行情的推动是大级别作用小级别，小级别逐步发展影响大级别\n  \n  一段行情的变化是从小级别开始，逐步发展到大级别，但同时也受到大级别的走势的压制\n  \n  很大的概率是先去猎取流动性再走出真正的方向\n  \n  「个人偏向于先上」\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:03:01.655Z\"\nconversionMethod: \"legacy:readability\"\nfallbackReason: \"Readability/Turndown produced higher-quality markdown than Defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"按照同样的逻辑，我们来看一下比特币 大周期以日线为主，入场周期以6小时为主，可以看到日线和6小时的动能，它都是上涨 但是一小时它动能是均衡，而且日线和1小时都是宽幅震荡6小时它是一个宽幅上涨 位置还都在通道中部 因此，我们组合起来，这说明当前的行情，具备上涨动能，但是不强，没有压倒性的力量 而且一小时的动能已经到了均衡，我们都知道，行情的推动是大级别作用小级别，小级别逐步发展影响大级别 一段行情的变化是从小级别开始，逐步发展到大级别，但同时也受到大级别的走势的压制 很大的概率是先去猎取流动性再走出真正的方向 「个人偏向于先上」\"\n\n[![@TradercBTC](2077773069880562073/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n按照同样的逻辑，我们来看一下比特币 大周期以日线为主，入场周期以6小时为主，可以看到日线和6小时的动能，它都是上涨 但是一小时它动能是均衡，而且日线和1小时都是宽幅震荡6小时它是一个宽幅上涨 位置还都在通道中部 因此，我们组合起来，这说明当前的行情，具备上涨动能，但是不强，没有压倒性的力量 而且一小时的动能已经到了均衡，我们都知道，行情的推动是大级别作用小级别，小级别逐步发展影响大级别 一段行情的变化是从小级别开始，逐步发展到大级别，但同时也受到大级别的走势的压制 很大的概率是先去猎取流动性再走出真正的方向 「个人偏向于先上」\n\n[![](2077773069880562073/imgs/img-003-HNW55wmbgAEVTx9.webp)](https://x.com/TradercBTC/status/2077773069880562073/photo/2)\n\n[![](2077773069880562073/imgs/img-004-HNW6LFWbMAA2YNc.webp)](https://x.com/TradercBTC/status/2077773069880562073/photo/3)\n\n[![@TradercBTC](2077773069880562073/imgs/img-002-E5MklIEP_normal.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n[7月16日](https://x.com/TradercBTC/status/2077690349611585554)\n\n指标使用技巧+1 如图所示，现在1H图表显示的是下跌状态 小级别的5m和15m，15m显示的是低波动震荡，等待突破，5m显示的是宽幅震荡 组合起来，我们对市场行情有一个基础判断 因此我们的逻辑是： 1H为大前提：找机会做空 15m：震荡——5m震荡，在5m等待震荡顶部出现做空信号，入场做空\n\n[![](2077773069880562073/imgs/img-005-HNVutVOasAAvyuI.webp)](https://x.com/TradercBTC/status/2077690349611585554/photo/1)\n\n[![](2077773069880562073/imgs/img-006-HNVu0aqbgAEmiAw.webp)](https://x.com/TradercBTC/status/2077690349611585554/photo/2)\n\n[![](2077773069880562073/imgs/img-007-HNVu4TPasAAqSiR.webp)](https://x.com/TradercBTC/status/2077690349611585554/photo/3)\n\n[23:11 · 2026年7月16日](https://x.com/TradercBTC/status/2077773069880562073)[7950Views](https://x.com/TradercBTC/status/2077773069880562073)\n\nOnly some accounts can reply."
+}

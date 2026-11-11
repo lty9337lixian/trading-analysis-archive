@@ -1,0 +1,53 @@
+[info] Loading https://x.com/TradercBTC/status/2024025265526202742 with generic adapter
+[info] Downloaded 1 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2024025265526202742.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/media/HBbH1SLbcAAv21j.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/media/HBbH1SLbcAAv21j.jpg:large",
+        "localPath": "2024025265526202742/imgs/img-001-HBbH1SLbcAAv21j-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2024025265526202742/imgs/img-001-HBbH1SLbcAAv21j-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2024025265526202742/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2024025265526202742",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2024025265526202742",
+    "title": "trader-c on X: \"VWAP在我这里的作用是判断某一个时间段是由买盘还是卖盘对市场的统治力更强\n\n在某个时间段内，如果价格大部分时间在VWAP上方且偏离较大，代表着普遍是“愿意以高于平均成本的价格买入的人更多”，可以理解为买盘更主动，偏多主导。\n\n价格大部分时间在VWAP下方且偏离较大，代表着普遍是“愿意以低于平均成本的价格抛出的人更多”，可以理解为卖盘更主动，偏空主导。\n\n比如 $BTC 1H级别，我们现在正处于VWAP下方，这是卖盘短期强势\n\n但是由于VWAP的斜率是走平的，这意味着HTF里，多空力量是较为均衡的\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-02-18T07:36:42.000Z",
+    "summary": "VWAP在我这里的作用是判断某一个时间段是由买盘还是卖盘对市场的统治力更强\n\n在某个时间段内，如果价格大部分时间在VWAP上方且偏离较大，代表着普遍是“愿意以高于平均成本的价格买入的人更多”，可以理解为买盘更主动，偏多主导。\n\n价格大部分时间在VWAP下方且偏离较大，代表着普遍是“愿意以低于平均成本的价格抛出的人更多”，可以理解为卖盘更主动，偏空主导。\n\n比如 $BTC 1H级别，我们现在正处于VWAP下方，这是卖盘短期强势\n\n但是由于VWAP的斜率是走平的，这意味着HTF里，多空力量是较为均衡的",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HBbH1SLbcAAv21j.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:58:20.963Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "VWAP在我这里的作用是判断某一个时间段是由买盘还是卖盘对市场的统治力更强 在某个时间段内，如果价格大部分时间在VWAP上方且偏离较大，代表着普遍是“愿意以高于平均成本的价格买入的人更多”，可以理解为买盘更主动，偏多主导。 价格大部分时间在VWAP下方且偏离较大，代表着普遍是“愿意以低于平均成本的价格抛出的人更多”，可以理解为卖盘更主动，偏空主导。 比如 [$BTC](https://x.com/search?q=$BTC) 1H级别，我们现在正处于VWAP下方，这是卖盘短期强势 但是由于VWAP的斜率是走平的，这意味着HTF里，多空力量是较为均衡的"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2024025265526202742"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"VWAP在我这里的作用是判断某一个时间段是由买盘还是卖盘对市场的统治力更强\n  \n  在某个时间段内，如果价格大部分时间在VWAP上方且偏离较大，代表着普遍是“愿意以高于平均成本的价格买入的人更多”，可以理解为买盘更主动，偏多主导。\n  \n  价格大部分时间在VWAP下方且偏离较大，代表着普遍是“愿意以低于平均成本的价格抛出的人更多”，可以理解为卖盘更主动，偏空主导。\n  \n  比如 $BTC 1H级别，我们现在正处于VWAP下方，这是卖盘短期强势\n  \n  但是由于VWAP的斜率是走平的，这意味着HTF里，多空力量是较为均衡的\" / X\nurl: \"https://x.com/TradercBTC/status/2024025265526202742\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2024025265526202742\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2024025265526202742/imgs/img-001-HBbH1SLbcAAv21j-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-02-18T07:36:42.000Z\"\nsummary: |-\n  VWAP在我这里的作用是判断某一个时间段是由买盘还是卖盘对市场的统治力更强\n  \n  在某个时间段内，如果价格大部分时间在VWAP上方且偏离较大，代表着普遍是“愿意以高于平均成本的价格买入的人更多”，可以理解为买盘更主动，偏多主导。\n  \n  价格大部分时间在VWAP下方且偏离较大，代表着普遍是“愿意以低于平均成本的价格抛出的人更多”，可以理解为卖盘更主动，偏空主导。\n  \n  比如 $BTC 1H级别，我们现在正处于VWAP下方，这是卖盘短期强势\n  \n  但是由于VWAP的斜率是走平的，这意味着HTF里，多空力量是较为均衡的\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:58:20.963Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"VWAP在我这里的作用是判断某一个时间段是由买盘还是卖盘对市场的统治力更强\n\n在某个时间段内，如果价格大部分时间在VWAP上方且偏离较大，代表着普遍是“愿意以高于平均成本的价格买入的人更多”，可以理解为买盘更主动，偏多主导。\n\n价格大部分时间在VWAP下方且偏离较大，代表着普遍是“愿意以低于平均成本的价格抛出的人更多”，可以理解为卖盘更主动，偏空主导。\n\n比如 $BTC 1H级别，我们现在正处于VWAP下方，这是卖盘短期强势\n\n但是由于VWAP的斜率是走平的，这意味着HTF里，多空力量是较为均衡的\" / X\n\nVWAP在我这里的作用是判断某一个时间段是由买盘还是卖盘对市场的统治力更强 在某个时间段内，如果价格大部分时间在VWAP上方且偏离较大，代表着普遍是“愿意以高于平均成本的价格买入的人更多”，可以理解为买盘更主动，偏多主导。 价格大部分时间在VWAP下方且偏离较大，代表着普遍是“愿意以低于平均成本的价格抛出的人更多”，可以理解为卖盘更主动，偏空主导。 比如 [$BTC](https://x.com/search?q=$BTC) 1H级别，我们现在正处于VWAP下方，这是卖盘短期强势 但是由于VWAP的斜率是走平的，这意味着HTF里，多空力量是较为均衡的"
+}

@@ -1,0 +1,62 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 28,
+  "lang": "zxx",
+  "possibly_sensitive": false,
+  "created_at": "2026-04-08T14:28:25.000Z",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2041…",
+        "expanded_url": "http://x.com/i/article/2041881274152005632",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/QSeCIC6rPf"
+      }
+    ]
+  },
+  "id_str": "2041885882849095707",
+  "text": "https://t.co/QSeCIC6rPf",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2041885882849095707"
+    ],
+    "editable_until_msecs": "1775662105000",
+    "edits_remaining": "5",
+    "is_edit_eligible": false
+  },
+  "conversation_count": 5,
+  "news_action_type": "conversation",
+  "article": {
+    "cover_media": {
+      "id": "QXBpTWVkaWE6DAAFCgABHFY4V8Aa8AAKAAIaqP8AOBtwBgAA",
+      "media_info": {
+        "__typename": "ApiImage",
+        "original_img_height": 656,
+        "original_img_url": "https://pbs.twimg.com/media/HFY4V8Aa8AAf8nF.jpg",
+        "original_img_width": 1640
+      }
+    },
+    "id": "QXJ0aWNsZUVudGl0eToyMDQxODgxMjc0MTUyMDA1NjMy",
+    "preview_text": "你不是慢了。你只是在冬天。\n如果你去研究那些最终活下来的交易者，发现了一件没有人教你的事……\n市场有周期。人也有。而毁掉大多数散户的，不是他们的策略，是他们拿别人的夏天来审判自己的冬天。\n一则寓言",
+    "rest_id": "2041881274152005632",
+    "title": "Your Own Season"
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

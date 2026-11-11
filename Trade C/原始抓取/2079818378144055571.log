@@ -1,0 +1,64 @@
+[info] Loading https://x.com/TradercBTC/status/2079818378144055571 with generic adapter
+[info] Downloaded 2 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2079818378144055571.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HNz_UG7bEAAXnI0.jpg:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2079818378144055571/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2079818378144055571/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HNz_UG7bEAAXnI0.jpg:large",
+        "localPath": "2079818378144055571/imgs/img-002-HNz_UG7bEAAXnI0-jpg-large.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2079818378144055571/imgs/img-002-HNz_UG7bEAAXnI0-jpg-large.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2079818378144055571/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2079818378144055571",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2079818378144055571",
+    "title": "trader-c on X: \"早上做了一单黄金，但是被打保护了\n\n15m进入强下跌\n\n1h和4h是窄幅上涨\n\n很明显接下来要走一波回调\n\n静静等待市场回调结束，在1h级别进入均衡，15m重新进入上涨动能的时候入场\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-07-22T06:38:37.000Z",
+    "summary": "早上做了一单黄金，但是被打保护了\n\n15m进入强下跌\n\n1h和4h是窄幅上涨\n\n很明显接下来要走一波回调\n\n静静等待市场回调结束，在1h级别进入均衡，15m重新进入上涨动能的时候入场",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HNz_UG7bEAAXnI0.jpg:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:03:29.766Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n早上做了一单黄金，但是被打保护了 15m进入强下跌 1h和4h是窄幅上涨 很明显接下来要走一波回调 静静等待市场回调结束，在1h级别进入均衡，15m重新进入上涨动能的时候入场\n\n[14:38 · 2026年7月22日](https://x.com/TradercBTC/status/2079818378144055571) [5804Views](https://x.com/TradercBTC/status/2079818378144055571)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2079818378144055571"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"早上做了一单黄金，但是被打保护了\n  \n  15m进入强下跌\n  \n  1h和4h是窄幅上涨\n  \n  很明显接下来要走一波回调\n  \n  静静等待市场回调结束，在1h级别进入均衡，15m重新进入上涨动能的时候入场\" / X\nurl: \"https://x.com/TradercBTC/status/2079818378144055571\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2079818378144055571\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2079818378144055571/imgs/img-002-HNz_UG7bEAAXnI0-jpg-large.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-07-22T06:38:37.000Z\"\nsummary: |-\n  早上做了一单黄金，但是被打保护了\n  \n  15m进入强下跌\n  \n  1h和4h是窄幅上涨\n  \n  很明显接下来要走一波回调\n  \n  静静等待市场回调结束，在1h级别进入均衡，15m重新进入上涨动能的时候入场\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:03:29.766Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"早上做了一单黄金，但是被打保护了\n\n15m进入强下跌\n\n1h和4h是窄幅上涨\n\n很明显接下来要走一波回调\n\n静静等待市场回调结束，在1h级别进入均衡，15m重新进入上涨动能的时候入场\" / X\n\n[![@TradercBTC](2079818378144055571/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n早上做了一单黄金，但是被打保护了 15m进入强下跌 1h和4h是窄幅上涨 很明显接下来要走一波回调 静静等待市场回调结束，在1h级别进入均衡，15m重新进入上涨动能的时候入场\n\n[14:38 · 2026年7月22日](https://x.com/TradercBTC/status/2079818378144055571) [5804Views](https://x.com/TradercBTC/status/2079818378144055571)\n\nOnly some accounts can reply."
+}

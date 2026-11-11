@@ -1,0 +1,65 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "login": {
+    "provider": "x",
+    "state": "unknown"
+  },
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/media/HQvXGMKbgAA3g6Q.png:large",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2093003036335759654/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2093003036335759654/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      },
+      {
+        "url": "https://pbs.twimg.com/media/HQvXGMKbgAA3g6Q.png:large",
+        "localPath": "2093003036335759654/imgs/img-002-HQvXGMKbgAA3g6Q-png-large.png",
+        "absolutePath": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2093003036335759654/imgs/img-002-HQvXGMKbgAA3g6Q-png-large.png",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 2,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/交易技术分析/Trade C/原始抓取/2093003036335759654/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2093003036335759654",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2093003036335759654",
+    "title": "trader-c on X: \"静下心来\n\n黄金复盘\" / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-27T15:49:44.000Z",
+    "summary": "静下心来\n\n黄金复盘",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/media/HQvXGMKbgAA3g6Q.png:large",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T00:39:55.160Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "[![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n静下心来 黄金复盘\n\n[23:49 · 2026年8月27日](https://x.com/TradercBTC/status/2093003036335759654) [4544Views](https://x.com/TradercBTC/status/2093003036335759654)\n\n[1](https://x.com/i/status/2093003036335759654)\n\nOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2093003036335759654"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"静下心来\n  \n  黄金复盘\" / X\nurl: \"https://x.com/TradercBTC/status/2093003036335759654\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2093003036335759654\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2093003036335759654/imgs/img-002-HQvXGMKbgAA3g6Q-png-large.png\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-27T15:49:44.000Z\"\nsummary: |-\n  静下心来\n  \n  黄金复盘\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:39:55.160Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"静下心来\n\n黄金复盘\" / X\n\n[![@TradercBTC](2093003036335759654/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\n[trader-c](https://x.com/TradercBTC)\n\n[@TradercBTC](https://x.com/TradercBTC)\n\n静下心来 黄金复盘\n\n[23:49 · 2026年8月27日](https://x.com/TradercBTC/status/2093003036335759654) [4544Views](https://x.com/TradercBTC/status/2093003036335759654)\n\n[1](https://x.com/i/status/2093003036335759654)\n\nOnly some accounts can reply."
+}

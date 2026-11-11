@@ -1,0 +1,182 @@
+{
+  "__typename": "Tweet",
+  "favorite_count": 7,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-02-02T03:46:09.000Z",
+  "display_text_range": [
+    0,
+    119
+  ],
+  "entities": {
+    "urls": [
+      {
+        "display_url": "bilibili.com/video/BV1aeFPz…",
+        "expanded_url": "https://www.bilibili.com/video/BV1aeFPz1Euk/?share_source=copy_web&vd_source=75712bbfa63d92ade9033c8d6debac85",
+        "indices": [
+          96,
+          119
+        ],
+        "url": "https://t.co/w1uvLRsSDG"
+      }
+    ]
+  },
+  "id_str": "2018169040892834251",
+  "text": "市场完美验证了我们在1.25那期视频里分析里大周期，市场处于一个价格震荡，oi持续增加，可能会面临连环清算的分析\n\n【2月2日复盘我们是如何跟随BTC大跌的操作，以及大跌之后如何看待市场？】 https://t.co/w1uvLRsSDG",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2018169040892834251"
+    ],
+    "editable_until_msecs": "1770007569000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 4,
+  "news_action_type": "conversation",
+  "card": {
+    "card_platform": {
+      "platform": {
+        "audience": {
+          "name": "production"
+        },
+        "device": {
+          "name": "iPhone",
+          "version": "13"
+        }
+      }
+    },
+    "name": "summary",
+    "url": "https://t.co/w1uvLRsSDG",
+    "binding_values": {
+      "thumbnail_image": {
+        "image_value": {
+          "alt": "2月2日复盘我们是如何跟随BTC大跌的操作，以及大跌之后如何看待市场？_哔哩哔哩_bilibili",
+          "height": 144,
+          "url": "https://pbs.twimg.com/card_img/2096048799139688448/OJDMXamR?format=jpg&name=144x144_2",
+          "width": 144
+        },
+        "type": "IMAGE"
+      },
+      "description": {
+        "string_value": "2月2日复盘我们是如何跟随BTC大跌的操作，以及大跌之后如何看待市场？, 视频播放量 125、弹幕量 2、点赞数 12、投硬币枚数 10、收藏人数 4、转发人数 1, 视频作者 trader-c, 作者简介 这是一个 半退休trader 喜欢吐槽装逼和妹子 ，相关视频：98胜率，100收益率！两个TradingView热门指标组合，我直接接入知行量化自动开单实测！收益猛如虎，【trader-...",
+        "type": "STRING"
+      },
+      "domain": {
+        "string_value": "www.bilibili.com",
+        "type": "STRING"
+      },
+      "thumbnail_image_large": {
+        "image_value": {
+          "alt": "2月2日复盘我们是如何跟随BTC大跌的操作，以及大跌之后如何看待市场？_哔哩哔哩_bilibili",
+          "height": 420,
+          "url": "https://pbs.twimg.com/card_img/2096048799139688448/OJDMXamR?format=jpg&name=420x420_2",
+          "width": 420
+        },
+        "type": "IMAGE"
+      },
+      "thumbnail_image_original": {
+        "image_value": {
+          "alt": "2月2日复盘我们是如何跟随BTC大跌的操作，以及大跌之后如何看待市场？_哔哩哔哩_bilibili",
+          "height": 630,
+          "url": "https://pbs.twimg.com/card_img/2096048799139688448/OJDMXamR?format=jpg&name=orig",
+          "width": 1120
+        },
+        "type": "IMAGE"
+      },
+      "thumbnail_image_small": {
+        "image_value": {
+          "alt": "2月2日复盘我们是如何跟随BTC大跌的操作，以及大跌之后如何看待市场？_哔哩哔哩_bilibili",
+          "height": 100,
+          "url": "https://pbs.twimg.com/card_img/2096048799139688448/OJDMXamR?format=jpg&name=100x100_2",
+          "width": 100
+        },
+        "type": "IMAGE"
+      },
+      "thumbnail_image_x_large": {
+        "image_value": {
+          "alt": "2月2日复盘我们是如何跟随BTC大跌的操作，以及大跌之后如何看待市场？_哔哩哔哩_bilibili",
+          "height": 630,
+          "url": "https://pbs.twimg.com/card_img/2096048799139688448/OJDMXamR?format=png&name=2048x2048_2_exp",
+          "width": 1120
+        },
+        "type": "IMAGE"
+      },
+      "thumbnail_image_alt_text": {
+        "string_value": "2月2日复盘我们是如何跟随BTC大跌的操作，以及大跌之后如何看待市场？_哔哩哔哩_bilibili",
+        "type": "STRING"
+      },
+      "vanity_url": {
+        "scribe_key": "vanity_url",
+        "string_value": "bilibili.com",
+        "type": "STRING"
+      },
+      "thumbnail_image_color": {
+        "image_color_value": {
+          "palette": [
+            {
+              "percentage": 75.76,
+              "rgb": {
+                "blue": 250,
+                "green": 250,
+                "red": 251
+              }
+            },
+            {
+              "percentage": 13.98,
+              "rgb": {
+                "blue": 34,
+                "green": 33,
+                "red": 36
+              }
+            },
+            {
+              "percentage": 1.44,
+              "rgb": {
+                "blue": 53,
+                "green": 51,
+                "red": 167
+              }
+            },
+            {
+              "percentage": 0.74,
+              "rgb": {
+                "blue": 26,
+                "green": 25,
+                "red": 85
+              }
+            },
+            {
+              "percentage": 0.37,
+              "rgb": {
+                "blue": 250,
+                "green": 219,
+                "red": 218
+              }
+            }
+          ]
+        },
+        "type": "IMAGE_COLOR"
+      },
+      "title": {
+        "string_value": "2月2日复盘我们是如何跟随BTC大跌的操作，以及大跌之后如何看待市场？_哔哩哔哩_bilibili",
+        "type": "STRING"
+      },
+      "card_url": {
+        "scribe_key": "card_url",
+        "string_value": "https://t.co/w1uvLRsSDG",
+        "type": "STRING"
+      }
+    }
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

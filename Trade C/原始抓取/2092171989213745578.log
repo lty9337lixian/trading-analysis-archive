@@ -1,0 +1,58 @@
+[info] Loading https://x.com/TradercBTC/status/2092171989213745578 with generic adapter
+[info] Downloaded 1 images and 0 videos
+[info] Saved json to Trade C/原始抓取/2092171989213745578.json
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "inline"
+    },
+    {
+      "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "kind": "image",
+      "role": "cover"
+    }
+  ],
+  "downloads": {
+    "replacements": [
+      {
+        "url": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+        "localPath": "2092171989213745578/imgs/img-001-E5MklIEP_400x400.jpg",
+        "absolutePath": "/Users/lu/obsidian/lu/Trade C/原始抓取/2092171989213745578/imgs/img-001-E5MklIEP_400x400.jpg",
+        "kind": "image"
+      }
+    ],
+    "downloadedImages": 1,
+    "downloadedVideos": 0,
+    "imageDir": "/Users/lu/obsidian/lu/Trade C/原始抓取/2092171989213745578/imgs",
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2092171989213745578",
+    "canonicalUrl": "https://x.com/TradercBTC/status/2092171989213745578",
+    "title": "trader-c on X: \"当你拿到一张图表，你会发现\n\n在上升趋势中，旗形和楔形大多会产生趋势延续，而当在顶部区域形成双顶和下降结构时，形态的特性就会改变。\n\n在下跌方面，同样的逻辑则反过来运作。\n\n反向旗形和延续形态在维持卖压的同时，在底部区域形成三重底和正面的RSI背离会增加反转的可能性。\n\n我在这里会先看三个方面，而不是形态本身：\n\n1:主趋势朝哪个方向？\n\n2:形态是在趋势延续中形成的，还是在过度拉长的运动末端形成的？\n\n3:RSI是在确认价格，还是在动量方面开始出现背离？\n\n因为同样的旗形在上升趋势中可能是机会，但在错误的语境中就只是噪音。\n\n同样的双底也并非单独的反转原因。… / X",
+    "author": "https://x.com/TradercBTC",
+    "siteName": "X (formerly Twitter)",
+    "publishedAt": "2026-08-25T08:47:27.000Z",
+    "summary": "当你拿到一张图表，你会发现\n\n在上升趋势中，旗形和楔形大多会产生趋势延续，而当在顶部区域形成双顶和下降结构时，形态的特性就会改变。\n\n在下跌方面，同样的逻辑则反过来运作。\n\n反向旗形和延续形态在维持卖压的同时，在底部区域形成三重底和正面的RSI背离会增加反转的可能性。\n\n我在这里会先看三个方面，而不是形态本身：\n\n1:主趋势朝哪个方向？\n\n2:形态是在趋势延续中形成的，还是在过度拉长的运动末端形成的？\n\n3:RSI是在确认价格，还是在动量方面开始出现背离？\n\n因为同样的旗形在上升趋势中可能是机会，但在错误的语境中就只是噪音。\n\n同样的双底也并非单独的反转原因。\n\n在结构变化和动量确认到来之前…",
+    "adapter": "generic",
+    "metadata": {
+      "coverImage": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg",
+      "language": "zh-cn",
+      "capturedAt": "2026-09-06T01:06:22.242Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "- [![@TradercBTC](https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t当你拿到一张图表，你会发现 在上升趋势中，旗形和楔形大多会产生趋势延续，而当在顶部区域形成双顶和下降结构时，形态的特性就会改变。 在下跌方面，同样的逻辑则反过来运作。 反向旗形和延续形态在维持卖压的同时，在底部区域形成三重底和正面的RSI背离会增加反转的可能性。 我在这里会先看三个方面，而不是形态本身： 1:主趋势朝哪个方向？ 2:形态是在趋势延续中形成的，还是在过度拉长的运动末端形成的？ 3:RSI是在确认价格，还是在动量方面开始出现背离？ 因为同样的旗形在上升趋势中可能是机会，但在错误的语境中就只是噪音。 同样的双底也并非单独的反转原因。 在结构变化和动量确认到来之前，你看到的只是两个相似的底部。 仅仅看图表上价格在说什么是不够的。 当你开始将价格结构、形态和动量结合起来阅读时，你就能对市场的下一步行动形成更有意义的场景。 赚钱的不是形态的名称，而是它形成的语境。\n\t[16:47 · 2026年8月25日](https://x.com/TradercBTC/status/2092171989213745578) [2683Views](https://x.com/TradercBTC/status/2092171989213745578)\n\tOnly some accounts can reply."
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2092171989213745578"
+  },
+  "markdown": "---\ntitle: |-\n  trader-c on X: \"当你拿到一张图表，你会发现\n  \n  在上升趋势中，旗形和楔形大多会产生趋势延续，而当在顶部区域形成双顶和下降结构时，形态的特性就会改变。\n  \n  在下跌方面，同样的逻辑则反过来运作。\n  \n  反向旗形和延续形态在维持卖压的同时，在底部区域形成三重底和正面的RSI背离会增加反转的可能性。\n  \n  我在这里会先看三个方面，而不是形态本身：\n  \n  1:主趋势朝哪个方向？\n  \n  2:形态是在趋势延续中形成的，还是在过度拉长的运动末端形成的？\n  \n  3:RSI是在确认价格，还是在动量方面开始出现背离？\n  \n  因为同样的旗形在上升趋势中可能是机会，但在错误的语境中就只是噪音。\n  \n  同样的双底也并非单独的反转原因。… / X\nurl: \"https://x.com/TradercBTC/status/2092171989213745578\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2092171989213745578\"\nauthor: \"https://x.com/TradercBTC\"\ncoverImage: \"2092171989213745578/imgs/img-001-E5MklIEP_400x400.jpg\"\nsiteName: \"X (formerly Twitter)\"\npublishedAt: \"2026-08-25T08:47:27.000Z\"\nsummary: |-\n  当你拿到一张图表，你会发现\n  \n  在上升趋势中，旗形和楔形大多会产生趋势延续，而当在顶部区域形成双顶和下降结构时，形态的特性就会改变。\n  \n  在下跌方面，同样的逻辑则反过来运作。\n  \n  反向旗形和延续形态在维持卖压的同时，在底部区域形成三重底和正面的RSI背离会增加反转的可能性。\n  \n  我在这里会先看三个方面，而不是形态本身：\n  \n  1:主趋势朝哪个方向？\n  \n  2:形态是在趋势延续中形成的，还是在过度拉长的运动末端形成的？\n  \n  3:RSI是在确认价格，还是在动量方面开始出现背离？\n  \n  因为同样的旗形在上升趋势中可能是机会，但在错误的语境中就只是噪音。\n  \n  同样的双底也并非单独的反转原因。\n  \n  在结构变化和动量确认到来之前…\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T01:06:22.242Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"zh-cn\"\n---\n\n# trader-c on X: \"当你拿到一张图表，你会发现\n\n在上升趋势中，旗形和楔形大多会产生趋势延续，而当在顶部区域形成双顶和下降结构时，形态的特性就会改变。\n\n在下跌方面，同样的逻辑则反过来运作。\n\n反向旗形和延续形态在维持卖压的同时，在底部区域形成三重底和正面的RSI背离会增加反转的可能性。\n\n我在这里会先看三个方面，而不是形态本身：\n\n1:主趋势朝哪个方向？\n\n2:形态是在趋势延续中形成的，还是在过度拉长的运动末端形成的？\n\n3:RSI是在确认价格，还是在动量方面开始出现背离？\n\n因为同样的旗形在上升趋势中可能是机会，但在错误的语境中就只是噪音。\n\n同样的双底也并非单独的反转原因。… / X\n\n- [![@TradercBTC](2092171989213745578/imgs/img-001-E5MklIEP_400x400.jpg)](https://x.com/TradercBTC)\n\t[trader-c](https://x.com/TradercBTC)\n\t当你拿到一张图表，你会发现 在上升趋势中，旗形和楔形大多会产生趋势延续，而当在顶部区域形成双顶和下降结构时，形态的特性就会改变。 在下跌方面，同样的逻辑则反过来运作。 反向旗形和延续形态在维持卖压的同时，在底部区域形成三重底和正面的RSI背离会增加反转的可能性。 我在这里会先看三个方面，而不是形态本身： 1:主趋势朝哪个方向？ 2:形态是在趋势延续中形成的，还是在过度拉长的运动末端形成的？ 3:RSI是在确认价格，还是在动量方面开始出现背离？ 因为同样的旗形在上升趋势中可能是机会，但在错误的语境中就只是噪音。 同样的双底也并非单独的反转原因。 在结构变化和动量确认到来之前，你看到的只是两个相似的底部。 仅仅看图表上价格在说什么是不够的。 当你开始将价格结构、形态和动量结合起来阅读时，你就能对市场的下一步行动形成更有意义的场景。 赚钱的不是形态的名称，而是它形成的语境。\n\t[16:47 · 2026年8月25日](https://x.com/TradercBTC/status/2092171989213745578) [2683Views](https://x.com/TradercBTC/status/2092171989213745578)\n\tOnly some accounts can reply."
+}

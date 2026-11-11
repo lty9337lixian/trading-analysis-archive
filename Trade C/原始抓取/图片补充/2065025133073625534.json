@@ -1,0 +1,73 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 13,
+  "lang": "zh",
+  "created_at": "2026-06-11T10:55:32.000Z",
+  "display_text_range": [
+    0,
+    137
+  ],
+  "entities": {},
+  "id_str": "2065025133073625534",
+  "text": "真难。。。。\n\nwoc，复盘看自己做的和失了智一样\n\n我感觉本质还是偶尔盯盘，贪婪和恐惧会占据上风\n\n这是人性\n\n我知道正确的怎么做，但是唯两次机会我都出去放风去了\n\n因为我太追求精准入场了，止损放太近了\n\n一直盯盘容易情绪上头🤔\n\n还是波段舒服，但是日内确实不好做，我日",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2065025133073625534"
+    ],
+    "editable_until_msecs": "1781178932000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "conversation_count": 1,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "conversation_control": {
+      "policy": "Verified"
+    },
+    "favorite_count": 16,
+    "lang": "zh",
+    "reply_count": 1,
+    "retweet_count": 2,
+    "created_at": "2026-06-11T10:37:03.000Z",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "entities": {},
+    "id_str": "2065020481133269027",
+    "text": "边写东西边做了一下午日内黄金\n\n给我做麻了\n\n自信心都做没了\n\n每次都是差点止盈，然后赚钱的保本，不赚钱的直接损\n\n亏死了。。。。\n\n还是干股指吧，我勒个豆",
+    "user": {
+      "id_str": "1921065617479921670",
+      "name": "trader-c",
+      "screen_name": "TradercBTC",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2065020481133269027"
+      ],
+      "editable_until_msecs": "1781177823000",
+      "edits_remaining": "5",
+      "is_edit_eligible": true
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false
+}

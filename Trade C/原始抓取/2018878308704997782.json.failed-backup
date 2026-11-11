@@ -1,0 +1,31 @@
+{
+  "adapter": "generic",
+  "status": "ok",
+  "media": [],
+  "downloads": {
+    "replacements": [],
+    "downloadedImages": 0,
+    "downloadedVideos": 0,
+    "imageDir": null,
+    "videoDir": null
+  },
+  "document": {
+    "url": "https://x.com/TradercBTC/status/2018878308704997782",
+    "title": "X / Error",
+    "adapter": "generic",
+    "metadata": {
+      "language": "en",
+      "capturedAt": "2026-09-06T00:55:54.402Z",
+      "conversionMethod": "defuddle",
+      "kind": "generic/article"
+    },
+    "content": [
+      {
+        "type": "markdown",
+        "markdown": "I scream. You scream. We all scream... for us to fix this page. We’ll stop making jokes and get things up and running soon.\n\nRetry"
+      }
+    ],
+    "requestedUrl": "https://x.com/TradercBTC/status/2018878308704997782"
+  },
+  "markdown": "---\ntitle: \"X / Error\"\nurl: \"https://x.com/TradercBTC/status/2018878308704997782\"\nrequestedUrl: \"https://x.com/TradercBTC/status/2018878308704997782\"\nadapter: \"generic\"\ncapturedAt: \"2026-09-06T00:55:54.402Z\"\nconversionMethod: \"defuddle\"\nkind: \"generic/article\"\nlanguage: \"en\"\n---\n\n# X / Error\n\nI scream. You scream. We all scream... for us to fix this page. We’ll stop making jokes and get things up and running soon.\n\nRetry"
+}

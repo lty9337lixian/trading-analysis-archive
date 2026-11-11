@@ -1,0 +1,223 @@
+{
+  "__typename": "Tweet",
+  "conversation_control": {
+    "policy": "Verified"
+  },
+  "favorite_count": 15,
+  "lang": "zh",
+  "possibly_sensitive": false,
+  "created_at": "2026-08-11T03:30:31.000Z",
+  "display_text_range": [
+    0,
+    91
+  ],
+  "entities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/3F3J4NineI",
+        "expanded_url": "https://x.com/TradercBTC/status/2087018801997218062/photo/1",
+        "indices": [
+          92,
+          115
+        ],
+        "url": "https://t.co/3F3J4NineI"
+      }
+    ]
+  },
+  "id_str": "2087018801997218062",
+  "text": "我认为日线是区间，更高周期可能是下跌结构\n\n但是目前看来在日线级别，在触碰上方阻力之后，下跌的动能没有展现出有效且强力的推动力量\n\n假设这是一段强力的下跌结构，应该出现向下的连续推动 https://t.co/3F3J4NineI",
+  "user": {
+    "id_str": "1921065617479921670",
+    "name": "trader-c",
+    "screen_name": "TradercBTC",
+    "is_blue_verified": true,
+    "profile_image_shape": "Circle",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1925471139691995136/E5MklIEP_normal.jpg"
+  },
+  "edit_control": {
+    "edit_tweet_ids": [
+      "2087018801997218062"
+    ],
+    "editable_until_msecs": "1786422631000",
+    "edits_remaining": "5",
+    "is_edit_eligible": true
+  },
+  "mediaDetails": [
+    {
+      "display_url": "pic.x.com/3F3J4NineI",
+      "expanded_url": "https://x.com/TradercBTC/status/2087018801997218062/photo/1",
+      "ext_media_availability": {
+        "status": "Available"
+      },
+      "indices": [
+        92,
+        115
+      ],
+      "media_url_https": "https://pbs.twimg.com/media/HPaUaSNaUAAqq9M.jpg",
+      "original_info": {
+        "focus_rects": [
+          {
+            "h": 1400,
+            "w": 2500,
+            "x": 116,
+            "y": 0
+          },
+          {
+            "h": 1400,
+            "w": 1400,
+            "x": 935,
+            "y": 0
+          },
+          {
+            "h": 1400,
+            "w": 1228,
+            "x": 1021,
+            "y": 0
+          },
+          {
+            "h": 1400,
+            "w": 700,
+            "x": 1285,
+            "y": 0
+          },
+          {
+            "h": 1400,
+            "w": 2616,
+            "x": 0,
+            "y": 0
+          }
+        ],
+        "height": 1400,
+        "width": 2616
+      },
+      "sizes": {
+        "large": {
+          "h": 1096,
+          "resize": "fit",
+          "w": 2048
+        },
+        "medium": {
+          "h": 642,
+          "resize": "fit",
+          "w": 1200
+        },
+        "small": {
+          "h": 364,
+          "resize": "fit",
+          "w": 680
+        },
+        "thumb": {
+          "h": 150,
+          "resize": "crop",
+          "w": 150
+        }
+      },
+      "type": "photo",
+      "url": "https://t.co/3F3J4NineI"
+    }
+  ],
+  "photos": [
+    {
+      "backgroundColor": {
+        "red": 204,
+        "green": 214,
+        "blue": 221
+      },
+      "cropCandidates": [
+        {
+          "h": 1400,
+          "w": 2500,
+          "x": 116,
+          "y": 0
+        },
+        {
+          "h": 1400,
+          "w": 1400,
+          "x": 935,
+          "y": 0
+        },
+        {
+          "h": 1400,
+          "w": 1228,
+          "x": 1021,
+          "y": 0
+        },
+        {
+          "h": 1400,
+          "w": 700,
+          "x": 1285,
+          "y": 0
+        },
+        {
+          "h": 1400,
+          "w": 2616,
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "expandedUrl": "https://x.com/TradercBTC/status/2087018801997218062/photo/1",
+      "url": "https://pbs.twimg.com/media/HPaUaSNaUAAqq9M.jpg",
+      "width": 2616,
+      "height": 1400
+    }
+  ],
+  "conversation_count": 4,
+  "news_action_type": "conversation",
+  "quoted_tweet": {
+    "conversation_control": {
+      "policy": "Verified"
+    },
+    "favorite_count": 2,
+    "in_reply_to_screen_name": "TradercBTC",
+    "in_reply_to_status_id_str": "2086993920362471684",
+    "in_reply_to_user_id_str": "1921065617479921670",
+    "lang": "zh",
+    "reply_count": 0,
+    "retweet_count": 0,
+    "created_at": "2026-08-11T03:03:17.000Z",
+    "display_text_range": [
+      12,
+      32
+    ],
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "1921065617479921670",
+          "indices": [
+            0,
+            11
+          ],
+          "name": "trader-c",
+          "screen_name": "TradercBTC"
+        }
+      ]
+    },
+    "id_str": "2087011944444404170",
+    "text": "@TradercBTC 日线不是空头结构吗 做多上去是不是有点难",
+    "user": {
+      "id_str": "1802348146196135936",
+      "name": "InTheLoop",
+      "screen_name": "0xnewnlnd",
+      "is_blue_verified": true,
+      "profile_image_shape": "Circle",
+      "verified": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2076487224905076736/HAQW7xbn_normal.jpg"
+    },
+    "edit_control": {
+      "edit_tweet_ids": [
+        "2087011944444404170"
+      ],
+      "editable_until_msecs": "1786420997000",
+      "edits_remaining": "5",
+      "is_edit_eligible": false
+    },
+    "isEdited": false,
+    "isStaleEdit": false
+  },
+  "isEdited": false,
+  "isStaleEdit": false,
+  "note_tweet": {
+    "id": "Tm90ZVR3ZWV0UmVzdWx0czoyMDg3MDE4ODAxOTA5MTUzNzky"
+  }
+}

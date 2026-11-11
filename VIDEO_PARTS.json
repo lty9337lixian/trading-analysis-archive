@@ -1,0 +1,32 @@
+[
+  {
+    "name": "videos.tar.part001",
+    "size": 1073741824,
+    "sha256": "83a0408e6a98dc7224bd6c34127827f0c34d7f87db9fbf56929e432ad59ae205"
+  },
+  {
+    "name": "videos.tar.part002",
+    "size": 1073741824,
+    "sha256": "1305d1c0d47ea7046064c87cf1ed1a9ea52d2c091fe02d822b17b4fea785e1a8"
+  },
+  {
+    "name": "videos.tar.part003",
+    "size": 1073741824,
+    "sha256": "f7d9b68b4e343797eee1dc17843015401bef8ad2b0b16d25a3f8122c0efb6cca"
+  },
+  {
+    "name": "videos.tar.part004",
+    "size": 1073741824,
+    "sha256": "94de00c396dc0b2fb12d63bd8645630a7b941b42c41a9bc427fe9039d61ab6bb"
+  },
+  {
+    "name": "videos.tar.part005",
+    "size": 1073741824,
+    "sha256": "670a96691095809b56fdae0438d4b0c4f58cc7a669af150ef513baa7bacd5f7e"
+  },
+  {
+    "name": "videos.tar.part006",
+    "size": 877506560,
+    "sha256": "50345abddcb1807bb148e16c82ffaffab94bf83cea2b03a622aac7f641480ec1"
+  }
+]
